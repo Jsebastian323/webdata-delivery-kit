@@ -1,0 +1,44 @@
+name: jobs-tracker
+
+# Daily run of case 3. The snapshot is committed back, so the git history of data/jobs/ is the
+# change log of the job boards ("git scraping"). A NOT READY run fails the workflow (GitHub
+# emails the owner) and commits nothing.
+on:
+  schedule:
+    - cron: "17 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jobs-tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install ".[sheets]"
+      - name: Run the tracker
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          SHEET_ID: ${{ vars.JOBS_SHEET_ID }}
+        run: wdk jobs --out data/jobs ${SHEET_ID:+--sheet "$SHEET_ID"}
+      - name: Commit the snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/jobs
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "data(jobs): snapshot $(date -u +%F)"
+            git push
+          fi
