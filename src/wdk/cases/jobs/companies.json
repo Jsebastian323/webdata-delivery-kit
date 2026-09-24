@@ -1,0 +1,10 @@
+[
+  {"company": "Mindrift (Toloka)", "source": "workable", "board": "toloka-ai"},
+  {"company": "Hugging Face", "source": "workable", "board": "huggingface"},
+  {"company": "Scale AI", "source": "greenhouse", "board": "scaleai"},
+  {"company": "Turing", "source": "greenhouse", "board": "turing"},
+  {"company": "Invisible Technologies", "source": "greenhouse", "board": "invisibletech"},
+  {"company": "Labelbox", "source": "greenhouse", "board": "labelbox"},
+  {"company": "Handshake", "source": "greenhouse", "board": "handshake"},
+  {"company": "RWS (TrainAI)", "source": "lever", "board": "rws"}
+]
