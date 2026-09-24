@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# Run outputs. data/jobs/ is the exception: the scheduled tracker commits its snapshot there.
+data/*
+!data/jobs/
+data/jobs/*
+!data/jobs/postings.json
+!data/jobs/families.csv
+!data/jobs/CHANGELOG.md
+!data/jobs/qa_report.md
+
+.env
+*.local.json
+service-account*.json
