@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:51:17+00:00",
+  "generated_at": "2026-09-24T23:17:35+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -4310,33 +4310,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4726274005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4726274005",
-      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726274005",
-      "location": "Colorado Springs, CO",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-08-24",
-      "family_id": "8a8b6f0077b0",
-      "description_sha1": "524004a7c76f4e7f5abf4bb6e06052fec578ca77",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4726264005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -4353,6 +4326,33 @@
       "published": "2026-08-24",
       "family_id": "8a8b6f0077b0",
       "description_sha1": "1373d2f132c3d62e68e3909fd930e48a91363ee9",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4726274005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4726274005",
+      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726274005",
+      "location": "Colorado Springs, CO",
+      "countries": [],
+      "remote": null,
+      "open_to_colombia": null,
+      "employment_type": null,
+      "published": "2026-08-24",
+      "family_id": "8a8b6f0077b0",
+      "description_sha1": "524004a7c76f4e7f5abf4bb6e06052fec578ca77",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -4922,31 +4922,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4644742005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -4974,6 +4949,31 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:scaleai:4673051005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -6489,35 +6489,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4702657005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4702657005",
-      "title": "Safety Coordinator / Lab Lead",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4702657005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-06-05",
-      "family_id": "00f7ba0127a6",
-      "description_sha1": "2912944bfae966c4c21232bc3a655327b1909347",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "3+ years of experience in lab management, safety coordination, or technical operations within a high-velocity robotics, aerospace, automotive, or autonomous vehicle R&D environment."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4717574005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7050,31 +7021,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4721008005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4721008005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-06",
-      "family_id": "956946efd858",
-      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4729620005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7091,6 +7037,31 @@
       "published": "2026-09-03",
       "family_id": "956946efd858",
       "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4721008005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4721008005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-08-06",
+      "family_id": "956946efd858",
+      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7540,22 +7511,22 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4730845005",
+      "key": "greenhouse:scaleai:4730846005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730845005",
+      "posting_id": "4730846005",
       "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
       "countries": [
-        "US"
+        "GB"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-04",
+      "published": "2026-09-14",
       "family_id": "560d46ffe696",
-      "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7590,22 +7561,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730846005",
+      "key": "greenhouse:scaleai:4730845005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730846005",
+      "posting_id": "4730845005",
       "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "location": "San Francisco, CA",
       "countries": [
-        "GB"
+        "US"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-14",
+      "published": "2026-09-04",
       "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
+      "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7642,6 +7613,31 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:scaleai:4730862005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730862005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4730851005",
@@ -7685,31 +7681,6 @@
       "published": "2026-09-04",
       "family_id": "7619d51d4ad0",
       "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4730862005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730862005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9171,6 +9142,33 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4726276005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4726276005",
+      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
+      "location": "Colorado Springs, CO",
+      "countries": [],
+      "remote": null,
+      "open_to_colombia": null,
+      "employment_type": null,
+      "published": "2026-08-24",
+      "family_id": "e58dfd260045",
+      "description_sha1": "631992dd357df68c864a723f066bf9c7b7861cd9",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4726268005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -9187,33 +9185,6 @@
       "published": "2026-08-24",
       "family_id": "e58dfd260045",
       "description_sha1": "12ad99de84683451225ddccc46060a1111ff06b0",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4726276005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4726276005",
-      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
-      "location": "Colorado Springs, CO",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-08-24",
-      "family_id": "e58dfd260045",
-      "description_sha1": "631992dd357df68c864a723f066bf9c7b7861cd9",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9335,35 +9306,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "2+ years of relevant experience."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4702795005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4702795005",
-      "title": "Technical Writer",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4702795005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-06-05",
-      "family_id": "a6758c565c3a",
-      "description_sha1": "5c1cde752074c05f460e1e606d5f3d686bc9049c",
-      "min_years": 2,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "2–4 years of experience in technical writing, ideally in a technology, robotics, hardware, or operations-heavy environment."
       },
       "extracted_by": {
         "min_years": "rules"
