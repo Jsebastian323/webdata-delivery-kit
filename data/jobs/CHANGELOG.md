@@ -2,6 +2,30 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-09-25 · 418 postings · +43 new · -49 closed · ~1 changed
+
+**New**
+
+- Mindrift (Toloka) · Senior Python Data Scraping Engineer (Freelance) · 31 (AE, AM, AR, AT, AU, AZ, BA, BE, ...)
+- Mindrift (Toloka) · Freelance Brand Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- Invisible Technologies · Senior Solutions Architect - Data Labs · 1 (GB, US)
+
+**Closed**
+
+- Mindrift (Toloka) · Senior Python Data Scraping Engineer (Freelance) · 31 (AE, AM, AR, AT, AU, AZ, BA, BE, ...)
+- Mindrift (Toloka) · Freelance Brand Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- Scale AI · Senior Software Engineer, Data Platform · 1 (GB)
+- Scale AI · AI Infrastructure Engineer, Sandbox Platform · 1 (GB)
+- Scale AI · AI Infrastructure Engineer, Serving Platform · 1 (GB)
+- Turing · Staff CorpSec Engineer · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Spanish (Spain) · 1 (ES)
+- RWS (TrainAI) · Search Engine Evaluator - Spanish (Mexico) · 1 (MX)
+- RWS (TrainAI) · Search Engine Evaluator - Hindi (India) · 1 (IN)
+
+**Changed**
+
+- Scale AI · Enterprise Pricing Manager · 1 (US)
+
 ## 2026-09-24 · 424 postings · +0 new · -2 closed · ~0 changed
 
 **Closed**

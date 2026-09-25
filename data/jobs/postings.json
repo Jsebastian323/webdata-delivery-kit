@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:17:35+00:00",
+  "generated_at": "2026-09-25T15:50:44+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -47,12 +47,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:4CF4E9A052",
+      "key": "workable:toloka-ai:5B82FDA296",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "4CF4E9A052",
+      "posting_id": "5B82FDA296",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/4CF4E9A052",
+      "url": "https://apply.workable.com/j/5B82FDA296",
       "location": "United States",
       "countries": [
         "US"
@@ -60,7 +60,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "ed36f6ce9670",
       "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
       "min_years": 2,
@@ -82,24 +82,103 @@
       }
     },
     {
-      "key": "workable:toloka-ai:AAA631D2DA",
+      "key": "workable:toloka-ai:17EAD3B43E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "AAA631D2DA",
+      "posting_id": "17EAD3B43E",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/AAA631D2DA",
-      "location": "Sweden; Denmark; Finland; Norway; Iceland",
+      "url": "https://apply.workable.com/j/17EAD3B43E",
+      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
       "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-25",
+      "family_id": "ed36f6ce9670",
+      "description_sha1": "7cfbf20f20f83cc584f44de57d6e0338d1a15a6a",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:A2FF51145D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A2FF51145D",
+      "title": "Freelance Brand Designer",
+      "url": "https://apply.workable.com/j/A2FF51145D",
+      "location": "Spain; Italy; Portugal; Greece",
+      "countries": [
+        "ES",
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-25",
+      "family_id": "ed36f6ce9670",
+      "description_sha1": "7cfbf20f20f83cc584f44de57d6e0338d1a15a6a",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:93D5EC24D6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "93D5EC24D6",
+      "title": "Freelance Brand Designer",
+      "url": "https://apply.workable.com/j/93D5EC24D6",
+      "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
+      "countries": [
+        "BE",
+        "DE",
         "DK",
         "FI",
-        "IS",
-        "NO",
+        "FR",
         "SE"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "ed36f6ce9670",
       "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
       "min_years": 2,
@@ -121,22 +200,55 @@
       }
     },
     {
-      "key": "workable:toloka-ai:9DD3559994",
+      "key": "workable:toloka-ai:DB4CA5D8CD",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "9DD3559994",
+      "posting_id": "DB4CA5D8CD",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/9DD3559994",
-      "location": "Philippines; Malaysia; Indonesia",
+      "url": "https://apply.workable.com/j/DB4CA5D8CD",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
       "countries": [
-        "ID",
-        "MY",
-        "PH"
+        "GB"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
+      "family_id": "ed36f6ce9670",
+      "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E9F9E5A066",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E9F9E5A066",
+      "title": "Freelance Brand Designer",
+      "url": "https://apply.workable.com/j/E9F9E5A066",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-25",
       "family_id": "ed36f6ce9670",
       "description_sha1": "8e52cf173e71ffd3bff14e22f9effb1e71f1893e",
       "min_years": 2,
@@ -158,52 +270,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:AAEEE47F01",
+      "key": "workable:toloka-ai:40042A66C9",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "AAEEE47F01",
+      "posting_id": "40042A66C9",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/AAEEE47F01",
-      "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
-      "countries": [
-        "IL",
-        "JO",
-        "KW",
-        "QA",
-        "SA",
-        "TR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-18",
-      "family_id": "ed36f6ce9670",
-      "description_sha1": "fbbe2198f66ee59b1e40a7a24b0231a91e3f60d4",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
-        "pay_usd_hour_max": "$45 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:59BB4FF99D",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "59BB4FF99D",
-      "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/59BB4FF99D",
+      "url": "https://apply.workable.com/j/40042A66C9",
       "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
       "countries": [
         "AR",
@@ -216,7 +288,7 @@
       "remote": true,
       "open_to_colombia": true,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "ed36f6ce9670",
       "description_sha1": "9b96c67b79fbe64e476d011dcbb80bdc8ae5c61f",
       "min_years": 2,
@@ -238,20 +310,62 @@
       }
     },
     {
-      "key": "workable:toloka-ai:5D700828D8",
+      "key": "workable:toloka-ai:EE7E1DAA50",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "5D700828D8",
+      "posting_id": "EE7E1DAA50",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/5D700828D8",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
+      "url": "https://apply.workable.com/j/EE7E1DAA50",
+      "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
       "countries": [
-        "IN"
+        "IL",
+        "JO",
+        "KW",
+        "QA",
+        "SA",
+        "TR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
+      "family_id": "ed36f6ce9670",
+      "description_sha1": "fbbe2198f66ee59b1e40a7a24b0231a91e3f60d4",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4FE4CAB352",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4FE4CAB352",
+      "title": "Freelance Brand Designer",
+      "url": "https://apply.workable.com/j/4FE4CAB352",
+      "location": "Philippines; Malaysia; Indonesia",
+      "countries": [
+        "ID",
+        "MY",
+        "PH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-25",
       "family_id": "ed36f6ce9670",
       "description_sha1": "8e52cf173e71ffd3bff14e22f9effb1e71f1893e",
       "min_years": 2,
@@ -273,20 +387,24 @@
       }
     },
     {
-      "key": "workable:toloka-ai:7CB62466F6",
+      "key": "workable:toloka-ai:676A73E7EB",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "7CB62466F6",
+      "posting_id": "676A73E7EB",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/7CB62466F6",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
+      "url": "https://apply.workable.com/j/676A73E7EB",
+      "location": "Sweden; Denmark; Finland; Norway; Iceland",
       "countries": [
-        "GB"
+        "DK",
+        "FI",
+        "IS",
+        "NO",
+        "SE"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "ed36f6ce9670",
       "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
       "min_years": 2,
@@ -308,12 +426,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:26361CEC8D",
+      "key": "workable:toloka-ai:B4B8C7B6D8",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "26361CEC8D",
+      "posting_id": "B4B8C7B6D8",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/26361CEC8D",
+      "url": "https://apply.workable.com/j/B4B8C7B6D8",
       "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
       "countries": [
         "BE",
@@ -326,120 +444,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
-      "family_id": "ed36f6ce9670",
-      "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:59A87B8AEB",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "59A87B8AEB",
-      "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/59A87B8AEB",
-      "location": "Spain; Italy; Portugal; Greece",
-      "countries": [
-        "ES",
-        "GR",
-        "IT",
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-18",
-      "family_id": "ed36f6ce9670",
-      "description_sha1": "7cfbf20f20f83cc584f44de57d6e0338d1a15a6a",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:E028F0CC22",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "E028F0CC22",
-      "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/E028F0CC22",
-      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-18",
-      "family_id": "ed36f6ce9670",
-      "description_sha1": "7cfbf20f20f83cc584f44de57d6e0338d1a15a6a",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:837DF89C28",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "837DF89C28",
-      "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/837DF89C28",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "ed36f6ce9670",
       "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
       "min_years": 2,
@@ -2233,12 +2238,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:EB6C863B87",
+      "key": "workable:toloka-ai:C6271DC8A1",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "EB6C863B87",
+      "posting_id": "C6271DC8A1",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/EB6C863B87",
+      "url": "https://apply.workable.com/j/C6271DC8A1",
       "location": "Italy; Rome, Italy; Milan, Italy; Naples, Italy; Turin, Italy; Palermo, Italy",
       "countries": [
         "IT"
@@ -2246,7 +2251,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -2268,12 +2273,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:B89CB18288",
+      "key": "workable:toloka-ai:643FBF5C0C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B89CB18288",
+      "posting_id": "643FBF5C0C",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/B89CB18288",
+      "url": "https://apply.workable.com/j/643FBF5C0C",
       "location": "Portugal; Lisbon, Portugal; Porto, Portugal; Braga, Portugal; Coimbra, Portugal",
       "countries": [
         "PT"
@@ -2281,7 +2286,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -2303,12 +2308,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:AEA75DC87F",
+      "key": "workable:toloka-ai:062585A2F1",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "AEA75DC87F",
+      "posting_id": "062585A2F1",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/AEA75DC87F",
+      "url": "https://apply.workable.com/j/062585A2F1",
       "location": "Greece; Athens, Greece; Thessaloniki, Greece; Patras, Greece",
       "countries": [
         "GR"
@@ -2316,7 +2321,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -2338,12 +2343,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:F46E99B603",
+      "key": "workable:toloka-ai:F9C0F719B9",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F46E99B603",
+      "posting_id": "F9C0F719B9",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/F46E99B603",
+      "url": "https://apply.workable.com/j/F9C0F719B9",
       "location": "Georgia; Armenia; Azerbaijan; Kazakhstan; Uzbekistan",
       "countries": [
         "AM",
@@ -2355,7 +2360,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
       "min_years": 5,
@@ -2377,12 +2382,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:640E804B8F",
+      "key": "workable:toloka-ai:04F707481B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "640E804B8F",
+      "posting_id": "04F707481B",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/640E804B8F",
+      "url": "https://apply.workable.com/j/04F707481B",
       "location": "Buenos Aires, Argentina; Córdoba, Argentina; Rosario, Argentina; Mendoza, Argentina; La Plata, Argentina; Mar del Plata, Argentina",
       "countries": [
         "AR"
@@ -2390,7 +2395,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
@@ -2412,12 +2417,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:88280FDF08",
+      "key": "workable:toloka-ai:5BB46DC172",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "88280FDF08",
+      "posting_id": "5BB46DC172",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/88280FDF08",
+      "url": "https://apply.workable.com/j/5BB46DC172",
       "location": "Bucharest, Romania; Cluj-Napoca, Romania; Timișoara, Romania; Iași, Romania; Brașov, Romania; Sibiu, Romania",
       "countries": [
         "RO"
@@ -2425,7 +2430,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -2447,12 +2452,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:FC8274CE2C",
+      "key": "workable:toloka-ai:3D38B754BE",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "FC8274CE2C",
+      "posting_id": "3D38B754BE",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/FC8274CE2C",
+      "url": "https://apply.workable.com/j/3D38B754BE",
       "location": "Warsaw, Poland; Kraków, Poland; Wrocław, Poland; Gdańsk, Poland; Poznań, Poland; Katowice, Poland",
       "countries": [
         "PL"
@@ -2460,7 +2465,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -2482,12 +2487,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:8B016FAE77",
+      "key": "workable:toloka-ai:2ED0550336",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "8B016FAE77",
+      "posting_id": "2ED0550336",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/8B016FAE77",
+      "url": "https://apply.workable.com/j/2ED0550336",
       "location": "São Paulo, Brazil; Rio de Janeiro, Brazil; Belo Horizonte, Brazil; Curitiba, Brazil; Porto Alegre, Brazil",
       "countries": [
         "BR"
@@ -2495,7 +2500,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
@@ -2517,12 +2522,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:96D0B55EEF",
+      "key": "workable:toloka-ai:BB92CE6D98",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "96D0B55EEF",
+      "posting_id": "BB92CE6D98",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/96D0B55EEF",
+      "url": "https://apply.workable.com/j/BB92CE6D98",
       "location": "Mexico City, Mexico; Guadalajara, Mexico; Monterrey, Mexico; Santiago de Querétaro, Mexico; Puebla, Mexico; Tijuana, Mexico",
       "countries": [
         "MX"
@@ -2530,7 +2535,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "6fde52a6abcb8bd3aac598b05b27ba0b01e72eb2",
       "min_years": 5,
@@ -2552,12 +2557,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:334F00539D",
+      "key": "workable:toloka-ai:81AACEC152",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "334F00539D",
+      "posting_id": "81AACEC152",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/334F00539D",
+      "url": "https://apply.workable.com/j/81AACEC152",
       "location": "Pune, India; Kolkata, India; Ahmedabad, India; Jaipur, India; Noida, India; Gurugram, India",
       "countries": [
         "IN"
@@ -2565,7 +2570,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
       "min_years": 5,
@@ -2587,12 +2592,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:A4E29B2864",
+      "key": "workable:toloka-ai:8F76593FA1",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "A4E29B2864",
+      "posting_id": "8F76593FA1",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/A4E29B2864",
+      "url": "https://apply.workable.com/j/8F76593FA1",
       "location": "Japan; South Korea; New Zealand; Singapore",
       "countries": [
         "JP",
@@ -2603,7 +2608,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -2625,12 +2630,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:A22D741557",
+      "key": "workable:toloka-ai:08A5B7B728",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "A22D741557",
+      "posting_id": "08A5B7B728",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/A22D741557",
+      "url": "https://apply.workable.com/j/08A5B7B728",
       "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
       "countries": [
         "AR",
@@ -2643,7 +2648,7 @@
       "remote": true,
       "open_to_colombia": true,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
@@ -2665,12 +2670,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:85CC1BDA74",
+      "key": "workable:toloka-ai:7B8ED72AE2",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "85CC1BDA74",
+      "posting_id": "7B8ED72AE2",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/85CC1BDA74",
+      "url": "https://apply.workable.com/j/7B8ED72AE2",
       "location": "Egypt; Morocco; Algeria; Tunisia",
       "countries": [
         "DZ",
@@ -2681,7 +2686,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
@@ -2703,12 +2708,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:855A7E56B3",
+      "key": "workable:toloka-ai:2627CB230A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "855A7E56B3",
+      "posting_id": "2627CB230A",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/855A7E56B3",
+      "url": "https://apply.workable.com/j/2627CB230A",
       "location": "Philippines; Malaysia; Indonesia; South Africa",
       "countries": [
         "ID",
@@ -2719,7 +2724,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
       "min_years": 5,
@@ -2741,12 +2746,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:C83A5D637B",
+      "key": "workable:toloka-ai:3A92189122",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C83A5D637B",
+      "posting_id": "3A92189122",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/C83A5D637B",
+      "url": "https://apply.workable.com/j/3A92189122",
       "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
       "countries": [
         "IN"
@@ -2754,7 +2759,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
       "min_years": 5,
@@ -2776,12 +2781,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:D8F93199F2",
+      "key": "workable:toloka-ai:DFFAAB9CF3",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "D8F93199F2",
+      "posting_id": "DFFAAB9CF3",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/D8F93199F2",
+      "url": "https://apply.workable.com/j/DFFAAB9CF3",
       "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
       "countries": [
         "AM",
@@ -2793,7 +2798,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
@@ -2815,12 +2820,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:5525BBC707",
+      "key": "workable:toloka-ai:9A58902262",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "5525BBC707",
+      "posting_id": "9A58902262",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/5525BBC707",
+      "url": "https://apply.workable.com/j/9A58902262",
       "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
       "countries": [
         "AE",
@@ -2833,7 +2838,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "355d615dfda524bf11384e1e953b9d873cb58ddf",
       "min_years": 5,
@@ -2855,12 +2860,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:FF16BD2D10",
+      "key": "workable:toloka-ai:85E3687303",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "FF16BD2D10",
+      "posting_id": "85E3687303",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/FF16BD2D10",
+      "url": "https://apply.workable.com/j/85E3687303",
       "location": "Serbia; Cyprus; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
       "countries": [
         "BA",
@@ -2873,7 +2878,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -2895,12 +2900,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:686587BD55",
+      "key": "workable:toloka-ai:F257F9D9B4",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "686587BD55",
+      "posting_id": "F257F9D9B4",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/686587BD55",
+      "url": "https://apply.workable.com/j/F257F9D9B4",
       "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
       "countries": [
         "BG",
@@ -2913,7 +2918,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -2935,12 +2940,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:5497B87303",
+      "key": "workable:toloka-ai:3F85D6EE1A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "5497B87303",
+      "posting_id": "3F85D6EE1A",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/5497B87303",
+      "url": "https://apply.workable.com/j/3F85D6EE1A",
       "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
       "countries": [
         "AT",
@@ -2953,7 +2958,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -2975,12 +2980,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:9283373908",
+      "key": "workable:toloka-ai:3257951582",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "9283373908",
+      "posting_id": "3257951582",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/9283373908",
+      "url": "https://apply.workable.com/j/3257951582",
       "location": "Australia",
       "countries": [
         "AU"
@@ -2988,7 +2993,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -3010,12 +3015,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:A407791820",
+      "key": "workable:toloka-ai:DD9F1F96A5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "A407791820",
+      "posting_id": "DD9F1F96A5",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/A407791820",
+      "url": "https://apply.workable.com/j/DD9F1F96A5",
       "location": "United States",
       "countries": [
         "US"
@@ -3023,7 +3028,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -3045,12 +3050,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:602BA89B1B",
+      "key": "workable:toloka-ai:6F92214112",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "602BA89B1B",
+      "posting_id": "6F92214112",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/602BA89B1B",
+      "url": "https://apply.workable.com/j/6F92214112",
       "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
       "countries": [
         "CR",
@@ -3061,7 +3066,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
@@ -3083,12 +3088,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:BC7B53A002",
+      "key": "workable:toloka-ai:CB732E0ADF",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "BC7B53A002",
+      "posting_id": "CB732E0ADF",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/BC7B53A002",
+      "url": "https://apply.workable.com/j/CB732E0ADF",
       "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
       "countries": [
         "ES"
@@ -3096,7 +3101,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -3118,12 +3123,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:7302DA83C1",
+      "key": "workable:toloka-ai:DE0B149504",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "7302DA83C1",
+      "posting_id": "DE0B149504",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/7302DA83C1",
+      "url": "https://apply.workable.com/j/DE0B149504",
       "location": "France; Paris, France; Lyon, France",
       "countries": [
         "FR"
@@ -3131,7 +3136,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -3153,12 +3158,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:C9D6414ACB",
+      "key": "workable:toloka-ai:DB23156C06",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C9D6414ACB",
+      "posting_id": "DB23156C06",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/C9D6414ACB",
+      "url": "https://apply.workable.com/j/DB23156C06",
       "location": "Canada",
       "countries": [
         "CA"
@@ -3166,7 +3171,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -3188,12 +3193,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:53BDEA9E96",
+      "key": "workable:toloka-ai:843171D609",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "53BDEA9E96",
+      "posting_id": "843171D609",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/53BDEA9E96",
+      "url": "https://apply.workable.com/j/843171D609",
       "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
       "countries": [
         "GB"
@@ -3201,7 +3206,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -3223,12 +3228,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:0B505D79BE",
+      "key": "workable:toloka-ai:9E677DB1B6",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "0B505D79BE",
+      "posting_id": "9E677DB1B6",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/0B505D79BE",
+      "url": "https://apply.workable.com/j/9E677DB1B6",
       "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
       "countries": [
         "US"
@@ -3236,7 +3241,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -3258,12 +3263,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:D7EAFF5586",
+      "key": "workable:toloka-ai:89109E2ED4",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "D7EAFF5586",
+      "posting_id": "89109E2ED4",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/D7EAFF5586",
+      "url": "https://apply.workable.com/j/89109E2ED4",
       "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
       "countries": [
         "US"
@@ -3271,7 +3276,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -3293,12 +3298,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:4F52BAD7DD",
+      "key": "workable:toloka-ai:8107023F9D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "4F52BAD7DD",
+      "posting_id": "8107023F9D",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/4F52BAD7DD",
+      "url": "https://apply.workable.com/j/8107023F9D",
       "location": "United States",
       "countries": [
         "US"
@@ -3306,7 +3311,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-18",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -3328,12 +3333,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:7348FD9FA6",
+      "key": "workable:toloka-ai:248BC61803",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "7348FD9FA6",
+      "posting_id": "248BC61803",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/7348FD9FA6",
+      "url": "https://apply.workable.com/j/248BC61803",
       "location": "United States",
       "countries": [
         "US"
@@ -3341,7 +3346,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-25",
       "family_id": "20f1da2b094e",
       "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
@@ -3666,64 +3671,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "Senior manager or principal equivalent experience at a Tier 1 firm (McKinsey, Bain, BCG ideally); 7+ years of work experience."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4717105005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4717105005",
-      "title": "AI Infrastructure Engineer, Sandbox Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717105005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-23",
-      "family_id": "91db16b076b6",
-      "description_sha1": "66f5afa8118b681d36246a4330b7879b49f5a2df",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building high-performance systems software, with meaningful time spent maintaining libraries, SDKs, or developer-facing APIs"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4717977005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4717977005",
-      "title": "AI Infrastructure Engineer, Serving Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717977005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-24",
-      "family_id": "69378d4d5d30",
-      "description_sha1": "9812c11f9afd07866edc3adf9d4fd76e4d24d81d",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building large-scale, high-performance backend systems."
       },
       "extracted_by": {
         "min_years": "rules"
@@ -4725,7 +4672,7 @@
       "employment_type": null,
       "published": "2026-08-19",
       "family_id": "24412004029a",
-      "description_sha1": "aa4a387d0af76841a846270e54fa80f0f90d0ab6",
+      "description_sha1": "bcfde743a097eb719a326f570f3fc7b2ac4a335f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6092,6 +6039,35 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6109,35 +6085,6 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6851,35 +6798,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4673310005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673310005",
-      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-24",
-      "family_id": "b57fc5af0370",
-      "description_sha1": "a48ee25e5084967b63bf4164f0644c82bfb86c26",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of post-graduation, full-stack engineering experience with demonstrated proficiency in React (required), TypeScript, Next.js, Python, Node.js, PostgreSQL or MongoDB plus hands-on experience with Docker, Kubernetes, and Azure/AWS/GCP."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4676606005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6896,6 +6814,35 @@
       "published": "2026-03-24",
       "family_id": "b57fc5af0370",
       "description_sha1": "983ad66cdc5e668387fe73c0196a21848be605e4",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of post-graduation, full-stack engineering experience with demonstrated proficiency in React (required), TypeScript, Next.js, Python, Node.js, PostgreSQL or MongoDB plus hands-on experience with Docker, Kubernetes, and Azure/AWS/GCP."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4673310005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673310005",
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-24",
+      "family_id": "b57fc5af0370",
+      "description_sha1": "a48ee25e5084967b63bf4164f0644c82bfb86c26",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7123,35 +7070,6 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4717101005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4717101005",
-      "title": "Senior Software Engineer, Data Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717101005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-22",
-      "family_id": "30efee0674d4",
-      "description_sha1": "4f633038fd1ebe2814f89c7c433b8240a43e642f",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of full-time engineering experience, post-graduation with specialties in back-end systems, specifically related to building large-scale data storage, streaming, and warehousing systems."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
     },
     {
       "key": "greenhouse:scaleai:4711898005",
@@ -7511,31 +7429,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4730846005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730846005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730834005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7586,6 +7479,31 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4730846005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730846005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4715325005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7613,31 +7531,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4730862005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730862005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4730851005",
@@ -7681,6 +7574,31 @@
       "published": "2026-09-04",
       "family_id": "7619d51d4ad0",
       "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730862005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730862005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8069,31 +7987,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4732430005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4732430005",
-      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-10",
-      "family_id": "56ad11a5ce2b",
-      "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4676610005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8110,6 +8003,31 @@
       "published": "2026-03-24",
       "family_id": "56ad11a5ce2b",
       "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4732430005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4732430005",
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-10",
+      "family_id": "56ad11a5ce2b",
+      "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9142,33 +9060,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4726276005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4726276005",
-      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
-      "location": "Colorado Springs, CO",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-08-24",
-      "family_id": "e58dfd260045",
-      "description_sha1": "631992dd357df68c864a723f066bf9c7b7861cd9",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4726268005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -9185,6 +9076,33 @@
       "published": "2026-08-24",
       "family_id": "e58dfd260045",
       "description_sha1": "12ad99de84683451225ddccc46060a1111ff06b0",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4726276005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4726276005",
+      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
+      "location": "Colorado Springs, CO",
+      "countries": [],
+      "remote": null,
+      "open_to_colombia": null,
+      "employment_type": null,
+      "published": "2026-08-24",
+      "family_id": "e58dfd260045",
+      "description_sha1": "631992dd357df68c864a723f066bf9c7b7861cd9",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -10046,35 +9964,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:6194761004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6194761004",
-      "title": "Staff CorpSec Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6194761004",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-22",
-      "family_id": "b6dc47824b7d",
-      "description_sha1": "dc981e5b4ffc3dbdc3a5f0a6ed6dddbfde8037d7",
-      "min_years": 8,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Significant experience (typically 8+ years) in security engineering, with real depth in corporate/enterprise security."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:turing:5703799004",
       "source": "greenhouse",
       "company": "Turing",
@@ -10672,6 +10561,32 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:invisibletech:4987597101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "4987597101",
+      "title": "Senior Solutions Architect - Data Labs",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4987597101",
+      "location": "London - Hybrid; New York - Hybrid; San Francisco Bay Area - Hybrid",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-25",
+      "family_id": "c13a74ebff70",
+      "description_sha1": "04b1910fe7fab3efe4f725063b1a86ca9725a5ba",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:invisibletech:4979721101",
@@ -12169,35 +12084,6 @@
       }
     },
     {
-      "key": "lever:rws:97e4c619-02a5-4ccd-a965-8d4f4bfa5437",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "97e4c619-02a5-4ccd-a965-8d4f4bfa5437",
-      "title": "Search Engine Evaluator - Hindi (India)",
-      "url": "https://jobs.lever.co/rws/97e4c619-02a5-4ccd-a965-8d4f4bfa5437",
-      "location": "New Delhi",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2024-10-14",
-      "family_id": "b73fde7869f9",
-      "description_sha1": "5b02c6488ed1d357b714ad12cd21f79d54730dbc",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "5",
-      "evidence": {
-        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
       "key": "lever:rws:e960893d-081d-410e-9888-392e06924c26",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -12245,64 +12131,6 @@
       "published": "2024-10-14",
       "family_id": "438a03a2d074",
       "description_sha1": "581ceab22de06b8e5f85327b8e65b5b2639f613b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "5",
-      "evidence": {
-        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:18333c4d-fbd7-402e-9fe5-8a7ad1015f4f",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "18333c4d-fbd7-402e-9fe5-8a7ad1015f4f",
-      "title": "Search Engine Evaluator - Spanish (Mexico)",
-      "url": "https://jobs.lever.co/rws/18333c4d-fbd7-402e-9fe5-8a7ad1015f4f",
-      "location": "Mexico City",
-      "countries": [
-        "MX"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2024-10-14",
-      "family_id": "3d90e6aad75e",
-      "description_sha1": "cdb24dbcb2e17e77fe657c98765532b2d86aa0bf",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "5",
-      "evidence": {
-        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:05913cea-a24e-4994-a571-0b242216d767",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "05913cea-a24e-4994-a571-0b242216d767",
-      "title": "Search Engine Evaluator - Spanish (Spain)",
-      "url": "https://jobs.lever.co/rws/05913cea-a24e-4994-a571-0b242216d767",
-      "location": "Madrid",
-      "countries": [
-        "ES"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2024-10-14",
-      "family_id": "d035da96131b",
-      "description_sha1": "b537c622b049716b5e9244b846407134e8a434ff",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
