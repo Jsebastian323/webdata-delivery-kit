@@ -1,6 +1,6 @@
 # QA report: remote AI-data jobs tracker
 
-**READY** · 415 rows delivered (415 collected) · generated 2026-09-26T14:59:17+00:00
+**READY** · 415 rows delivered (415 collected) · generated 2026-09-27T15:40:53+00:00
 
 | Check | Result | Detail |
 |---|---|---|
@@ -40,7 +40,7 @@
 
 ## Fetch
 
-8 requests · 0 retries · 0 failures · status {200: 8} · 1.6 s · 4.9 req/s
+8 requests · 0 retries · 0 failures · status {200: 8} · 1.9 s · 4.3 req/s
 
 ## Notes
 
@@ -49,4 +49,4 @@
 - open to Colombia: yes 10, unclear 11, no 394
 - rules found (per distinct description): min_years 166, english_level 46, pay_usd_hour_max 28, pay_usd_year_max 24, hours_per_week 64
 - LLM: off (no OPENROUTER_API_KEY or --no-llm)
-- since last snapshot: +0 new, -3 closed, ~11 changed
+- since last snapshot: +0 new, -0 closed, ~0 changed

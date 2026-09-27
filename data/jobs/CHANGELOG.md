@@ -2,6 +2,8 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-09-27 · 415 postings · +0 new · -0 closed · ~0 changed
+
 ## 2026-09-26 · 415 postings · +0 new · -3 closed · ~11 changed
 
 **Closed**
