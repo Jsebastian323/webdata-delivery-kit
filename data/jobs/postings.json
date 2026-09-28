@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:40:53+00:00",
+  "generated_at": "2026-09-28T18:37:56+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -466,20 +466,284 @@
       }
     },
     {
-      "key": "workable:toloka-ai:D96A030343",
+      "key": "workable:toloka-ai:85431ECB6A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "D96A030343",
+      "posting_id": "85431ECB6A",
       "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/D96A030343",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
+      "url": "https://apply.workable.com/j/85431ECB6A",
+      "location": "United States",
       "countries": [
-        "IN"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2515D14961",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2515D14961",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/2515D14961",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:CC43B3E1C4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "CC43B3E1C4",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/CC43B3E1C4",
+      "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
+      "countries": [
+        "BE",
+        "DE",
+        "DK",
+        "FI",
+        "FR",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:ECA1F21DAD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "ECA1F21DAD",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/ECA1F21DAD",
+      "location": "Spain; Italy; Portugal; Greece",
+      "countries": [
+        "ES",
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "ef42a4b20bfe2b712f5f6bb99111d204f45c9a3e",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3AA4F53D4B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3AA4F53D4B",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/3AA4F53D4B",
+      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "ef42a4b20bfe2b712f5f6bb99111d204f45c9a3e",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C50B9F7D3B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C50B9F7D3B",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/C50B9F7D3B",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E845D8BD6F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E845D8BD6F",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/E845D8BD6F",
+      "location": "Sweden; Denmark; Finland; Norway; Iceland",
+      "countries": [
+        "DK",
+        "FI",
+        "IS",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7F297A0787",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7F297A0787",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/7F297A0787",
+      "location": "Philippines; Malaysia; Indonesia",
+      "countries": [
+        "ID",
+        "MY",
+        "PH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
       "family_id": "1c82bcabd520",
       "description_sha1": "2bd4140d7efa1c2932a5035702f4a6dc429daefc",
       "min_years": 1,
@@ -501,52 +765,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:D84E4B8D3D",
+      "key": "workable:toloka-ai:B89044CE7C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "D84E4B8D3D",
+      "posting_id": "B89044CE7C",
       "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/D84E4B8D3D",
-      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
-      "countries": [
-        "AR",
-        "BR",
-        "CL",
-        "CO",
-        "MX",
-        "PE"
-      ],
-      "remote": true,
-      "open_to_colombia": true,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "a9aeca80f405ae0e88710703397031728a6a01db",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 30.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$30 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:F2065F2BFC",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "F2065F2BFC",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/F2065F2BFC",
+      "url": "https://apply.workable.com/j/B89044CE7C",
       "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
       "countries": [
         "IL",
@@ -559,7 +783,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "1c82bcabd520",
       "description_sha1": "0c56e9e79b7d94efda4bd72e4e9e40880f4d4740",
       "min_years": 1,
@@ -581,22 +805,60 @@
       }
     },
     {
-      "key": "workable:toloka-ai:71D3D43982",
+      "key": "workable:toloka-ai:6B55ADB4A5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "71D3D43982",
+      "posting_id": "6B55ADB4A5",
       "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/71D3D43982",
-      "location": "Philippines; Malaysia; Indonesia",
+      "url": "https://apply.workable.com/j/6B55ADB4A5",
+      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
       "countries": [
-        "ID",
-        "MY",
-        "PH"
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "a9aeca80f405ae0e88710703397031728a6a01db",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 30.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$30 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B0AB888F36",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B0AB888F36",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/B0AB888F36",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
+      "countries": [
+        "IN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "1c82bcabd520",
       "description_sha1": "2bd4140d7efa1c2932a5035702f4a6dc429daefc",
       "min_years": 1,
@@ -618,510 +880,20 @@
       }
     },
     {
-      "key": "workable:toloka-ai:F0B8D727F0",
+      "key": "workable:toloka-ai:BE16746C50",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F0B8D727F0",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/F0B8D727F0",
-      "location": "Sweden; Denmark; Finland; Norway; Iceland",
-      "countries": [
-        "DK",
-        "FI",
-        "IS",
-        "NO",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:C20F1576A8",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "C20F1576A8",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/C20F1576A8",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:44FA878CDB",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "44FA878CDB",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/44FA878CDB",
-      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "ef42a4b20bfe2b712f5f6bb99111d204f45c9a3e",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:870832A6D6",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "870832A6D6",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/870832A6D6",
-      "location": "Spain; Italy; Portugal; Greece",
-      "countries": [
-        "ES",
-        "GR",
-        "IT",
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "ef42a4b20bfe2b712f5f6bb99111d204f45c9a3e",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:FEFE725828",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "FEFE725828",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/FEFE725828",
-      "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
-      "countries": [
-        "BE",
-        "DE",
-        "DK",
-        "FI",
-        "FR",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:D03E94380B",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "D03E94380B",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/D03E94380B",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
-      "countries": [
-        "GB"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:8C9AC4D1F2",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "8C9AC4D1F2",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/8C9AC4D1F2",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:B206EC2CA2",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "B206EC2CA2",
+      "posting_id": "BE16746C50",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/B206EC2CA2",
-      "location": "United States; Australia; Israel; United Arab Emirates",
+      "url": "https://apply.workable.com/j/BE16746C50",
+      "location": "Colombia; Bogotá, Colombia; Medellín, Colombia; Barranquilla, Colombia; Cartagena, Colombia",
       "countries": [
-        "AE",
-        "AU",
-        "IL",
-        "US"
+        "CO"
       ],
       "remote": true,
-      "open_to_colombia": false,
+      "open_to_colombia": true,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:99C7E34D57",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "99C7E34D57",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/99C7E34D57",
-      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:40FFC22B53",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "40FFC22B53",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/40FFC22B53",
-      "location": "Italy; Portugal; Greece",
-      "countries": [
-        "GR",
-        "IT",
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:198E094B13",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "198E094B13",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/198E094B13",
-      "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
-      "countries": [
-        "BE",
-        "DE",
-        "DK",
-        "FI",
-        "FR",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:D5BE36966B",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "D5BE36966B",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/D5BE36966B",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
-      "countries": [
-        "GB"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3BFF21898E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3BFF21898E",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/3BFF21898E",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 34.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$34 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:26F3D584F5",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "26F3D584F5",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/26F3D584F5",
-      "location": "Argentina; Chile; Mexico; Peru",
-      "countries": [
-        "AR",
-        "CL",
-        "MX",
-        "PE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
       "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
       "min_years": 2,
@@ -1143,37 +915,32 @@
       }
     },
     {
-      "key": "workable:toloka-ai:2B7CB6294C",
+      "key": "workable:toloka-ai:F81C37CDFA",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2B7CB6294C",
+      "posting_id": "F81C37CDFA",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/2B7CB6294C",
-      "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
+      "url": "https://apply.workable.com/j/F81C37CDFA",
+      "location": "Brazil; São Paulo, Brazil; Rio de Janeiro, Brazil; Belo Horizonte, Brazil; Florianópolis, Brazil",
       "countries": [
-        "IL",
-        "JO",
-        "KW",
-        "QA",
-        "SA",
-        "TR"
+        "BR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
-      "description_sha1": "afa97bbe688936a999e423d3ce2676cd6d0cb5aa",
+      "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
       "min_years": 2,
       "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
+      "pay_usd_hour_max": 30.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$45 per hour equivalent"
+        "pay_usd_hour_max": "$30 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -1183,23 +950,55 @@
       }
     },
     {
-      "key": "workable:toloka-ai:FD1CCB8A04",
+      "key": "workable:toloka-ai:741E375094",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "FD1CCB8A04",
+      "posting_id": "741E375094",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/FD1CCB8A04",
-      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "url": "https://apply.workable.com/j/741E375094",
+      "location": "Cape Town, South Africa; Johannesburg, South Africa; Durban, South Africa; Pretoria, South Africa",
       "countries": [
-        "ID",
-        "MY",
-        "PH",
         "ZA"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 30.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$30 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5BEF96EE0A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5BEF96EE0A",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/5BEF96EE0A",
+      "location": "Philippines",
+      "countries": [
+        "PH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
       "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
       "min_years": 2,
@@ -1221,131 +1020,20 @@
       }
     },
     {
-      "key": "workable:toloka-ai:244F5235CB",
+      "key": "workable:toloka-ai:F4A71086EB",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "244F5235CB",
+      "posting_id": "F4A71086EB",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/244F5235CB",
-      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "url": "https://apply.workable.com/j/F4A71086EB",
+      "location": "Warsaw, Poland; Kraków, Poland; Wrocław, Poland; Poznań, Poland; Gdańsk, Poland; Łódź, Poland",
       "countries": [
-        "US"
+        "PL"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:93E1DACD48",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "93E1DACD48",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/93E1DACD48",
-      "location": "Sweden; Denmark; Finland; Norway; Austria",
-      "countries": [
-        "AT",
-        "DK",
-        "FI",
-        "NO",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:A4E1496000",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "A4E1496000",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/A4E1496000",
-      "location": "Iceland; Belgium; Ireland",
-      "countries": [
-        "BE",
-        "IE",
-        "IS"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:139FD2456B",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "139FD2456B",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/139FD2456B",
-      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
-      "countries": [
-        "ES"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
       "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
       "min_years": 2,
@@ -1367,32 +1055,32 @@
       }
     },
     {
-      "key": "workable:toloka-ai:7CA2DDF315",
+      "key": "workable:toloka-ai:894EFD6A2E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "7CA2DDF315",
+      "posting_id": "894EFD6A2E",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/7CA2DDF315",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/894EFD6A2E",
+      "location": "Ahmedabad, India; Chennai, India; Pune, India; Jaipur, India; Surat, India; Lucknow, India",
       "countries": [
-        "US"
+        "IN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
       "min_years": 2,
       "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
+      "pay_usd_hour_max": 34.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
+        "pay_usd_hour_max": "$34 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -1402,96 +1090,22 @@
       }
     },
     {
-      "key": "workable:toloka-ai:CB85CF53C2",
+      "key": "workable:toloka-ai:F309B11195",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "CB85CF53C2",
+      "posting_id": "F309B11195",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/CB85CF53C2",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/F309B11195",
+      "location": "Bahrain; Oman; Lebanon",
       "countries": [
-        "US"
+        "BH",
+        "LB",
+        "OM"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:33DBBFDB26",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "33DBBFDB26",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/33DBBFDB26",
-      "location": "Japan; South Korea; New Zealand; Singapore",
-      "countries": [
-        "JP",
-        "KR",
-        "NZ",
-        "SG"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "afa97bbe688936a999e423d3ce2676cd6d0cb5aa",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$45 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:708E8D726C",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "708E8D726C",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/708E8D726C",
-      "location": "Egypt; Morocco; Algeria; Tunisia",
-      "countries": [
-        "DZ",
-        "EG",
-        "MA",
-        "TN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
       "description_sha1": "44b44a0130e0e35e295f683a7d1a688a3842531a",
       "min_years": 2,
@@ -1513,12 +1127,155 @@
       }
     },
     {
-      "key": "workable:toloka-ai:B2799067A6",
+      "key": "workable:toloka-ai:ED4671C6F1",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B2799067A6",
+      "posting_id": "ED4671C6F1",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/B2799067A6",
+      "url": "https://apply.workable.com/j/ED4671C6F1",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:97153CC7BE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "97153CC7BE",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/97153CC7BE",
+      "location": "Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7EE72BA96D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7EE72BA96D",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/7EE72BA96D",
+      "location": "United States; New York, United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4DAAED0ACF",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4DAAED0ACF",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/4DAAED0ACF",
+      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
+      "countries": [
+        "CR",
+        "EC",
+        "JM",
+        "UY"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 30.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$30 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:EC2B01C2B0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "EC2B01C2B0",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/EC2B01C2B0",
       "location": "Serbia; Cyprus; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
       "countries": [
         "BA",
@@ -1531,7 +1288,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
       "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
       "min_years": 2,
@@ -1553,165 +1310,23 @@
       }
     },
     {
-      "key": "workable:toloka-ai:0E32060703",
+      "key": "workable:toloka-ai:875E8C9842",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "0E32060703",
+      "posting_id": "875E8C9842",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/0E32060703",
-      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
+      "url": "https://apply.workable.com/j/875E8C9842",
+      "location": "Egypt; Morocco; Algeria; Tunisia",
       "countries": [
-        "CR",
-        "EC",
-        "JM",
-        "UY"
+        "DZ",
+        "EG",
+        "MA",
+        "TN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 30.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$30 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:A860317644",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "A860317644",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/A860317644",
-      "location": "United States; New York, United States; Queens, United States; Brooklyn, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:8A2A2832F0",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "8A2A2832F0",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/8A2A2832F0",
-      "location": "Canada",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:AE71A0A4F9",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "AE71A0A4F9",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/AE71A0A4F9",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
-      "family_id": "a16d8ca5d877",
-      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:CB0EA6BA04",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "CB0EA6BA04",
-      "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/CB0EA6BA04",
-      "location": "Bahrain; Oman; Lebanon",
-      "countries": [
-        "BH",
-        "LB",
-        "OM"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
       "description_sha1": "44b44a0130e0e35e295f683a7d1a688a3842531a",
       "min_years": 2,
@@ -1733,32 +1348,35 @@
       }
     },
     {
-      "key": "workable:toloka-ai:67B60EF470",
+      "key": "workable:toloka-ai:DBF47FEE63",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "67B60EF470",
+      "posting_id": "DBF47FEE63",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/67B60EF470",
-      "location": "Ahmedabad, India; Chennai, India; Pune, India; Jaipur, India; Surat, India; Lucknow, India",
+      "url": "https://apply.workable.com/j/DBF47FEE63",
+      "location": "Japan; South Korea; New Zealand; Singapore",
       "countries": [
-        "IN"
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
-      "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
+      "description_sha1": "afa97bbe688936a999e423d3ce2676cd6d0cb5aa",
       "min_years": 2,
       "english_level": "B2",
-      "pay_usd_hour_max": 34.0,
+      "pay_usd_hour_max": 45.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$34 per hour equivalent"
+        "pay_usd_hour_max": "$45 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -1768,20 +1386,90 @@
       }
     },
     {
-      "key": "workable:toloka-ai:8204D0FF69",
+      "key": "workable:toloka-ai:0093BFF0B7",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "8204D0FF69",
+      "posting_id": "0093BFF0B7",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/8204D0FF69",
-      "location": "Warsaw, Poland; Kraków, Poland; Wrocław, Poland; Poznań, Poland; Gdańsk, Poland; Łódź, Poland",
+      "url": "https://apply.workable.com/j/0093BFF0B7",
+      "location": "United States",
       "countries": [
-        "PL"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7B4935B899",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7B4935B899",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/7B4935B899",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:AC7E6B8836",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "AC7E6B8836",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/AC7E6B8836",
+      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
+      "countries": [
+        "ES"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
       "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
       "min_years": 2,
@@ -1803,20 +1491,134 @@
       }
     },
     {
-      "key": "workable:toloka-ai:202BE0C19A",
+      "key": "workable:toloka-ai:60D163CEB6",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "202BE0C19A",
+      "posting_id": "60D163CEB6",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/202BE0C19A",
-      "location": "Philippines",
+      "url": "https://apply.workable.com/j/60D163CEB6",
+      "location": "Iceland; Belgium; Ireland",
       "countries": [
-        "PH"
+        "BE",
+        "IE",
+        "IS"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:0470ABD8B0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0470ABD8B0",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/0470ABD8B0",
+      "location": "Sweden; Denmark; Finland; Norway; Austria",
+      "countries": [
+        "AT",
+        "DK",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C147F88110",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C147F88110",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/C147F88110",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4CC970275D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4CC970275D",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/4CC970275D",
+      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "countries": [
+        "ID",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
       "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
       "min_years": 2,
@@ -1838,20 +1640,63 @@
       }
     },
     {
-      "key": "workable:toloka-ai:54087AB0FE",
+      "key": "workable:toloka-ai:25DD03BF65",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "54087AB0FE",
+      "posting_id": "25DD03BF65",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/54087AB0FE",
-      "location": "Cape Town, South Africa; Johannesburg, South Africa; Durban, South Africa; Pretoria, South Africa",
+      "url": "https://apply.workable.com/j/25DD03BF65",
+      "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
       "countries": [
-        "ZA"
+        "IL",
+        "JO",
+        "KW",
+        "QA",
+        "SA",
+        "TR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "afa97bbe688936a999e423d3ce2676cd6d0cb5aa",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2A8C169401",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2A8C169401",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/2A8C169401",
+      "location": "Argentina; Chile; Mexico; Peru",
+      "countries": [
+        "AR",
+        "CL",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
       "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
       "min_years": 2,
@@ -1873,32 +1718,32 @@
       }
     },
     {
-      "key": "workable:toloka-ai:2C11FF9ED8",
+      "key": "workable:toloka-ai:B72B4F0B8D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2C11FF9ED8",
+      "posting_id": "B72B4F0B8D",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/2C11FF9ED8",
-      "location": "Brazil; São Paulo, Brazil; Rio de Janeiro, Brazil; Belo Horizonte, Brazil; Florianópolis, Brazil",
+      "url": "https://apply.workable.com/j/B72B4F0B8D",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
       "countries": [
-        "BR"
+        "IN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
-      "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
+      "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
       "min_years": 2,
       "english_level": "B2",
-      "pay_usd_hour_max": 30.0,
+      "pay_usd_hour_max": 34.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$30 per hour equivalent"
+        "pay_usd_hour_max": "$34 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -1908,32 +1753,187 @@
       }
     },
     {
-      "key": "workable:toloka-ai:DFC37FC551",
+      "key": "workable:toloka-ai:0E4FBA255D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "DFC37FC551",
+      "posting_id": "0E4FBA255D",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/DFC37FC551",
-      "location": "Colombia; Bogotá, Colombia; Medellín, Colombia; Barranquilla, Colombia; Cartagena, Colombia",
+      "url": "https://apply.workable.com/j/0E4FBA255D",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
       "countries": [
-        "CO"
+        "GB"
       ],
       "remote": true,
-      "open_to_colombia": true,
+      "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-21",
+      "published": "2026-09-28",
       "family_id": "a16d8ca5d877",
-      "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
       "english_level": "B2",
-      "pay_usd_hour_max": 30.0,
+      "pay_usd_hour_max": 50.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
-        "pay_usd_hour_max": "$30 per hour equivalent"
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:8878A9D522",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8878A9D522",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/8878A9D522",
+      "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
+      "countries": [
+        "BE",
+        "DE",
+        "DK",
+        "FI",
+        "FR",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:FACBDB503F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "FACBDB503F",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/FACBDB503F",
+      "location": "Italy; Portugal; Greece",
+      "countries": [
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E588E1078F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E588E1078F",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/E588E1078F",
+      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:669DD70DE7",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "669DD70DE7",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/669DD70DE7",
+      "location": "United States; Australia; Israel; United Arab Emirates",
+      "countries": [
+        "AE",
+        "AU",
+        "IL",
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-09-28",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -4114,35 +4114,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4727252005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4727252005",
-      "title": "Engagement Manager",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727252005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-26",
-      "family_id": "841b510a02ea",
-      "description_sha1": "b87d889c11f83d0d21c5433a243a03aead0457c2",
-      "min_years": 7,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5-7+ years of total work experience, with experience in consulting or as a technical program management role in industry"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4687050005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -4166,6 +4137,35 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "3+ years of work experience in consulting, technical program management, or project management."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4727252005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4727252005",
+      "title": "Engagement Manager",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727252005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-08-26",
+      "family_id": "841b510a02ea",
+      "description_sha1": "b87d889c11f83d0d21c5433a243a03aead0457c2",
+      "min_years": 7,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5-7+ years of total work experience, with experience in consulting or as a technical program management role in industry"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -4228,33 +4228,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4726274005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4726274005",
-      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726274005",
-      "location": "Colorado Springs, CO",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-08-24",
-      "family_id": "8a8b6f0077b0",
-      "description_sha1": "524004a7c76f4e7f5abf4bb6e06052fec578ca77",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4726264005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -4271,6 +4244,33 @@
       "published": "2026-08-24",
       "family_id": "8a8b6f0077b0",
       "description_sha1": "1373d2f132c3d62e68e3909fd930e48a91363ee9",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4726274005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4726274005",
+      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726274005",
+      "location": "Colorado Springs, CO",
+      "countries": [],
+      "remote": null,
+      "open_to_colombia": null,
+      "employment_type": null,
+      "published": "2026-08-24",
+      "family_id": "8a8b6f0077b0",
+      "description_sha1": "524004a7c76f4e7f5abf4bb6e06052fec578ca77",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -5442,32 +5442,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4413274005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4413274005",
-      "title": "Machine Learning Engineer, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4413274005",
-      "location": "Doha, Qatar; London, UK",
-      "countries": [
-        "GB",
-        "QA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2024-05-01",
-      "family_id": "0afa3af90b9f",
-      "description_sha1": "951410f017837e8dd51693f5a97c007e48e428fc",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4711544005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -5759,35 +5733,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4723002005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4723002005",
-      "title": "National Security Policy, Senior Manager",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4723002005",
-      "location": "Washington, DC",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-12",
-      "family_id": "08bb7bed60c2",
-      "description_sha1": "d55fa882d06a32308ec3358f0acaf4938ffbe732",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5-8 years experience in defense policy, government, defense tech, or the broader defense industry"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4655244005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -5940,7 +5885,7 @@
       "employment_type": null,
       "published": "2025-08-22",
       "family_id": "1d4a1ba21c4b",
-      "description_sha1": "463f284cbad3cfa932c7abbdb6056097945677d0",
+      "description_sha1": "701f0eef89a749469cfa2a81586270bdea83edd9",
       "min_years": 10,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6010,6 +5955,35 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6027,35 +6001,6 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6939,31 +6884,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4729620005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4729620005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-03",
-      "family_id": "956946efd858",
-      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4721008005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6980,6 +6900,31 @@
       "published": "2026-08-06",
       "family_id": "956946efd858",
       "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4729620005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4729620005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-03",
+      "family_id": "956946efd858",
+      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7016,31 +6961,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4725133005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4725133005",
-      "title": "Senior Software Engineer, AI Operations, GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725133005",
-      "location": "Doha, Qatar",
-      "countries": [
-        "QA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-20",
-      "family_id": "3e025138314d",
-      "description_sha1": "1f182ce6e3a8b43702b05eb8755bfb728b0c06e4",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4711898005",
@@ -7425,31 +7345,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730846005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730846005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730845005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7466,6 +7361,31 @@
       "published": "2026-09-04",
       "family_id": "560d46ffe696",
       "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730846005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730846005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7529,31 +7449,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730836005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730836005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-04",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730851005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7570,6 +7465,31 @@
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
       "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730836005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730836005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-04",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9363,38 +9283,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:turing:6205748004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6205748004",
-      "title": "Executive Assistant",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6205748004",
-      "location": "Brazil; Colombia, Huila, Colombia; São Paulo, Brazil",
-      "countries": [
-        "BR",
-        "CO"
-      ],
-      "remote": null,
-      "open_to_colombia": true,
-      "employment_type": null,
-      "published": "2026-09-23",
-      "family_id": "fa6f019fe2de",
-      "description_sha1": "00556f13e0ec651adf9d6b737b8a72116935d836",
-      "min_years": 5,
-      "english_level": "fluent",
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "english_level": "You are professionally fluent in written and spoken English and proficient with Google Workspace, Slack, Zoom, and related tools.",
-        "min_years": "5+ years of Executive Assistant experience"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:turing:6192730004",
       "source": "greenhouse",
       "company": "Turing",
@@ -9424,31 +9312,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:6192729004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6192729004",
-      "title": "Forward-Deployed AI Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6192729004",
-      "location": "Hyderabad, Telangana, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-24",
-      "family_id": "3608d6dd4038",
-      "description_sha1": "e7cfbcd0b5d3e2db0e83cd35cf9cf6d95e442279",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:turing:6192725004",
       "source": "greenhouse",
       "company": "Turing",
@@ -9465,6 +9328,31 @@
       "published": "2026-09-24",
       "family_id": "3608d6dd4038",
       "description_sha1": "f5e2b27cc59a4ea5a6ecce1663fcb1a86c304410",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:turing:6192729004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6192729004",
+      "title": "Forward-Deployed AI Engineer",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6192729004",
+      "location": "Hyderabad, Telangana, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-24",
+      "family_id": "3608d6dd4038",
+      "description_sha1": "e7cfbcd0b5d3e2db0e83cd35cf9cf6d95e442279",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9503,12 +9391,12 @@
       }
     },
     {
-      "key": "greenhouse:turing:6198592004",
+      "key": "greenhouse:turing:6198600004",
       "source": "greenhouse",
       "company": "Turing",
-      "posting_id": "6198592004",
+      "posting_id": "6198600004",
       "title": "Investigations Analyst",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6198592004",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6198600004",
       "location": "Global - Remote",
       "countries": [],
       "remote": true,
@@ -9530,12 +9418,12 @@
       }
     },
     {
-      "key": "greenhouse:turing:6198600004",
+      "key": "greenhouse:turing:6198592004",
       "source": "greenhouse",
       "company": "Turing",
-      "posting_id": "6198600004",
+      "posting_id": "6198592004",
       "title": "Investigations Analyst",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6198600004",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6198592004",
       "location": "Global - Remote",
       "countries": [],
       "remote": true,
@@ -9703,33 +9591,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:6191482004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6191482004",
-      "title": "Senior IT Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6191482004",
-      "location": "Global - Remote",
-      "countries": [],
-      "remote": true,
-      "open_to_colombia": true,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "960301730377",
-      "description_sha1": "86720267e6bdc5032ea232f624c43dd8d80ca5fd",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:turing:6162081004",
       "source": "greenhouse",
       "company": "Turing",
@@ -9877,6 +9738,31 @@
       }
     },
     {
+      "key": "greenhouse:turing:6209780004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6209780004",
+      "title": "Senior Software Engineer",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6209780004",
+      "location": "São Paulo, Brazil",
+      "countries": [
+        "BR"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-28",
+      "family_id": "0be61535d8a6",
+      "description_sha1": "9fa765214ec6d67443f11dbe558b61c0dff118cd",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:turing:5822280004",
       "source": "greenhouse",
       "company": "Turing",
@@ -9990,35 +9876,6 @@
       },
       "extracted_by": {
         "pay_usd_year_max": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:turing:6203706004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6203706004",
-      "title": "Staff Security Analyst",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6203706004",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-21",
-      "family_id": "8421f5490d8b",
-      "description_sha1": "a51a29537c74c866de01f27e6e0ea249def74879",
-      "min_years": 8,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Significant experience (typically 8+ years) in security operations, incident response, threat detection, or a similar analytical security role."
-      },
-      "extracted_by": {
-        "min_years": "rules"
       }
     },
     {
@@ -11697,6 +11554,35 @@
       "published": "2026-09-03",
       "family_id": "3e660547c8ae",
       "description_sha1": "6ce5c4e9e87aff1242da5786c6926ada6b629500",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:7912fb0c-2a12-4e3e-9150-c47096ae5fa0",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "7912fb0c-2a12-4e3e-9150-c47096ae5fa0",
+      "title": "Generative Audio Evaluation - Polish (Poland)",
+      "url": "https://jobs.lever.co/rws/7912fb0c-2a12-4e3e-9150-c47096ae5fa0",
+      "location": "Warsaw",
+      "countries": [
+        "PL"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-09-03",
+      "family_id": "354363cd9557",
+      "description_sha1": "e04ef7067fc7b71f3339dffe0b7acc752b432fa5",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,

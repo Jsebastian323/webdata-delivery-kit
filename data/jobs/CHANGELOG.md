@@ -2,6 +2,30 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-09-28 · 411 postings · +42 new · -46 closed · ~1 changed
+
+**New**
+
+- Mindrift (Toloka) · Freelance Presentation Designer · 29 (AE, AR, AT, AU, BA, BE, BG, BH, ...)
+- Mindrift (Toloka) · Freelance Graphic Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- Turing · Senior Software Engineer · 1 (BR)
+- RWS (TrainAI) · Generative Audio Evaluation - Polish (Poland) · 1 (PL)
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Presentation Designer · 29 (AE, AR, AT, AU, BA, BE, BG, BH, ...)
+- Mindrift (Toloka) · Freelance Graphic Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- Scale AI · Machine Learning Engineer, Global Public Sector · 1 (GB, QA)
+- Scale AI · National Security Policy, Senior Manager · 1 (US)
+- Scale AI · Senior Software Engineer, AI Operations, GPS · 1 (QA)
+- Turing · Senior IT Engineer · 1
+- Turing · Staff Security Analyst · 1 (US)
+- Turing · Executive Assistant · 1 (BR, CO)
+
+**Changed**
+
+- Scale AI · Principal Architect · 1 (US)
+
 ## 2026-09-27 · 415 postings · +0 new · -0 closed · ~0 changed
 
 ## 2026-09-26 · 415 postings · +0 new · -3 closed · ~11 changed
