@@ -2,6 +2,26 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-09-29 · 410 postings · +3 new · -4 closed · ~2 changed
+
+**New**
+
+- RWS (TrainAI) · Search Engine Evaluator - Spanish (Spain) · 1 (ES)
+- Mindrift (Toloka) · Medicine Expert - Freelance AI Trainer · 1 (US)
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 1 (US)
+
+**Closed**
+
+- Scale AI · Frontier Agent Engineering Manager, Enterprise · 1 (US)
+- Scale AI · Staff Network Engineer, App Platform · 1 (US)
+- Turing · Director of Information Security · 1 (US)
+- Turing · Staff Technical Program Manager · 1 (US)
+
+**Changed**
+
+- Scale AI · Machine Learning Engineer, Public Sector · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Japanese (Japan) · 1 (JP)
+
 ## 2026-09-28 · 411 postings · +42 new · -46 closed · ~1 changed
 
 **New**
