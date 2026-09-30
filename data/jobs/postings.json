@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:54:41+00:00",
+  "generated_at": "2026-09-30T16:50:40+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -2168,76 +2168,6 @@
       }
     },
     {
-      "key": "workable:toloka-ai:CF7354864B",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "CF7354864B",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/CF7354864B",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-29",
-      "family_id": "695f64b26e63",
-      "description_sha1": "a33129385b7a0c5571477c814359194c202f0eaf",
-      "min_years": 3,
-      "english_level": "C1",
-      "pay_usd_hour_max": 55.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+);",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
-        "pay_usd_hour_max": "$55/hr"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:C69D04CBE9",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "C69D04CBE9",
-      "title": "Medicine Expert - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/C69D04CBE9",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-29",
-      "family_id": "474cf609a012",
-      "description_sha1": "a33129385b7a0c5571477c814359194c202f0eaf",
-      "min_years": 3,
-      "english_level": "C1",
-      "pay_usd_hour_max": 55.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+);",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
-        "pay_usd_hour_max": "$55/hr"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
       "key": "workable:toloka-ai:A394FA405B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -4080,60 +4010,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4718618005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4718618005",
-      "title": "Director of Engineering, Physical AI",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718618005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-27",
-      "family_id": "840f51c074fc",
-      "description_sha1": "69f2c194a21f53fcd778e27122faf7b0f631c180",
-      "min_years": 8,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "8+ years of engineering experience in fast-paced environments, including 4+ years direct people management demonstrated history of recruiting, mentoring, and developing high-performing technical teams through rapid growth and change"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4714727005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4714727005",
-      "title": "Director of Product Management, Enterprise Core Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714727005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-09",
-      "family_id": "40426629027f",
-      "description_sha1": "4e6288bad0a0d64f728bf46914225895d808a5fe",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4716445005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -4150,31 +4026,6 @@
       "published": "2026-07-27",
       "family_id": "dba085b72feb",
       "description_sha1": "da391e811e8307694e1f15573a676988872e7241",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4687052005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4687052005",
-      "title": "Engagement Management Lead",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687052005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-04-20",
-      "family_id": "ab9f2bc769dc",
-      "description_sha1": "fd053bb851e680b715136e3e4c8194cda037bf67",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -4207,35 +4058,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "5-7+ years of total work experience, with experience in consulting or as a technical program management role in industry"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4687050005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4687050005",
-      "title": "Engagement Manager",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687050005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-04-20",
-      "family_id": "841b510a02ea",
-      "description_sha1": "5902993915dd1b5a99703b4d6ed208069b2cc43f",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "3+ years of work experience in consulting, technical program management, or project management."
       },
       "extracted_by": {
         "min_years": "rules"
@@ -4298,6 +4120,33 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4726274005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4726274005",
+      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726274005",
+      "location": "Colorado Springs, CO",
+      "countries": [],
+      "remote": null,
+      "open_to_colombia": null,
+      "employment_type": null,
+      "published": "2026-08-24",
+      "family_id": "8a8b6f0077b0",
+      "description_sha1": "524004a7c76f4e7f5abf4bb6e06052fec578ca77",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4726264005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -4314,33 +4163,6 @@
       "published": "2026-08-24",
       "family_id": "8a8b6f0077b0",
       "description_sha1": "1373d2f132c3d62e68e3909fd930e48a91363ee9",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4726274005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4726274005",
-      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726274005",
-      "location": "Colorado Springs, CO",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-08-24",
-      "family_id": "8a8b6f0077b0",
-      "description_sha1": "524004a7c76f4e7f5abf4bb6e06052fec578ca77",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -4881,33 +4703,29 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4549048005",
+      "key": "greenhouse:scaleai:4673051005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4549048005",
-      "title": "Forward Deployed Engineer, Gen AI",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4549048005",
-      "location": "India",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
       "countries": [
-        "IN"
+        "US"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2025-04-03",
-      "family_id": "d37d2844f4f9",
-      "description_sha1": "454a30e19fb19820548cdd10dabb81e66c1ea611",
-      "min_years": 4,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
+      "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
-      "evidence": {
-        "min_years": "At least 4 years of relevant experience is preferred"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4644742005",
@@ -4937,31 +4755,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -5099,6 +4892,31 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:scaleai:4687050005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4687050005",
+      "title": "Frontier Data Strategist",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687050005",
+      "location": "San Francisco, CA; New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-04-20",
+      "family_id": "18ca6663ffb5",
+      "description_sha1": "c9d420601c9b36baa92edd2387c72ebac3e28d1c",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4730306005",
@@ -5996,6 +5814,35 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6013,35 +5860,6 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6225,6 +6043,31 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:scaleai:4736243005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4736243005",
+      "title": "Public Sector Lead, Defence & Security",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736243005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-30",
+      "family_id": "a7d2b959952e",
+      "description_sha1": "8a05242077b416227ce0e171eca5006b36fbe29b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4695042005",
@@ -6726,6 +6569,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4687052005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4687052005",
+      "title": "Senior Frontier Data Strategist",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687052005",
+      "location": "San Francisco, CA; New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-04-20",
+      "family_id": "99aa2e3cb4c6",
+      "description_sha1": "a8b0093134231a235477464337132625899fc674",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4732394005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6925,31 +6793,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4729620005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4729620005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-03",
-      "family_id": "956946efd858",
-      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4721008005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6966,6 +6809,31 @@
       "published": "2026-08-06",
       "family_id": "956946efd858",
       "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4729620005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4729620005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-03",
+      "family_id": "956946efd858",
+      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6998,35 +6866,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "5+ years of related experience with a Bachelor’s degree; or equivalent work experience."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4711898005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4711898005",
-      "title": "Senior Software Engineer, Identity",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711898005",
-      "location": "San Francisco, CA; New York, NY; Washington, DC",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-08",
-      "family_id": "67e0490d9b8a",
-      "description_sha1": "27ac85aa885cc68402e00debb246030651e62774",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of full-time engineering experience, post-graduation with specialities in infrastructure and identity systems."
       },
       "extracted_by": {
         "min_years": "rules"
@@ -7332,33 +7171,29 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4710484005",
+      "key": "greenhouse:scaleai:4730846005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4710484005",
-      "title": "Software Engineer, Identity",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4710484005",
-      "location": "San Francisco, CA; New York, NY; Washington, DC",
+      "posting_id": "4730846005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
       "countries": [
-        "US"
+        "GB"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-06-30",
-      "family_id": "5c4ef7dada41",
-      "description_sha1": "ccc197e84f4fd78aa3d13d89fc330477084f107f",
-      "min_years": 3,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
+      "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
-      "evidence": {
-        "min_years": "3+ years of full-time engineering experience, post-graduation with specialities in infrastructure and identity systems."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4730834005",
@@ -7377,31 +7212,6 @@
       "published": "2026-09-14",
       "family_id": "560d46ffe696",
       "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4730846005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730846005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7465,22 +7275,22 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4730851005",
+      "key": "greenhouse:scaleai:4730836005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730851005",
+      "posting_id": "4730836005",
       "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-      "location": "Doha, Qatar",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "San Francisco, CA",
       "countries": [
-        "QA"
+        "US"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-14",
+      "published": "2026-09-04",
       "family_id": "7619d51d4ad0",
-      "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
+      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7515,22 +7325,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730836005",
+      "key": "greenhouse:scaleai:4730851005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730836005",
+      "posting_id": "4730851005",
       "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+      "location": "Doha, Qatar",
       "countries": [
-        "US"
+        "QA"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-04",
+      "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
-      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
+      "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7538,35 +7348,6 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4594879005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4594879005",
-      "title": "Software Engineer, Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4594879005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-08-21",
-      "family_id": "cf3aa0be69dc",
-      "description_sha1": "7826e9082f293123ecc4ceeabd23666b7f2ec5c9",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "3+ years of full-time engineering experience, post-graduation with specialities in back-end systems."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
     },
     {
       "key": "greenhouse:scaleai:4731630005",
@@ -7703,31 +7484,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4642876005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4642876005",
-      "title": "Solutions Engineer, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4642876005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-12-29",
-      "family_id": "57e12b0cf60a",
-      "description_sha1": "1dc0d832786220d1d7ab5bccb854a464a4c75f9b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4554440005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7744,6 +7500,31 @@
       "published": "2025-04-22",
       "family_id": "57e12b0cf60a",
       "description_sha1": "66da8c179d9fabc9af8c5a8a0a43d1ffd6d44b74",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4642876005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4642876005",
+      "title": "Solutions Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4642876005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2025-12-29",
+      "family_id": "57e12b0cf60a",
+      "description_sha1": "1dc0d832786220d1d7ab5bccb854a464a4c75f9b",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8052,31 +7833,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4735360005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4735360005",
-      "title": "Staff Product Designer, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735360005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-24",
-      "family_id": "614cd584a7ff",
-      "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4718917005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8093,6 +7849,31 @@
       "published": "2026-07-29",
       "family_id": "614cd584a7ff",
       "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4735360005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4735360005",
+      "title": "Staff Product Designer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735360005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-24",
+      "family_id": "614cd584a7ff",
+      "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8212,35 +7993,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "5+ years of experience as an ML engineer or applied/research scientist, including direct experience training or fine-tuning models in production systems"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4649903005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4649903005",
-      "title": "Staff Software Engineer, Data Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4649903005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-15",
-      "family_id": "d6d5c8a57e39",
-      "description_sha1": "38eecbbaddfc1138ae6403c67df1578ed4ec3665",
-      "min_years": 8,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "8+ years of full-time engineering experience, post-graduation with specialties in back-end systems, specifically related to building large-scale data storage, streaming, and warehousing systems."
       },
       "extracted_by": {
         "min_years": "rules"
@@ -8905,33 +8657,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4726276005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4726276005",
-      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
-      "location": "Colorado Springs, CO",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-08-24",
-      "family_id": "e58dfd260045",
-      "description_sha1": "631992dd357df68c864a723f066bf9c7b7861cd9",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4726268005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8948,6 +8673,33 @@
       "published": "2026-08-24",
       "family_id": "e58dfd260045",
       "description_sha1": "12ad99de84683451225ddccc46060a1111ff06b0",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4726276005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4726276005",
+      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
+      "location": "Colorado Springs, CO",
+      "countries": [],
+      "remote": null,
+      "open_to_colombia": null,
+      "employment_type": null,
+      "published": "2026-08-24",
+      "family_id": "e58dfd260045",
+      "description_sha1": "631992dd357df68c864a723f066bf9c7b7861cd9",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9181,37 +8933,6 @@
         "pay_usd_year_max": "$200,000-$250,000 USD"
       },
       "extracted_by": {
-        "pay_usd_year_max": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:turing:5652980004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "5652980004",
-      "title": "Client Director, Frontier Data - US",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/5652980004",
-      "location": "Palo Alto, California, United States; San Francisco, California, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-09-20",
-      "family_id": "49155316bb6f",
-      "description_sha1": "5a8aa53d7e1c9531b1da4db17995a4fd9c2e126f",
-      "min_years": 10,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": 325000.0,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "10+ years of experience leading large-scale technical delivery organizations, ideally across AI, ML, or data operations",
-        "pay_usd_year_max": "$255,000 to $325,000 OTE + Equity"
-      },
-      "extracted_by": {
-        "min_years": "rules",
         "pay_usd_year_max": "rules"
       }
     },
@@ -9457,35 +9178,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:5819904004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "5819904004",
-      "title": "Research Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/5819904004",
-      "location": "Brazil",
-      "countries": [
-        "BR"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-23",
-      "family_id": "4b474d737d46",
-      "description_sha1": "9549ab58fbdf9a99086ff09a2e631917326ed0c2",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "This role is designed for candidates with roughly 4 to 5 years of experience building and improving deep learning systems, especially where strong results depend on data quality, data curation, denoising, synthetic data generation, and rigorous evaluation."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:turing:5819908004",
       "source": "greenhouse",
       "company": "Turing",
@@ -9509,6 +9201,35 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "This role is designed for candidates with roughly 4 to 5 years of experience building and improving deep learning systems, especially where strong results depend on data quality, data curation, denoising, synthetic data generation, and rigorous evaluation."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:turing:5819904004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "5819904004",
+      "title": "Research Engineer, Frontier Data",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/5819904004",
+      "location": "Brazil",
+      "countries": [
+        "BR"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-23",
+      "family_id": "bdec69285cdd",
+      "description_sha1": "d7b796d8fb006ab343dfe123116bfe897f23675a",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4–5 years of experience building or improving deep learning systems where data quality mattered materially (training, post-training, evals, or agentic systems)."
       },
       "extracted_by": {
         "min_years": "rules"
@@ -9544,12 +9265,12 @@
       }
     },
     {
-      "key": "greenhouse:turing:6174327004",
+      "key": "greenhouse:turing:6209679004",
       "source": "greenhouse",
       "company": "Turing",
-      "posting_id": "6174327004",
-      "title": "Senior DevOps & Infrastructure Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6174327004",
+      "posting_id": "6209679004",
+      "title": "Senior Engineering Manager",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6209679004",
       "location": "Colombia, Huila, Colombia; São Paulo, Brazil",
       "countries": [
         "BR",
@@ -9558,20 +9279,16 @@
       "remote": null,
       "open_to_colombia": true,
       "employment_type": null,
-      "published": "2026-08-29",
-      "family_id": "771a650dca0e",
-      "description_sha1": "ce247efe6cad38a65292dae067e294305cef8a17",
-      "min_years": 5,
+      "published": "2026-09-29",
+      "family_id": "ed0ce4632fbd",
+      "description_sha1": "9de5452344a88ba80489a7095dcd87ace3b01381",
+      "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:turing:6162081004",
@@ -11289,35 +11006,6 @@
       }
     },
     {
-      "key": "lever:rws:c6bcffab-98b1-42f5-a20d-9f164423d2a4",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "c6bcffab-98b1-42f5-a20d-9f164423d2a4",
-      "title": "Audio Transcription - French (France)",
-      "url": "https://jobs.lever.co/rws/c6bcffab-98b1-42f5-a20d-9f164423d2a4",
-      "location": "Paris",
-      "countries": [
-        "FR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-08-28",
-      "family_id": "95c2ad8c9116",
-      "description_sha1": "8d4947fff940aa940e686903bfaf1376d2f3ab1f",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10",
-      "evidence": {
-        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
       "key": "lever:rws:882681c4-60d1-40ae-9487-2e45690379d2",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -11334,64 +11022,6 @@
       "published": "2026-08-28",
       "family_id": "4d9f288479f0",
       "description_sha1": "446c601ed0d93274baa2bcef2037605143cdb61d",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10",
-      "evidence": {
-        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:2bbecfc3-a089-47b3-93ea-96919955e035",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "2bbecfc3-a089-47b3-93ea-96919955e035",
-      "title": "Audio Transcription - Italian (Italy)",
-      "url": "https://jobs.lever.co/rws/2bbecfc3-a089-47b3-93ea-96919955e035",
-      "location": "Rome",
-      "countries": [
-        "IT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-08-28",
-      "family_id": "d83821645c9c",
-      "description_sha1": "22b6f4c4c4c0a3b6c7716267af90789b378d3796",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10",
-      "evidence": {
-        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:36df1f78-a3aa-419d-9776-34e2c455ef89",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "36df1f78-a3aa-419d-9776-34e2c455ef89",
-      "title": "Audio Transcription - Thai (Thailand)",
-      "url": "https://jobs.lever.co/rws/36df1f78-a3aa-419d-9776-34e2c455ef89",
-      "location": "Bangkok",
-      "countries": [
-        "TH"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-08-28",
-      "family_id": "8b749bb45352",
-      "description_sha1": "0bdd690f13a58b4988dfaf7693b7ed146c61962f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -11897,6 +11527,64 @@
       }
     },
     {
+      "key": "lever:rws:1e4ede55-b1ba-4884-a89d-63bb30676910",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "1e4ede55-b1ba-4884-a89d-63bb30676910",
+      "title": "Search Engine Evaluator - Portuguese (Brazil)",
+      "url": "https://jobs.lever.co/rws/1e4ede55-b1ba-4884-a89d-63bb30676910",
+      "location": "Brasilia",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2024-10-14",
+      "family_id": "6faf607156fc",
+      "description_sha1": "c27894f341cb1ce904c049c221df2d9f17ba06ae",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:18333c4d-fbd7-402e-9fe5-8a7ad1015f4f",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "18333c4d-fbd7-402e-9fe5-8a7ad1015f4f",
+      "title": "Search Engine Evaluator - Spanish (Mexico)",
+      "url": "https://jobs.lever.co/rws/18333c4d-fbd7-402e-9fe5-8a7ad1015f4f",
+      "location": "Mexico City",
+      "countries": [
+        "MX"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2024-10-14",
+      "family_id": "3d90e6aad75e",
+      "description_sha1": "cdb24dbcb2e17e77fe657c98765532b2d86aa0bf",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
       "key": "lever:rws:05913cea-a24e-4994-a571-0b242216d767",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -12097,6 +11785,37 @@
       "published": "2026-06-09",
       "family_id": "cbfc43fe7c37",
       "description_sha1": "0a6a27bde126f6e270fb2b19ef8bbec2743e2e90",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week.",
+        "english_level": "English Proficiency: Fluent or advanced proficiency in English (levels B2–C2)"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "english_level": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:28b3d23d-7e18-4842-adfe-b708af798a9c",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "28b3d23d-7e18-4842-adfe-b708af798a9c",
+      "title": "Speech AI Evaluation Specialist - Japanese (Japan)",
+      "url": "https://jobs.lever.co/rws/28b3d23d-7e18-4842-adfe-b708af798a9c",
+      "location": "Tokyo",
+      "countries": [
+        "JP"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-09-29",
+      "family_id": "d5e91086d639",
+      "description_sha1": "79b1b407c0aecb078098ba30978faaffa2a7fc58",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": null,

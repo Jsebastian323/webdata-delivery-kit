@@ -2,6 +2,39 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-09-30 · 401 postings · +5 new · -14 closed · ~3 changed
+
+**New**
+
+- Scale AI · Public Sector Lead, Defence & Security · 1 (GB)
+- Turing · Senior Engineering Manager · 1 (BR, CO)
+- RWS (TrainAI) · Search Engine Evaluator - Spanish (Mexico) · 1 (MX)
+- RWS (TrainAI) · Search Engine Evaluator - Portuguese (Brazil) · 1 (BR)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Japanese (Japan) · 1 (JP)
+
+**Closed**
+
+- Scale AI · Forward Deployed Engineer, Gen AI · 1 (IN)
+- Scale AI · Software Engineer, Platform · 1 (US)
+- Scale AI · Staff Software Engineer, Data Platform · 1 (US)
+- Scale AI · Software Engineer, Identity · 1 (US)
+- Scale AI · Senior Software Engineer, Identity · 1 (US)
+- Scale AI · Director of Product Management, Enterprise Core Platform · 1 (US)
+- Scale AI · Director of Engineering, Physical AI · 1 (US)
+- Turing · Client Director, Frontier Data - US · 1 (US)
+- Turing · Senior DevOps & Infrastructure Engineer · 1 (BR, CO)
+- RWS (TrainAI) · Audio Transcription - Italian (Italy) · 1 (IT)
+- RWS (TrainAI) · Audio Transcription - Thai (Thailand) · 1 (TH)
+- RWS (TrainAI) · Audio Transcription - French (France) · 1 (FR)
+- Mindrift (Toloka) · Medicine Expert - Freelance AI Trainer · 1 (US)
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 1 (US)
+
+**Changed**
+
+- Scale AI · Frontier Data Strategist · 1 (US)
+- Scale AI · Senior Frontier Data Strategist · 1 (US)
+- Turing · Research Engineer, Frontier Data · 1 (BR)
+
 ## 2026-09-29 · 410 postings · +3 new · -4 closed · ~2 changed
 
 **New**
