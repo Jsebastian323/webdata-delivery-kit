@@ -2,6 +2,27 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-01 · 404 postings · +6 new · -3 closed · ~1 changed
+
+**New**
+
+- Handshake · EPiC Associate Consultant - Strategy & Execution · 1 (US)
+- Scale AI · Head of Workplace · 1 (US)
+- Scale AI · Product Marketing Lead, Public Sector · 1 (US)
+- Turing · Partner Manager, AI Ecosystem Partnerships · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Indonesian (Indonesia) · 1 (ID)
+- RWS (TrainAI) · General AI Data Annotator - German (United States) · 1 (US)
+
+**Closed**
+
+- Scale AI · Security Engineer, Public Sector · 1 (US)
+- Scale AI · Workplace Operations Manager · 1 (GB)
+- RWS (TrainAI) · Audio Transcription - German (Germany) · 1 (DE)
+
+**Changed**
+
+- Scale AI · Senior Software Engineer - Agentic Tooling & Productivity · 1 (US)
+
 ## 2026-09-30 · 401 postings · +5 new · -14 closed · ~3 changed
 
 **New**

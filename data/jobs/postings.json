@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:50:40+00:00",
+  "generated_at": "2026-10-01T17:24:38+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -5110,6 +5110,31 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4738221005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4738221005",
+      "title": "Head of Workplace",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4738221005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-30",
+      "family_id": "3ba7be190a52",
+      "description_sha1": "db5117c937717d17dafa354ac31fc5ec7b146f22",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4718258005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -5814,35 +5839,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -5860,6 +5856,35 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -5896,6 +5921,35 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "5+ years of experience in product marketing in B2B enterprise environments, with a preference for experience in at least one vertical sales-led growth motion or a customer marketing focus"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4739058005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4739058005",
+      "title": "Product Marketing Lead, Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4739058005",
+      "location": "Washington, DC",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-30",
+      "family_id": "62afb7c180d8",
+      "description_sha1": "82beea7ae37802f3afed89fca8e2bad7e3f3e47b",
+      "min_years": 6,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "6+ years of experience in Product Marketing, preferably within B2G (Business-to-Government), targeting federal civilian accounts"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -6310,35 +6364,6 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4718314005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4718314005",
-      "title": "Security Engineer, Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718314005",
-      "location": "New York, NY; St. Louis, MO; Washington, DC",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-24",
-      "family_id": "8df15dd63201",
-      "description_sha1": "e5db58c258215866125d706adbe506e21b1d38bf",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in Detection Engineering, Incident Response, or Security Operations, with a strong emphasis on building and shipping security tooling and automation."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
     },
     {
       "key": "greenhouse:scaleai:4663533005",
@@ -6858,7 +6883,7 @@
       "employment_type": null,
       "published": "2026-01-29",
       "family_id": "19378d008734",
-      "description_sha1": "5edd00b1789ed9622900dd1b474ee47fce180249",
+      "description_sha1": "941bbf26310d3171fa0cd327cc29c715e6116d65",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7171,6 +7196,31 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4730845005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730845005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-04",
+      "family_id": "560d46ffe696",
+      "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4730846005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7221,31 +7271,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730845005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730845005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-04",
-      "family_id": "560d46ffe696",
-      "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4715325005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7273,31 +7298,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4730836005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730836005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-04",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4730862005",
@@ -7341,6 +7341,31 @@
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
       "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730836005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730836005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-04",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7484,31 +7509,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4554440005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4554440005",
-      "title": "Solutions Engineer, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4554440005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-04-22",
-      "family_id": "57e12b0cf60a",
-      "description_sha1": "66da8c179d9fabc9af8c5a8a0a43d1ffd6d44b74",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4642876005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7525,6 +7525,31 @@
       "published": "2025-12-29",
       "family_id": "57e12b0cf60a",
       "description_sha1": "1dc0d832786220d1d7ab5bccb854a464a4c75f9b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4554440005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4554440005",
+      "title": "Solutions Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4554440005",
+      "location": "San Francisco, CA; New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2025-04-22",
+      "family_id": "57e12b0cf60a",
+      "description_sha1": "66da8c179d9fabc9af8c5a8a0a43d1ffd6d44b74",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8657,6 +8682,33 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4726276005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4726276005",
+      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
+      "location": "Colorado Springs, CO",
+      "countries": [],
+      "remote": null,
+      "open_to_colombia": null,
+      "employment_type": null,
+      "published": "2026-08-24",
+      "family_id": "e58dfd260045",
+      "description_sha1": "631992dd357df68c864a723f066bf9c7b7861cd9",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4726268005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8673,33 +8725,6 @@
       "published": "2026-08-24",
       "family_id": "e58dfd260045",
       "description_sha1": "12ad99de84683451225ddccc46060a1111ff06b0",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4726276005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4726276005",
-      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
-      "location": "Colorado Springs, CO",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-08-24",
-      "family_id": "e58dfd260045",
-      "description_sha1": "631992dd357df68c864a723f066bf9c7b7861cd9",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8843,31 +8868,6 @@
       "published": "2026-08-01",
       "family_id": "26a5ccc583ae",
       "description_sha1": "b15ad3e9a32e23f97dc5dcc6cb2bc199d3e6ca71",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4722941005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4722941005",
-      "title": "Workplace Operations Manager",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722941005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-11",
-      "family_id": "05c231775601",
-      "description_sha1": "a7d8f7a18f3e6813c9c3d419b727dd992417af08",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9095,6 +9095,33 @@
       }
     },
     {
+      "key": "greenhouse:turing:6198592004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6198592004",
+      "title": "Investigations Analyst",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6198592004",
+      "location": "Global - Remote",
+      "countries": [],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": null,
+      "published": "2026-09-18",
+      "family_id": "04a8943d3a1b",
+      "description_sha1": "87c2ff0d5bb904a14d6eb8235f3968936e52c99a",
+      "min_years": 2,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "2+ years of experience in investigations, fraud analysis, security operations, intelligence analysis, or a related analytical role."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:turing:6198600004",
       "source": "greenhouse",
       "company": "Turing",
@@ -9122,30 +9149,32 @@
       }
     },
     {
-      "key": "greenhouse:turing:6198592004",
+      "key": "greenhouse:turing:6208738004",
       "source": "greenhouse",
       "company": "Turing",
-      "posting_id": "6198592004",
-      "title": "Investigations Analyst",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6198592004",
-      "location": "Global - Remote",
-      "countries": [],
-      "remote": true,
-      "open_to_colombia": true,
+      "posting_id": "6208738004",
+      "title": "Partner Manager, AI Ecosystem Partnerships",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6208738004",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-18",
-      "family_id": "04a8943d3a1b",
-      "description_sha1": "87c2ff0d5bb904a14d6eb8235f3968936e52c99a",
-      "min_years": 2,
+      "published": "2026-09-30",
+      "family_id": "75f99a0fca82",
+      "description_sha1": "7a60fa97725bdbeb8364ca972871afe1a069d3ef",
+      "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
+      "pay_usd_year_max": 260000.0,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "2+ years of experience in investigations, fraud analysis, security operations, intelligence analysis, or a related analytical role."
+        "pay_usd_year_max": "The compensation range for this role is $240,000–$260,000."
       },
       "extracted_by": {
-        "min_years": "rules"
+        "pay_usd_year_max": "rules"
       }
     },
     {
@@ -10571,6 +10600,35 @@
       }
     },
     {
+      "key": "greenhouse:handshake:4426435009",
+      "source": "greenhouse",
+      "company": "Handshake",
+      "posting_id": "4426435009",
+      "title": "EPiC Associate Consultant - Strategy & Execution",
+      "url": "https://job-boards.greenhouse.io/handshake/jobs/4426435009",
+      "location": "Denver, Co",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-30",
+      "family_id": "e469ca334a89",
+      "description_sha1": "39bb35c40d159121540b4a68aaa9a16778e918a5",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": 70000.0,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_year_max": "The expected compensation range for this role will be between $65,000- $70,000 per year"
+      },
+      "extracted_by": {
+        "pay_usd_year_max": "rules"
+      }
+    },
+    {
       "key": "greenhouse:handshake:4408789009",
       "source": "greenhouse",
       "company": "Handshake",
@@ -11006,35 +11064,6 @@
       }
     },
     {
-      "key": "lever:rws:882681c4-60d1-40ae-9487-2e45690379d2",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "882681c4-60d1-40ae-9487-2e45690379d2",
-      "title": "Audio Transcription - German (Germany)",
-      "url": "https://jobs.lever.co/rws/882681c4-60d1-40ae-9487-2e45690379d2",
-      "location": "Berlin",
-      "countries": [
-        "DE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-08-28",
-      "family_id": "4d9f288479f0",
-      "description_sha1": "446c601ed0d93274baa2bcef2037605143cdb61d",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10",
-      "evidence": {
-        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
       "key": "lever:rws:1bfcfa42-977c-4dd3-b01b-b9ff753036ed",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -11119,6 +11148,39 @@
       },
       "extracted_by": {
         "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:cd843b41-a48b-4fa5-aae7-ead7b0a27d51",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "cd843b41-a48b-4fa5-aae7-ead7b0a27d51",
+      "title": "General AI Data Annotator - German (United States)",
+      "url": "https://jobs.lever.co/rws/cd843b41-a48b-4fa5-aae7-ead7b0a27d51",
+      "location": "Milwaukee, Wisconsin",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time Employee",
+      "published": "2025-10-03",
+      "family_id": "377758b6ebf4",
+      "description_sha1": "8fdbb43112384a191d43fec710eeb90425c04609",
+      "min_years": null,
+      "english_level": "native",
+      "pay_usd_hour_max": 21.5,
+      "pay_usd_year_max": null,
+      "hours_per_week": "20",
+      "evidence": {
+        "hours_per_week": "- Schedule: 20 hours/week (4 hours per day, Monday–Friday)",
+        "english_level": "- Native-level fluency in German and proficient in English",
+        "pay_usd_hour_max": "- Compensation: $21.50/hour"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "english_level": "rules",
+        "pay_usd_hour_max": "rules"
       }
     },
     {
@@ -11454,6 +11516,35 @@
       "published": "2024-10-14",
       "family_id": "b88647e74941",
       "description_sha1": "94ed9956533d9c2047dd1a6ff591bbfe40b620d9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:50106c71-c2ec-46c8-b419-52352184207b",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "50106c71-c2ec-46c8-b419-52352184207b",
+      "title": "Search Engine Evaluator - Indonesian (Indonesia)",
+      "url": "https://jobs.lever.co/rws/50106c71-c2ec-46c8-b419-52352184207b",
+      "location": "Jakarta",
+      "countries": [
+        "ID"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2024-10-14",
+      "family_id": "a0b8f1c5144a",
+      "description_sha1": "6bfd67ad65dfd4320c027b990a0faef66ab2b06c",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
