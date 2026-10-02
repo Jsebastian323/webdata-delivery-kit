@@ -2,6 +2,33 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-02 · 405 postings · +5 new · -4 closed · ~7 changed
+
+**New**
+
+- Handshake · EPiC Associate Consultant - Data & Analytics/AI · 1 (US)
+- Handshake · EPiC Associate Consultant - Organizational Effectiveness · 1 (US)
+- Handshake · EPiC Associate Consultant - ServiceNow · 1 (US)
+- Scale AI · Account Based Marketing Lead · 1 (US)
+- Scale AI · Senior Software Engineer, Orchestration Platform · 1 (US)
+
+**Closed**
+
+- Scale AI · Staff Product Manager, Physical AI Data & Robotics · 1 (US)
+- Scale AI · Solutions Engineering Lead, Healthcare & Life Sciences · 1 (US)
+- Scale AI · Solutions Engineering Lead, Consumer · 1 (US)
+- RWS (TrainAI) · Generative Audio Evaluation - Swedish (Sweden) · 1 (SE)
+
+**Changed**
+
+- Scale AI · Solutions Architect, Enterprise · 1 (US)
+- Scale AI · Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI · 1 (US)
+- Scale AI · Staff Solutions Architect, Enterprise · 1 (US)
+- Scale AI · Senior Software Engineer, Platform · 1 (US)
+- Scale AI · Global Head of Workplace · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Spanish (Mexico) · 1 (MX)
+- RWS (TrainAI) · AI Data Specialist - Japanese · 1 (JP)
+
 ## 2026-10-01 · 404 postings · +6 new · -3 closed · ~1 changed
 
 **New**
