@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:40:27+00:00",
+  "generated_at": "2026-10-03T15:09:28+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -47,125 +47,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:5B82FDA296",
+      "key": "workable:toloka-ai:F7B2E7C194",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "5B82FDA296",
+      "posting_id": "F7B2E7C194",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/5B82FDA296",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "ed36f6ce9670",
-      "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:17EAD3B43E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "17EAD3B43E",
-      "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/17EAD3B43E",
-      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "ed36f6ce9670",
-      "description_sha1": "7cfbf20f20f83cc584f44de57d6e0338d1a15a6a",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:A2FF51145D",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "A2FF51145D",
-      "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/A2FF51145D",
-      "location": "Spain; Italy; Portugal; Greece",
-      "countries": [
-        "ES",
-        "GR",
-        "IT",
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "ed36f6ce9670",
-      "description_sha1": "7cfbf20f20f83cc584f44de57d6e0338d1a15a6a",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:93D5EC24D6",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "93D5EC24D6",
-      "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/93D5EC24D6",
+      "url": "https://apply.workable.com/j/F7B2E7C194",
       "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
       "countries": [
         "BE",
@@ -178,7 +65,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "ed36f6ce9670",
       "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
       "min_years": 2,
@@ -200,20 +87,24 @@
       }
     },
     {
-      "key": "workable:toloka-ai:DB4CA5D8CD",
+      "key": "workable:toloka-ai:074A3F5624",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "DB4CA5D8CD",
+      "posting_id": "074A3F5624",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/DB4CA5D8CD",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
+      "url": "https://apply.workable.com/j/074A3F5624",
+      "location": "Sweden; Denmark; Finland; Norway; Iceland",
       "countries": [
-        "GB"
+        "DK",
+        "FI",
+        "IS",
+        "NO",
+        "SE"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "ed36f6ce9670",
       "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
       "min_years": 2,
@@ -235,20 +126,22 @@
       }
     },
     {
-      "key": "workable:toloka-ai:E9F9E5A066",
+      "key": "workable:toloka-ai:F44121812B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "E9F9E5A066",
+      "posting_id": "F44121812B",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/E9F9E5A066",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
+      "url": "https://apply.workable.com/j/F44121812B",
+      "location": "Philippines; Malaysia; Indonesia",
       "countries": [
-        "IN"
+        "ID",
+        "MY",
+        "PH"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "ed36f6ce9670",
       "description_sha1": "8e52cf173e71ffd3bff14e22f9effb1e71f1893e",
       "min_years": 2,
@@ -270,52 +163,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:40042A66C9",
+      "key": "workable:toloka-ai:EFC7729792",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "40042A66C9",
+      "posting_id": "EFC7729792",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/40042A66C9",
-      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
-      "countries": [
-        "AR",
-        "BR",
-        "CL",
-        "CO",
-        "MX",
-        "PE"
-      ],
-      "remote": true,
-      "open_to_colombia": true,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "ed36f6ce9670",
-      "description_sha1": "9b96c67b79fbe64e476d011dcbb80bdc8ae5c61f",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 30.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
-        "pay_usd_hour_max": "$30 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:EE7E1DAA50",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "EE7E1DAA50",
-      "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/EE7E1DAA50",
+      "url": "https://apply.workable.com/j/EFC7729792",
       "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
       "countries": [
         "IL",
@@ -328,7 +181,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "ed36f6ce9670",
       "description_sha1": "fbbe2198f66ee59b1e40a7a24b0231a91e3f60d4",
       "min_years": 2,
@@ -350,22 +203,60 @@
       }
     },
     {
-      "key": "workable:toloka-ai:4FE4CAB352",
+      "key": "workable:toloka-ai:952A66B793",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "4FE4CAB352",
+      "posting_id": "952A66B793",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/4FE4CAB352",
-      "location": "Philippines; Malaysia; Indonesia",
+      "url": "https://apply.workable.com/j/952A66B793",
+      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
       "countries": [
-        "ID",
-        "MY",
-        "PH"
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "ed36f6ce9670",
+      "description_sha1": "9b96c67b79fbe64e476d011dcbb80bdc8ae5c61f",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 30.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
+        "pay_usd_hour_max": "$30 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:EC3EF5A748",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "EC3EF5A748",
+      "title": "Freelance Brand Designer",
+      "url": "https://apply.workable.com/j/EC3EF5A748",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
+      "countries": [
+        "IN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "ed36f6ce9670",
       "description_sha1": "8e52cf173e71ffd3bff14e22f9effb1e71f1893e",
       "min_years": 2,
@@ -387,24 +278,20 @@
       }
     },
     {
-      "key": "workable:toloka-ai:676A73E7EB",
+      "key": "workable:toloka-ai:88D968CEEE",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "676A73E7EB",
+      "posting_id": "88D968CEEE",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/676A73E7EB",
-      "location": "Sweden; Denmark; Finland; Norway; Iceland",
+      "url": "https://apply.workable.com/j/88D968CEEE",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
       "countries": [
-        "DK",
-        "FI",
-        "IS",
-        "NO",
-        "SE"
+        "GB"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "ed36f6ce9670",
       "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
       "min_years": 2,
@@ -426,12 +313,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:B4B8C7B6D8",
+      "key": "workable:toloka-ai:A7274E9D65",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B4B8C7B6D8",
+      "posting_id": "A7274E9D65",
       "title": "Freelance Brand Designer",
-      "url": "https://apply.workable.com/j/B4B8C7B6D8",
+      "url": "https://apply.workable.com/j/A7274E9D65",
       "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
       "countries": [
         "BE",
@@ -444,7 +331,120 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
+      "family_id": "ed36f6ce9670",
+      "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:EA63F5C5C1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "EA63F5C5C1",
+      "title": "Freelance Brand Designer",
+      "url": "https://apply.workable.com/j/EA63F5C5C1",
+      "location": "Spain; Italy; Portugal; Greece",
+      "countries": [
+        "ES",
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "ed36f6ce9670",
+      "description_sha1": "7cfbf20f20f83cc584f44de57d6e0338d1a15a6a",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:254C0326BB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "254C0326BB",
+      "title": "Freelance Brand Designer",
+      "url": "https://apply.workable.com/j/254C0326BB",
+      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "ed36f6ce9670",
+      "description_sha1": "7cfbf20f20f83cc584f44de57d6e0338d1a15a6a",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in brand design, graphic design, art direction, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:8831A15CA3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8831A15CA3",
+      "title": "Freelance Brand Designer",
+      "url": "https://apply.workable.com/j/8831A15CA3",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
       "family_id": "ed36f6ce9670",
       "description_sha1": "71f4c165de780cbfc48de02a61285e0047bc6c49",
       "min_years": 2,
@@ -1943,164 +1943,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:0C5F613BD4",
+      "key": "workable:toloka-ai:45DC85C67F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "0C5F613BD4",
+      "posting_id": "45DC85C67F",
       "title": "Freelance Web Designer",
-      "url": "https://apply.workable.com/j/0C5F613BD4",
-      "location": "Spain; Italy; Portugal; Greece",
-      "countries": [
-        "ES",
-        "GR",
-        "IT",
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-22",
-      "family_id": "f03bf90026b2",
-      "description_sha1": "b375f1efc4b30cf52fd870cd27b22bcc8c3004cc",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in web design, UI design, digital marketing design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:555BC220F3",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "555BC220F3",
-      "title": "Freelance Web Designer",
-      "url": "https://apply.workable.com/j/555BC220F3",
-      "location": "France; Belgium; Sweden; Finland; Denmark",
-      "countries": [
-        "BE",
-        "DK",
-        "FI",
-        "FR",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-22",
-      "family_id": "f03bf90026b2",
-      "description_sha1": "8cfd0c310872098ea6fcd7391e6b0e289408f31b",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in web design, UI design, digital marketing design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:9BD919D178",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "9BD919D178",
-      "title": "Freelance Web Designer",
-      "url": "https://apply.workable.com/j/9BD919D178",
-      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-22",
-      "family_id": "f03bf90026b2",
-      "description_sha1": "b375f1efc4b30cf52fd870cd27b22bcc8c3004cc",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in web design, UI design, digital marketing design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:DF8FAD8FD8",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "DF8FAD8FD8",
-      "title": "Freelance Web Designer",
-      "url": "https://apply.workable.com/j/DF8FAD8FD8",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
-      "countries": [
-        "GB"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-22",
-      "family_id": "f03bf90026b2",
-      "description_sha1": "8cfd0c310872098ea6fcd7391e6b0e289408f31b",
-      "min_years": 2,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 2 years of relevant experience in web design, UI design, digital marketing design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:1A8F41DEEA",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "1A8F41DEEA",
-      "title": "Freelance Web Designer",
-      "url": "https://apply.workable.com/j/1A8F41DEEA",
+      "url": "https://apply.workable.com/j/45DC85C67F",
       "location": "Japan; Singapore; South Korea; Australia",
       "countries": [
         "AU",
@@ -2111,7 +1959,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-22",
+      "published": "2026-10-03",
       "family_id": "f03bf90026b2",
       "description_sha1": "f1b113d89d1d921645c934c7208142a9ff4d4993",
       "min_years": 2,
@@ -2124,6 +1972,158 @@
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 2 years of relevant experience in web design, UI design, digital marketing design, or visual communications is desirable.",
         "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D5C247D995",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D5C247D995",
+      "title": "Freelance Web Designer",
+      "url": "https://apply.workable.com/j/D5C247D995",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "f03bf90026b2",
+      "description_sha1": "8cfd0c310872098ea6fcd7391e6b0e289408f31b",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in web design, UI design, digital marketing design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E0C7731841",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E0C7731841",
+      "title": "Freelance Web Designer",
+      "url": "https://apply.workable.com/j/E0C7731841",
+      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "f03bf90026b2",
+      "description_sha1": "b375f1efc4b30cf52fd870cd27b22bcc8c3004cc",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in web design, UI design, digital marketing design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7A07DABCB3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7A07DABCB3",
+      "title": "Freelance Web Designer",
+      "url": "https://apply.workable.com/j/7A07DABCB3",
+      "location": "France; Belgium; Sweden; Finland; Denmark",
+      "countries": [
+        "BE",
+        "DK",
+        "FI",
+        "FR",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "f03bf90026b2",
+      "description_sha1": "8cfd0c310872098ea6fcd7391e6b0e289408f31b",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in web design, UI design, digital marketing design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B2648FE90A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B2648FE90A",
+      "title": "Freelance Web Designer",
+      "url": "https://apply.workable.com/j/B2648FE90A",
+      "location": "Spain; Italy; Portugal; Greece",
+      "countries": [
+        "ES",
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "f03bf90026b2",
+      "description_sha1": "b375f1efc4b30cf52fd870cd27b22bcc8c3004cc",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in web design, UI design, digital marketing design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2238,20 +2238,265 @@
       }
     },
     {
-      "key": "workable:toloka-ai:C6271DC8A1",
+      "key": "workable:toloka-ai:4A32A9140C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C6271DC8A1",
+      "posting_id": "4A32A9140C",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/C6271DC8A1",
-      "location": "Italy; Rome, Italy; Milan, Italy; Naples, Italy; Turin, Italy; Palermo, Italy",
+      "url": "https://apply.workable.com/j/4A32A9140C",
+      "location": "United States",
       "countries": [
-        "IT"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C29BA7F393",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C29BA7F393",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/C29BA7F393",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1465622D34",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1465622D34",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/1465622D34",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7B0D415120",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7B0D415120",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/7B0D415120",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:91C6454C73",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "91C6454C73",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/91C6454C73",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D74717E6FF",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D74717E6FF",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/D74717E6FF",
+      "location": "Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C411A2A2A1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C411A2A2A1",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/C411A2A2A1",
+      "location": "France; Paris, France; Lyon, France",
+      "countries": [
+        "FR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:F0BC5B5797",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F0BC5B5797",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/F0BC5B5797",
+      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
+      "countries": [
+        "ES"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -2273,129 +2518,23 @@
       }
     },
     {
-      "key": "workable:toloka-ai:643FBF5C0C",
+      "key": "workable:toloka-ai:30289FD4ED",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "643FBF5C0C",
+      "posting_id": "30289FD4ED",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/643FBF5C0C",
-      "location": "Portugal; Lisbon, Portugal; Porto, Portugal; Braga, Portugal; Coimbra, Portugal",
+      "url": "https://apply.workable.com/j/30289FD4ED",
+      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
       "countries": [
-        "PT"
+        "CR",
+        "EC",
+        "JM",
+        "UY"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:062585A2F1",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "062585A2F1",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/062585A2F1",
-      "location": "Greece; Athens, Greece; Thessaloniki, Greece; Patras, Greece",
-      "countries": [
-        "GR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:F9C0F719B9",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "F9C0F719B9",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/F9C0F719B9",
-      "location": "Georgia; Armenia; Azerbaijan; Kazakhstan; Uzbekistan",
-      "countries": [
-        "AM",
-        "AZ",
-        "GE",
-        "KZ",
-        "UZ"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 30.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$30 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:04F707481B",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "04F707481B",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/04F707481B",
-      "location": "Buenos Aires, Argentina; Córdoba, Argentina; Rosario, Argentina; Mendoza, Argentina; La Plata, Argentina; Mar del Plata, Argentina",
-      "countries": [
-        "AR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
       "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
@@ -2417,20 +2556,135 @@
       }
     },
     {
-      "key": "workable:toloka-ai:5BB46DC172",
+      "key": "workable:toloka-ai:79644D7257",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "5BB46DC172",
+      "posting_id": "79644D7257",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/5BB46DC172",
-      "location": "Bucharest, Romania; Cluj-Napoca, Romania; Timișoara, Romania; Iași, Romania; Brașov, Romania; Sibiu, Romania",
+      "url": "https://apply.workable.com/j/79644D7257",
+      "location": "United States",
       "countries": [
-        "RO"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:DA03B6A705",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DA03B6A705",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/DA03B6A705",
+      "location": "Australia",
+      "countries": [
+        "AU"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:9277035D91",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9277035D91",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/9277035D91",
+      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
+      "countries": [
+        "AT",
+        "BE",
+        "DK",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:FAF49D7F19",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "FAF49D7F19",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/FAF49D7F19",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -2452,32 +2706,37 @@
       }
     },
     {
-      "key": "workable:toloka-ai:3D38B754BE",
+      "key": "workable:toloka-ai:7566C0EA23",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "3D38B754BE",
+      "posting_id": "7566C0EA23",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/3D38B754BE",
-      "location": "Warsaw, Poland; Kraków, Poland; Wrocław, Poland; Gdańsk, Poland; Poznań, Poland; Katowice, Poland",
+      "url": "https://apply.workable.com/j/7566C0EA23",
+      "location": "Serbia; Cyprus; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
       "countries": [
-        "PL"
+        "BA",
+        "CY",
+        "LT",
+        "LV",
+        "MT",
+        "RS"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
-      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
+      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
       "min_years": 5,
       "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
+      "pay_usd_hour_max": 45.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$40 per hour equivalent"
+        "pay_usd_hour_max": "$45 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2487,345 +2746,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:2ED0550336",
+      "key": "workable:toloka-ai:898C2A96D8",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2ED0550336",
+      "posting_id": "898C2A96D8",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/2ED0550336",
-      "location": "São Paulo, Brazil; Rio de Janeiro, Brazil; Belo Horizonte, Brazil; Curitiba, Brazil; Porto Alegre, Brazil",
-      "countries": [
-        "BR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 25.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$25 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:BB92CE6D98",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "BB92CE6D98",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/BB92CE6D98",
-      "location": "Mexico City, Mexico; Guadalajara, Mexico; Monterrey, Mexico; Santiago de Querétaro, Mexico; Puebla, Mexico; Tijuana, Mexico",
-      "countries": [
-        "MX"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "6fde52a6abcb8bd3aac598b05b27ba0b01e72eb2",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 25.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$25 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:81AACEC152",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "81AACEC152",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/81AACEC152",
-      "location": "Pune, India; Kolkata, India; Ahmedabad, India; Jaipur, India; Noida, India; Gurugram, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 30.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$30 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:8F76593FA1",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "8F76593FA1",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/8F76593FA1",
-      "location": "Japan; South Korea; New Zealand; Singapore",
-      "countries": [
-        "JP",
-        "KR",
-        "NZ",
-        "SG"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:08A5B7B728",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "08A5B7B728",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/08A5B7B728",
-      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
-      "countries": [
-        "AR",
-        "BR",
-        "CL",
-        "CO",
-        "MX",
-        "PE"
-      ],
-      "remote": true,
-      "open_to_colombia": true,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 25.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$25 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:7B8ED72AE2",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "7B8ED72AE2",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/7B8ED72AE2",
-      "location": "Egypt; Morocco; Algeria; Tunisia",
-      "countries": [
-        "DZ",
-        "EG",
-        "MA",
-        "TN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 25.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$25 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:2627CB230A",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "2627CB230A",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/2627CB230A",
-      "location": "Philippines; Malaysia; Indonesia; South Africa",
-      "countries": [
-        "ID",
-        "MY",
-        "PH",
-        "ZA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 30.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$30 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3A92189122",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3A92189122",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/3A92189122",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 30.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$30 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:DFFAAB9CF3",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "DFFAAB9CF3",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/DFFAAB9CF3",
-      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
-      "countries": [
-        "AM",
-        "IL",
-        "JO",
-        "LB",
-        "TR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 25.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$25 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:9A58902262",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "9A58902262",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/9A58902262",
+      "url": "https://apply.workable.com/j/898C2A96D8",
       "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
       "countries": [
         "AE",
@@ -2838,7 +2764,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
       "description_sha1": "355d615dfda524bf11384e1e953b9d873cb58ddf",
       "min_years": 5,
@@ -2860,213 +2786,24 @@
       }
     },
     {
-      "key": "workable:toloka-ai:85E3687303",
+      "key": "workable:toloka-ai:CBF75563C3",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "85E3687303",
+      "posting_id": "CBF75563C3",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/85E3687303",
-      "location": "Serbia; Cyprus; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
+      "url": "https://apply.workable.com/j/CBF75563C3",
+      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
       "countries": [
-        "BA",
-        "CY",
-        "LT",
-        "LV",
-        "MT",
-        "RS"
+        "AM",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:F257F9D9B4",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "F257F9D9B4",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/F257F9D9B4",
-      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3F85D6EE1A",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3F85D6EE1A",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/3F85D6EE1A",
-      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
-      "countries": [
-        "AT",
-        "BE",
-        "DK",
-        "FI",
-        "NO",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3257951582",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3257951582",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/3257951582",
-      "location": "Australia",
-      "countries": [
-        "AU"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:DD9F1F96A5",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "DD9F1F96A5",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/DD9F1F96A5",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
-      "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
-      "min_years": 5,
-      "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:6F92214112",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "6F92214112",
-      "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/6F92214112",
-      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
-      "countries": [
-        "CR",
-        "EC",
-        "JM",
-        "UY"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
       "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
@@ -3088,20 +2825,174 @@
       }
     },
     {
-      "key": "workable:toloka-ai:CB732E0ADF",
+      "key": "workable:toloka-ai:73A3D1E80F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "CB732E0ADF",
+      "posting_id": "73A3D1E80F",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/CB732E0ADF",
-      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
+      "url": "https://apply.workable.com/j/73A3D1E80F",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
       "countries": [
-        "ES"
+        "IN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 30.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$30 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:839430D1FE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "839430D1FE",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/839430D1FE",
+      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "countries": [
+        "ID",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 30.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$30 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E4C2CADC1B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E4C2CADC1B",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/E4C2CADC1B",
+      "location": "Egypt; Morocco; Algeria; Tunisia",
+      "countries": [
+        "DZ",
+        "EG",
+        "MA",
+        "TN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 25.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$25 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:BFF6DB2E71",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "BFF6DB2E71",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/BFF6DB2E71",
+      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
+      "countries": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 25.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$25 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:9C9CAB8B17",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9C9CAB8B17",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/9C9CAB8B17",
+      "location": "Japan; South Korea; New Zealand; Singapore",
+      "countries": [
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
       "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
@@ -3123,32 +3014,32 @@
       }
     },
     {
-      "key": "workable:toloka-ai:DE0B149504",
+      "key": "workable:toloka-ai:83A45607E2",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "DE0B149504",
+      "posting_id": "83A45607E2",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/DE0B149504",
-      "location": "France; Paris, France; Lyon, France",
+      "url": "https://apply.workable.com/j/83A45607E2",
+      "location": "Pune, India; Kolkata, India; Ahmedabad, India; Jaipur, India; Noida, India; Gurugram, India",
       "countries": [
-        "FR"
+        "IN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
       "min_years": 5,
       "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
+      "pay_usd_hour_max": 30.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
+        "pay_usd_hour_max": "$30 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -3158,32 +3049,32 @@
       }
     },
     {
-      "key": "workable:toloka-ai:DB23156C06",
+      "key": "workable:toloka-ai:BA145936C8",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "DB23156C06",
+      "posting_id": "BA145936C8",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/DB23156C06",
-      "location": "Canada",
+      "url": "https://apply.workable.com/j/BA145936C8",
+      "location": "Mexico City, Mexico; Guadalajara, Mexico; Monterrey, Mexico; Santiago de Querétaro, Mexico; Puebla, Mexico; Tijuana, Mexico",
       "countries": [
-        "CA"
+        "MX"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "description_sha1": "6fde52a6abcb8bd3aac598b05b27ba0b01e72eb2",
       "min_years": 5,
       "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
+      "pay_usd_hour_max": 25.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
+        "pay_usd_hour_max": "$25 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -3193,32 +3084,32 @@
       }
     },
     {
-      "key": "workable:toloka-ai:843171D609",
+      "key": "workable:toloka-ai:2B9FBB177D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "843171D609",
+      "posting_id": "2B9FBB177D",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/843171D609",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "url": "https://apply.workable.com/j/2B9FBB177D",
+      "location": "São Paulo, Brazil; Rio de Janeiro, Brazil; Belo Horizonte, Brazil; Curitiba, Brazil; Porto Alegre, Brazil",
       "countries": [
-        "GB"
+        "BR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
       "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
+      "pay_usd_hour_max": 25.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
+        "pay_usd_hour_max": "$25 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -3228,32 +3119,32 @@
       }
     },
     {
-      "key": "workable:toloka-ai:9E677DB1B6",
+      "key": "workable:toloka-ai:E182AD48D5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "9E677DB1B6",
+      "posting_id": "E182AD48D5",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/9E677DB1B6",
-      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "url": "https://apply.workable.com/j/E182AD48D5",
+      "location": "Warsaw, Poland; Kraków, Poland; Wrocław, Poland; Gdańsk, Poland; Poznań, Poland; Katowice, Poland",
       "countries": [
-        "US"
+        "PL"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
       "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
+      "pay_usd_hour_max": 40.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
+        "pay_usd_hour_max": "$40 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -3263,32 +3154,32 @@
       }
     },
     {
-      "key": "workable:toloka-ai:89109E2ED4",
+      "key": "workable:toloka-ai:DB03B9EF7F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "89109E2ED4",
+      "posting_id": "DB03B9EF7F",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/89109E2ED4",
-      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "url": "https://apply.workable.com/j/DB03B9EF7F",
+      "location": "Bucharest, Romania; Cluj-Napoca, Romania; Timișoara, Romania; Iași, Romania; Brașov, Romania; Sibiu, Romania",
       "countries": [
-        "US"
+        "RO"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
       "min_years": 5,
       "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
+      "pay_usd_hour_max": 40.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
+        "pay_usd_hour_max": "$40 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -3298,32 +3189,32 @@
       }
     },
     {
-      "key": "workable:toloka-ai:8107023F9D",
+      "key": "workable:toloka-ai:0ED8797831",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "8107023F9D",
+      "posting_id": "0ED8797831",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/8107023F9D",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/0ED8797831",
+      "location": "Buenos Aires, Argentina; Córdoba, Argentina; Rosario, Argentina; Mendoza, Argentina; La Plata, Argentina; Mar del Plata, Argentina",
       "countries": [
-        "US"
+        "AR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "description_sha1": "2131975a94d6609d4046b5b641b2254942ace063",
       "min_years": 5,
       "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
+      "pay_usd_hour_max": 25.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
+        "pay_usd_hour_max": "$25 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -3333,32 +3224,141 @@
       }
     },
     {
-      "key": "workable:toloka-ai:248BC61803",
+      "key": "workable:toloka-ai:7DB306F3F9",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "248BC61803",
+      "posting_id": "7DB306F3F9",
       "title": "Senior Python Data Scraping Engineer (Freelance)",
-      "url": "https://apply.workable.com/j/248BC61803",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/7DB306F3F9",
+      "location": "Georgia; Armenia; Azerbaijan; Kazakhstan; Uzbekistan",
       "countries": [
-        "US"
+        "AM",
+        "AZ",
+        "GE",
+        "KZ",
+        "UZ"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-25",
+      "published": "2026-10-03",
       "family_id": "20f1da2b094e",
-      "description_sha1": "82cf7ff6331b4076600bc2b381fb86531a5f139e",
+      "description_sha1": "68cac4a8519341941ad424c885495d63fc3fc523",
       "min_years": 5,
       "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
+      "pay_usd_hour_max": 30.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
-        "pay_usd_hour_max": "$45 per hour equivalent"
+        "pay_usd_hour_max": "$30 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:42648F909E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "42648F909E",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/42648F909E",
+      "location": "Greece; Athens, Greece; Thessaloniki, Greece; Patras, Greece",
+      "countries": [
+        "GR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:05799BF6D6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "05799BF6D6",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/05799BF6D6",
+      "location": "Portugal; Lisbon, Portugal; Porto, Portugal; Braga, Portugal; Coimbra, Portugal",
+      "countries": [
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4D2D6B010C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4D2D6B010C",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "url": "https://apply.workable.com/j/4D2D6B010C",
+      "location": "Italy; Rome, Italy; Milan, Italy; Naples, Italy; Turin, Italy; Palermo, Italy",
+      "countries": [
+        "IT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-03",
+      "family_id": "20f1da2b094e",
+      "description_sha1": "ee6f18830ade94a8297a76b54421b065183e2e51",
+      "min_years": 5,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 5+ years of relevant experience in data engineering, web scraping, automation, or software development (required).",
+        "pay_usd_hour_max": "$40 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -5409,6 +5409,35 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4660340005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4660340005",
+      "title": "Machine Learning Fellow - Human Frontier Collective",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-02-12",
+      "family_id": "2543e3d7991a",
+      "description_sha1": "b9b85d0c3041a4a9a02f65c71b32cc8a45bdda05",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-25",
+      "evidence": {
+        "hours_per_week": "Most fellows spend 10–25 hours per week, on a schedule they set themselves."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4661650005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -5454,35 +5483,6 @@
       "published": "2026-02-12",
       "family_id": "f7d660f737a3",
       "description_sha1": "f88d31a7c8c27815427893429f9e12e87d35cd35",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-25",
-      "evidence": {
-        "hours_per_week": "Most fellows spend 10–25 hours per week, on a schedule they set themselves."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4660340005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4660340005",
-      "title": "Machine Learning Fellow - Human Frontier Collective (US)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-02-12",
-      "family_id": "6342337ee326",
-      "description_sha1": "b9b85d0c3041a4a9a02f65c71b32cc8a45bdda05",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -5868,35 +5868,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -5914,6 +5885,35 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6008,6 +6008,35 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "5+ years of experience in Product Marketing or Customer Marketing, preferably within B2G (Business-to-Government), High-touch Enterprise SaaS or Consulting"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4740039005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4740039005",
+      "title": "Product Operations Lead, Generative AI",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4740039005",
+      "location": "San Francisco, CA; New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-02",
+      "family_id": "c553c08866d7",
+      "description_sha1": "f8e9ec4e52b451f3a39dc26668f217a6d213aeb8",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience in Product Operations, Technical Program Management, Strategy & Operations, or delivery operations within high-growth tech environments; the ideal candidate will have 6+ months of experience delivering GenAI data pipelines"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -6310,6 +6339,31 @@
       "published": "2026-05-18",
       "family_id": "4dd015464e23",
       "description_sha1": "67099660ccb2e2f837ead46cf53443b615448123",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4740043005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4740043005",
+      "title": "Revenue Operations Manager",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4740043005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-02",
+      "family_id": "70704024de93",
+      "description_sha1": "284855cd43067939308e2469b7d38df0e3a6b6c0",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6677,35 +6731,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4673310005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673310005",
-      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-24",
-      "family_id": "b57fc5af0370",
-      "description_sha1": "a48ee25e5084967b63bf4164f0644c82bfb86c26",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of post-graduation, full-stack engineering experience with demonstrated proficiency in React (required), TypeScript, Next.js, Python, Node.js, PostgreSQL or MongoDB plus hands-on experience with Docker, Kubernetes, and Azure/AWS/GCP."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4676606005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6722,6 +6747,35 @@
       "published": "2026-03-24",
       "family_id": "b57fc5af0370",
       "description_sha1": "983ad66cdc5e668387fe73c0196a21848be605e4",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of post-graduation, full-stack engineering experience with demonstrated proficiency in React (required), TypeScript, Next.js, Python, Node.js, PostgreSQL or MongoDB plus hands-on experience with Docker, Kubernetes, and Azure/AWS/GCP."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4673310005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673310005",
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-24",
+      "family_id": "b57fc5af0370",
+      "description_sha1": "a48ee25e5084967b63bf4164f0644c82bfb86c26",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7254,31 +7308,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730846005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730846005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730834005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7295,6 +7324,31 @@
       "published": "2026-09-14",
       "family_id": "560d46ffe696",
       "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730846005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730846005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7358,31 +7412,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4730836005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730836005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-04",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730862005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7399,6 +7428,31 @@
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
       "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730836005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730836005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-04",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7866,31 +7920,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4718917005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4718917005",
-      "title": "Staff Product Designer, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
-      "location": "New York, NY; San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-29",
-      "family_id": "614cd584a7ff",
-      "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4735360005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7907,6 +7936,31 @@
       "published": "2026-09-24",
       "family_id": "614cd584a7ff",
       "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4718917005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4718917005",
+      "title": "Staff Product Designer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
+      "location": "New York, NY; San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-07-29",
+      "family_id": "614cd584a7ff",
+      "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8198,6 +8252,35 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4574113005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4574113005",
+      "title": "STEM Fellow - Human Frontier Collective",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4574113005",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2025-06-06",
+      "family_id": "84a0f6056146",
+      "description_sha1": "0d6b07337ba8b2bce381def0d5381fddfe92a087",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-25",
+      "evidence": {
+        "hours_per_week": "Most fellows spend 10–25 hours per week, on a schedule they set themselves."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4620719005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8214,31 +8297,6 @@
       "published": "2025-10-17",
       "family_id": "617ebff3620f",
       "description_sha1": "0ce501f403f1ab9acd637fdbedace6a3d3c09c81",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4574113005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4574113005",
-      "title": "STEM Fellow - Human Frontier Collective (US)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4574113005",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-06-06",
-      "family_id": "960decd7150a",
-      "description_sha1": "8a51dadf24580dae8269fd4202d1bc40b17fcb9e",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8304,31 +8362,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4658316005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4658316005",
-      "title": "Strategic Projects Lead, Robotics",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4658316005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-02-05",
-      "family_id": "dd118e5a038b",
-      "description_sha1": "1982174e8f6a78e7b21c786d3c6ee5ea8384323b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4607930005",
@@ -10412,31 +10445,6 @@
       "published": "2026-07-29",
       "family_id": "9b01baa5a0e3",
       "description_sha1": "3763649e1631d5a9638bc2d94d3ea6933f8e0000",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:labelbox:5159327007",
-      "source": "greenhouse",
-      "company": "Labelbox",
-      "posting_id": "5159327007",
-      "title": "Staff Software Engineer, AI Data Platform",
-      "url": "https://job-boards.greenhouse.io/labelbox/jobs/5159327007",
-      "location": "San Francisco Bay Area",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-06-08",
-      "family_id": "10759428ae17",
-      "description_sha1": "d4fda98d1438d85c86b0fa6977ccf593418893b2",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,

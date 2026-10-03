@@ -2,6 +2,29 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-03 · 405 postings · +49 new · -49 closed · ~2 changed
+
+**New**
+
+- Mindrift (Toloka) · Senior Python Data Scraping Engineer (Freelance) · 31 (AE, AM, AR, AT, AU, AZ, BA, BE, ...)
+- Mindrift (Toloka) · Freelance Brand Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- Mindrift (Toloka) · Freelance Web Designer · 5 (AU, BE, BG, CZ, DK, ES, FI, FR, ...)
+- Scale AI · Product Operations Lead, Generative AI · 1 (US)
+- Scale AI · Revenue Operations Manager · 1 (US)
+
+**Closed**
+
+- Mindrift (Toloka) · Senior Python Data Scraping Engineer (Freelance) · 31 (AE, AM, AR, AT, AU, AZ, BA, BE, ...)
+- Mindrift (Toloka) · Freelance Brand Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- Mindrift (Toloka) · Freelance Web Designer · 5 (AU, BE, BG, CZ, DK, ES, FI, FR, ...)
+- Labelbox · Staff Software Engineer, AI Data Platform · 1 (US)
+- Scale AI · Strategic Projects Lead, Robotics · 1 (US)
+
+**Changed**
+
+- Scale AI · STEM Fellow - Human Frontier Collective · 1 (US)
+- Scale AI · Machine Learning Fellow - Human Frontier Collective · 1 (US)
+
 ## 2026-10-02 · 405 postings · +5 new · -4 closed · ~7 changed
 
 **New**
