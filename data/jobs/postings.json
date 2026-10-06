@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:50:16+00:00",
+  "generated_at": "2026-10-06T17:15:11+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -466,284 +466,20 @@
       }
     },
     {
-      "key": "workable:toloka-ai:85431ECB6A",
+      "key": "workable:toloka-ai:802EEAE74D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "85431ECB6A",
+      "posting_id": "802EEAE74D",
       "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/85431ECB6A",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/802EEAE74D",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
       "countries": [
-        "US"
+        "IN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:2515D14961",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "2515D14961",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/2515D14961",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
-      "countries": [
-        "GB"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-28",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:CC43B3E1C4",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "CC43B3E1C4",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/CC43B3E1C4",
-      "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
-      "countries": [
-        "BE",
-        "DE",
-        "DK",
-        "FI",
-        "FR",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-28",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:ECA1F21DAD",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "ECA1F21DAD",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/ECA1F21DAD",
-      "location": "Spain; Italy; Portugal; Greece",
-      "countries": [
-        "ES",
-        "GR",
-        "IT",
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-28",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "ef42a4b20bfe2b712f5f6bb99111d204f45c9a3e",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3AA4F53D4B",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3AA4F53D4B",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/3AA4F53D4B",
-      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-28",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "ef42a4b20bfe2b712f5f6bb99111d204f45c9a3e",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 40.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$40 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:C50B9F7D3B",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "C50B9F7D3B",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/C50B9F7D3B",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-28",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:E845D8BD6F",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "E845D8BD6F",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/E845D8BD6F",
-      "location": "Sweden; Denmark; Finland; Norway; Iceland",
-      "countries": [
-        "DK",
-        "FI",
-        "IS",
-        "NO",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-28",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:7F297A0787",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "7F297A0787",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/7F297A0787",
-      "location": "Philippines; Malaysia; Indonesia",
-      "countries": [
-        "ID",
-        "MY",
-        "PH"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-05",
       "family_id": "1c82bcabd520",
       "description_sha1": "2bd4140d7efa1c2932a5035702f4a6dc429daefc",
       "min_years": 1,
@@ -765,52 +501,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:B89044CE7C",
+      "key": "workable:toloka-ai:C4EDCA46CB",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B89044CE7C",
+      "posting_id": "C4EDCA46CB",
       "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/B89044CE7C",
-      "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
-      "countries": [
-        "IL",
-        "JO",
-        "KW",
-        "QA",
-        "SA",
-        "TR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-09-28",
-      "family_id": "1c82bcabd520",
-      "description_sha1": "0c56e9e79b7d94efda4bd72e4e9e40880f4d4740",
-      "min_years": 1,
-      "english_level": "B2",
-      "pay_usd_hour_max": 45.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
-        "pay_usd_hour_max": "$45 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "min_years": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:6B55ADB4A5",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "6B55ADB4A5",
-      "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/6B55ADB4A5",
+      "url": "https://apply.workable.com/j/C4EDCA46CB",
       "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
       "countries": [
         "AR",
@@ -823,7 +519,7 @@
       "remote": true,
       "open_to_colombia": true,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-05",
       "family_id": "1c82bcabd520",
       "description_sha1": "a9aeca80f405ae0e88710703397031728a6a01db",
       "min_years": 1,
@@ -845,20 +541,62 @@
       }
     },
     {
-      "key": "workable:toloka-ai:B0AB888F36",
+      "key": "workable:toloka-ai:1073379A21",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B0AB888F36",
+      "posting_id": "1073379A21",
       "title": "Freelance Graphic Designer",
-      "url": "https://apply.workable.com/j/B0AB888F36",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
+      "url": "https://apply.workable.com/j/1073379A21",
+      "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
       "countries": [
-        "IN"
+        "IL",
+        "JO",
+        "KW",
+        "QA",
+        "SA",
+        "TR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-05",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "0c56e9e79b7d94efda4bd72e4e9e40880f4d4740",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B987908EAC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B987908EAC",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/B987908EAC",
+      "location": "Philippines; Malaysia; Indonesia",
+      "countries": [
+        "ID",
+        "MY",
+        "PH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
       "family_id": "1c82bcabd520",
       "description_sha1": "2bd4140d7efa1c2932a5035702f4a6dc429daefc",
       "min_years": 1,
@@ -876,6 +614,1102 @@
         "english_level": "rules",
         "hours_per_week": "rules",
         "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D3373BEB31",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D3373BEB31",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/D3373BEB31",
+      "location": "Sweden; Denmark; Finland; Norway; Iceland",
+      "countries": [
+        "DK",
+        "FI",
+        "IS",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:66D6A4E9E2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "66D6A4E9E2",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/66D6A4E9E2",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:6CDE031AB2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "6CDE031AB2",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/6CDE031AB2",
+      "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "ef42a4b20bfe2b712f5f6bb99111d204f45c9a3e",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:38CE12EC14",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "38CE12EC14",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/38CE12EC14",
+      "location": "Spain; Italy; Portugal; Greece",
+      "countries": [
+        "ES",
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "ef42a4b20bfe2b712f5f6bb99111d204f45c9a3e",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 40.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$40 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:22CF9724E1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "22CF9724E1",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/22CF9724E1",
+      "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
+      "countries": [
+        "BE",
+        "DE",
+        "DK",
+        "FI",
+        "FR",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:786A0D3DA9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "786A0D3DA9",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/786A0D3DA9",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C5E561F5A3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C5E561F5A3",
+      "title": "Freelance Graphic Designer",
+      "url": "https://apply.workable.com/j/C5E561F5A3",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "1c82bcabd520",
+      "description_sha1": "8b645f34630499f79565cbb1d38ab1bc7d3aefcf",
+      "min_years": 1,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 1-2 years of relevant experience in graphic design, digital design, or visual communications is desirable.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B277C3F0F0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B277C3F0F0",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/B277C3F0F0",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:6C65FCCBE2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "6C65FCCBE2",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/6C65FCCBE2",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:051BA2E412",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "051BA2E412",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/051BA2E412",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B359B176A6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B359B176A6",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/B359B176A6",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E2925302A9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E2925302A9",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/E2925302A9",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2C1A8BDC96",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2C1A8BDC96",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/2C1A8BDC96",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "69c86a459a903d0527b1f91dc900d837eef694e4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 36.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$36 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:936D504794",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "936D504794",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/936D504794",
+      "location": "Canada; St. Marys, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f22739a5683de2d475fb636e87d4549b953c451e",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1CD6C22B65",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1CD6C22B65",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/1CD6C22B65",
+      "location": "Australia",
+      "countries": [
+        "AU"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f22739a5683de2d475fb636e87d4549b953c451e",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:552487F0D4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "552487F0D4",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/552487F0D4",
+      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
+      "countries": [
+        "DE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4E2EEF05C3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4E2EEF05C3",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/4E2EEF05C3",
+      "location": "France; Paris, France; Lyon, France",
+      "countries": [
+        "FR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5FAAE9D8ED",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5FAAE9D8ED",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/5FAAE9D8ED",
+      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
+      "countries": [
+        "ES"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:44D8D57436",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "44D8D57436",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/44D8D57436",
+      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
+      "countries": [
+        "CR",
+        "EC",
+        "JM",
+        "UY"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "7ccdab67c1aaaa5e2177f6d4e742a1f890d2f482",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 17.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$17 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:22026E91B5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "22026E91B5",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/22026E91B5",
+      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
+      "countries": [
+        "AT",
+        "BE",
+        "DK",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:15105ADEF6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "15105ADEF6",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/15105ADEF6",
+      "location": "Portugal; Greece; Italy",
+      "countries": [
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2043FB2070",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2043FB2070",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/2043FB2070",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia",
+      "countries": [
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:84EEDA67E8",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "84EEDA67E8",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/84EEDA67E8",
+      "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
+      "countries": [
+        "BA",
+        "EE",
+        "LT",
+        "LV",
+        "MT",
+        "RS"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C14F2C7D7E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C14F2C7D7E",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/C14F2C7D7E",
+      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
+      "countries": [
+        "AE",
+        "BH",
+        "KW",
+        "OM",
+        "QA",
+        "SA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "087e45edbf7d924953c1035d81dadc13734fdb8a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 37.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$37 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2BF7B0EA8C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2BF7B0EA8C",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/2BF7B0EA8C",
+      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
+      "countries": [
+        "AM",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "a47c0d529eb154d0697236252154184996b5ed81",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 19.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$19 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:31F0443762",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "31F0443762",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/31F0443762",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3EBC16C7EC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3EBC16C7EC",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/3EBC16C7EC",
+      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "countries": [
+        "ID",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1B74403883",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1B74403883",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/1B74403883",
+      "location": "Egypt; Morocco; Algeria; Tunisia",
+      "countries": [
+        "DZ",
+        "EG",
+        "MA",
+        "TN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:9A3E78F6A4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9A3E78F6A4",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/9A3E78F6A4",
+      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
+      "countries": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "fda3c756e96540d481d835cd90e8e34cb6af0160",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 14.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$14 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D348EEEADF",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D348EEEADF",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/D348EEEADF",
+      "location": "Japan; South Korea; New Zealand; Singapore",
+      "countries": [
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "087e45edbf7d924953c1035d81dadc13734fdb8a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 37.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$37 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:8237F9A728",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8237F9A728",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/8237F9A728",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-06",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
         "pay_usd_hour_max": "rules"
       }
     },
@@ -2168,6 +3002,767 @@
       }
     },
     {
+      "key": "workable:toloka-ai:0E6FB99F09",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0E6FB99F09",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/0E6FB99F09",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:477B7AD227",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "477B7AD227",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/477B7AD227",
+      "location": "United States; Miami, United States; Tampa, United States; Orlando, United States; Jacksonville, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1D8D003A4A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1D8D003A4A",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/1D8D003A4A",
+      "location": "United States; Denver, United States; Colorado Springs, United States; Aurora, United States; Boulder, United States; Fort Collins, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5BFF94D7AC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5BFF94D7AC",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/5BFF94D7AC",
+      "location": "United States; Milwaukee, United States; Madison, United States; Green Bay, United States; Kenosha, United States; Racine, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:AD40A6CCB9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "AD40A6CCB9",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/AD40A6CCB9",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D296D3CDA5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D296D3CDA5",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/D296D3CDA5",
+      "location": "United States; Philadelphia, United States; Pittsburgh, United States; Allentown, United States; Erie, United States; Reading, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:472055C078",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "472055C078",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/472055C078",
+      "location": "United States; Detroit, United States; Grand Rapids, United States; Ann Arbor, United States; Lansing, United States; Flint, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:8284A20343",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8284A20343",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/8284A20343",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:DBA0C63FF9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DBA0C63FF9",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/DBA0C63FF9",
+      "location": "United States; Minneapolis, United States; Saint Paul, United States; Rochester, United States; Duluth, United States; Bloomington, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:DE9F179C87",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DE9F179C87",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/DE9F179C87",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C00E84B046",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C00E84B046",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/C00E84B046",
+      "location": "Canada; Toronto, Canada; Ottawa, Canada; Mississauga, Canada; Hamilton, Canada; Waterloo, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:60BA0D4983",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "60BA0D4983",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/60BA0D4983",
+      "location": "Vancouver, Canada; Victoria, Canada; Burnaby, Canada; Montreal, Canada; Québec City, Canada; Calgary, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B4F8D6B9F0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B4F8D6B9F0",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/B4F8D6B9F0",
+      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
+      "countries": [
+        "AE",
+        "BH",
+        "KW",
+        "OM",
+        "QA",
+        "SA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:CFFF0A0579",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "CFFF0A0579",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/CFFF0A0579",
+      "location": "Israel; Jordan; Lebanon; Egypt; Turkey",
+      "countries": [
+        "EG",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:445CA6CAB6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "445CA6CAB6",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/445CA6CAB6",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C7593DBDBB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C7593DBDBB",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/C7593DBDBB",
+      "location": "Philippines; Malaysia; Indonesia; South Africa; Jamaica",
+      "countries": [
+        "ID",
+        "JM",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:CE07FEFFB2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "CE07FEFFB2",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/CE07FEFFB2",
+      "location": "Mexico; Colombia; Brazil; Argentina; Peru; Chile",
+      "countries": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4FA2FFBA02",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4FA2FFBA02",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/4FA2FFBA02",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7208869D66",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7208869D66",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/7208869D66",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:0FECBA4B7C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0FECBA4B7C",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/0FECBA4B7C",
+      "location": "Japan; South Korea; New Zealand; Singapore",
+      "countries": [
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "695f64b26e63",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7F43517691",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7F43517691",
+      "title": "Medicine Expert - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/7F43517691",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "474cf609a012",
+      "description_sha1": "06d9285c82bb1e0c69c75c9d0dad1d5943fd5898",
+      "min_years": 3,
+      "english_level": "C1",
+      "pay_usd_hour_max": 240.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+);",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "min_years": "Active clinical practice, with 3+ years of hands-on clinical experience (board certification is a plus);",
+        "pay_usd_hour_max": "$240/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
       "key": "workable:toloka-ai:A394FA405B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -2199,6 +3794,72 @@
         "english_level": "rules",
         "hours_per_week": "rules",
         "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:26CED2CFCA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "26CED2CFCA",
+      "title": "Senior CAD Engineer (CATIA / SolidWorks / NX / ANSYS) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/26CED2CFCA",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-05",
+      "family_id": "9b0a0aa47b1f",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:36F55997E3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "36F55997E3",
+      "title": "Senior CFD Engineer (OpenFOAM / ANSYS Fluent) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/36F55997E3",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-06",
+      "family_id": "e7711e371896",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
         "pay_usd_hour_max": "rules"
       }
     },
@@ -3403,56 +5064,6 @@
       }
     },
     {
-      "key": "workable:huggingface:F4C096B22E",
-      "source": "workable",
-      "company": "Hugging Face",
-      "posting_id": "F4C096B22E",
-      "title": "Low-level Senior Software Engineer, Xet Storage - EMEA Remote",
-      "url": "https://apply.workable.com/j/F4C096B22E",
-      "location": "Paris, France",
-      "countries": [
-        "FR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Full-time",
-      "published": "2026-07-30",
-      "family_id": "22020648ac51",
-      "description_sha1": "d86bf6ec9605f37ab65b2287c34df2509d259b9e",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:huggingface:002470F128",
-      "source": "workable",
-      "company": "Hugging Face",
-      "posting_id": "002470F128",
-      "title": "Low-Level Senior Software Engineer, Xet Storage - US Remote",
-      "url": "https://apply.workable.com/j/002470F128",
-      "location": "New York, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Full-time",
-      "published": "2026-07-30",
-      "family_id": "a8b3b4645340",
-      "description_sha1": "d86bf6ec9605f37ab65b2287c34df2509d259b9e",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:huggingface:81B46579FE",
       "source": "workable",
       "company": "Hugging Face",
@@ -3848,33 +5459,29 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4718940005",
+      "key": "greenhouse:scaleai:4736877005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4718940005",
-      "title": "Communications Senior Manager, Corporate & Product (Enterprise)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718940005",
-      "location": "San Francisco, CA; New York, NY",
+      "posting_id": "4736877005",
+      "title": "COLM 2026 - General Interest",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736877005",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "countries": [
         "US"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-07-28",
-      "family_id": "2c39cb0b9e01",
-      "description_sha1": "e225ff1374cd4d6ed38ad451172141f37016252d",
-      "min_years": 7,
+      "published": "2026-09-30",
+      "family_id": "a18279e2d373",
+      "description_sha1": "a989f6cc8d2182f84abbd8036b24cb01b3aeae72",
+      "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
-      "evidence": {
-        "min_years": "7+ years of experience in technology communications, product communications, or enterprise-focused PR (in-house or agency)."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4731928005",
@@ -4178,33 +5785,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4726274005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4726274005",
-      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726274005",
-      "location": "Colorado Springs, CO",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-08-24",
-      "family_id": "8a8b6f0077b0",
-      "description_sha1": "524004a7c76f4e7f5abf4bb6e06052fec578ca77",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4692188005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -4220,7 +5800,7 @@
       "employment_type": null,
       "published": "2026-05-04",
       "family_id": "1219e8d3c1bb",
-      "description_sha1": "1189bda92af9e011c3fb284d3db3e6afaeabc221",
+      "description_sha1": "80033fc58e76c0a7c5c733afbb62eaeb8c1b72e3",
       "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -4369,35 +5949,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "At least 1-2+ years of direct people management experience"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4595555005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4595555005",
-      "title": "Engineering Manager, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4595555005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-08-11",
-      "family_id": "5518f7ec680a",
-      "description_sha1": "26e3046c682892886d893e893e4b0b42094a2c1b",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "At least 5 years of relevant experience and at least 2 years of experience managing back engineers is preferred"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -4834,6 +6385,35 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "5+ years of software engineering experience, ideally in customer-facing, forward-deployed, or government contexts."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4602177005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4602177005",
+      "title": "Frontier Agent Engineering Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4602177005",
+      "location": "San Francisco, CA; New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-27",
+      "family_id": "262fca07ec23",
+      "description_sha1": "60393d05750a7e4990b23d46ab30c1f69ca9b1c1",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of software engineering experience with 3+ yrs of"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -5280,7 +6860,7 @@
       "source": "greenhouse",
       "company": "Scale AI",
       "posting_id": "4651614005",
-      "title": "Lead Counsel, Product and Intellectual Property",
+      "title": "Lead Counsel, Product",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4651614005",
       "location": "San Francisco, CA",
       "countries": [
@@ -5290,7 +6870,7 @@
       "open_to_colombia": false,
       "employment_type": null,
       "published": "2026-01-20",
-      "family_id": "febbce506b6d",
+      "family_id": "be88032df72a",
       "description_sha1": "f21cc02d0d9d649c37269903b43fab9de28859b2",
       "min_years": 5,
       "english_level": null,
@@ -5399,7 +6979,7 @@
       "employment_type": null,
       "published": "2025-11-18",
       "family_id": "ccc1722806d1",
-      "description_sha1": "92dbd9fa892cce38d8a5b8e1753fbaeeefea6070",
+      "description_sha1": "47d0c5be5f530b3ebef932f3e3cebaa057df280e",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -5868,6 +7448,35 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -5885,35 +7494,6 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6561,6 +8141,35 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4718940005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4718940005",
+      "title": "Senior Communications Manager, Corporate & Product (Enterprise)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718940005",
+      "location": "San Francisco, CA; New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-07-28",
+      "family_id": "639e8e048aed",
+      "description_sha1": "e225ff1374cd4d6ed38ad451172141f37016252d",
+      "min_years": 7,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "7+ years of experience in technology communications, product communications, or enterprise-focused PR (in-house or agency)."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4729899005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6702,22 +8311,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4732394005",
+      "key": "greenhouse:scaleai:4673310005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4732394005",
-      "title": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732394005",
-      "location": "Riyadh, Saudi Arabia",
+      "posting_id": "4673310005",
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
+      "location": "London, UK",
       "countries": [
-        "SA"
+        "GB"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-10",
+      "published": "2026-03-24",
       "family_id": "b57fc5af0370",
-      "description_sha1": "983ad66cdc5e668387fe73c0196a21848be605e4",
+      "description_sha1": "a48ee25e5084967b63bf4164f0644c82bfb86c26",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6747,35 +8356,6 @@
       "published": "2026-03-24",
       "family_id": "b57fc5af0370",
       "description_sha1": "983ad66cdc5e668387fe73c0196a21848be605e4",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of post-graduation, full-stack engineering experience with demonstrated proficiency in React (required), TypeScript, Next.js, Python, Node.js, PostgreSQL or MongoDB plus hands-on experience with Docker, Kubernetes, and Azure/AWS/GCP."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4673310005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673310005",
-      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-24",
-      "family_id": "b57fc5af0370",
-      "description_sha1": "a48ee25e5084967b63bf4164f0644c82bfb86c26",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6833,7 +8413,7 @@
       "employment_type": null,
       "published": "2026-09-10",
       "family_id": "7a75ab9b2ea5",
-      "description_sha1": "dbddcb21b5fd7bd4e4b4d65c84a8a2587d0339ce",
+      "description_sha1": "d57f32cb51d20018946c263395753d9b80984508",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7308,31 +8888,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730834005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730834005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-      "location": "Doha, Qatar",
-      "countries": [
-        "QA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730846005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7349,6 +8904,31 @@
       "published": "2026-09-14",
       "family_id": "560d46ffe696",
       "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730834005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730834005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+      "location": "Doha, Qatar",
+      "countries": [
+        "QA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8694,33 +10274,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4726276005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4726276005",
-      "title": "Technical Program Manager (Homeland Layered Defense), Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726276005",
-      "location": "Colorado Springs, CO",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-08-24",
-      "family_id": "e58dfd260045",
-      "description_sha1": "631992dd357df68c864a723f066bf9c7b7861cd9",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of experience in technical program management, software engineering, systems engineering, product management, technical consulting, or a related technical delivery role"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4726268005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8765,63 +10318,7 @@
       "employment_type": null,
       "published": "2025-11-21",
       "family_id": "f51ef27a42d8",
-      "description_sha1": "2f3f9b5c3b9e27f14cac8960d7a943f1fb791a31",
-      "min_years": 10,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "10+ years of professional experience, often in a customer-facing technical program management role in industry or government."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4730990005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730990005",
-      "title": "Technical Program Manager, Public Sector (Boston, MA)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730990005",
-      "location": "Boston, MA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-08",
-      "family_id": "d79e1b93cbcc",
-      "description_sha1": "d7f15b41139683ddd40c40a650d839feb4380f24",
-      "min_years": 10,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "10+ years of professional experience, often in a customer-facing technical program management role in industry or government."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4731017005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4731017005",
-      "title": "Technical Program Manager, Public Sector (Dayton, OH)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731017005",
-      "location": "Dayton, OH",
-      "countries": [],
-      "remote": null,
-      "open_to_colombia": null,
-      "employment_type": null,
-      "published": "2026-09-08",
-      "family_id": "c2dada83a539",
-      "description_sha1": "997e02bcc43f94b12750f04cb42b644ea5eea383",
+      "description_sha1": "fddcd2f1574372075cf52ba5459359a44872f816",
       "min_years": 10,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9322,14 +10819,18 @@
       "employment_type": null,
       "published": "2026-09-29",
       "family_id": "ed0ce4632fbd",
-      "description_sha1": "9de5452344a88ba80489a7095dcd87ace3b01381",
-      "min_years": null,
+      "description_sha1": "56fe5cf2b48f1f25ec5c1e8e292b205ac00f369c",
+      "min_years": 7,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
+      "evidence": {
+        "min_years": "7+ years of experience in software development."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
     },
     {
       "key": "greenhouse:turing:6162081004",
@@ -9734,29 +11235,33 @@
       }
     },
     {
-      "key": "greenhouse:invisibletech:4957418101",
+      "key": "greenhouse:invisibletech:4997999101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
-      "posting_id": "4957418101",
-      "title": "DevOps Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4957418101",
-      "location": "London - Hybrid",
+      "posting_id": "4997999101",
+      "title": "Contract Technical Recruiter",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4997999101",
+      "location": "United States - Remote",
       "countries": [
-        "GB"
+        "US"
       ],
-      "remote": null,
+      "remote": true,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-08-20",
-      "family_id": "ae3b8db7a191",
-      "description_sha1": "51fca63444c67cd1e70c1fc00fef84754c8b80ae",
+      "published": "2026-10-05",
+      "family_id": "f29f3ef7b3f3",
+      "description_sha1": "995e44d1c0f62e1f21fd69324b8ca0f8bdfaba19",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
+      "hours_per_week": "40",
+      "evidence": {
+        "hours_per_week": "This is a 3 to 6 month contract engagement at approximately 40 hours per week, with the potential to extend based on business needs."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
     },
     {
       "key": "greenhouse:invisibletech:4945812101",
@@ -11140,6 +12645,354 @@
       }
     },
     {
+      "key": "lever:rws:b0a3caed-5d90-4c66-9fe3-b9d5d386f96e",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "b0a3caed-5d90-4c66-9fe3-b9d5d386f96e",
+      "title": "AI Linguistic Evaluator - Bengali (India)",
+      "url": "https://jobs.lever.co/rws/b0a3caed-5d90-4c66-9fe3-b9d5d386f96e",
+      "location": "New York",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "f2410d60e98f",
+      "description_sha1": "fb3696be85c16d3f5a0aeb5e0e00c156ba5aebd1",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:d8e470ab-1cba-4e41-9ee2-137db8b4f3c7",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "d8e470ab-1cba-4e41-9ee2-137db8b4f3c7",
+      "title": "AI Linguistic Evaluator - Bengali (India)",
+      "url": "https://jobs.lever.co/rws/d8e470ab-1cba-4e41-9ee2-137db8b4f3c7",
+      "location": "Toronto",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "f2410d60e98f",
+      "description_sha1": "f1367a4cd60f24cdf9bd65ffc033b6788444c054",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:5b16108c-b19c-4b3d-80d5-5bab8c8a980f",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "5b16108c-b19c-4b3d-80d5-5bab8c8a980f",
+      "title": "AI Linguistic Evaluator - Gujarati",
+      "url": "https://jobs.lever.co/rws/5b16108c-b19c-4b3d-80d5-5bab8c8a980f",
+      "location": "Edison, New Jersey",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "df05984a6f13",
+      "description_sha1": "92e136d18f7fd2b5dd0cfe646aeb211cb3b7f318",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:f2909261-9bde-4762-a109-c7a0021c8d87",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "f2909261-9bde-4762-a109-c7a0021c8d87",
+      "title": "AI Linguistic Evaluator - Gujarati",
+      "url": "https://jobs.lever.co/rws/f2909261-9bde-4762-a109-c7a0021c8d87",
+      "location": "Brampton, Ontario",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "df05984a6f13",
+      "description_sha1": "ce0e6d980897a7c87df8f42ca651c903ea08114d",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:08eb2f35-4333-4e90-a3e9-1518517eed21",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "08eb2f35-4333-4e90-a3e9-1518517eed21",
+      "title": "AI Linguistic Evaluator - Malayalam",
+      "url": "https://jobs.lever.co/rws/08eb2f35-4333-4e90-a3e9-1518517eed21",
+      "location": "Dallas, Texas",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "ca9719fae836",
+      "description_sha1": "93894dcf946c602350a719ab5be1f5ad1ae0fd53",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:61813bce-c3c1-434c-ac87-9ca4f87b93e6",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "61813bce-c3c1-434c-ac87-9ca4f87b93e6",
+      "title": "AI Linguistic Evaluator - Malayalam",
+      "url": "https://jobs.lever.co/rws/61813bce-c3c1-434c-ac87-9ca4f87b93e6",
+      "location": "Toronto",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "ca9719fae836",
+      "description_sha1": "387210250fabe86af0b4ec1ebd82f7baaec7b4e7",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:758ec345-86a0-421e-ad04-91c09308ae47",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "758ec345-86a0-421e-ad04-91c09308ae47",
+      "title": "AI Linguistic Evaluator - Marathi",
+      "url": "https://jobs.lever.co/rws/758ec345-86a0-421e-ad04-91c09308ae47",
+      "location": "Dallas, Texas",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "a0db4e8c9add",
+      "description_sha1": "2c17f5b46aa97f0b5cca00e9b11ec50c26f085a4",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:e44ef093-5ec5-4029-a7b6-9af63c109a26",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "e44ef093-5ec5-4029-a7b6-9af63c109a26",
+      "title": "AI Linguistic Evaluator - Marathi",
+      "url": "https://jobs.lever.co/rws/e44ef093-5ec5-4029-a7b6-9af63c109a26",
+      "location": "Toronto",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "a0db4e8c9add",
+      "description_sha1": "99c3586373b3f4aaae813c13f126ebda1ac781af",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:1af08aa1-0ee0-4800-8cec-91b8b766c2d0",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "1af08aa1-0ee0-4800-8cec-91b8b766c2d0",
+      "title": "AI Linguistic Evaluator - Tamil (India)",
+      "url": "https://jobs.lever.co/rws/1af08aa1-0ee0-4800-8cec-91b8b766c2d0",
+      "location": "Dallas, Texas",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "a05fa3d2ca49",
+      "description_sha1": "ead3069f39c35c5744f08c1ced7ac8575554cd77",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:7b120ca9-503c-4240-b3dd-24fdb10251fb",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "7b120ca9-503c-4240-b3dd-24fdb10251fb",
+      "title": "AI Linguistic Evaluator - Tamil (India)",
+      "url": "https://jobs.lever.co/rws/7b120ca9-503c-4240-b3dd-24fdb10251fb",
+      "location": "Toronto",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "a05fa3d2ca49",
+      "description_sha1": "f79aef447af325f765e2a20e7f5ab1b884a217d6",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:1e321ef1-f58c-47bc-827d-dd392cf2671b",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "1e321ef1-f58c-47bc-827d-dd392cf2671b",
+      "title": "AI Linguistic Evaluator - Telugu",
+      "url": "https://jobs.lever.co/rws/1e321ef1-f58c-47bc-827d-dd392cf2671b",
+      "location": "Dallas, Texas",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "f3a2ac28696e",
+      "description_sha1": "c6f165bb4078f71769be59d2cff38488f1e5670d",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:fb5bee18-ee51-4bc5-82c1-e3ce938a2763",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "fb5bee18-ee51-4bc5-82c1-e3ce938a2763",
+      "title": "AI Linguistic Evaluator - Telugu",
+      "url": "https://jobs.lever.co/rws/fb5bee18-ee51-4bc5-82c1-e3ce938a2763",
+      "location": "Toronto",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-06",
+      "family_id": "f3a2ac28696e",
+      "description_sha1": "1485ab255e568e02165c3551ae828dfc22e6cba4",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "Minimum 5 years of professional experience in language-related work"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "lever:rws:1bfcfa42-977c-4dd3-b01b-b9ff753036ed",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -11242,22 +13095,14 @@
       "employment_type": "Part-time Employee",
       "published": "2025-10-03",
       "family_id": "377758b6ebf4",
-      "description_sha1": "8fdbb43112384a191d43fec710eeb90425c04609",
+      "description_sha1": "e6b874067008c55bef148e54170b00d9d4d63a79",
       "min_years": null,
-      "english_level": "native",
-      "pay_usd_hour_max": 21.5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
-      "hours_per_week": "20",
-      "evidence": {
-        "hours_per_week": "- Schedule: 20 hours/week (4 hours per day, Monday–Friday)",
-        "english_level": "- Native-level fluency in German and proficient in English",
-        "pay_usd_hour_max": "- Compensation: $21.50/hour"
-      },
-      "extracted_by": {
-        "hours_per_week": "rules",
-        "english_level": "rules",
-        "pay_usd_hour_max": "rules"
-      }
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "lever:rws:50c67e95-5d7a-4c90-b7e7-6f7c174f3221",
@@ -11576,35 +13421,6 @@
       }
     },
     {
-      "key": "lever:rws:50106c71-c2ec-46c8-b419-52352184207b",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "50106c71-c2ec-46c8-b419-52352184207b",
-      "title": "Search Engine Evaluator - Indonesian (Indonesia)",
-      "url": "https://jobs.lever.co/rws/50106c71-c2ec-46c8-b419-52352184207b",
-      "location": "Jakarta",
-      "countries": [
-        "ID"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2024-10-14",
-      "family_id": "a0b8f1c5144a",
-      "description_sha1": "6bfd67ad65dfd4320c027b990a0faef66ab2b06c",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "5",
-      "evidence": {
-        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
       "key": "lever:rws:e960893d-081d-410e-9888-392e06924c26",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -11652,35 +13468,6 @@
       "published": "2024-10-14",
       "family_id": "438a03a2d074",
       "description_sha1": "581ceab22de06b8e5f85327b8e65b5b2639f613b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "5",
-      "evidence": {
-        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:1e4ede55-b1ba-4884-a89d-63bb30676910",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "1e4ede55-b1ba-4884-a89d-63bb30676910",
-      "title": "Search Engine Evaluator - Portuguese (Brazil)",
-      "url": "https://jobs.lever.co/rws/1e4ede55-b1ba-4884-a89d-63bb30676910",
-      "location": "Brasilia",
-      "countries": [
-        "BR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2024-10-14",
-      "family_id": "6faf607156fc",
-      "description_sha1": "c27894f341cb1ce904c049c221df2d9f17ba06ae",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -11749,37 +13536,6 @@
       },
       "extracted_by": {
         "hours_per_week": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:43b76faa-cf15-4300-b85d-773265ee44a7",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "43b76faa-cf15-4300-b85d-773265ee44a7",
-      "title": "Speech AI Evaluation Specialist - Bengali (Bangladesh/India)",
-      "url": "https://jobs.lever.co/rws/43b76faa-cf15-4300-b85d-773265ee44a7",
-      "location": "Dhaka",
-      "countries": [
-        "BD"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-06-09",
-      "family_id": "8e4fd9321bd4",
-      "description_sha1": "79b1b407c0aecb078098ba30978faaffa2a7fc58",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10",
-      "evidence": {
-        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week.",
-        "english_level": "English Proficiency: Fluent or advanced proficiency in English (levels B2–C2)"
-      },
-      "extracted_by": {
-        "hours_per_week": "rules",
-        "english_level": "rules"
       }
     },
     {
@@ -11969,53 +13725,22 @@
       }
     },
     {
-      "key": "lever:rws:ecabff98-a1e1-40eb-9ca3-ffb7a1681ebc",
+      "key": "lever:rws:fb46f296-e3b8-4c8c-8103-55ca55ab1bb9",
       "source": "lever",
       "company": "RWS (TrainAI)",
-      "posting_id": "ecabff98-a1e1-40eb-9ca3-ffb7a1681ebc",
-      "title": "Speech AI Evaluation Specialist - Portuguese (Brazil)",
-      "url": "https://jobs.lever.co/rws/ecabff98-a1e1-40eb-9ca3-ffb7a1681ebc",
-      "location": "Rio de Janeiro",
+      "posting_id": "fb46f296-e3b8-4c8c-8103-55ca55ab1bb9",
+      "title": "Speech AI Evaluation Specialist - Korean (Korea)",
+      "url": "https://jobs.lever.co/rws/fb46f296-e3b8-4c8c-8103-55ca55ab1bb9",
+      "location": "Seoul",
       "countries": [
-        "BR"
+        "KR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Temporary/Contract",
       "published": "2026-06-09",
-      "family_id": "91a09829cd74",
-      "description_sha1": "cf7c4472be6883cffbeff3c77174f2b3361b69d2",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10",
-      "evidence": {
-        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week.",
-        "english_level": "English Proficiency: Fluent or advanced proficiency in English (levels B2–C2)"
-      },
-      "extracted_by": {
-        "hours_per_week": "rules",
-        "english_level": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:c73dddef-ed85-4789-a8b4-cce31dd9e1df",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "c73dddef-ed85-4789-a8b4-cce31dd9e1df",
-      "title": "Speech AI Evaluation Specialist - Spanish (LATAM)",
-      "url": "https://jobs.lever.co/rws/c73dddef-ed85-4789-a8b4-cce31dd9e1df",
-      "location": "Mexico City",
-      "countries": [
-        "MX"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-06-09",
-      "family_id": "3be746fe36a7",
-      "description_sha1": "ac1de4e160f0876ba1fe2d08aaa88fc5b52d728c",
+      "family_id": "99414b4b3330",
+      "description_sha1": "f3a2462e3f1ae31435054d57728b6b4daff0a662",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": null,
@@ -12047,6 +13772,37 @@
       "published": "2026-06-11",
       "family_id": "be041e8595ca",
       "description_sha1": "a921fea1bc1166767aa289b4e84605fcc958adc4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week.",
+        "english_level": "English Proficiency: Fluent or advanced proficiency in English (levels B2–C2)"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "english_level": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:f13131ee-ef0e-461d-a6c1-708259ad9a51",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "f13131ee-ef0e-461d-a6c1-708259ad9a51",
+      "title": "Speech AI Evaluation Specialist - Vietnamese (Thailand)",
+      "url": "https://jobs.lever.co/rws/f13131ee-ef0e-461d-a6c1-708259ad9a51",
+      "location": "Bangkok",
+      "countries": [
+        "TH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-06-11",
+      "family_id": "7a0798c03288",
+      "description_sha1": "bc3c8bf0a88bb46cf8c290d15eb6408833c9fd90",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": null,

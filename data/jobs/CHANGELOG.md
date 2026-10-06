@@ -2,6 +2,56 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-06 · 455 postings · +75 new · -25 closed · ~8 changed
+
+**New**
+
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Freelance Graphic Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- RWS (TrainAI) · AI Linguistic Evaluator - Malayalam · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Tamil (India) · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Telugu · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Gujarati · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Marathi · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Bengali (India) · 2 (CA, US)
+- Invisible Technologies · Contract Technical Recruiter · 1 (US)
+- Scale AI · Frontier Agent Engineering Manager, Enterprise · 1 (US)
+- Scale AI · COLM 2026 - General Interest · 1 (US)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Vietnamese (Thailand) · 1 (TH)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Korean (Korea) · 1 (KR)
+- Mindrift (Toloka) · Senior CAD Engineer (CATIA / SolidWorks / NX / ANSYS) - Freelance AI Trainer · 1 (US)
+- ... and 3 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Graphic Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- Invisible Technologies · DevOps Engineer · 1 (GB)
+- Scale AI · Engineering Manager, Global Public Sector · 1 (GB)
+- Scale AI · Engagement Manager (Homeland Layered Defense), Public Sector · 1
+- Scale AI · Technical Program Manager (Homeland Layered Defense), Public Sector · 1
+- Scale AI · Technical Program Manager, Public Sector (Boston, MA) · 1 (US)
+- Scale AI · Technical Program Manager, Public Sector (Dayton, OH) · 1
+- Scale AI · Senior Full-Stack Software Engineer, (Forward deployed), GPS · 1 (SA)
+- RWS (TrainAI) · Search Engine Evaluator - Portuguese (Brazil) · 1 (BR)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Bengali (Bangladesh/India) · 1 (BD)
+- RWS (TrainAI) · Search Engine Evaluator - Indonesian (Indonesia) · 1 (ID)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Spanish (LATAM) · 1 (MX)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Portuguese (Brazil) · 1 (BR)
+- Hugging Face · Low-Level Senior Software Engineer, Xet Storage - US Remote · 1 (US)
+- Hugging Face · Low-level Senior Software Engineer, Xet Storage - EMEA Remote · 1 (FR)
+
+**Changed**
+
+- Scale AI · Machine Learning Engineer, Public Sector · 1 (US)
+- Scale AI · Technical Program Manager, Public Sector · 1 (US)
+- Scale AI · Lead Counsel, Product · 1 (US)
+- Scale AI · Engagement Manager, Public Sector · 1 (US)
+- Scale AI · Senior Communications Manager, Corporate & Product (Enterprise) · 1 (US)
+- Scale AI · Senior Machine Learning Engineer, Public Sector · 1 (US)
+- Turing · Senior Engineering Manager · 1 (BR, CO)
+- RWS (TrainAI) · General AI Data Annotator - German (United States) · 1 (US)
+
 ## 2026-10-04 · 405 postings · +0 new · -0 closed · ~0 changed
 
 ## 2026-10-03 · 405 postings · +49 new · -49 closed · ~2 changed
