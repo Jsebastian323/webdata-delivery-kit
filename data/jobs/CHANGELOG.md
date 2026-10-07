@@ -2,6 +2,31 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-07 · 476 postings · +27 new · -6 closed · ~2 changed
+
+**New**
+
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 22 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Scale AI · Senior Software Engineer, AI Operations, GPS · 1 (QA)
+- Scale AI · Public Sector Lead, Central Government · 1 (GB)
+- Scale AI · IT Support Engineer · 1 (MX)
+- Scale AI · Enterprise AI Development Strategist · 1 (US)
+- Turing · Machine Learning / Data Engineer · 1 (BR, CO)
+
+**Closed**
+
+- Scale AI · Frontier Agents Engineer · 1 (GB)
+- Scale AI · Solutions Engineer, Enterprise · 1 (GB)
+- Scale AI · Machine Learning Engineer, Platform · 1 (GB)
+- Scale AI · Senior Communications Manager, Corporate & Product (Enterprise) · 1 (US)
+- Scale AI · Infrastructure Software Engineer, Apps Platform · 1 (GB)
+- Turing · Investigations Analyst · 1
+
+**Changed**
+
+- Scale AI · Payroll Specialist · 1 (US)
+- RWS (TrainAI) · Legal Annotators - Chinese (Simplified) · 1 (MY)
+
 ## 2026-10-06 · 455 postings · +75 new · -25 closed · ~8 changed
 
 **New**
