@@ -2,6 +2,28 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-08 · 471 postings · +31 new · -36 closed · ~1 changed
+
+**New**
+
+- Mindrift (Toloka) · Freelance Presentation Designer · 30 (AE, AR, AT, AU, BA, BE, BG, BH, ...)
+- Scale AI · Staff Frontier Agents Engineer (Applied AI) · 1 (US)
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Presentation Designer · 29 (AE, AR, AT, AU, BA, BE, BG, BH, ...)
+- Scale AI · AI Strategy Consultant, Frontier Tech · 1 (US)
+- Scale AI · Engagement Manager, Global Public Sector · 1 (QA)
+- Scale AI · Staff Software Engineer, Platform · 1 (GB)
+- Scale AI · Sr Staff ML Forward Deployed Engineer, Enterprise GenAI · 1 (GB)
+- Scale AI · Senior Software Engineer, Platform · 1 (US)
+- Scale AI · Software Engineer, Platform · 1 (GB)
+- Scale AI · Senior Software Engineer, Orchestration Platform · 1 (US)
+
+**Changed**
+
+- Scale AI · Product Leadership, Forward Deployed & Strategy · 1 (GB)
+
 ## 2026-10-07 · 476 postings · +27 new · -6 closed · ~2 changed
 
 **New**

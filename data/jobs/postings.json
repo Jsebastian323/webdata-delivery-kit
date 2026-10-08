@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:50:49+00:00",
+  "generated_at": "2026-10-08T17:53:47+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -2483,12 +2483,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:BE16746C50",
+      "key": "workable:toloka-ai:57587A796C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "BE16746C50",
+      "posting_id": "57587A796C",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/BE16746C50",
+      "url": "https://apply.workable.com/j/57587A796C",
       "location": "Colombia; Bogotá, Colombia; Medellín, Colombia; Barranquilla, Colombia; Cartagena, Colombia",
       "countries": [
         "CO"
@@ -2496,7 +2496,7 @@
       "remote": true,
       "open_to_colombia": true,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
       "min_years": 2,
@@ -2518,12 +2518,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:F81C37CDFA",
+      "key": "workable:toloka-ai:CD6E9B03A8",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F81C37CDFA",
+      "posting_id": "CD6E9B03A8",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/F81C37CDFA",
+      "url": "https://apply.workable.com/j/CD6E9B03A8",
       "location": "Brazil; São Paulo, Brazil; Rio de Janeiro, Brazil; Belo Horizonte, Brazil; Florianópolis, Brazil",
       "countries": [
         "BR"
@@ -2531,7 +2531,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
       "min_years": 2,
@@ -2553,12 +2553,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:741E375094",
+      "key": "workable:toloka-ai:7F1C0BAD18",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "741E375094",
+      "posting_id": "7F1C0BAD18",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/741E375094",
+      "url": "https://apply.workable.com/j/7F1C0BAD18",
       "location": "Cape Town, South Africa; Johannesburg, South Africa; Durban, South Africa; Pretoria, South Africa",
       "countries": [
         "ZA"
@@ -2566,7 +2566,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
       "min_years": 2,
@@ -2588,12 +2588,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:5BEF96EE0A",
+      "key": "workable:toloka-ai:6BE2F54AEC",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "5BEF96EE0A",
+      "posting_id": "6BE2F54AEC",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/5BEF96EE0A",
+      "url": "https://apply.workable.com/j/6BE2F54AEC",
       "location": "Philippines",
       "countries": [
         "PH"
@@ -2601,7 +2601,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
       "min_years": 2,
@@ -2623,12 +2623,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:F4A71086EB",
+      "key": "workable:toloka-ai:B564EAFB97",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F4A71086EB",
+      "posting_id": "B564EAFB97",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/F4A71086EB",
+      "url": "https://apply.workable.com/j/B564EAFB97",
       "location": "Warsaw, Poland; Kraków, Poland; Wrocław, Poland; Poznań, Poland; Gdańsk, Poland; Łódź, Poland",
       "countries": [
         "PL"
@@ -2636,7 +2636,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
       "min_years": 2,
@@ -2658,12 +2658,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:894EFD6A2E",
+      "key": "workable:toloka-ai:83A3518598",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "894EFD6A2E",
+      "posting_id": "83A3518598",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/894EFD6A2E",
+      "url": "https://apply.workable.com/j/83A3518598",
       "location": "Ahmedabad, India; Chennai, India; Pune, India; Jaipur, India; Surat, India; Lucknow, India",
       "countries": [
         "IN"
@@ -2671,7 +2671,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
       "min_years": 2,
@@ -2693,12 +2693,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:F309B11195",
+      "key": "workable:toloka-ai:F32CD14C05",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F309B11195",
+      "posting_id": "F32CD14C05",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/F309B11195",
+      "url": "https://apply.workable.com/j/F32CD14C05",
       "location": "Bahrain; Oman; Lebanon",
       "countries": [
         "BH",
@@ -2708,7 +2708,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "44b44a0130e0e35e295f683a7d1a688a3842531a",
       "min_years": 2,
@@ -2730,12 +2730,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:ED4671C6F1",
+      "key": "workable:toloka-ai:F9BBADEB93",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "ED4671C6F1",
+      "posting_id": "F9BBADEB93",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/ED4671C6F1",
+      "url": "https://apply.workable.com/j/F9BBADEB93",
       "location": "United States",
       "countries": [
         "US"
@@ -2743,7 +2743,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -2765,12 +2765,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:97153CC7BE",
+      "key": "workable:toloka-ai:2438876A6A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "97153CC7BE",
+      "posting_id": "2438876A6A",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/97153CC7BE",
+      "url": "https://apply.workable.com/j/2438876A6A",
       "location": "Canada",
       "countries": [
         "CA"
@@ -2778,7 +2778,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -2800,12 +2800,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:7EE72BA96D",
+      "key": "workable:toloka-ai:E220491E4F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "7EE72BA96D",
+      "posting_id": "E220491E4F",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/7EE72BA96D",
+      "url": "https://apply.workable.com/j/E220491E4F",
       "location": "United States; New York, United States; Queens, United States; Brooklyn, United States",
       "countries": [
         "US"
@@ -2813,7 +2813,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -2835,12 +2835,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:4DAAED0ACF",
+      "key": "workable:toloka-ai:FBB73A2776",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "4DAAED0ACF",
+      "posting_id": "FBB73A2776",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/4DAAED0ACF",
+      "url": "https://apply.workable.com/j/FBB73A2776",
       "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
       "countries": [
         "CR",
@@ -2851,7 +2851,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
       "min_years": 2,
@@ -2873,12 +2873,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:EC2B01C2B0",
+      "key": "workable:toloka-ai:E61BE1A7AA",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "EC2B01C2B0",
+      "posting_id": "E61BE1A7AA",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/EC2B01C2B0",
+      "url": "https://apply.workable.com/j/E61BE1A7AA",
       "location": "Serbia; Cyprus; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
       "countries": [
         "BA",
@@ -2891,7 +2891,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
       "min_years": 2,
@@ -2913,12 +2913,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:875E8C9842",
+      "key": "workable:toloka-ai:BEA6AEB670",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "875E8C9842",
+      "posting_id": "BEA6AEB670",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/875E8C9842",
+      "url": "https://apply.workable.com/j/BEA6AEB670",
       "location": "Egypt; Morocco; Algeria; Tunisia",
       "countries": [
         "DZ",
@@ -2929,7 +2929,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "44b44a0130e0e35e295f683a7d1a688a3842531a",
       "min_years": 2,
@@ -2951,12 +2951,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:DBF47FEE63",
+      "key": "workable:toloka-ai:30964E450C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "DBF47FEE63",
+      "posting_id": "30964E450C",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/DBF47FEE63",
+      "url": "https://apply.workable.com/j/30964E450C",
       "location": "Japan; South Korea; New Zealand; Singapore",
       "countries": [
         "JP",
@@ -2967,7 +2967,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "afa97bbe688936a999e423d3ce2676cd6d0cb5aa",
       "min_years": 2,
@@ -2989,12 +2989,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:0093BFF0B7",
+      "key": "workable:toloka-ai:A03E92D49B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "0093BFF0B7",
+      "posting_id": "A03E92D49B",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/0093BFF0B7",
+      "url": "https://apply.workable.com/j/A03E92D49B",
       "location": "United States",
       "countries": [
         "US"
@@ -3002,7 +3002,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -3024,12 +3024,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:7B4935B899",
+      "key": "workable:toloka-ai:5C40E4962A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "7B4935B899",
+      "posting_id": "5C40E4962A",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/7B4935B899",
+      "url": "https://apply.workable.com/j/5C40E4962A",
       "location": "United States",
       "countries": [
         "US"
@@ -3037,7 +3037,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -3059,12 +3059,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:AC7E6B8836",
+      "key": "workable:toloka-ai:B66B0A8A80",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "AC7E6B8836",
+      "posting_id": "B66B0A8A80",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/AC7E6B8836",
+      "url": "https://apply.workable.com/j/B66B0A8A80",
       "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
       "countries": [
         "ES"
@@ -3072,7 +3072,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
       "min_years": 2,
@@ -3094,12 +3094,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:60D163CEB6",
+      "key": "workable:toloka-ai:C62F4B3FBA",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "60D163CEB6",
+      "posting_id": "C62F4B3FBA",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/60D163CEB6",
+      "url": "https://apply.workable.com/j/C62F4B3FBA",
       "location": "Iceland; Belgium; Ireland",
       "countries": [
         "BE",
@@ -3109,7 +3109,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -3131,12 +3131,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:0470ABD8B0",
+      "key": "workable:toloka-ai:75DBC788BA",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "0470ABD8B0",
+      "posting_id": "75DBC788BA",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/0470ABD8B0",
+      "url": "https://apply.workable.com/j/75DBC788BA",
       "location": "Sweden; Denmark; Finland; Norway; Austria",
       "countries": [
         "AT",
@@ -3148,7 +3148,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -3170,12 +3170,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:C147F88110",
+      "key": "workable:toloka-ai:FBE1103B41",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C147F88110",
+      "posting_id": "FBE1103B41",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/C147F88110",
+      "url": "https://apply.workable.com/j/FBE1103B41",
       "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
       "countries": [
         "US"
@@ -3183,7 +3183,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -3205,12 +3205,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:4CC970275D",
+      "key": "workable:toloka-ai:B8592BF3FE",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "4CC970275D",
+      "posting_id": "B8592BF3FE",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/4CC970275D",
+      "url": "https://apply.workable.com/j/B8592BF3FE",
       "location": "Philippines; Malaysia; Indonesia; South Africa",
       "countries": [
         "ID",
@@ -3221,7 +3221,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
       "min_years": 2,
@@ -3243,12 +3243,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:25DD03BF65",
+      "key": "workable:toloka-ai:D2580D6E20",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "25DD03BF65",
+      "posting_id": "D2580D6E20",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/25DD03BF65",
+      "url": "https://apply.workable.com/j/D2580D6E20",
       "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
       "countries": [
         "IL",
@@ -3261,7 +3261,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "afa97bbe688936a999e423d3ce2676cd6d0cb5aa",
       "min_years": 2,
@@ -3283,12 +3283,52 @@
       }
     },
     {
-      "key": "workable:toloka-ai:2A8C169401",
+      "key": "workable:toloka-ai:7349561C0E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2A8C169401",
+      "posting_id": "7349561C0E",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/2A8C169401",
+      "url": "https://apply.workable.com/j/7349561C0E",
+      "location": "Saudi Arabia; Qatar; Kuwait; Jordan; Turkey; Israel",
+      "countries": [
+        "IL",
+        "JO",
+        "KW",
+        "QA",
+        "SA",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-07",
+      "family_id": "a16d8ca5d877",
+      "description_sha1": "afa97bbe688936a999e423d3ce2676cd6d0cb5aa",
+      "min_years": 2,
+      "english_level": "B2",
+      "pay_usd_hour_max": 45.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English proficiency: Upper-intermediate (B2) or above (required)",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "min_years": "At least 2 years of relevant experience in graphic design, presentation design, visual storytelling, or data visualization is desirable.",
+        "pay_usd_hour_max": "$45 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5D8A1E3115",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5D8A1E3115",
+      "title": "Freelance Presentation Designer",
+      "url": "https://apply.workable.com/j/5D8A1E3115",
       "location": "Argentina; Chile; Mexico; Peru",
       "countries": [
         "AR",
@@ -3299,7 +3339,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "a092bbddbc059d911f203d7056277c4351f17c69",
       "min_years": 2,
@@ -3321,12 +3361,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:B72B4F0B8D",
+      "key": "workable:toloka-ai:2039A8D9AA",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B72B4F0B8D",
+      "posting_id": "2039A8D9AA",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/B72B4F0B8D",
+      "url": "https://apply.workable.com/j/2039A8D9AA",
       "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Kolkata, India; Hyderabad, India",
       "countries": [
         "IN"
@@ -3334,7 +3374,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "0d981d9e2c70c9c3db2d153eee9e6ea6a8c1410c",
       "min_years": 2,
@@ -3356,12 +3396,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:0E4FBA255D",
+      "key": "workable:toloka-ai:3E9B3D945D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "0E4FBA255D",
+      "posting_id": "3E9B3D945D",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/0E4FBA255D",
+      "url": "https://apply.workable.com/j/3E9B3D945D",
       "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom",
       "countries": [
         "GB"
@@ -3369,7 +3409,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -3391,12 +3431,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:8878A9D522",
+      "key": "workable:toloka-ai:4927780668",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "8878A9D522",
+      "posting_id": "4927780668",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/8878A9D522",
+      "url": "https://apply.workable.com/j/4927780668",
       "location": "Germany; France; Belgium; Sweden; Finland; Denmark",
       "countries": [
         "BE",
@@ -3409,7 +3449,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -3431,12 +3471,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:FACBDB503F",
+      "key": "workable:toloka-ai:561117F0DA",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "FACBDB503F",
+      "posting_id": "561117F0DA",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/FACBDB503F",
+      "url": "https://apply.workable.com/j/561117F0DA",
       "location": "Italy; Portugal; Greece",
       "countries": [
         "GR",
@@ -3446,7 +3486,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
       "min_years": 2,
@@ -3468,12 +3508,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:E588E1078F",
+      "key": "workable:toloka-ai:C209D0538C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "E588E1078F",
+      "posting_id": "C209D0538C",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/E588E1078F",
+      "url": "https://apply.workable.com/j/C209D0538C",
       "location": "Romania; Poland; Hungary; Bulgaria; Czechia; Slovakia",
       "countries": [
         "BG",
@@ -3486,7 +3526,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "adda7d1bc1559b4d9d383e121f77537ec6378b91",
       "min_years": 2,
@@ -3508,12 +3548,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:669DD70DE7",
+      "key": "workable:toloka-ai:28019F7F6A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "669DD70DE7",
+      "posting_id": "28019F7F6A",
       "title": "Freelance Presentation Designer",
-      "url": "https://apply.workable.com/j/669DD70DE7",
+      "url": "https://apply.workable.com/j/28019F7F6A",
       "location": "United States; Australia; Israel; United Arab Emirates",
       "countries": [
         "AE",
@@ -3524,7 +3564,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-09-28",
+      "published": "2026-10-07",
       "family_id": "a16d8ca5d877",
       "description_sha1": "3f849da6b470da89e65d5c1a3c76c460f89b680e",
       "min_years": 2,
@@ -6115,35 +6155,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4472223005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4472223005",
-      "title": "AI Strategy Consultant, Frontier Tech",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4472223005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2024-09-13",
-      "family_id": "396be8fc08f5",
-      "description_sha1": "27736d718133e258c7c106238f6d0fe78e88192d",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "hours_per_week": "part-time (10-20 hours per week), on-going contract position staffed via HireArt."
-      },
-      "extracted_by": {
-        "hours_per_week": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4413992005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6463,35 +6474,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "5-7+ years of total work experience, with experience in consulting or as a technical program management role in industry"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4593823005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4593823005",
-      "title": "Engagement Manager, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4593823005",
-      "location": "Doha, Qatar",
-      "countries": [
-        "QA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-08-05",
-      "family_id": "34edc6336d5c",
-      "description_sha1": "6eb8e18a76bce404a8f6f68301a97b8dcb7ac445",
-      "min_years": 7,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "7+ years of total work experience, with experience in consulting or as a technical program management role in industry"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -7492,31 +7474,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4702890005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4702890005",
-      "title": "Head of Product Management, Forward Deployed & Strategy",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4702890005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-06-19",
-      "family_id": "b0325714cadf",
-      "description_sha1": "9fe2af310a803a3858b6092c80c5cad6fef4acd2",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4718258005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8167,6 +8124,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4702890005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4702890005",
+      "title": "Product Leadership, Forward Deployed & Strategy",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4702890005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-06-19",
+      "family_id": "06ca506e4e3d",
+      "description_sha1": "9fe2af310a803a3858b6092c80c5cad6fef4acd2",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4699779005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8192,35 +8174,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8238,6 +8191,35 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9221,31 +9203,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4721008005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4721008005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-06",
-      "family_id": "956946efd858",
-      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4729620005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -9262,6 +9219,31 @@
       "published": "2026-09-03",
       "family_id": "956946efd858",
       "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4721008005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4721008005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-08-06",
+      "family_id": "956946efd858",
+      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9323,64 +9305,6 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4739920005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4739920005",
-      "title": "Senior Software Engineer, Orchestration Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4739920005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-01",
-      "family_id": "c9ae07886919",
-      "description_sha1": "753f19e11e36c08be747d0e5100bcc1b94da6809",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of full-time software engineering experience, with a focus on backend, infrastructure, and distributed systems."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4730512005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730512005",
-      "title": "Senior Software Engineer, Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730512005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-03",
-      "family_id": "9a5f5534d1d8",
-      "description_sha1": "753f19e11e36c08be747d0e5100bcc1b94da6809",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of full-time software engineering experience, with a focus on backend, infrastructure, and distributed systems."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
     },
     {
       "key": "greenhouse:scaleai:4674911005",
@@ -9653,31 +9577,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730846005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730846005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730834005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -9694,6 +9593,31 @@
       "published": "2026-09-14",
       "family_id": "560d46ffe696",
       "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730846005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730846005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9757,31 +9681,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4730851005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730851005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-      "location": "Doha, Qatar",
-      "countries": [
-        "QA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730836005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -9832,33 +9731,29 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4731630005",
+      "key": "greenhouse:scaleai:4730851005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4731630005",
-      "title": "Software Engineer, Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731630005",
-      "location": "London, UK",
+      "posting_id": "4730851005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+      "location": "Doha, Qatar",
       "countries": [
-        "GB"
+        "QA"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-09",
-      "family_id": "cf3aa0be69dc",
-      "description_sha1": "a80b79a424a632e6ca641b21acf25b152937621f",
-      "min_years": 5,
+      "published": "2026-09-14",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
+      "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of full-time engineering experience, post-graduation, with specialties in back-end systems."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4302243005",
@@ -10020,35 +9915,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4712145005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4712145005",
-      "title": "Sr Staff ML Forward Deployed Engineer, Enterprise GenAI",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4712145005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-07",
-      "family_id": "e5ac6b182210",
-      "description_sha1": "688d4a86f6cd5fc6b93f3cebaa0430f70712b870",
-      "min_years": 7,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "7+ years of full-time engineering experience, post-graduation"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4720050005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -10072,6 +9938,35 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "7+ years of engineering experience, with a multi-year track record owning AI/ML systems in production"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4720487005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4720487005",
+      "title": "Staff Frontier Agents Engineer (Applied AI)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720487005",
+      "location": "San Francisco, CA; New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-07-31",
+      "family_id": "1add56b42cd7",
+      "description_sha1": "448b9a591a3728119cbfae88d1efe54347c474f4",
+      "min_years": 8,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "8+ years of software engineering, machine learning, or applied AI experience."
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10240,31 +10135,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4718917005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4718917005",
-      "title": "Staff Product Designer, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
-      "location": "New York, NY; San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-29",
-      "family_id": "614cd584a7ff",
-      "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4735360005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -10281,6 +10151,31 @@
       "published": "2026-09-24",
       "family_id": "614cd584a7ff",
       "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4718917005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4718917005",
+      "title": "Staff Product Designer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
+      "location": "New York, NY; San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-07-29",
+      "family_id": "614cd584a7ff",
+      "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -10429,35 +10324,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "7+ years of full-time engineering experience, post-graduation, with a proven track record of operating as a Tech Lead, Architect, or Principal Engineer."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4703527005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4703527005",
-      "title": "Staff Software Engineer, Platform",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703527005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-06-08",
-      "family_id": "4e8ecbe1a0f9",
-      "description_sha1": "c9d1b51dd49df7d6f0ccea67202c582615768da2",
-      "min_years": 8,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "8+ years of engineering experience, with a multi-year track record owning production systems end to end, not just implementing scoped work handed to you by another team."
       },
       "extracted_by": {
         "min_years": "rules"
