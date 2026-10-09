@@ -2,6 +2,53 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-09 · 407 postings · +32 new · -96 closed · ~30 changed
+
+**New**
+
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- RWS (TrainAI) · Legal Annotators - Russian · 2 (LV, RS)
+- Invisible Technologies · Senior Manager of Strategic Staffing · 1 (US)
+- Scale AI · Senior Software Engineer, Platform · 1 (US)
+- Scale AI · Senior Software Engineer, Orchestration Platform · 1 (US)
+- Scale AI · Systems Engineering Integration & Test Lead, Public Sector · 1 (US)
+- RWS (TrainAI) · General AI Data Annotator - Italian (United States) · 1 (US)
+- RWS (TrainAI) · General AI Data Annotator - Korean (United States) · 1 (US)
+- RWS (TrainAI) · General AI Data Annotator - French (United States) · 1 (US)
+- RWS (TrainAI) · General AI Data Annotator - Japanese (United States) · 1 (US)
+- Mindrift (Toloka) · Physician (MD/DO) - AI Trainer · 1 (US)
+- Mindrift (Toloka) · Physician - AI Clinical Reviewer · 1 (US)
+
+**Closed**
+
+- Mindrift (Toloka) · Senior Python Data Scraping Engineer (Freelance) · 31 (AE, AM, AR, AT, AU, AZ, BA, BE, ...)
+- Mindrift (Toloka) · Freelance Presentation Designer · 30 (AE, AR, AT, AU, BA, BE, BG, BH, ...)
+- Mindrift (Toloka) · Freelance Brand Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- Mindrift (Toloka) · Freelance Graphic Designer · 11 (AR, BE, BG, BR, CL, CO, CZ, DE, ...)
+- Mindrift (Toloka) · Freelance Web Designer · 5 (AU, BE, BG, CZ, DK, ES, FI, FR, ...)
+- Scale AI · Staff Technical Product Manager · 1 (GB)
+- Scale AI · Sr. Director, (Applied AI) Forward Deployed Engineering · 1 (US)
+- Turing · Senior Product Marketing Manager · 1 (US)
+- Mindrift (Toloka) · Graphic Designer / Freelance · 1 (US)
+- Mindrift (Toloka) · Web Designer - Freelance · 1 (US)
+- Mindrift (Toloka) · Senior Data Scraping Engineer (Python) · 1 (US)
+- Mindrift (Toloka) · Presentation Designer / Freelance · 1 (US)
+- Mindrift (Toloka) · Brand Designer / Freelance · 1 (US)
+
+**Changed**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Scale AI · Staff Product Designer, Enterprise · 1 (US)
+- RWS (TrainAI) · Legal Annotators - Portuguese (Portugal) · 1 (PT)
+- RWS (TrainAI) · Legal Annotators - Russian · 1 (EE)
+- RWS (TrainAI) · Legal Annotators - Polish · 1 (PL)
+- RWS (TrainAI) · Legal Annotators - Chinese (Traditional) · 1 (TW)
+- RWS (TrainAI) · Legal Annotators - Korean · 1 (KR)
+- RWS (TrainAI) · Legal Annotators - Chinese (Simplified) · 1 (MY)
+- RWS (TrainAI) · Legal Annotators - Italian · 1 (IT)
+- RWS (TrainAI) · Legal Annotators - Dutch · 1 (NL)
+- Mindrift (Toloka) · Medicine Expert - Freelance AI Trainer · 1 (US)
+
 ## 2026-10-08 · 471 postings · +31 new · -36 closed · ~1 changed
 
 **New**

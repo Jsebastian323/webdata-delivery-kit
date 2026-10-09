@@ -1,16 +1,16 @@
 # QA report: remote AI-data jobs tracker
 
-**READY** · 471 rows delivered (471 collected) · generated 2026-10-08T17:53:47+00:00
+**READY** · 407 rows delivered (407 collected) · generated 2026-10-09T17:27:40+00:00
 
 | Check | Result | Detail |
 |---|---|---|
-| schema | PASS | 471 rows valid |
+| schema | PASS | 407 rows valid |
 | unique key | PASS | key = key |
 | fetch failures | PASS | 0 request(s) failed after retries |
 | every board answered | PASS | 8/8 boards |
 | no board went silent | PASS | no board dropped to zero |
 | evidence is verbatim | PASS | every extracted value quotes its posting |
-| location resolved | PASS | 463/471 postings have a country or region |
+| location resolved | PASS | 399/407 postings have a country or region |
 
 ## Field fill rates
 
@@ -23,30 +23,30 @@
 | title | 100.0% |
 | url | 100.0% |
 | location | 100.0% |
-| countries | 98.1% |
-| remote | 49.3% |
-| open_to_colombia | 98.3% |
-| employment_type | 47.6% |
+| countries | 97.8% |
+| remote | 41.3% |
+| open_to_colombia | 98.0% |
+| employment_type | 39.1% |
 | published | 100.0% |
 | family_id | 100.0% |
 | description_sha1 | 100.0% |
-| min_years | 52.2% |
-| english_level | 39.1% |
-| pay_usd_hour_max | 35.2% |
-| pay_usd_year_max | 6.8% |
-| hours_per_week | 43.3% |
-| evidence | 77.1% |
-| extracted_by | 77.1% |
+| min_years | 32.4% |
+| english_level | 27.8% |
+| pay_usd_hour_max | 23.3% |
+| pay_usd_year_max | 7.6% |
+| hours_per_week | 32.7% |
+| evidence | 71.7% |
+| extracted_by | 71.7% |
 
 ## Fetch
 
-8 requests · 0 retries · 0 failures · status {200: 8} · 1.8 s · 4.5 req/s
+8 requests · 0 retries · 0 failures · status {200: 8} · 1.5 s · 5.4 req/s
 
 ## Notes
 
-- per board: greenhouse:handshake 9, greenhouse:invisibletech 18, greenhouse:labelbox 9, greenhouse:scaleai 181, greenhouse:turing 30, lever:rws 56, workable:huggingface 6, workable:toloka-ai 162
-- 471 postings in 304 families; 343 distinct descriptions
-- open to Colombia: yes 11, unclear 8, no 452
-- rules found (per distinct description): min_years 156, english_level 66, pay_usd_hour_max 48, pay_usd_year_max 28, hours_per_week 83
+- per board: greenhouse:handshake 9, greenhouse:invisibletech 19, greenhouse:labelbox 9, greenhouse:scaleai 182, greenhouse:turing 29, lever:rws 62, workable:huggingface 6, workable:toloka-ai 91
+- 407 postings in 302 families; 326 distinct descriptions
+- open to Colombia: yes 8, unclear 8, no 391
+- rules found (per distinct description): min_years 129, english_level 43, pay_usd_hour_max 25, pay_usd_year_max 27, hours_per_week 60
 - LLM: off (no OPENROUTER_API_KEY or --no-llm)
-- since last snapshot: +31 new, -36 closed, ~1 changed
+- since last snapshot: +32 new, -96 closed, ~30 changed
