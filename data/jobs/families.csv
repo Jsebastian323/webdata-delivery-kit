@@ -14,6 +14,7 @@ f442f09025bd,Hugging Face,"Senior Open-Source Python Engineer, ML Developer Tool
 f29f3ef7b3f3,Invisible Technologies,Contract Technical Recruiter,1,US,False,,,,,2026-10-05,2026-10-05,https://job-boards.eu.greenhouse.io/invisibletech/jobs/4997999101
 041f4372231d,Invisible Technologies,Enterprise Solutions Manager,1,US,False,2,,,,2026-08-18,2026-08-18,https://job-boards.eu.greenhouse.io/invisibletech/jobs/4945812101
 e01bc30766bb,Invisible Technologies,Enterprise Solutions Manager - Data Labs,1,US,False,5,,,,2025-08-04,2025-08-04,https://job-boards.eu.greenhouse.io/invisibletech/jobs/4649449101
+da5534f3b044,Invisible Technologies,People Experience Manager,1,US,False,,,,,2026-10-09,2026-10-09,https://job-boards.eu.greenhouse.io/invisibletech/jobs/5002180101
 e65ed1b4296b,Invisible Technologies,Principal Backend Engineer (Forward Deployed),1,US,False,10,,,300000.0,2025-11-11,2025-11-11,https://job-boards.eu.greenhouse.io/invisibletech/jobs/4697596101
 ce5816702098,Invisible Technologies,Research Engineer,1,US,False,,,,,2026-09-22,2026-09-22,https://job-boards.eu.greenhouse.io/invisibletech/jobs/4981967101
 47a825dd8bc5,Invisible Technologies,Senior Data Product Owner,1,US,False,,,,212000.0,2026-09-17,2026-09-17,https://job-boards.eu.greenhouse.io/invisibletech/jobs/4979618101
@@ -37,7 +38,6 @@ c93cefbab388,Labelbox,Forward Deployed Engineering Manager,1,US,False,,,,,2026-0
 a0cc9aea78e0,Labelbox,Managing Partner,1,US,False,,,,,2026-06-08,2026-06-08,https://job-boards.greenhouse.io/labelbox/jobs/5158994007
 5ef2399e64ba,Labelbox,Member of Technical Staff,1,US,False,2,,,,2026-09-22,2026-09-22,https://job-boards.greenhouse.io/labelbox/jobs/5246362007
 9b01baa5a0e3,Labelbox,"Staff ML Engineer, Agent Training & Environments",1,US,False,,,,,2026-07-29,2026-07-29,https://job-boards.greenhouse.io/labelbox/jobs/5199053007
-b0f460e325b1,Labelbox,Targeted Recruiting & Onboarding Specialist (Contractor),1,IN,False,,,,,2026-07-02,2026-07-02,https://job-boards.greenhouse.io/labelbox/jobs/5179646007
 cad6bf48bcec,Mindrift (Toloka),Freelance Mechanical CAD&Simulation Engineer - AI Trainer,23,AE|AM|AR|AT|AU|BA|BE|BH|BR|CA|CL|CO|CR|CZ|DE|DK|DZ|EC|EE|EG|ES|FI|FR|GB|GR|HU|ID|IL|IN|IT|JM|JO|JP|KR|KW|LB|LT|LV|MA|MT|MX|MY|NO|NZ|OM|PE|PH|PL|PT|QA|RO|RS|SA|SE|SG|SK|TN|TR|US|UY|ZA,True,,B2,69.0,,2026-10-05,2026-10-05,https://apply.workable.com/j/9A3E78F6A4
 a762657c1833,Mindrift (Toloka),Freelance Mechanical CFD Engineer - AI Trainer,23,AE|AM|AR|AT|AU|BA|BE|BG|BH|BR|CA|CL|CO|CR|CZ|DE|DK|DZ|EC|EE|EG|ES|FI|FR|GB|GR|HU|ID|IL|IN|IT|JM|JO|JP|KR|KW|LB|LT|LV|MA|MT|MX|MY|NO|NZ|OM|PE|PH|PL|PT|QA|RO|RS|SA|SE|SG|SK|TN|TR|US|UY|ZA,True,,B2,69.0,,2026-10-06,2026-10-06,https://apply.workable.com/j/3328F3F85E
 695f64b26e63,Mindrift (Toloka),Licensed Physician (MD/DO) - Freelance AI Trainer,20,AE|AR|BG|BH|BR|CA|CL|CO|CZ|EG|GB|HU|ID|IL|IN|JM|JO|JP|KR|KW|LB|MX|MY|NZ|OM|PE|PH|PL|QA|RO|SA|SG|SK|TR|US|ZA,True,,C1,130.0,,2026-10-05,2026-10-05,https://apply.workable.com/j/CE07FEFFB2
@@ -61,15 +61,29 @@ e0583a540ed3,RWS (TrainAI),AI Conversation Specialist - (Jizan) Saudi Arabic,1,S
 9b9d17068d30,RWS (TrainAI),AI Data Specialist - Japanese,1,JP,False,,B2,,,2026-02-20,2026-02-20,https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088
 d30b717b5869,RWS (TrainAI),AI Data Specialist - Korean,1,KR,False,,B2,,,2026-06-18,2026-06-18,https://jobs.lever.co/rws/d70afa3f-68d0-495b-b0b3-d0a2ec891b67
 75f2f22605be,RWS (TrainAI),AI Data Specialist - Vietnamese,1,CZ,False,,B2,,,2025-11-20,2025-11-20,https://jobs.lever.co/rws/e1378ad3-d199-4af1-a049-67b2bb03b9ce
-f2410d60e98f,RWS (TrainAI),AI Linguistic Evaluator - Bengali (India),2,CA|US,False,5,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/b0a3caed-5d90-4c66-9fe3-b9d5d386f96e
-df05984a6f13,RWS (TrainAI),AI Linguistic Evaluator - Gujarati,2,CA|US,False,5,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/5b16108c-b19c-4b3d-80d5-5bab8c8a980f
-ca9719fae836,RWS (TrainAI),AI Linguistic Evaluator - Malayalam,2,CA|US,False,5,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/08eb2f35-4333-4e90-a3e9-1518517eed21
-a0db4e8c9add,RWS (TrainAI),AI Linguistic Evaluator - Marathi,2,CA|US,False,5,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/758ec345-86a0-421e-ad04-91c09308ae47
-a05fa3d2ca49,RWS (TrainAI),AI Linguistic Evaluator - Tamil (India),2,CA|US,False,5,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/1af08aa1-0ee0-4800-8cec-91b8b766c2d0
-f3a2ac28696e,RWS (TrainAI),AI Linguistic Evaluator - Telugu,2,CA|US,False,5,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/1e321ef1-f58c-47bc-827d-dd392cf2671b
+f2410d60e98f,RWS (TrainAI),AI Linguistic Evaluator - Bengali (India),2,CA|US,False,3,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/b0a3caed-5d90-4c66-9fe3-b9d5d386f96e
+df05984a6f13,RWS (TrainAI),AI Linguistic Evaluator - Gujarati,2,CA|US,False,3,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/5b16108c-b19c-4b3d-80d5-5bab8c8a980f
+ca9719fae836,RWS (TrainAI),AI Linguistic Evaluator - Malayalam,2,CA|US,False,3,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/08eb2f35-4333-4e90-a3e9-1518517eed21
+a0db4e8c9add,RWS (TrainAI),AI Linguistic Evaluator - Marathi,2,CA|US,False,3,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/758ec345-86a0-421e-ad04-91c09308ae47
+a05fa3d2ca49,RWS (TrainAI),AI Linguistic Evaluator - Tamil (India),2,CA|US,False,3,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/1af08aa1-0ee0-4800-8cec-91b8b766c2d0
+f3a2ac28696e,RWS (TrainAI),AI Linguistic Evaluator - Telugu,2,CA|US,False,3,,,,2026-10-06,2026-10-06,https://jobs.lever.co/rws/1e321ef1-f58c-47bc-827d-dd392cf2671b
 ba0d66d0c11c,RWS (TrainAI),Audio Transcription - Vietnamese (Czechia),1,CZ,False,,,,,2026-09-03,2026-09-03,https://jobs.lever.co/rws/1bfcfa42-977c-4dd3-b01b-b9ff753036ed
 0fa12ba723ce,RWS (TrainAI),Audio Transcription - Vietnamese (Taiwan),1,TW,False,,,,,2026-09-17,2026-09-17,https://jobs.lever.co/rws/fbd17dfa-c693-460e-81b0-d0d3153848cc
 aa6d11377ae8,RWS (TrainAI),Audio Transcription - Vietnamese (Thailand),1,TH,False,,,,,2026-08-28,2026-08-28,https://jobs.lever.co/rws/a695cd0b-80e2-4c8b-a34b-41b404e33f4b
+bacf2974e3c3,RWS (TrainAI),Brazilian Portuguese - Animals & Pets Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/baa16896-baeb-4896-897c-ee1c3b020830
+a75bf02d5833,RWS (TrainAI),Brazilian Portuguese - Arts Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/408b1a17-7a61-429f-bbc7-b265b0ab8d06
+77584e713c74,RWS (TrainAI),Brazilian Portuguese - Fandoms Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/9a0d5c38-97e3-4124-b9cb-7401660fe01e
+06746f25f94d,RWS (TrainAI),Brazilian Portuguese - Fashion & Style Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/322b1168-7cdb-47b8-8050-c4034db1fc29
+e56ab4912138,RWS (TrainAI),"Brazilian Portuguese - Food, Drink & Culinary Culture Subject Matter Expert (SME)",1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/684aec2d-12fe-4fa4-88ec-c41686cb22d2
+27d1eb0cb695,RWS (TrainAI),Brazilian Portuguese - Games & Puzzles Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/048f8c3e-e09f-4b13-81f7-a060584f45f0
+6dd2e3541a60,RWS (TrainAI),Brazilian Portuguese - History Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/3d2e529c-744a-4ed6-b04d-e8e416969a1b
+01175722f577,RWS (TrainAI),Brazilian Portuguese - Home & Garden Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-05,2026-05-05,https://jobs.lever.co/rws/d5bcef39-c110-4aae-ad0c-1909e85ddd07
+cd5df2b0bda1,RWS (TrainAI),Brazilian Portuguese - Internet Culture Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/768d0459-fcde-4fe5-b6e2-2ae2d9f07b56
+22ae790bda73,RWS (TrainAI),Brazilian Portuguese - Law & Ethics Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/c8d77692-dc67-4cb7-86f7-8fca806c6682
+134921d6ad1e,RWS (TrainAI),Brazilian Portuguese - Literature & Linguistics Subject Matter Expert (SME),1,BR,False,10,advanced,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/adf2ce84-802a-4ab8-aa91-8ea9d8883280
+10f878c69f6a,RWS (TrainAI),Brazilian Portuguese - Religion & Philosophy Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/c6f4a7fe-986e-4367-8507-fb6c7be831b6
+6c228e705c27,RWS (TrainAI),Brazilian Portuguese - Sports Subject Matter Expert (SME),1,BR,False,10,,,,2026-05-07,2026-05-07,https://jobs.lever.co/rws/8123e349-8063-44ee-8317-1357fa49306d
+cadaa49cfad1,RWS (TrainAI),"Brazilian Portuguese - TV, Film, Animation & Cartoons Subject Matter Expert (SME)",1,BR,False,10,,,,2026-05-08,2026-05-08,https://jobs.lever.co/rws/b9a82aa5-a659-4a0b-a69c-f7177d4f2cdb
 f1ee0c5a03dd,RWS (TrainAI),General AI Data Annotator - French (United States),1,US,False,,,,,2025-10-03,2025-10-03,https://jobs.lever.co/rws/c0992264-6bb0-495a-9eea-cd127255419e
 377758b6ebf4,RWS (TrainAI),General AI Data Annotator - German (United States),1,US,False,,,,,2025-10-03,2025-10-03,https://jobs.lever.co/rws/cd843b41-a48b-4fa5-aae7-ead7b0a27d51
 db8de967beed,RWS (TrainAI),General AI Data Annotator - Italian (United States),1,US,False,,,,,2025-10-03,2025-10-03,https://jobs.lever.co/rws/3d590a14-c374-48fe-89cc-24d2b6bcc29d
@@ -138,7 +152,7 @@ df0f20c8d13f,Scale AI,"Field Engineer, Data Engine",1,US,False,,,,,2025-01-19,20
 cda5d6008d11,Scale AI,Finance Fellow - Human Frontier Collective (UK),1,GB,False,,,,,2025-10-17,2025-10-17,https://job-boards.greenhouse.io/scaleai/jobs/4613327005
 3e2bfaf2134a,Scale AI,Finance Fellow - Human Frontier Collective (US),1,US,False,,,,,2025-05-17,2025-05-17,https://job-boards.greenhouse.io/scaleai/jobs/4565836005
 eb98a02b81f3,Scale AI,Finance Systems Integration Lead,1,US,False,5,,,,2026-05-12,2026-05-12,https://job-boards.greenhouse.io/scaleai/jobs/4688021005
-bb124c68a31d,Scale AI,"Forward Deployed Product Manager, Enterprise",2,GB|US,False,4,,,,2026-01-19,2026-03-13,https://job-boards.greenhouse.io/scaleai/jobs/4673051005
+bb124c68a31d,Scale AI,"Forward Deployed Product Manager, Enterprise",2,GB|US,False,4,,,,2026-01-19,2026-03-13,https://job-boards.greenhouse.io/scaleai/jobs/4644742005
 c7df39678e32,Scale AI,"Forward Deployed Product Manager, Public Sector",1,US,False,,,,,2026-07-14,2026-07-14,https://job-boards.greenhouse.io/scaleai/jobs/4713648005
 b6cbadee4cc7,Scale AI,"Forward Deployed Software Engineer, Public Sector",1,US,False,5,,,,2024-10-09,2024-10-09,https://job-boards.greenhouse.io/scaleai/jobs/4481921005
 262fca07ec23,Scale AI,"Frontier Agent Engineering Manager, Enterprise",1,US,False,5,,,,2026-01-27,2026-01-27,https://job-boards.greenhouse.io/scaleai/jobs/4602177005
@@ -177,7 +191,7 @@ cac3a36acc60,Scale AI,"Operations Associate, Robotics",1,MX,False,,advanced,,,20
 1d4a1ba21c4b,Scale AI,Principal Architect,1,US,False,10,,,,2025-08-22,2025-08-22,https://job-boards.greenhouse.io/scaleai/jobs/4599202005
 b10bbc8dad1e,Scale AI,"Product Designer, Global Public Sector",1,AE|GB|QA,False,,fluent,,,2025-08-06,2025-08-06,https://job-boards.greenhouse.io/scaleai/jobs/4565768005
 06ca506e4e3d,Scale AI,"Product Leadership, Forward Deployed & Strategy",1,GB,False,,,,,2026-06-19,2026-06-19,https://job-boards.greenhouse.io/scaleai/jobs/4702890005
-c9edd589ac8c,Scale AI,"Product Manager of AI Applications, Global Public Sector",2,AE|QA|SA,False,4,,,,2025-09-03,2026-01-16,https://job-boards.greenhouse.io/scaleai/jobs/4650514005
+c9edd589ac8c,Scale AI,"Product Manager of AI Applications, Global Public Sector",2,AE|QA|SA,False,4,,,,2025-09-03,2026-01-16,https://job-boards.greenhouse.io/scaleai/jobs/4589749005
 0db367eb53bb,Scale AI,"Product Manager, Enterprise Core Platform",1,US,False,,,,,2026-05-27,2026-05-27,https://job-boards.greenhouse.io/scaleai/jobs/4699779005
 95524d15655d,Scale AI,"Product Marketing Lead, Enterprise",1,US,False,5,,,,2026-08-12,2026-08-12,https://job-boards.greenhouse.io/scaleai/jobs/4722998005
 62afb7c180d8,Scale AI,"Product Marketing Lead, Public Sector",1,US,False,6,,,,2026-09-30,2026-09-30,https://job-boards.greenhouse.io/scaleai/jobs/4739058005
@@ -220,16 +234,17 @@ de87f0ec12ec,Scale AI,"Senior Infrastructure Software Engineer, Enterprise AI",1
 7a75ab9b2ea5,Scale AI,"Senior Machine Learning Engineer, Public Sector",1,US,False,,,,,2026-09-10,2026-09-10,https://job-boards.greenhouse.io/scaleai/jobs/4732798005
 cea3fc86e1c2,Scale AI,"Senior Manager, Research Scientist",1,US,False,5,,,,2026-07-24,2026-07-24,https://job-boards.greenhouse.io/scaleai/jobs/4718431005
 588ba9c37d34,Scale AI,"Senior Mission Software Engineer, Public Sector",1,US,False,5,,,,2026-07-31,2026-07-31,https://job-boards.greenhouse.io/scaleai/jobs/4720422005
-956946efd858,Scale AI,"Senior Product Design Manager, Enterprise",2,GB|US,False,,,,,2026-08-06,2026-09-03,https://job-boards.greenhouse.io/scaleai/jobs/4721008005
+956946efd858,Scale AI,"Senior Product Design Manager, Enterprise",2,GB|US,False,,,,,2026-08-06,2026-09-03,https://job-boards.greenhouse.io/scaleai/jobs/4729620005
 19378d008734,Scale AI,Senior Software Engineer - Agentic Tooling & Productivity,1,US,False,5,,,,2026-01-29,2026-01-29,https://job-boards.greenhouse.io/scaleai/jobs/4654897005
 3e025138314d,Scale AI,"Senior Software Engineer, AI Operations, GPS",1,QA,False,,,,,2026-08-20,2026-08-20,https://job-boards.greenhouse.io/scaleai/jobs/4725133005
+67e0490d9b8a,Scale AI,"Senior Software Engineer, Identity",1,US,False,5,,,,2026-07-08,2026-07-08,https://job-boards.greenhouse.io/scaleai/jobs/4711898005
 c9ae07886919,Scale AI,"Senior Software Engineer, Orchestration Platform",1,US,False,5,,,,2026-10-01,2026-10-01,https://job-boards.greenhouse.io/scaleai/jobs/4739920005
 9a5f5534d1d8,Scale AI,"Senior Software Engineer, Platform",1,US,False,5,,,,2026-09-03,2026-09-03,https://job-boards.greenhouse.io/scaleai/jobs/4730512005
 75b2ad24d717,Scale AI,"Senior Software Engineer, Public Sector",1,US,False,,,,,2026-03-31,2026-03-31,https://job-boards.greenhouse.io/scaleai/jobs/4674911005
 a35f5fff67e9,Scale AI,Senior Staff Frontier Agents Engineer,1,US,False,12,,,,2026-05-15,2026-05-15,https://job-boards.greenhouse.io/scaleai/jobs/4694869005
 ded3eb1e4555,Scale AI,"Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI",1,US,False,5,,,,2026-02-10,2026-02-10,https://job-boards.greenhouse.io/scaleai/jobs/4658162005
 3800fa113b29,Scale AI,Software Engineer - AI Enablement,1,US,False,3,,,,2026-08-13,2026-08-13,https://job-boards.greenhouse.io/scaleai/jobs/4722512005
-7619d51d4ad0,Scale AI,Software Engineer - New Grad,3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730862005
+7619d51d4ad0,Scale AI,Software Engineer - New Grad,3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730851005
 2e88fa2c14a1,Scale AI,"Software Engineer, ARC Team",1,US,False,,,,,2026-03-16,2026-03-16,https://job-boards.greenhouse.io/scaleai/jobs/4673771005
 58f0d35f7b2e,Scale AI,"Software Engineer, Enterprise",1,GB,False,4,,,,2025-03-04,2025-03-04,https://job-boards.greenhouse.io/scaleai/jobs/4536653005
 b550c122efdb,Scale AI,"Software Engineer, Enterprise AI",1,US,False,4,,,,2025-01-07,2025-01-07,https://job-boards.greenhouse.io/scaleai/jobs/4513943005
@@ -237,7 +252,7 @@ b550c122efdb,Scale AI,"Software Engineer, Enterprise AI",1,US,False,4,,,,2025-01
 e00844bfacda,Scale AI,"Software Engineer, Public Sector",1,US,False,,,,,2023-08-06,2023-08-06,https://job-boards.greenhouse.io/scaleai/jobs/4302243005
 131c2cb7cfa2,Scale AI,"Software Engineer, Public Sector - New Grad",1,US,False,,,,,2026-09-23,2026-09-23,https://job-boards.greenhouse.io/scaleai/jobs/4736426005
 8f5e41da48f2,Scale AI,"Software Engineer, Robotics",1,AR|UY,False,6,,,,2025-12-30,2025-12-30,https://job-boards.greenhouse.io/scaleai/jobs/4612282005
-560d46ffe696,Scale AI,Software Engineering Intern (Summer 2027),3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730845005
+560d46ffe696,Scale AI,Software Engineering Intern (Summer 2027),3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730846005
 6ce399648d2d,Scale AI,"Software Engineering Manager, Public Sector",1,US,False,5,,,,2026-07-14,2026-07-14,https://job-boards.greenhouse.io/scaleai/jobs/4715325005
 109574890c7a,Scale AI,"Solutions Architect, Enterprise",1,US,False,,,,,2025-04-22,2025-04-22,https://job-boards.greenhouse.io/scaleai/jobs/4554440005
 7bd442ae52b7,Scale AI,Solutions Engineer (Clearance Required),1,US,False,,,,,2026-02-17,2026-02-17,https://job-boards.greenhouse.io/scaleai/jobs/4663481005

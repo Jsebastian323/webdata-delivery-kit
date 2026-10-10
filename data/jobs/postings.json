@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:27:40+00:00",
+  "generated_at": "2026-10-10T16:15:35+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -4342,31 +4342,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4644742005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -4394,6 +4369,31 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:scaleai:4673051005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -5453,35 +5453,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -5499,6 +5470,35 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6482,31 +6482,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4721008005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4721008005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-06",
-      "family_id": "956946efd858",
-      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4729620005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6523,6 +6498,31 @@
       "published": "2026-09-03",
       "family_id": "956946efd858",
       "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4721008005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4721008005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-08-06",
+      "family_id": "956946efd858",
+      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6584,6 +6584,35 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4711898005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4711898005",
+      "title": "Senior Software Engineer, Identity",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711898005",
+      "location": "San Francisco, CA; New York, NY; Washington, DC",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-07-08",
+      "family_id": "67e0490d9b8a",
+      "description_sha1": "27ac85aa885cc68402e00debb246030651e62774",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of full-time engineering experience, post-graduation with specialities in infrastructure and identity systems."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
     },
     {
       "key": "greenhouse:scaleai:4739920005",
@@ -6914,6 +6943,31 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4730846005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730846005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4730845005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6964,31 +7018,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730846005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730846005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4715325005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7018,22 +7047,22 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4730862005",
+      "key": "greenhouse:scaleai:4730851005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730862005",
+      "posting_id": "4730851005",
       "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+      "location": "Doha, Qatar",
       "countries": [
-        "GB"
+        "QA"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
-      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
+      "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7068,22 +7097,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730851005",
+      "key": "greenhouse:scaleai:4730862005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730851005",
+      "posting_id": "4730862005",
       "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-      "location": "Doha, Qatar",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+      "location": "London, UK",
       "countries": [
-        "QA"
+        "GB"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
-      "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
+      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9208,6 +9237,31 @@
       }
     },
     {
+      "key": "greenhouse:invisibletech:5002180101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "5002180101",
+      "title": "People Experience Manager",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/5002180101",
+      "location": "New York - Hybrid",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-09",
+      "family_id": "da5534f3b044",
+      "description_sha1": "7f46276cf823c85d3b2418b90ad3639f4e161c61",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:invisibletech:4697596101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
@@ -9861,31 +9915,6 @@
       "published": "2026-07-29",
       "family_id": "9b01baa5a0e3",
       "description_sha1": "3763649e1631d5a9638bc2d94d3ea6933f8e0000",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:labelbox:5179646007",
-      "source": "greenhouse",
-      "company": "Labelbox",
-      "posting_id": "5179646007",
-      "title": "Targeted Recruiting & Onboarding Specialist (Contractor)",
-      "url": "https://job-boards.greenhouse.io/labelbox/jobs/5179646007",
-      "location": "Remote, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-02",
-      "family_id": "b0f460e325b1",
-      "description_sha1": "826f6b70da219dfebe5bbd4c4c5bf8d5ed5939a6",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -10571,14 +10600,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "f2410d60e98f",
-      "description_sha1": "fb3696be85c16d3f5a0aeb5e0e00c156ba5aebd1",
-      "min_years": 5,
+      "description_sha1": "7eece34249253fff99794d5c395a8c402493bb8d",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10600,14 +10629,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "f2410d60e98f",
-      "description_sha1": "f1367a4cd60f24cdf9bd65ffc033b6788444c054",
-      "min_years": 5,
+      "description_sha1": "e09813c2027267468a27f99944e5791cbc21dcbf",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10629,14 +10658,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "df05984a6f13",
-      "description_sha1": "92e136d18f7fd2b5dd0cfe646aeb211cb3b7f318",
-      "min_years": 5,
+      "description_sha1": "87f5deebd93bda6033af8c24568bcd67974ea18e",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10658,14 +10687,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "df05984a6f13",
-      "description_sha1": "ce0e6d980897a7c87df8f42ca651c903ea08114d",
-      "min_years": 5,
+      "description_sha1": "5195f2ca009358ab6e1af0a5b2ee8eb94bd2e6a9",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10687,14 +10716,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "ca9719fae836",
-      "description_sha1": "93894dcf946c602350a719ab5be1f5ad1ae0fd53",
-      "min_years": 5,
+      "description_sha1": "6e5c54abe6f2eeef88f9cffd973634c547cef1eb",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10716,14 +10745,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "ca9719fae836",
-      "description_sha1": "387210250fabe86af0b4ec1ebd82f7baaec7b4e7",
-      "min_years": 5,
+      "description_sha1": "8dfdff96d98d20d3bfe069de06f6bc5a4b34cd00",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10745,14 +10774,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "a0db4e8c9add",
-      "description_sha1": "2c17f5b46aa97f0b5cca00e9b11ec50c26f085a4",
-      "min_years": 5,
+      "description_sha1": "125d157032d8d046efdb51f646384296c20969a4",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10774,14 +10803,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "a0db4e8c9add",
-      "description_sha1": "99c3586373b3f4aaae813c13f126ebda1ac781af",
-      "min_years": 5,
+      "description_sha1": "68e981571439001dad78c83ce5188456cb3fc194",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10803,14 +10832,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "a05fa3d2ca49",
-      "description_sha1": "ead3069f39c35c5744f08c1ced7ac8575554cd77",
-      "min_years": 5,
+      "description_sha1": "b867ce2bf54fe06f3d5c9c2d7f8a7e8a71ad6368",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10832,14 +10861,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "a05fa3d2ca49",
-      "description_sha1": "f79aef447af325f765e2a20e7f5ab1b884a217d6",
-      "min_years": 5,
+      "description_sha1": "c9ff083dda8b05291898f884cef9455f24a9be51",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10861,14 +10890,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "f3a2ac28696e",
-      "description_sha1": "c6f165bb4078f71769be59d2cff38488f1e5670d",
-      "min_years": 5,
+      "description_sha1": "67bf67f0994c2d58061ebdb25ee2fd43a8cba9be",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10890,14 +10919,14 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-06",
       "family_id": "f3a2ac28696e",
-      "description_sha1": "1485ab255e568e02165c3551ae828dfc22e6cba4",
-      "min_years": 5,
+      "description_sha1": "b770ced0d2b8c171d5f8666f05e10ab37c059162",
+      "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "Minimum 5 years of professional experience in language-related work"
+        "min_years": "Minimum 3 years of professional experience in language-related work"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -10988,6 +11017,442 @@
       },
       "extracted_by": {
         "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:baa16896-baeb-4896-897c-ee1c3b020830",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "baa16896-baeb-4896-897c-ee1c3b020830",
+      "title": "Brazilian Portuguese - Animals & Pets Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/baa16896-baeb-4896-897c-ee1c3b020830",
+      "location": "Rio de Janeiro",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "bacf2974e3c3",
+      "description_sha1": "90c129b516a0a62c881fe491bcf61644df0ad344",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:408b1a17-7a61-429f-bbc7-b265b0ab8d06",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "408b1a17-7a61-429f-bbc7-b265b0ab8d06",
+      "title": "Brazilian Portuguese - Arts Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/408b1a17-7a61-429f-bbc7-b265b0ab8d06",
+      "location": "Rio de Janeiro",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "a75bf02d5833",
+      "description_sha1": "b1acd5f6e28b6058186897c518226295b2f847c7",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:9a0d5c38-97e3-4124-b9cb-7401660fe01e",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "9a0d5c38-97e3-4124-b9cb-7401660fe01e",
+      "title": "Brazilian Portuguese - Fandoms Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/9a0d5c38-97e3-4124-b9cb-7401660fe01e",
+      "location": "São Paulo",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "77584e713c74",
+      "description_sha1": "b9c6a2c69009f6bce8374764b8579554afcc06bf",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:322b1168-7cdb-47b8-8050-c4034db1fc29",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "322b1168-7cdb-47b8-8050-c4034db1fc29",
+      "title": "Brazilian Portuguese - Fashion & Style Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/322b1168-7cdb-47b8-8050-c4034db1fc29",
+      "location": "São Paulo",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "06746f25f94d",
+      "description_sha1": "766b8e996a18505a4ea88fb14e4ad49bca399ad4",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:684aec2d-12fe-4fa4-88ec-c41686cb22d2",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "684aec2d-12fe-4fa4-88ec-c41686cb22d2",
+      "title": "Brazilian Portuguese - Food, Drink & Culinary Culture Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/684aec2d-12fe-4fa4-88ec-c41686cb22d2",
+      "location": "Recife",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "e56ab4912138",
+      "description_sha1": "fef91634af261124741cb5b6a54825d643a63ace",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:048f8c3e-e09f-4b13-81f7-a060584f45f0",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "048f8c3e-e09f-4b13-81f7-a060584f45f0",
+      "title": "Brazilian Portuguese - Games & Puzzles Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/048f8c3e-e09f-4b13-81f7-a060584f45f0",
+      "location": "Rio de Janeiro",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "27d1eb0cb695",
+      "description_sha1": "1af586d8d23ccf918f64d47ba4f4d2e38fd57674",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:3d2e529c-744a-4ed6-b04d-e8e416969a1b",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "3d2e529c-744a-4ed6-b04d-e8e416969a1b",
+      "title": "Brazilian Portuguese - History Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/3d2e529c-744a-4ed6-b04d-e8e416969a1b",
+      "location": "São Paulo",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "6dd2e3541a60",
+      "description_sha1": "2823cce500902c17f7e2cbfe7b065dbeb7559ebb",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:d5bcef39-c110-4aae-ad0c-1909e85ddd07",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "d5bcef39-c110-4aae-ad0c-1909e85ddd07",
+      "title": "Brazilian Portuguese - Home & Garden Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/d5bcef39-c110-4aae-ad0c-1909e85ddd07",
+      "location": "São Paulo",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-05",
+      "family_id": "01175722f577",
+      "description_sha1": "11a49c0442f898fa79062fbf09138ec254f32860",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:768d0459-fcde-4fe5-b6e2-2ae2d9f07b56",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "768d0459-fcde-4fe5-b6e2-2ae2d9f07b56",
+      "title": "Brazilian Portuguese - Internet Culture Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/768d0459-fcde-4fe5-b6e2-2ae2d9f07b56",
+      "location": "Rio de Janeiro",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "cd5df2b0bda1",
+      "description_sha1": "e622526d544a8c0c9e6ba1bd624126ee701e644e",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:c8d77692-dc67-4cb7-86f7-8fca806c6682",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "c8d77692-dc67-4cb7-86f7-8fca806c6682",
+      "title": "Brazilian Portuguese - Law & Ethics Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/c8d77692-dc67-4cb7-86f7-8fca806c6682",
+      "location": "Recife",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "22ae790bda73",
+      "description_sha1": "c45e02b9c279d4b7bb33491a7d81e24fe6c4331d",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:adf2ce84-802a-4ab8-aa91-8ea9d8883280",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "adf2ce84-802a-4ab8-aa91-8ea9d8883280",
+      "title": "Brazilian Portuguese - Literature & Linguistics Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/adf2ce84-802a-4ab8-aa91-8ea9d8883280",
+      "location": "Rio de Janeiro",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "134921d6ad1e",
+      "description_sha1": "1c38eb67208e26fe0ba7870be2ab32bffc7dbfdc",
+      "min_years": 10,
+      "english_level": "advanced",
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "english_level": "Suitable backgrounds may include linguists & philologists: academics or researchers specializing in sociolinguistics, historical linguistics, or syntax, particularly with a focus on Brazilian Portuguese dialects and evolution; literary scholars & critics: PhDs or senior researchers in Comparative Literature, Brazilian Literature, or Literary Theory with experience in deep textual analysis and criticism; professional editors & lexicographers: senior editors from major publishing houses or experts involved in dictionary compilation and language standardization; translators & Localizers: senior literary translators or localization experts who specialize in adapting complex creative works between English and Brazilian Portuguese; creative writers & poets: Published authors or long-form writers with a deep command of narrative structure, stylistics, and creative prose; grammarians & educators: Specialized professors or textbook authors with expertise in advanced Portuguese grammar, orthography (including the CPLP standards), and discourse analysis; cultural journalists: Critics or essayists who specialize in literary reviews and contemporary cultural movements in the Lusophone world.",
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:c6f4a7fe-986e-4367-8507-fb6c7be831b6",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "c6f4a7fe-986e-4367-8507-fb6c7be831b6",
+      "title": "Brazilian Portuguese - Religion & Philosophy Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/c6f4a7fe-986e-4367-8507-fb6c7be831b6",
+      "location": "São Paulo",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "10f878c69f6a",
+      "description_sha1": "afe28eb633d7f086946a165e9560c607922dfccd",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:8123e349-8063-44ee-8317-1357fa49306d",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "8123e349-8063-44ee-8317-1357fa49306d",
+      "title": "Brazilian Portuguese - Sports Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/8123e349-8063-44ee-8317-1357fa49306d",
+      "location": "São Paulo",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-07",
+      "family_id": "6c228e705c27",
+      "description_sha1": "ce899ddb4270aaed46355cc9f72428666e4e1816",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:b9a82aa5-a659-4a0b-a69c-f7177d4f2cdb",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "b9a82aa5-a659-4a0b-a69c-f7177d4f2cdb",
+      "title": "Brazilian Portuguese - TV, Film, Animation & Cartoons Subject Matter Expert (SME)",
+      "url": "https://jobs.lever.co/rws/b9a82aa5-a659-4a0b-a69c-f7177d4f2cdb",
+      "location": "Recife",
+      "countries": [
+        "BR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-05-08",
+      "family_id": "cadaa49cfad1",
+      "description_sha1": "5e6dda45c05c9b7524c86fd57f8f0ee624effc4a",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Part-time (10+ hours per week), fully flexible",
+        "min_years": "5–10+ years of professional experience"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "min_years": "rules"
       }
     },
     {

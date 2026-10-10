@@ -2,6 +2,40 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-10 · 422 postings · +16 new · -1 closed · ~12 changed
+
+**New**
+
+- Invisible Technologies · People Experience Manager · 1 (US)
+- Scale AI · Senior Software Engineer, Identity · 1 (US)
+- RWS (TrainAI) · Brazilian Portuguese - Games & Puzzles Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Fashion & Style Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - History Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Arts Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Food, Drink & Culinary Culture Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Internet Culture Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Sports Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Fandoms Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Literature & Linguistics Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - TV, Film, Animation & Cartoons Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Animals & Pets Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Religion & Philosophy Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Law & Ethics Subject Matter Expert (SME) · 1 (BR)
+- ... and 1 more families
+
+**Closed**
+
+- Labelbox · Targeted Recruiting & Onboarding Specialist (Contractor) · 1 (IN)
+
+**Changed**
+
+- RWS (TrainAI) · AI Linguistic Evaluator - Malayalam · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Tamil (India) · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Telugu · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Gujarati · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Marathi · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Bengali (India) · 2 (CA, US)
+
 ## 2026-10-09 · 407 postings · +32 new · -96 closed · ~30 changed
 
 **New**
