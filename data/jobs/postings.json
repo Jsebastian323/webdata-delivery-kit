@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:15:35+00:00",
+  "generated_at": "2026-10-11T16:40:05+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -4342,6 +4342,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4673051005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4644742005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -4369,31 +4394,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -4535,31 +4535,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4687050005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4687050005",
-      "title": "Frontier Data Strategist",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687050005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-04-20",
-      "family_id": "18ca6663ffb5",
-      "description_sha1": "c9d420601c9b36baa92edd2387c72ebac3e28d1c",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4730306005",
@@ -6482,31 +6457,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4729620005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4729620005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-03",
-      "family_id": "956946efd858",
-      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4721008005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6523,6 +6473,31 @@
       "published": "2026-08-06",
       "family_id": "956946efd858",
       "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4729620005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4729620005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-03",
+      "family_id": "956946efd858",
+      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6943,22 +6918,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730846005",
+      "key": "greenhouse:scaleai:4730834005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730846005",
+      "posting_id": "4730834005",
       "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+      "location": "Doha, Qatar",
       "countries": [
-        "GB"
+        "QA"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
       "published": "2026-09-14",
       "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
+      "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6993,22 +6968,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730834005",
+      "key": "greenhouse:scaleai:4730846005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730834005",
+      "posting_id": "4730846005",
       "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-      "location": "Doha, Qatar",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
       "countries": [
-        "QA"
+        "GB"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
       "published": "2026-09-14",
       "family_id": "560d46ffe696",
-      "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,

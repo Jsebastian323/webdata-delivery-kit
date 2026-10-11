@@ -2,6 +2,12 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-11 · 421 postings · +0 new · -1 closed · ~0 changed
+
+**Closed**
+
+- Scale AI · Frontier Data Strategist · 1 (US)
+
 ## 2026-10-10 · 422 postings · +16 new · -1 closed · ~12 changed
 
 **New**
