@@ -2,6 +2,23 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-12 · 450 postings · +52 new · -23 closed · ~0 changed
+
+**New**
+
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Scale AI · Senior Full-Stack Software Engineer, (Forward deployed), GPS · 1 (SA)
+- Scale AI · Field Marketing & Events Manager, Frontier Data · 1 (US)
+- Mindrift (Toloka) · CFD Engineer - AI Training · 1 (US)
+- Mindrift (Toloka) · CAD Engineer - AI Training · 1 (US)
+- Mindrift (Toloka) · CAD Engineer - AI Trainer · 1 (US)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation (Remote, Part-Time) · 1 (US)
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+
 ## 2026-10-11 · 421 postings · +0 new · -1 closed · ~0 changed
 
 **Closed**

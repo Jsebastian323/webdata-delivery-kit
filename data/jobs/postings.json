@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:40:05+00:00",
+  "generated_at": "2026-10-12T20:19:12+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -12,12 +12,12 @@
   ],
   "postings": [
     {
-      "key": "workable:toloka-ai:B277C3F0F0",
+      "key": "workable:toloka-ai:61443A3C5D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B277C3F0F0",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/B277C3F0F0",
+      "posting_id": "61443A3C5D",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/61443A3C5D",
       "location": "United States",
       "countries": [
         "US"
@@ -25,8 +25,8 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
+      "published": "2026-10-12",
+      "family_id": "3c15c61a13ee",
       "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
       "min_years": null,
       "english_level": "B2",
@@ -45,12 +45,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:6C65FCCBE2",
+      "key": "workable:toloka-ai:29F6A12A49",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "6C65FCCBE2",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/6C65FCCBE2",
+      "posting_id": "29F6A12A49",
+      "title": "CAD Engineer - AI Training",
+      "url": "https://apply.workable.com/j/29F6A12A49",
       "location": "United States",
       "countries": [
         "US"
@@ -58,8 +58,8 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
+      "published": "2026-10-12",
+      "family_id": "326fdff2e695",
       "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
       "min_years": null,
       "english_level": "B2",
@@ -78,12 +78,78 @@
       }
     },
     {
-      "key": "workable:toloka-ai:051BA2E412",
+      "key": "workable:toloka-ai:BE1B8FF6F4",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "051BA2E412",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/051BA2E412",
+      "posting_id": "BE1B8FF6F4",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/BE1B8FF6F4",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:FB702A6EA3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "FB702A6EA3",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/FB702A6EA3",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:6C1941F491",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "6C1941F491",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/6C1941F491",
       "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
       "countries": [
         "US"
@@ -91,9 +157,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 69.0,
@@ -111,12 +177,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:B359B176A6",
+      "key": "workable:toloka-ai:2A6A7A90A8",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B359B176A6",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/B359B176A6",
+      "posting_id": "2A6A7A90A8",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/2A6A7A90A8",
       "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
       "countries": [
         "US"
@@ -124,9 +190,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 69.0,
@@ -144,12 +210,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:E2925302A9",
+      "key": "workable:toloka-ai:82BBC55961",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "E2925302A9",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/E2925302A9",
+      "posting_id": "82BBC55961",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/82BBC55961",
       "location": "United States",
       "countries": [
         "US"
@@ -157,9 +223,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 69.0,
@@ -177,12 +243,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:2C1A8BDC96",
+      "key": "workable:toloka-ai:754D26843D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2C1A8BDC96",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/2C1A8BDC96",
+      "posting_id": "754D26843D",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/754D26843D",
       "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
       "countries": [
         "GB"
@@ -190,9 +256,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "69c86a459a903d0527b1f91dc900d837eef694e4",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "ceebad2c2e4579caf939b18dfc36a65ecc6dc0ab",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 36.0,
@@ -210,22 +276,22 @@
       }
     },
     {
-      "key": "workable:toloka-ai:936D504794",
+      "key": "workable:toloka-ai:24BA4BDF46",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "936D504794",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/936D504794",
-      "location": "Canada; St. Marys, Canada",
+      "posting_id": "24BA4BDF46",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/24BA4BDF46",
+      "location": "Canada",
       "countries": [
         "CA"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "f22739a5683de2d475fb636e87d4549b953c451e",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 39.0,
@@ -243,12 +309,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:1CD6C22B65",
+      "key": "workable:toloka-ai:E0CCD2BE7B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "1CD6C22B65",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/1CD6C22B65",
+      "posting_id": "E0CCD2BE7B",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/E0CCD2BE7B",
       "location": "Australia",
       "countries": [
         "AU"
@@ -256,9 +322,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "f22739a5683de2d475fb636e87d4549b953c451e",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 39.0,
@@ -276,12 +342,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:552487F0D4",
+      "key": "workable:toloka-ai:848F22FAA1",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "552487F0D4",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/552487F0D4",
+      "posting_id": "848F22FAA1",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/848F22FAA1",
       "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
       "countries": [
         "DE"
@@ -289,9 +355,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 50.0,
@@ -309,12 +375,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:4E2EEF05C3",
+      "key": "workable:toloka-ai:C164E3F05B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "4E2EEF05C3",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/4E2EEF05C3",
+      "posting_id": "C164E3F05B",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/C164E3F05B",
       "location": "France; Paris, France; Lyon, France",
       "countries": [
         "FR"
@@ -322,9 +388,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 50.0,
@@ -342,12 +408,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:5FAAE9D8ED",
+      "key": "workable:toloka-ai:DB10BC5215",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "5FAAE9D8ED",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/5FAAE9D8ED",
+      "posting_id": "DB10BC5215",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/DB10BC5215",
       "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
       "countries": [
         "ES"
@@ -355,9 +421,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 31.0,
@@ -375,12 +441,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:44D8D57436",
+      "key": "workable:toloka-ai:95A42B62E4",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "44D8D57436",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/44D8D57436",
+      "posting_id": "95A42B62E4",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/95A42B62E4",
       "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
       "countries": [
         "CR",
@@ -391,9 +457,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "7ccdab67c1aaaa5e2177f6d4e742a1f890d2f482",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 17.0,
@@ -411,12 +477,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:22026E91B5",
+      "key": "workable:toloka-ai:289DF8C2D0",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "22026E91B5",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/22026E91B5",
+      "posting_id": "289DF8C2D0",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/289DF8C2D0",
       "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
       "countries": [
         "AT",
@@ -429,9 +495,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 50.0,
@@ -449,12 +515,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:15105ADEF6",
+      "key": "workable:toloka-ai:FA24BA65F5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "15105ADEF6",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/15105ADEF6",
+      "posting_id": "FA24BA65F5",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/FA24BA65F5",
       "location": "Portugal; Greece; Italy",
       "countries": [
         "GR",
@@ -464,9 +530,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 31.0,
@@ -484,14 +550,15 @@
       }
     },
     {
-      "key": "workable:toloka-ai:2043FB2070",
+      "key": "workable:toloka-ai:9CA21F11AA",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2043FB2070",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/2043FB2070",
-      "location": "Romania; Poland; Czechia; Hungary; Slovakia",
+      "posting_id": "9CA21F11AA",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/9CA21F11AA",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
       "countries": [
+        "BG",
         "CZ",
         "HU",
         "PL",
@@ -501,9 +568,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 31.0,
@@ -521,12 +588,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:84EEDA67E8",
+      "key": "workable:toloka-ai:50CB3154A3",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "84EEDA67E8",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/84EEDA67E8",
+      "posting_id": "50CB3154A3",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/50CB3154A3",
       "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
       "countries": [
         "BA",
@@ -539,9 +606,9 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": 31.0,
@@ -559,12 +626,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:C14F2C7D7E",
+      "key": "workable:toloka-ai:0EC289D7EC",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C14F2C7D7E",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/C14F2C7D7E",
+      "posting_id": "0EC289D7EC",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/0EC289D7EC",
       "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
       "countries": [
         "AE",
@@ -577,7 +644,292 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "9a4dbeff9d04855de946410f63ba85ee64edf988",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 37.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$37 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1CE039830D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1CE039830D",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/1CE039830D",
+      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
+      "countries": [
+        "AM",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "3c32691b1baf57145a964f1e796891b1f4e78f02",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 19.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$19 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C84319CCE0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C84319CCE0",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/C84319CCE0",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5F64F7DBA1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5F64F7DBA1",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/5F64F7DBA1",
+      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "countries": [
+        "ID",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "41000519e84998ea08282022941e2b8baf759f0f",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 23.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$23 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:CF3AD1945E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "CF3AD1945E",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/CF3AD1945E",
+      "location": "Egypt; Morocco; Algeria; Tunisia",
+      "countries": [
+        "DZ",
+        "EG",
+        "MA",
+        "TN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "41000519e84998ea08282022941e2b8baf759f0f",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 23.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$23 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5ED5A50F6B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5ED5A50F6B",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/5ED5A50F6B",
+      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
+      "countries": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 17.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$17 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:AA14415719",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "AA14415719",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/AA14415719",
+      "location": "Japan; South Korea; New Zealand; Singapore",
+      "countries": [
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "063c99ffb797",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:23ECB2C764",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "23ECB2C764",
+      "title": "CFD Engineer - AI Training",
+      "url": "https://apply.workable.com/j/23ECB2C764",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "213996c1e2b7",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:A24461CA39",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A24461CA39",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/A24461CA39",
+      "location": "Japan; South Korea; New Zealand; Singapore",
+      "countries": [
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
       "family_id": "cad6bf48bcec",
       "description_sha1": "087e45edbf7d924953c1035d81dadc13734fdb8a",
       "min_years": null,
@@ -597,154 +949,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:2BF7B0EA8C",
+      "key": "workable:toloka-ai:5D6E935A87",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2BF7B0EA8C",
+      "posting_id": "5D6E935A87",
       "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/2BF7B0EA8C",
-      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
-      "countries": [
-        "AM",
-        "IL",
-        "JO",
-        "LB",
-        "TR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "a47c0d529eb154d0697236252154184996b5ed81",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 19.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$19 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:31F0443762",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "31F0443762",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/31F0443762",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3EBC16C7EC",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3EBC16C7EC",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/3EBC16C7EC",
-      "location": "Philippines; Malaysia; Indonesia; South Africa",
-      "countries": [
-        "ID",
-        "MY",
-        "PH",
-        "ZA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:1B74403883",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "1B74403883",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/1B74403883",
-      "location": "Egypt; Morocco; Algeria; Tunisia",
-      "countries": [
-        "DZ",
-        "EG",
-        "MA",
-        "TN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-05",
-      "family_id": "cad6bf48bcec",
-      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:9A3E78F6A4",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "9A3E78F6A4",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/9A3E78F6A4",
+      "url": "https://apply.workable.com/j/5D6E935A87",
       "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
       "countries": [
         "AR",
@@ -757,7 +967,7 @@
       "remote": true,
       "open_to_colombia": true,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
+      "published": "2026-10-12",
       "family_id": "cad6bf48bcec",
       "description_sha1": "fda3c756e96540d481d835cd90e8e34cb6af0160",
       "min_years": null,
@@ -777,23 +987,167 @@
       }
     },
     {
-      "key": "workable:toloka-ai:D348EEEADF",
+      "key": "workable:toloka-ai:888CBE6880",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "D348EEEADF",
+      "posting_id": "888CBE6880",
       "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/D348EEEADF",
-      "location": "Japan; South Korea; New Zealand; Singapore",
+      "url": "https://apply.workable.com/j/888CBE6880",
+      "location": "Egypt; Morocco; Algeria; Tunisia",
       "countries": [
-        "JP",
-        "KR",
-        "NZ",
-        "SG"
+        "DZ",
+        "EG",
+        "MA",
+        "TN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-05",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E0B2AE24A3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E0B2AE24A3",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/E0B2AE24A3",
+      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "countries": [
+        "ID",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:735589851A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "735589851A",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/735589851A",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C58B1378E4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C58B1378E4",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/C58B1378E4",
+      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
+      "countries": [
+        "AM",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "a47c0d529eb154d0697236252154184996b5ed81",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 19.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$19 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D1DD974068",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D1DD974068",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/D1DD974068",
+      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
+      "countries": [
+        "AE",
+        "BH",
+        "KW",
+        "OM",
+        "QA",
+        "SA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
       "family_id": "cad6bf48bcec",
       "description_sha1": "087e45edbf7d924953c1035d81dadc13734fdb8a",
       "min_years": null,
@@ -805,6 +1159,553 @@
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "pay_usd_hour_max": "$37 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D69CA52390",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D69CA52390",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/D69CA52390",
+      "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
+      "countries": [
+        "BA",
+        "EE",
+        "LT",
+        "LV",
+        "MT",
+        "RS"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2AAF1B362F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2AAF1B362F",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/2AAF1B362F",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia",
+      "countries": [
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:05BA1BFE43",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "05BA1BFE43",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/05BA1BFE43",
+      "location": "Portugal; Greece; Italy",
+      "countries": [
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:DEA009C977",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DEA009C977",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/DEA009C977",
+      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
+      "countries": [
+        "AT",
+        "BE",
+        "DK",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3F9264BA7F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3F9264BA7F",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/3F9264BA7F",
+      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
+      "countries": [
+        "CR",
+        "EC",
+        "JM",
+        "UY"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "7ccdab67c1aaaa5e2177f6d4e742a1f890d2f482",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 17.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$17 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:982D847777",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "982D847777",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/982D847777",
+      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
+      "countries": [
+        "ES"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:DDDBFA4D6A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DDDBFA4D6A",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/DDDBFA4D6A",
+      "location": "France; Paris, France; Lyon, France",
+      "countries": [
+        "FR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:666030D955",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "666030D955",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/666030D955",
+      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
+      "countries": [
+        "DE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:64CAEE2A27",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "64CAEE2A27",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/64CAEE2A27",
+      "location": "Australia",
+      "countries": [
+        "AU"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f22739a5683de2d475fb636e87d4549b953c451e",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:EB9E96F993",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "EB9E96F993",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/EB9E96F993",
+      "location": "Canada; St. Marys, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f22739a5683de2d475fb636e87d4549b953c451e",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:FE8E353985",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "FE8E353985",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/FE8E353985",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "69c86a459a903d0527b1f91dc900d837eef694e4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 36.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$36 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B97F7159A5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B97F7159A5",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/B97F7159A5",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D98DE0C5E6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D98DE0C5E6",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/D98DE0C5E6",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1313F39B2C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1313F39B2C",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/1313F39B2C",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4B775FFCE2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4B775FFCE2",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/4B775FFCE2",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:6B03059459",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "6B03059459",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/6B03059459",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -3053,6 +3954,39 @@
       }
     },
     {
+      "key": "workable:toloka-ai:F372E025ED",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F372E025ED",
+      "title": "Physician (MD/DO) - Medical AI Evaluation (Remote, Part-Time)",
+      "url": "https://apply.workable.com/j/F372E025ED",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-12",
+      "family_id": "4687a87f2d19",
+      "description_sha1": "af68c08503c42c1514acd82b34011f5805cd565a",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 80.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$80/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
       "key": "workable:toloka-ai:F82964AE49",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -4261,6 +5195,35 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4741462005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4741462005",
+      "title": "Field Marketing & Events Manager, Frontier Data",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4741462005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-12",
+      "family_id": "6ee0f3ac206b",
+      "description_sha1": "0dcfbd66f9b73e33a62b43233b152fb4474caed0",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of hands-on experience in event marketing, including vendor management, booth logistics, staffing, and executive participation."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
     },
     {
       "key": "greenhouse:scaleai:4613327005",
@@ -6287,22 +7250,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4673310005",
+      "key": "greenhouse:scaleai:4732394005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4673310005",
-      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
-      "location": "London, UK",
+      "posting_id": "4732394005",
+      "title": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732394005",
+      "location": "Riyadh, Saudi Arabia",
       "countries": [
-        "GB"
+        "SA"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-03-24",
+      "published": "2026-09-10",
       "family_id": "b57fc5af0370",
-      "description_sha1": "a48ee25e5084967b63bf4164f0644c82bfb86c26",
+      "description_sha1": "983ad66cdc5e668387fe73c0196a21848be605e4",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6332,6 +7295,35 @@
       "published": "2026-03-24",
       "family_id": "b57fc5af0370",
       "description_sha1": "983ad66cdc5e668387fe73c0196a21848be605e4",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of post-graduation, full-stack engineering experience with demonstrated proficiency in React (required), TypeScript, Next.js, Python, Node.js, PostgreSQL or MongoDB plus hands-on experience with Docker, Kubernetes, and Azure/AWS/GCP."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4673310005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673310005",
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-24",
+      "family_id": "b57fc5af0370",
+      "description_sha1": "a48ee25e5084967b63bf4164f0644c82bfb86c26",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -6457,31 +7449,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4721008005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4721008005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-06",
-      "family_id": "956946efd858",
-      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4729620005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -6498,6 +7465,31 @@
       "published": "2026-09-03",
       "family_id": "956946efd858",
       "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4721008005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4721008005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-08-06",
+      "family_id": "956946efd858",
+      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7047,31 +8039,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730836005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730836005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-04",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730862005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7088,6 +8055,31 @@
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
       "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730836005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730836005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-04",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7314,31 +8306,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4732430005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4732430005",
-      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-10",
-      "family_id": "56ad11a5ce2b",
-      "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4676610005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7355,6 +8322,31 @@
       "published": "2026-03-24",
       "family_id": "56ad11a5ce2b",
       "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4732430005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4732430005",
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-10",
+      "family_id": "56ad11a5ce2b",
+      "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7447,31 +8439,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4735360005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4735360005",
-      "title": "Staff Product Designer, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735360005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-24",
-      "family_id": "614cd584a7ff",
-      "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4718917005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7488,6 +8455,31 @@
       "published": "2026-07-29",
       "family_id": "614cd584a7ff",
       "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4735360005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4735360005",
+      "title": "Staff Product Designer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735360005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-24",
+      "family_id": "614cd584a7ff",
+      "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
