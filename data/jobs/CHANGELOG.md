@@ -2,6 +2,45 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-13 · 528 postings · +115 new · -37 closed · ~1 changed
+
+**New**
+
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Mindrift (Toloka) · CAD Engineer - AI Trainer · 22 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Invisible Technologies · Data Scientist · 1 (US)
+- Invisible Technologies · Senior Data Scientist · 1 (US)
+- Scale AI · Engagement Manager, Public Sector (Miami, FL) · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Kannada (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - French (Switzerland) · 1 (CH)
+- RWS (TrainAI) · Search Engine Evaluator - Marathi (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Bengali (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Dutch (Netherlands) · 1 (NL)
+- RWS (TrainAI) · Search Engine Evaluator - Tamil (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Italian (Italy) · 1 (IT)
+- RWS (TrainAI) · Search Engine Evaluator - Italian (Switzerland) · 1 (CH)
+- RWS (TrainAI) · Search Engine Evaluator - German (Austria) · 1 (AT)
+- RWS (TrainAI) · Search Engine Evaluator - French (Belgium) · 1 (BE)
+- ... and 57 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- RWS (TrainAI) · AI Linguistic Evaluator - Malayalam · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Tamil (India) · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Gujarati · 2 (CA, US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Bengali (India) · 2 (CA, US)
+- Scale AI · Deployment Strategist · 1 (US)
+- Scale AI · AI Advisory Consultant · 1 (US)
+- Scale AI · Global Payroll Analyst · 1 (MX)
+- Turing · Forward Deployed AI Engineer (In Training) · 1 (US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Marathi · 1 (US)
+- RWS (TrainAI) · AI Linguistic Evaluator - Telugu · 1 (CA)
+
+**Changed**
+
+- Scale AI · Team Lead, ARC Software Engineering Team · 1 (US)
+
 ## 2026-10-12 · 450 postings · +52 new · -23 closed · ~0 changed
 
 **New**

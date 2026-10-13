@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:19:12+00:00",
+  "generated_at": "2026-10-13T18:21:52+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -11,6 +11,64 @@
     "lever:rws"
   ],
   "postings": [
+    {
+      "key": "workable:toloka-ai:646ADA649D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "646ADA649D",
+      "title": "$100/hr Side Job for French-Speaking Students",
+      "url": "https://apply.workable.com/j/646ADA649D",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "1c344648c34a",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:F64D32EB8B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F64D32EB8B",
+      "title": "$100/hr Side Job for Japanese-Speaking Students",
+      "url": "https://apply.workable.com/j/F64D32EB8B",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "f26c9985d89e",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
     {
       "key": "workable:toloka-ai:61443A3C5D",
       "source": "workable",
@@ -37,6 +95,775 @@
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2D58AA8AA8",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2D58AA8AA8",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/2D58AA8AA8",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4BD5F692C7",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4BD5F692C7",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/4BD5F692C7",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:0CC35B192D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0CC35B192D",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/0CC35B192D",
+      "location": "United States; New York, United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E96AF935FB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E96AF935FB",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/E96AF935FB",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "f64944708a5d96d972dd05ad0153dac7d0393dd6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:A3F617BF8F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A3F617BF8F",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/A3F617BF8F",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "69c86a459a903d0527b1f91dc900d837eef694e4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 36.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$36 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:6D81D0FD3D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "6D81D0FD3D",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/6D81D0FD3D",
+      "location": "Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "f22739a5683de2d475fb636e87d4549b953c451e",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B61FECDFB9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B61FECDFB9",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/B61FECDFB9",
+      "location": "Australia",
+      "countries": [
+        "AU"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "f22739a5683de2d475fb636e87d4549b953c451e",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:947794C0F7",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "947794C0F7",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/947794C0F7",
+      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
+      "countries": [
+        "DE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:BECF4F972B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "BECF4F972B",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/BECF4F972B",
+      "location": "France; Paris, France; Lyon, France",
+      "countries": [
+        "FR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3740A18E3F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3740A18E3F",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/3740A18E3F",
+      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
+      "countries": [
+        "ES"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:325D021164",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "325D021164",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/325D021164",
+      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
+      "countries": [
+        "CR",
+        "EC",
+        "JM",
+        "UY"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "7ccdab67c1aaaa5e2177f6d4e742a1f890d2f482",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 17.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$17 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:6B59A8F5D3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "6B59A8F5D3",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/6B59A8F5D3",
+      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
+      "countries": [
+        "AT",
+        "BE",
+        "DK",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:370B8C2CF2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "370B8C2CF2",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/370B8C2CF2",
+      "location": "Portugal; Greece; Italy",
+      "countries": [
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:08DA4E0581",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "08DA4E0581",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/08DA4E0581",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Belgium",
+      "countries": [
+        "BE",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:ED730044A2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "ED730044A2",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/ED730044A2",
+      "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
+      "countries": [
+        "BA",
+        "EE",
+        "LT",
+        "LV",
+        "MT",
+        "RS"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "ed8575e416037ee33214d00773eff307d50fdca4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:161EFCA2EE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "161EFCA2EE",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/161EFCA2EE",
+      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
+      "countries": [
+        "AE",
+        "BH",
+        "KW",
+        "OM",
+        "QA",
+        "SA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "087e45edbf7d924953c1035d81dadc13734fdb8a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 37.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$37 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:0351F67021",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0351F67021",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/0351F67021",
+      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
+      "countries": [
+        "AM",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:9DE6E1FA3B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9DE6E1FA3B",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/9DE6E1FA3B",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5150F98076",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5150F98076",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/5150F98076",
+      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "countries": [
+        "ID",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "54cb1b27b6c2375c0c206ed51b87203d0bb48489",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 23.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$23 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:92855AB34A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "92855AB34A",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/92855AB34A",
+      "location": "Egypt; Morocco; Algeria; Tunisia",
+      "countries": [
+        "DZ",
+        "EG",
+        "MA",
+        "TN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "863455edc957768eaf2a2aa3699d2acd354e1184",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7CD78D8B80",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7CD78D8B80",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/7CD78D8B80",
+      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
+      "countries": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "fda3c756e96540d481d835cd90e8e34cb6af0160",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 14.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$14 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:766CD1FAE9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "766CD1FAE9",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/766CD1FAE9",
+      "location": "Japan; South Korea; New Zealand; Singapore",
+      "countries": [
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c15c61a13ee",
+      "description_sha1": "087e45edbf7d924953c1035d81dadc13734fdb8a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 37.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$37 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -1714,573 +2541,23 @@
       }
     },
     {
-      "key": "workable:toloka-ai:8237F9A728",
+      "key": "workable:toloka-ai:E44F729AF4",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "8237F9A728",
+      "posting_id": "E44F729AF4",
       "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/8237F9A728",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/E44F729AF4",
+      "location": "Japan; South Korea; New Zealand; Singapore",
       "countries": [
-        "US"
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:69CEE977C4",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "69CEE977C4",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/69CEE977C4",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:ACD674A5B0",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "ACD674A5B0",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/ACD674A5B0",
-      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:6A73AAE772",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "6A73AAE772",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/6A73AAE772",
-      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:B392C7E751",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "B392C7E751",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/B392C7E751",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:31C66AE4F5",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "31C66AE4F5",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/31C66AE4F5",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
-      "countries": [
-        "GB"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "ceebad2c2e4579caf939b18dfc36a65ecc6dc0ab",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 36.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$36 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:367EC28A18",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "367EC28A18",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/367EC28A18",
-      "location": "Canada; St. Marys, Canada",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 39.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$39 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:03BF738F8E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "03BF738F8E",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/03BF738F8E",
-      "location": "Australia",
-      "countries": [
-        "AU"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 39.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$39 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:5F97EAB5BC",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "5F97EAB5BC",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/5F97EAB5BC",
-      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
-      "countries": [
-        "DE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:B87D013CD7",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "B87D013CD7",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/B87D013CD7",
-      "location": "France; Paris, France; Lyon, France",
-      "countries": [
-        "FR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:8D41D31246",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "8D41D31246",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/8D41D31246",
-      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
-      "countries": [
-        "ES"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:BB04A4E38B",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "BB04A4E38B",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/BB04A4E38B",
-      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
-      "countries": [
-        "CR",
-        "EC",
-        "JM",
-        "UY"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 17.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$17 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:FB64D6D915",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "FB64D6D915",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/FB64D6D915",
-      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
-      "countries": [
-        "AT",
-        "BE",
-        "DK",
-        "FI",
-        "NO",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:FF456C1F11",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "FF456C1F11",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/FF456C1F11",
-      "location": "Portugal; Greece; Italy",
-      "countries": [
-        "GR",
-        "IT",
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:2FAFD70BBE",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "2FAFD70BBE",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/2FAFD70BBE",
-      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:FE7DC3DFEB",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "FE7DC3DFEB",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/FE7DC3DFEB",
-      "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
-      "countries": [
-        "BA",
-        "EE",
-        "LT",
-        "LV",
-        "MT",
-        "RS"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:56521AE28F",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "56521AE28F",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/56521AE28F",
-      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
-      "countries": [
-        "AE",
-        "BH",
-        "KW",
-        "OM",
-        "QA",
-        "SA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
+      "published": "2026-10-13",
       "family_id": "a762657c1833",
       "description_sha1": "9a4dbeff9d04855de946410f63ba85ee64edf988",
       "min_years": null,
@@ -2300,154 +2577,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:34FEAC2577",
+      "key": "workable:toloka-ai:2A8A8B25D5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "34FEAC2577",
+      "posting_id": "2A8A8B25D5",
       "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/34FEAC2577",
-      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
-      "countries": [
-        "AM",
-        "IL",
-        "JO",
-        "LB",
-        "TR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:E9E77CDDDD",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "E9E77CDDDD",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/E9E77CDDDD",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:E687890174",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "E687890174",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/E687890174",
-      "location": "Philippines; Malaysia; Indonesia; South Africa",
-      "countries": [
-        "ID",
-        "MY",
-        "PH",
-        "ZA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:7EF809859A",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "7EF809859A",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/7EF809859A",
-      "location": "Egypt; Morocco; Algeria; Tunisia",
-      "countries": [
-        "DZ",
-        "EG",
-        "MA",
-        "TN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-06",
-      "family_id": "a762657c1833",
-      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3328F3F85E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3328F3F85E",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/3328F3F85E",
+      "url": "https://apply.workable.com/j/2A8A8B25D5",
       "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
       "countries": [
         "AR",
@@ -2460,7 +2595,7 @@
       "remote": true,
       "open_to_colombia": true,
       "employment_type": "Part-time",
-      "published": "2026-10-06",
+      "published": "2026-10-13",
       "family_id": "a762657c1833",
       "description_sha1": "e269c3d9dd6529b8bc36d71ba4bc4607b0d946ab",
       "min_years": null,
@@ -2480,23 +2615,167 @@
       }
     },
     {
-      "key": "workable:toloka-ai:C59B9B8C72",
+      "key": "workable:toloka-ai:9BE6CD6334",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C59B9B8C72",
+      "posting_id": "9BE6CD6334",
       "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/C59B9B8C72",
-      "location": "Japan; South Korea; New Zealand; Singapore",
+      "url": "https://apply.workable.com/j/9BE6CD6334",
+      "location": "Egypt; Morocco; Algeria; Tunisia",
       "countries": [
-        "JP",
-        "KR",
-        "NZ",
-        "SG"
+        "DZ",
+        "EG",
+        "MA",
+        "TN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-06",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3B788A274B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3B788A274B",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/3B788A274B",
+      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "countries": [
+        "ID",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:11F2CC6B9E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "11F2CC6B9E",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/11F2CC6B9E",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:9A05AD89A1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9A05AD89A1",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/9A05AD89A1",
+      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
+      "countries": [
+        "AM",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:AA262B43B8",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "AA262B43B8",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/AA262B43B8",
+      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
+      "countries": [
+        "AE",
+        "BH",
+        "KW",
+        "OM",
+        "QA",
+        "SA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
       "family_id": "a762657c1833",
       "description_sha1": "9a4dbeff9d04855de946410f63ba85ee64edf988",
       "min_years": null,
@@ -2512,6 +2791,757 @@
       "extracted_by": {
         "english_level": "rules",
         "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D8DB6C6894",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D8DB6C6894",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/D8DB6C6894",
+      "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
+      "countries": [
+        "BA",
+        "EE",
+        "LT",
+        "LV",
+        "MT",
+        "RS"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:67002E3644",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "67002E3644",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/67002E3644",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:32146022E8",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "32146022E8",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/32146022E8",
+      "location": "Portugal; Greece; Italy",
+      "countries": [
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:0979D098BA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0979D098BA",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/0979D098BA",
+      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
+      "countries": [
+        "AT",
+        "BE",
+        "DK",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C23DDCA165",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C23DDCA165",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/C23DDCA165",
+      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
+      "countries": [
+        "CR",
+        "EC",
+        "JM",
+        "UY"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 17.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$17 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:14AD500378",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "14AD500378",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/14AD500378",
+      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
+      "countries": [
+        "ES"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B472FEEBB0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B472FEEBB0",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/B472FEEBB0",
+      "location": "France; Paris, France; Lyon, France",
+      "countries": [
+        "FR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5F0442DB17",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5F0442DB17",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/5F0442DB17",
+      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
+      "countries": [
+        "DE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:A08BD6FBDB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A08BD6FBDB",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/A08BD6FBDB",
+      "location": "Australia",
+      "countries": [
+        "AU"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:74D367F568",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "74D367F568",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/74D367F568",
+      "location": "Canada; St. Marys, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:80FA1EADF6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "80FA1EADF6",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/80FA1EADF6",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "ceebad2c2e4579caf939b18dfc36a65ecc6dc0ab",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 36.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$36 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:BCBD676F6D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "BCBD676F6D",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/BCBD676F6D",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3E1E339CFA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3E1E339CFA",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/3E1E339CFA",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:F784411484",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F784411484",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/F784411484",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:989E6A9A41",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "989E6A9A41",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/989E6A9A41",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:0F184425D1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0F184425D1",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/0F184425D1",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:9FE483C8EE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9FE483C8EE",
+      "title": "French Speaker - 3-Day Paid User Research Study",
+      "url": "https://apply.workable.com/j/9FE483C8EE",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "9d5df9e513f4",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E29FDB07D0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E29FDB07D0",
+      "title": "French Speaker - 3-Day Paid User Research Study, $100/hr",
+      "url": "https://apply.workable.com/j/E29FDB07D0",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "9dc8b8ffb83b",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:325E887005",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "325E887005",
+      "title": "French Speaker in NYC - Join a 3-Day Paid Phone Study - $100/hr",
+      "url": "https://apply.workable.com/j/325E887005",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3ba2f184ea5e",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3B540C8573",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3B540C8573",
+      "title": "Japanese Speaker - 3-Day Paid User Research Study",
+      "url": "https://apply.workable.com/j/3B540C8573",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "cb687683b69d",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B1F5F3D8E2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B1F5F3D8E2",
+      "title": "Japanese Speaker - 3-Day Paid User Research Study, $100/hr",
+      "url": "https://apply.workable.com/j/B1F5F3D8E2",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "08b6d7fff015",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:249F42D29D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "249F42D29D",
+      "title": "Japanese Speaker in NYC - Join a 3-Day Paid Phone Study - $100/hr",
+      "url": "https://apply.workable.com/j/249F42D29D",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "2fd02c4d5459",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:F0BB1909B1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F0BB1909B1",
+      "title": "Korean Speaker - 3-Day Paid User Research Study",
+      "url": "https://apply.workable.com/j/F0BB1909B1",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "2a535a67d795",
+      "description_sha1": "eff40ae523f3e32ec4b32557c6236751129e9ba2",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
         "pay_usd_hour_max": "rules"
       }
     },
@@ -3235,6 +4265,180 @@
       }
     },
     {
+      "key": "workable:toloka-ai:5EF8BB5534",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5EF8BB5534",
+      "title": "Paid Research Participant - French Speakers",
+      "url": "https://apply.workable.com/j/5EF8BB5534",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "fe77711b38af",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E929FA58B8",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E929FA58B8",
+      "title": "Paid Research Participant - French Speakers, $100/hr",
+      "url": "https://apply.workable.com/j/E929FA58B8",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "07d6db98cdc5",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D8D88CAA09",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D8D88CAA09",
+      "title": "Paid Research Participant - Japanese Speakers",
+      "url": "https://apply.workable.com/j/D8D88CAA09",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "37e855f5220a",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C869DDD351",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C869DDD351",
+      "title": "Paid Research Participant - Japanese Speakers, $100/hr",
+      "url": "https://apply.workable.com/j/C869DDD351",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "88fe41db0d2d",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:ED13BCEC8D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "ED13BCEC8D",
+      "title": "Paid Research Participant - Korean Speakers",
+      "url": "https://apply.workable.com/j/ED13BCEC8D",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "25eb4912abf6",
+      "description_sha1": "eff40ae523f3e32ec4b32557c6236751129e9ba2",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3E54119487",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3E54119487",
+      "title": "Paid Research Participant - Korean Speakers, $100/hr",
+      "url": "https://apply.workable.com/j/3E54119487",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "a99923c1bd60",
+      "description_sha1": "eff40ae523f3e32ec4b32557c6236751129e9ba2",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
       "key": "workable:toloka-ai:B6CAF8DCE0",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -3250,6 +4454,39 @@
       "employment_type": "Part-time",
       "published": "2026-10-09",
       "family_id": "bab625294bec",
+      "description_sha1": "e109a5084e56e929edb65092a174e146ed3c9bd4",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 130.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$130/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:01E04A9C9B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "01E04A9C9B",
+      "title": "Physician (MD/DO) - Clinical AI Evaluator",
+      "url": "https://apply.workable.com/j/01E04A9C9B",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "ddb990aa32ae",
       "description_sha1": "e109a5084e56e929edb65092a174e146ed3c9bd4",
       "min_years": null,
       "english_level": "C1",
@@ -4086,6 +5323,383 @@
       }
     },
     {
+      "key": "workable:toloka-ai:B40A791CCC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B40A791CCC",
+      "title": "Short-Term Paid Research Study for French-Speaking Students",
+      "url": "https://apply.workable.com/j/B40A791CCC",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "691aff5bd223",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:FFF297984F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "FFF297984F",
+      "title": "Short-Term Paid Research Study for French-Speaking Students - $100/hr",
+      "url": "https://apply.workable.com/j/FFF297984F",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "4ab9d31a2784",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E6576EBBAD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E6576EBBAD",
+      "title": "Short-Term Paid Research Study for Japanese-Speaking Students",
+      "url": "https://apply.workable.com/j/E6576EBBAD",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "c857c0f706a1",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:6CD97DFDE1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "6CD97DFDE1",
+      "title": "Short-Term Paid Research Study for Japanese-Speaking Students - $100/hr",
+      "url": "https://apply.workable.com/j/6CD97DFDE1",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "6dec6a998802",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:73519BB90B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "73519BB90B",
+      "title": "Short-Term Paid Research Study for Korean-Speaking Students",
+      "url": "https://apply.workable.com/j/73519BB90B",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "b708de1b1343",
+      "description_sha1": "eff40ae523f3e32ec4b32557c6236751129e9ba2",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:68266D6C50",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "68266D6C50",
+      "title": "Short-Term Paid Research Study for Korean-Speaking Students - $100/hr",
+      "url": "https://apply.workable.com/j/68266D6C50",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "ef66ca0c0ff7",
+      "description_sha1": "eff40ae523f3e32ec4b32557c6236751129e9ba2",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7AA48F7DE5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7AA48F7DE5",
+      "title": "Students: Earn $100/hr - 3-Day Study for French Speakers",
+      "url": "https://apply.workable.com/j/7AA48F7DE5",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "5387e3dcd65a",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D450359C2C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D450359C2C",
+      "title": "Students: Earn $100/hr - 3-Day Study for Japanese Speakers",
+      "url": "https://apply.workable.com/j/D450359C2C",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "05295303244e",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:854F7F3604",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "854F7F3604",
+      "title": "Temporary Research Participant (French Language)",
+      "url": "https://apply.workable.com/j/854F7F3604",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "d7be32085d77",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E92935D9ED",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E92935D9ED",
+      "title": "Temporary Research Participant (French Language) - $100/hr",
+      "url": "https://apply.workable.com/j/E92935D9ED",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "3c2f9017bf7a",
+      "description_sha1": "697c01aed5077e3f94dfac5d5a67724743857f5b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E09E7155B7",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E09E7155B7",
+      "title": "Temporary Research Participant (Japanese Language)",
+      "url": "https://apply.workable.com/j/E09E7155B7",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "825af4c5fb83",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:A3400BA543",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A3400BA543",
+      "title": "Temporary Research Participant (Japanese Language) - $100/hr",
+      "url": "https://apply.workable.com/j/A3400BA543",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "0be39d34dade",
+      "description_sha1": "424718bb76482cfe7bcd189adc9b22917b5b8330",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4789A50DF4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4789A50DF4",
+      "title": "Temporary Research Participant (Korean Language)",
+      "url": "https://apply.workable.com/j/4789A50DF4",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-13",
+      "family_id": "0ae9a6a47756",
+      "description_sha1": "eff40ae523f3e32ec4b32557c6236751129e9ba2",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
       "key": "workable:huggingface:81B46579FE",
       "source": "workable",
       "company": "Hugging Face",
@@ -4275,35 +5889,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "5+ years of B2B marketing experience with at least 3 years focused on account-based marketing, and a proven track record driving measurable pipeline at enterprise accounts."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4715970005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4715970005",
-      "title": "AI Advisory Consultant",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715970005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-16",
-      "family_id": "856a11eefe9a",
-      "description_sha1": "f9e278809462e7d4f2baf11c597c74b7e13464c6",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Consultant equivalent experience at a Tier 1 firm (McKinsey, Bain, BCG ideally); 3+ years of work experience."
       },
       "extracted_by": {
         "min_years": "rules"
@@ -4525,35 +6110,6 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4709157005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4709157005",
-      "title": "Deployment Strategist",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4709157005",
-      "location": "Washington, DC",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-06-24",
-      "family_id": "0f3111025849",
-      "description_sha1": "a0307786d162aa191d621f11c600723afdd9b454",
-      "min_years": 10,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Experience: 10+ years in enterprise technology sales, business development, or program capture specifically within the IC — with NRO and/or NGA as primary accounts."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
     },
     {
       "key": "greenhouse:scaleai:4727671005",
@@ -4792,6 +6348,35 @@
       "published": "2026-08-05",
       "family_id": "e1f2d726e8d4",
       "description_sha1": "f3d4b0f9190386ad0fa16dedaa13926dd16c4405",
+      "min_years": 10,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "10+ years of professional experience, often in a customer-facing technical program management role in industry or government"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4742967005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4742967005",
+      "title": "Engagement Manager, Public Sector (Miami, FL)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4742967005",
+      "location": "Miami, FL",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-12",
+      "family_id": "932be4fc88c9",
+      "description_sha1": "42dfaed3481e371c46c18408dbea942ee9f10b52",
       "min_years": 10,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -5305,31 +6890,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4644742005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -5357,6 +6917,31 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:scaleai:4673051005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -5547,31 +7132,6 @@
       "published": "2026-09-30",
       "family_id": "57651e7df1a6",
       "description_sha1": "db5117c937717d17dafa354ac31fc5ec7b146f22",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4730528005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730528005",
-      "title": "Global Payroll Analyst",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730528005",
-      "location": "Mexico City, MX",
-      "countries": [
-        "MX"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-03",
-      "family_id": "a3660951fada",
-      "description_sha1": "3e78b04af853770b56c0cb43552cdeef69738853",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7279,35 +8839,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4676606005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4676606005",
-      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676606005",
-      "location": "Doha, Qatar",
-      "countries": [
-        "QA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-24",
-      "family_id": "b57fc5af0370",
-      "description_sha1": "983ad66cdc5e668387fe73c0196a21848be605e4",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of post-graduation, full-stack engineering experience with demonstrated proficiency in React (required), TypeScript, Next.js, Python, Node.js, PostgreSQL or MongoDB plus hands-on experience with Docker, Kubernetes, and Azure/AWS/GCP."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4673310005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7324,6 +8855,35 @@
       "published": "2026-03-24",
       "family_id": "b57fc5af0370",
       "description_sha1": "a48ee25e5084967b63bf4164f0644c82bfb86c26",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of post-graduation, full-stack engineering experience with demonstrated proficiency in React (required), TypeScript, Next.js, Python, Node.js, PostgreSQL or MongoDB plus hands-on experience with Docker, Kubernetes, and Azure/AWS/GCP."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4676606005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4676606005",
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676606005",
+      "location": "Doha, Qatar",
+      "countries": [
+        "QA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-24",
+      "family_id": "b57fc5af0370",
+      "description_sha1": "983ad66cdc5e668387fe73c0196a21848be605e4",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7449,31 +9009,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4729620005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4729620005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-03",
-      "family_id": "956946efd858",
-      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4721008005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7490,6 +9025,31 @@
       "published": "2026-08-06",
       "family_id": "956946efd858",
       "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4729620005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4729620005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-03",
+      "family_id": "956946efd858",
+      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7910,31 +9470,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730834005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730834005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-      "location": "Doha, Qatar",
-      "countries": [
-        "QA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730845005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -7951,6 +9486,31 @@
       "published": "2026-09-04",
       "family_id": "560d46ffe696",
       "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730834005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730834005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+      "location": "Doha, Qatar",
+      "countries": [
+        "QA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8014,6 +9574,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4730836005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730836005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-04",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4730851005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8055,31 +9640,6 @@
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
       "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4730836005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730836005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-04",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8306,31 +9866,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4676610005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4676610005",
-      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-24",
-      "family_id": "56ad11a5ce2b",
-      "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4732430005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -8347,6 +9882,31 @@
       "published": "2026-09-10",
       "family_id": "56ad11a5ce2b",
       "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4676610005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4676610005",
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-24",
+      "family_id": "56ad11a5ce2b",
+      "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9095,7 +10655,7 @@
       "employment_type": null,
       "published": "2026-07-24",
       "family_id": "e92c49a1df69",
-      "description_sha1": "7f48ee2755b508bb0908cab456eacff2396231ad",
+      "description_sha1": "4cf961a9e9f36634beb736ae6afd710094dd1db5",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9483,35 +11043,6 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:turing:6198751004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6198751004",
-      "title": "Forward Deployed AI Engineer (In Training)",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6198751004",
-      "location": "New York, New York, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-17",
-      "family_id": "3875f849bc4c",
-      "description_sha1": "7bf24cb1d435e2557cabac4216b824bc89b9e961",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": 210000.0,
-      "hours_per_week": null,
-      "evidence": {
-        "pay_usd_year_max": "$170,000–$210,000 base salary + equity"
-      },
-      "extracted_by": {
-        "pay_usd_year_max": "rules"
-      }
     },
     {
       "key": "greenhouse:turing:6198600004",
@@ -10146,6 +11677,37 @@
       }
     },
     {
+      "key": "greenhouse:invisibletech:4643870101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "4643870101",
+      "title": "Data Scientist",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4643870101",
+      "location": "New York - Hybrid; San Francisco Bay Area - Hybrid",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2025-07-24",
+      "family_id": "5b61b57a8378",
+      "description_sha1": "210f39fe382e27efd74b38449e19c21bf5be213c",
+      "min_years": 1,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": 199000.0,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "1+ years of hands-on experience in data science, through professional roles, internships, or coursework/research projects",
+        "pay_usd_year_max": "$122,000 - $199,000 USD"
+      },
+      "extracted_by": {
+        "min_years": "rules",
+        "pay_usd_year_max": "rules"
+      }
+    },
+    {
       "key": "greenhouse:invisibletech:4945812101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
@@ -10314,6 +11876,37 @@
       }
     },
     {
+      "key": "greenhouse:invisibletech:4643917101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "4643917101",
+      "title": "Senior Data Scientist",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4643917101",
+      "location": "New York - Hybrid; San Francisco Bay Area - Hybrid",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2025-07-24",
+      "family_id": "49079a9ca0b1",
+      "description_sha1": "f623427c042b8d2053e33c83aa8aa14cc6642a66",
+      "min_years": 6,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": 250000.0,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "6+ years of hands-on experience in data science, including client-facing or forward-deployed work",
+        "pay_usd_year_max": "$193,000 - $250,000 USD"
+      },
+      "extracted_by": {
+        "min_years": "rules",
+        "pay_usd_year_max": "rules"
+      }
+    },
+    {
       "key": "greenhouse:invisibletech:4957524101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
@@ -10422,6 +12015,35 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:invisibletech:4984239101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "4984239101",
+      "title": "Senior Software Engineer (Forward Deployed)",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4984239101",
+      "location": "London - Hybrid",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-23",
+      "family_id": "62f469fc2db1",
+      "description_sha1": "02b05c04656558a9132f0337a307134ef894ac01",
+      "min_years": 6,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "6+ years of software engineering experience, including significant time spent building data, ML, or backend systems"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:invisibletech:4697590101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
@@ -10450,35 +12072,6 @@
       "extracted_by": {
         "min_years": "rules",
         "pay_usd_year_max": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:invisibletech:4984239101",
-      "source": "greenhouse",
-      "company": "Invisible Technologies",
-      "posting_id": "4984239101",
-      "title": "Senior Software Engineer (Forward Deployed)",
-      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4984239101",
-      "location": "London - Hybrid",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-23",
-      "family_id": "62f469fc2db1",
-      "description_sha1": "02b05c04656558a9132f0337a307134ef894ac01",
-      "min_years": 6,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "6+ years of software engineering experience, including significant time spent building data, ML, or backend systems"
-      },
-      "extracted_by": {
-        "min_years": "rules"
       }
     },
     {
@@ -11397,6 +12990,37 @@
       }
     },
     {
+      "key": "lever:rws:b1053c62-4efb-400b-b012-8e8113358b03",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "b1053c62-4efb-400b-b012-8e8113358b03",
+      "title": "AI Data Specialist - French",
+      "url": "https://jobs.lever.co/rws/b1053c62-4efb-400b-b012-8e8113358b03",
+      "location": "Paris",
+      "countries": [
+        "FR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2025-11-20",
+      "family_id": "b58071906723",
+      "description_sha1": "a6636b93573ca10ed2f049f74e17ca169fbc8700",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week.",
+        "english_level": "- English Proficiency: Fluent or advanced proficiency in English (levels B2–C2)"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "english_level": "rules"
+      }
+    },
+    {
       "key": "lever:rws:22345c6a-896f-4cd5-9889-81428ff1c51f",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -11552,209 +13176,6 @@
       }
     },
     {
-      "key": "lever:rws:b0a3caed-5d90-4c66-9fe3-b9d5d386f96e",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "b0a3caed-5d90-4c66-9fe3-b9d5d386f96e",
-      "title": "AI Linguistic Evaluator - Bengali (India)",
-      "url": "https://jobs.lever.co/rws/b0a3caed-5d90-4c66-9fe3-b9d5d386f96e",
-      "location": "New York",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "f2410d60e98f",
-      "description_sha1": "7eece34249253fff99794d5c395a8c402493bb8d",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:d8e470ab-1cba-4e41-9ee2-137db8b4f3c7",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "d8e470ab-1cba-4e41-9ee2-137db8b4f3c7",
-      "title": "AI Linguistic Evaluator - Bengali (India)",
-      "url": "https://jobs.lever.co/rws/d8e470ab-1cba-4e41-9ee2-137db8b4f3c7",
-      "location": "Toronto",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "f2410d60e98f",
-      "description_sha1": "e09813c2027267468a27f99944e5791cbc21dcbf",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:5b16108c-b19c-4b3d-80d5-5bab8c8a980f",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "5b16108c-b19c-4b3d-80d5-5bab8c8a980f",
-      "title": "AI Linguistic Evaluator - Gujarati",
-      "url": "https://jobs.lever.co/rws/5b16108c-b19c-4b3d-80d5-5bab8c8a980f",
-      "location": "Edison, New Jersey",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "df05984a6f13",
-      "description_sha1": "87f5deebd93bda6033af8c24568bcd67974ea18e",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:f2909261-9bde-4762-a109-c7a0021c8d87",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "f2909261-9bde-4762-a109-c7a0021c8d87",
-      "title": "AI Linguistic Evaluator - Gujarati",
-      "url": "https://jobs.lever.co/rws/f2909261-9bde-4762-a109-c7a0021c8d87",
-      "location": "Brampton, Ontario",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "df05984a6f13",
-      "description_sha1": "5195f2ca009358ab6e1af0a5b2ee8eb94bd2e6a9",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:08eb2f35-4333-4e90-a3e9-1518517eed21",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "08eb2f35-4333-4e90-a3e9-1518517eed21",
-      "title": "AI Linguistic Evaluator - Malayalam",
-      "url": "https://jobs.lever.co/rws/08eb2f35-4333-4e90-a3e9-1518517eed21",
-      "location": "Dallas, Texas",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "ca9719fae836",
-      "description_sha1": "6e5c54abe6f2eeef88f9cffd973634c547cef1eb",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:61813bce-c3c1-434c-ac87-9ca4f87b93e6",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "61813bce-c3c1-434c-ac87-9ca4f87b93e6",
-      "title": "AI Linguistic Evaluator - Malayalam",
-      "url": "https://jobs.lever.co/rws/61813bce-c3c1-434c-ac87-9ca4f87b93e6",
-      "location": "Toronto",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "ca9719fae836",
-      "description_sha1": "8dfdff96d98d20d3bfe069de06f6bc5a4b34cd00",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:758ec345-86a0-421e-ad04-91c09308ae47",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "758ec345-86a0-421e-ad04-91c09308ae47",
-      "title": "AI Linguistic Evaluator - Marathi",
-      "url": "https://jobs.lever.co/rws/758ec345-86a0-421e-ad04-91c09308ae47",
-      "location": "Dallas, Texas",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "a0db4e8c9add",
-      "description_sha1": "125d157032d8d046efdb51f646384296c20969a4",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "lever:rws:e44ef093-5ec5-4029-a7b6-9af63c109a26",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -11784,64 +13205,6 @@
       }
     },
     {
-      "key": "lever:rws:1af08aa1-0ee0-4800-8cec-91b8b766c2d0",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "1af08aa1-0ee0-4800-8cec-91b8b766c2d0",
-      "title": "AI Linguistic Evaluator - Tamil (India)",
-      "url": "https://jobs.lever.co/rws/1af08aa1-0ee0-4800-8cec-91b8b766c2d0",
-      "location": "Dallas, Texas",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "a05fa3d2ca49",
-      "description_sha1": "b867ce2bf54fe06f3d5c9c2d7f8a7e8a71ad6368",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:7b120ca9-503c-4240-b3dd-24fdb10251fb",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "7b120ca9-503c-4240-b3dd-24fdb10251fb",
-      "title": "AI Linguistic Evaluator - Tamil (India)",
-      "url": "https://jobs.lever.co/rws/7b120ca9-503c-4240-b3dd-24fdb10251fb",
-      "location": "Toronto",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "a05fa3d2ca49",
-      "description_sha1": "c9ff083dda8b05291898f884cef9455f24a9be51",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "lever:rws:1e321ef1-f58c-47bc-827d-dd392cf2671b",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -11858,35 +13221,6 @@
       "published": "2026-10-06",
       "family_id": "f3a2ac28696e",
       "description_sha1": "67bf67f0994c2d58061ebdb25ee2fd43a8cba9be",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 3 years of professional experience in language-related work"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "lever:rws:fb5bee18-ee51-4bc5-82c1-e3ce938a2763",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "fb5bee18-ee51-4bc5-82c1-e3ce938a2763",
-      "title": "AI Linguistic Evaluator - Telugu",
-      "url": "https://jobs.lever.co/rws/fb5bee18-ee51-4bc5-82c1-e3ce938a2763",
-      "location": "Toronto",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-06",
-      "family_id": "f3a2ac28696e",
-      "description_sha1": "b770ced0d2b8c171d5f8666f05e10ab37c059162",
       "min_years": 3,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -12856,6 +14190,441 @@
       "extracted_by": {}
     },
     {
+      "key": "lever:rws:ef9762f2-d4ec-4c73-852a-d5f3aaae3237",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "ef9762f2-d4ec-4c73-852a-d5f3aaae3237",
+      "title": "Search Engine Evaluator - Arabic (Saudi Arabia)",
+      "url": "https://jobs.lever.co/rws/ef9762f2-d4ec-4c73-852a-d5f3aaae3237",
+      "location": "Riyadh",
+      "countries": [
+        "SA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "5f91f15c92d1",
+      "description_sha1": "8f60b7217bfbfb419fa5427bf4c2a93b7d55466b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:0df914c7-2848-4a05-be1d-96f52909886d",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "0df914c7-2848-4a05-be1d-96f52909886d",
+      "title": "Search Engine Evaluator - Bengali (India)",
+      "url": "https://jobs.lever.co/rws/0df914c7-2848-4a05-be1d-96f52909886d",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "91eb6bacabdd",
+      "description_sha1": "a0beb2a84bfa3aaa57c411128fe1c84b39d03864",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:8a2d330e-0c71-4b92-8c68-33e755d6b4cd",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "8a2d330e-0c71-4b92-8c68-33e755d6b4cd",
+      "title": "Search Engine Evaluator - Chinese Simplified (China)",
+      "url": "https://jobs.lever.co/rws/8a2d330e-0c71-4b92-8c68-33e755d6b4cd",
+      "location": "Beijing",
+      "countries": [
+        "CN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "09fd6dc86763",
+      "description_sha1": "3fef6ef82446a1eb5bbec8a3d86a5e5f27cec537",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:e26a9ead-b4d9-4d5e-ac14-9eb06915350d",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "e26a9ead-b4d9-4d5e-ac14-9eb06915350d",
+      "title": "Search Engine Evaluator - Chinese Traditional (Hong Kong)",
+      "url": "https://jobs.lever.co/rws/e26a9ead-b4d9-4d5e-ac14-9eb06915350d",
+      "location": "Hong Kong",
+      "countries": [
+        "CN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "341acd102e1d",
+      "description_sha1": "27f7a67c996b57b4e2e5bc4f99ffe4f348400c9a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:f9346cef-6881-4334-ac21-a1ddd3224983",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "f9346cef-6881-4334-ac21-a1ddd3224983",
+      "title": "Search Engine Evaluator - Chinese Traditional (Taiwan)",
+      "url": "https://jobs.lever.co/rws/f9346cef-6881-4334-ac21-a1ddd3224983",
+      "location": "Taipei",
+      "countries": [
+        "TW"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "921bd3fa4747",
+      "description_sha1": "7fb4ba49877600b306ecc31a55bd32dd7b58fc03",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:6e4e9691-244b-493a-9a8b-ceed10f0d5a3",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "6e4e9691-244b-493a-9a8b-ceed10f0d5a3",
+      "title": "Search Engine Evaluator - Danish (Denmark)",
+      "url": "https://jobs.lever.co/rws/6e4e9691-244b-493a-9a8b-ceed10f0d5a3",
+      "location": "Copenhagen",
+      "countries": [
+        "DK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "78bb573be6d7",
+      "description_sha1": "5a64e26a44feaf5b5431e293b861fb68997e3d09",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:60743e63-e1f5-4403-8fcd-c7f9c4b3f651",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "60743e63-e1f5-4403-8fcd-c7f9c4b3f651",
+      "title": "Search Engine Evaluator - Dutch (Belgium)",
+      "url": "https://jobs.lever.co/rws/60743e63-e1f5-4403-8fcd-c7f9c4b3f651",
+      "location": "Brussels",
+      "countries": [
+        "BE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "ff18c37370b5",
+      "description_sha1": "d2fcd86d3b99af62c527baa1b069ac84a0b30ac7",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:1bf8e680-df63-43cc-84a6-6e62dc39ed01",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "1bf8e680-df63-43cc-84a6-6e62dc39ed01",
+      "title": "Search Engine Evaluator - Dutch (Netherlands)",
+      "url": "https://jobs.lever.co/rws/1bf8e680-df63-43cc-84a6-6e62dc39ed01",
+      "location": "Amsterdam",
+      "countries": [
+        "NL"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "7aed50fd055a",
+      "description_sha1": "1bc05e6090195842f638d4a7d1310e815f491762",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:60fef2b0-65b6-4ab2-8a22-b7e88d81585b",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "60fef2b0-65b6-4ab2-8a22-b7e88d81585b",
+      "title": "Search Engine Evaluator - English (Australia)",
+      "url": "https://jobs.lever.co/rws/60fef2b0-65b6-4ab2-8a22-b7e88d81585b",
+      "location": "Melbourne",
+      "countries": [
+        "AU"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "58ebca77cc37",
+      "description_sha1": "055bb71f9730aed08a0617e8ee31bdf5cf9517ce",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:eaf1a9a4-fdb7-4bd4-b183-f93d7cda34f0",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "eaf1a9a4-fdb7-4bd4-b183-f93d7cda34f0",
+      "title": "Search Engine Evaluator - English (Ireland)",
+      "url": "https://jobs.lever.co/rws/eaf1a9a4-fdb7-4bd4-b183-f93d7cda34f0",
+      "location": "Dublin",
+      "countries": [
+        "IE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "9a3bd7ceb600",
+      "description_sha1": "1bb8102eaca6b09d9f02198b717ec7bc0bac999d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:a38e64bc-e483-4a2b-96a6-532fdeb730f9",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "a38e64bc-e483-4a2b-96a6-532fdeb730f9",
+      "title": "Search Engine Evaluator - English (New Zealand)",
+      "url": "https://jobs.lever.co/rws/a38e64bc-e483-4a2b-96a6-532fdeb730f9",
+      "location": "Wellington",
+      "countries": [
+        "NZ"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "bfc4039c2634",
+      "description_sha1": "9e6ce00b678ffd3bfe75c6009f74fb7e58812291",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:483109df-dff9-4f8e-9b2a-d51572725adc",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "483109df-dff9-4f8e-9b2a-d51572725adc",
+      "title": "Search Engine Evaluator - English (Nigeria)",
+      "url": "https://jobs.lever.co/rws/483109df-dff9-4f8e-9b2a-d51572725adc",
+      "location": "Lagos",
+      "countries": [
+        "NG"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "1f3afaf31f25",
+      "description_sha1": "780da0163dd5a52a175c0279a2f9623d30d15b4a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:c51e2341-822c-4b66-a2dd-646b73dd756a",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "c51e2341-822c-4b66-a2dd-646b73dd756a",
+      "title": "Search Engine Evaluator - English (Singapore)",
+      "url": "https://jobs.lever.co/rws/c51e2341-822c-4b66-a2dd-646b73dd756a",
+      "location": "Singapore",
+      "countries": [
+        "SG"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "1b3591776be7",
+      "description_sha1": "50e36a50ab42792deb7ce317766295e473d42f7b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:327a8a14-e899-4abf-bf88-2c97e45eee5d",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "327a8a14-e899-4abf-bf88-2c97e45eee5d",
+      "title": "Search Engine Evaluator - French (Belgium)",
+      "url": "https://jobs.lever.co/rws/327a8a14-e899-4abf-bf88-2c97e45eee5d",
+      "location": "Brussels",
+      "countries": [
+        "BE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "ed31c3ca631a",
+      "description_sha1": "0e3c29b3d3545a5bef79699f19ac7c1e05b683cd",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:8cab48f0-ae23-4bd4-864a-ba98744d7a2b",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "8cab48f0-ae23-4bd4-864a-ba98744d7a2b",
+      "title": "Search Engine Evaluator - French (Canada)",
+      "url": "https://jobs.lever.co/rws/8cab48f0-ae23-4bd4-864a-ba98744d7a2b",
+      "location": "Ottawa",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "762afce83870",
+      "description_sha1": "a4eb938e41f73ccb7955e992b493e2097c5a6541",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
       "key": "lever:rws:e504fd62-e9a6-41b8-961c-5cc32654ded7",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -12885,6 +14654,64 @@
       }
     },
     {
+      "key": "lever:rws:034d2d3e-7e69-4244-bd2d-bd88b88207e7",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "034d2d3e-7e69-4244-bd2d-bd88b88207e7",
+      "title": "Search Engine Evaluator - French (Switzerland)",
+      "url": "https://jobs.lever.co/rws/034d2d3e-7e69-4244-bd2d-bd88b88207e7",
+      "location": "Bern",
+      "countries": [
+        "CH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "70b93606175b",
+      "description_sha1": "022f674996021851da8885d6c2b1983970b06802",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:313aa400-4340-4c4e-965d-86aa0ccb8c3e",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "313aa400-4340-4c4e-965d-86aa0ccb8c3e",
+      "title": "Search Engine Evaluator - German (Austria)",
+      "url": "https://jobs.lever.co/rws/313aa400-4340-4c4e-965d-86aa0ccb8c3e",
+      "location": "Vienna",
+      "countries": [
+        "AT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "a453228b707a",
+      "description_sha1": "9b323d6d5cc0791cb49ba85602512758b8a512b2",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
       "key": "lever:rws:6b2ebfd2-c352-4bf6-909f-5d1a412b8749",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -12901,6 +14728,180 @@
       "published": "2024-10-14",
       "family_id": "b88647e74941",
       "description_sha1": "94ed9956533d9c2047dd1a6ff591bbfe40b620d9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:c547f713-cc89-4157-9400-7f2dbd54e4c2",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "c547f713-cc89-4157-9400-7f2dbd54e4c2",
+      "title": "Search Engine Evaluator - German (Switzerland)",
+      "url": "https://jobs.lever.co/rws/c547f713-cc89-4157-9400-7f2dbd54e4c2",
+      "location": "Bern",
+      "countries": [
+        "CH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "71cb733c2e12",
+      "description_sha1": "02a973175bbf82ebdacca3eb851696bc18965d42",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:8ca5eb75-c2ba-4584-b4e1-2053b65401a7",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "8ca5eb75-c2ba-4584-b4e1-2053b65401a7",
+      "title": "Search Engine Evaluator - Gujarati (India)",
+      "url": "https://jobs.lever.co/rws/8ca5eb75-c2ba-4584-b4e1-2053b65401a7",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "cea698504200",
+      "description_sha1": "543b56a8a682fb9d8ff65310be8b34f573d4da3b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:7f1228e3-5dc5-4ab3-832e-0dec1788c4c5",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "7f1228e3-5dc5-4ab3-832e-0dec1788c4c5",
+      "title": "Search Engine Evaluator - Hebrew (Israel)",
+      "url": "https://jobs.lever.co/rws/7f1228e3-5dc5-4ab3-832e-0dec1788c4c5",
+      "location": "Tel Aviv",
+      "countries": [
+        "IL"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "c5475d0d462e",
+      "description_sha1": "bf8ad9d5eba1d6a4e3a792fbebbd37fb4cddcbde",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:97e4c619-02a5-4ccd-a965-8d4f4bfa5437",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "97e4c619-02a5-4ccd-a965-8d4f4bfa5437",
+      "title": "Search Engine Evaluator - Hindi (India)",
+      "url": "https://jobs.lever.co/rws/97e4c619-02a5-4ccd-a965-8d4f4bfa5437",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2024-10-14",
+      "family_id": "b73fde7869f9",
+      "description_sha1": "5b02c6488ed1d357b714ad12cd21f79d54730dbc",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:21c6102d-1415-49a7-a43c-04311ca906cd",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "21c6102d-1415-49a7-a43c-04311ca906cd",
+      "title": "Search Engine Evaluator - Italian (Italy)",
+      "url": "https://jobs.lever.co/rws/21c6102d-1415-49a7-a43c-04311ca906cd",
+      "location": "Rome",
+      "countries": [
+        "IT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2024-10-14",
+      "family_id": "eb68a06bf3c3",
+      "description_sha1": "262c35e32819b08e825f475315125563cec1dfec",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:2a357c30-1b52-42fa-a7a4-3791749b6226",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "2a357c30-1b52-42fa-a7a4-3791749b6226",
+      "title": "Search Engine Evaluator - Italian (Switzerland)",
+      "url": "https://jobs.lever.co/rws/2a357c30-1b52-42fa-a7a4-3791749b6226",
+      "location": "Bern",
+      "countries": [
+        "CH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "ed53bf2b38c3",
+      "description_sha1": "649623d79fc09b83f826600a75072668f8100893",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -12945,6 +14946,35 @@
       }
     },
     {
+      "key": "lever:rws:004da6b2-2601-4a8a-bb9d-6ed265d6f536",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "004da6b2-2601-4a8a-bb9d-6ed265d6f536",
+      "title": "Search Engine Evaluator - Kannada (India)",
+      "url": "https://jobs.lever.co/rws/004da6b2-2601-4a8a-bb9d-6ed265d6f536",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "97ecab835134",
+      "description_sha1": "724baa110a61edaf58c5988e5faed611647d9248",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
       "key": "lever:rws:6f793f72-c1e5-4818-8603-49f7fd0297e3",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -12961,6 +14991,151 @@
       "published": "2024-10-14",
       "family_id": "438a03a2d074",
       "description_sha1": "581ceab22de06b8e5f85327b8e65b5b2639f613b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:08656502-13c0-4cfa-826f-2a2b3976939d",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "08656502-13c0-4cfa-826f-2a2b3976939d",
+      "title": "Search Engine Evaluator - Marathi (India)",
+      "url": "https://jobs.lever.co/rws/08656502-13c0-4cfa-826f-2a2b3976939d",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "626cfa89bd03",
+      "description_sha1": "81be204800b3b687165a4897674ccd9ac61e4a0f",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:5f8c12c7-a72c-4c9c-bbb9-557ad98bacf1",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "5f8c12c7-a72c-4c9c-bbb9-557ad98bacf1",
+      "title": "Search Engine Evaluator - Norwegian (Norway)",
+      "url": "https://jobs.lever.co/rws/5f8c12c7-a72c-4c9c-bbb9-557ad98bacf1",
+      "location": "Oslo",
+      "countries": [
+        "NO"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "c8150613e87a",
+      "description_sha1": "e16d92035838de25d7632d1443a6611cbc45c28c",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:82064cf1-75a2-408d-a702-1cd2f4aecfd8",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "82064cf1-75a2-408d-a702-1cd2f4aecfd8",
+      "title": "Search Engine Evaluator - Odia (India)",
+      "url": "https://jobs.lever.co/rws/82064cf1-75a2-408d-a702-1cd2f4aecfd8",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "fed5af03c0ab",
+      "description_sha1": "2d3ce3b8787ef23bff066b64d8235beeb604f1de",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:9af75c17-9cfc-47db-9d4e-317235ef5a61",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "9af75c17-9cfc-47db-9d4e-317235ef5a61",
+      "title": "Search Engine Evaluator - Polish (Poland)",
+      "url": "https://jobs.lever.co/rws/9af75c17-9cfc-47db-9d4e-317235ef5a61",
+      "location": "Warsaw",
+      "countries": [
+        "PL"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "dab698ffc080",
+      "description_sha1": "a956b465216b82cd78f7a6107b37ec6566a8c621",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:71b45d5b-c17f-49f6-b523-9eab28324667",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "71b45d5b-c17f-49f6-b523-9eab28324667",
+      "title": "Search Engine Evaluator - Spanish (Argentina)",
+      "url": "https://jobs.lever.co/rws/71b45d5b-c17f-49f6-b523-9eab28324667",
+      "location": "Buenos Aires",
+      "countries": [
+        "AR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "4b4b57a01f2c",
+      "description_sha1": "ccf3e0ddbabf9b9f0cd20b27efeafbe6ed806740",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -13019,6 +15194,238 @@
       "published": "2024-10-14",
       "family_id": "d035da96131b",
       "description_sha1": "b537c622b049716b5e9244b846407134e8a434ff",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:d7df8e27-c2a5-4fdd-ae8b-47bb8e69e96b",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "d7df8e27-c2a5-4fdd-ae8b-47bb8e69e96b",
+      "title": "Search Engine Evaluator - Spanish (United States)",
+      "url": "https://jobs.lever.co/rws/d7df8e27-c2a5-4fdd-ae8b-47bb8e69e96b",
+      "location": "Washington, DC.",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "dce5b6508ae1",
+      "description_sha1": "f4cbf1795d1e9ff6270a43c382fa87758efac041",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:c350c80b-aecc-4d22-9b8b-08289f091528",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "c350c80b-aecc-4d22-9b8b-08289f091528",
+      "title": "Search Engine Evaluator - Swedish (Sweden)",
+      "url": "https://jobs.lever.co/rws/c350c80b-aecc-4d22-9b8b-08289f091528",
+      "location": "Stockholm",
+      "countries": [
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "02aab9620d4b",
+      "description_sha1": "7b6c0f07fd020c1ff448a8a63e028a6818a8922c",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:1d37af16-344b-40df-acba-9deafa8f2e64",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "1d37af16-344b-40df-acba-9deafa8f2e64",
+      "title": "Search Engine Evaluator - Tamil (India)",
+      "url": "https://jobs.lever.co/rws/1d37af16-344b-40df-acba-9deafa8f2e64",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "317bbbc3edf8",
+      "description_sha1": "9de8582090ec6837f45efeb1493a8cafbf5657ee",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:9166bb88-48a8-4f37-8345-ecc382e13a7a",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "9166bb88-48a8-4f37-8345-ecc382e13a7a",
+      "title": "Search Engine Evaluator - Telugu (India)",
+      "url": "https://jobs.lever.co/rws/9166bb88-48a8-4f37-8345-ecc382e13a7a",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "61316512dfbc",
+      "description_sha1": "2495c38d2553df9b522758c73e11cc715dfe7331",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:67840119-acb3-47d9-b7f1-37f77e719c9d",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "67840119-acb3-47d9-b7f1-37f77e719c9d",
+      "title": "Search Engine Evaluator - Thai (Thailand)",
+      "url": "https://jobs.lever.co/rws/67840119-acb3-47d9-b7f1-37f77e719c9d",
+      "location": "Bangkok",
+      "countries": [
+        "TH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "1db81b6685d2",
+      "description_sha1": "1c7e4248be5f2cc2200bace4bf3e7eaf760bfae2",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:a47d127a-e714-4c7b-a1a6-eaeceb9b8e29",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "a47d127a-e714-4c7b-a1a6-eaeceb9b8e29",
+      "title": "Search Engine Evaluator - Turkish (Turkiye)",
+      "url": "https://jobs.lever.co/rws/a47d127a-e714-4c7b-a1a6-eaeceb9b8e29",
+      "location": "Turkey",
+      "countries": [
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "b178aed1a890",
+      "description_sha1": "4a6796d3ad0c2c4ada432622af662612569b4d9a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:8e205221-b941-4974-9971-0fa55795cefd",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "8e205221-b941-4974-9971-0fa55795cefd",
+      "title": "Search Engine Evaluator - Ukrainian (Ukraine)",
+      "url": "https://jobs.lever.co/rws/8e205221-b941-4974-9971-0fa55795cefd",
+      "location": "Kyiv",
+      "countries": [
+        "UA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "b3f1765eabaf",
+      "description_sha1": "ac74c0927d2a35d0e662b941a8c719fcc898c701",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:79718852-d99d-4bd3-8206-6a1c13469c66",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "79718852-d99d-4bd3-8206-6a1c13469c66",
+      "title": "Search Engine Evaluator - Vietnamese (Vietnam)",
+      "url": "https://jobs.lever.co/rws/79718852-d99d-4bd3-8206-6a1c13469c66",
+      "location": "Hanoi",
+      "countries": [
+        "VN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-02",
+      "family_id": "0a447715bb70",
+      "description_sha1": "127e1fdc59dd202e6321eefe31f43a152827cb6a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
