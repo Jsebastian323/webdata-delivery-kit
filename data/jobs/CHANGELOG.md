@@ -2,6 +2,49 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-14 · 1125 postings · +604 new · -7 closed · ~38 changed
+
+**New**
+
+- Mindrift (Toloka) · Part-Time Student Job - Japanese Speakers for Paid Research Study · 2 (US)
+- Mindrift (Toloka) · Paid Research Participant - Arabic Speakers, $100/hr · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Research Study for Arabic-Speaking Students · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Study for Saudi Arabic Speakers - Flexible 3-Day Schedule · 2 (US)
+- Mindrift (Toloka) · Arabic Speaker - 3-Day Paid User Research Study · 2 (US)
+- Mindrift (Toloka) · Students: Earn $100/hr - 3-Day Study for Arabic Speakers · 2 (US)
+- Mindrift (Toloka) · Temporary Research Participant (Arabic Language) - $100/hr · 2 (US)
+- Mindrift (Toloka) · Between Jobs - Paid 3-Day Research Study for European Portuguese Speakers · 2 (US)
+- Mindrift (Toloka) · Paid Research Participant - Arabic Speakers · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Research Study for European Portuguese-Speaking Students · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Research Study for Arabic-Speaking Students - $100/hr · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Study for European Portuguese Speakers - Flexible 3-Day Schedule · 2 (US)
+- Mindrift (Toloka) · Freelance Research Participant - Japanese Speakers, $100/hr · 2 (US)
+- Mindrift (Toloka) · Paid Study for European Portuguese-Speaking Students - Choose Your 3 Days · 2 (US)
+- Mindrift (Toloka) · Arabic Speaker in NYC - Join a 3-Day Paid Phone Study - $100/hr · 2 (US)
+- ... and 569 more families
+
+**Closed**
+
+- RWS (TrainAI) · Search Engine Evaluator - Italian (Italy) · 1 (IT)
+- RWS (TrainAI) · AI Conversation Specialist - (Asir) Saudi Arabic · 1 (SA)
+- RWS (TrainAI) · Search Engine Evaluator - Hindi (India) · 1 (IN)
+- RWS (TrainAI) · AI Conversation Specialist - (Khaleeji/Gulf) Saudi Arabic · 1 (SA)
+- RWS (TrainAI) · AI Conversation Specialist - (Najdi) Saudi Arabic · 1 (SA)
+- RWS (TrainAI) · AI Conversation Specialist - Modern Standard Arabic (MSA) · 1 (SA)
+- RWS (TrainAI) · AI Conversation Specialist - (Hijazi ) Saudi Arabic · 1 (SA)
+
+**Changed**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 16 (AE, BH, CA, EG, GB, IL, JO, JP, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 15 (AE, BH, CA, GB, JP, KR, KW, NZ, ...)
+- Scale AI · Technical Program Lead, Public Sector · 1 (US)
+- RWS (TrainAI) · Brazilian Portuguese - History Subject Matter Expert (SME) · 1 (BR)
+- Mindrift (Toloka) · Physician (MD/DO) - Clinical AI Evaluator · 1 (US)
+- Mindrift (Toloka) · Medicine Expert - Freelance AI Trainer · 1 (US)
+- Mindrift (Toloka) · Physician (MD/DO) - AI Trainer · 1 (US)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation (Remote, Part-Time) · 1 (US)
+- Mindrift (Toloka) · Physician - AI Clinical Reviewer · 1 (US)
+
 ## 2026-10-13 · 528 postings · +115 new · -37 closed · ~1 changed
 
 **New**
