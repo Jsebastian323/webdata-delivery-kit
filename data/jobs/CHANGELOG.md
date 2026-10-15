@@ -2,6 +2,54 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-15 · 1232 postings · +280 new · -173 closed · ~5 changed
+
+**New**
+
+- Mindrift (Toloka) · Entry-Level AI Agent Evaluator - Remote Freelance, Flexible Hours · 10 (CA, GB, GR, IE, IT, SG, US)
+- Mindrift (Toloka) · Freelance AI Test Scenario Designer - CS & AI Students Eligible · 10 (CA, GB, GR, IE, IT, SG, US)
+- Mindrift (Toloka) · AI Agent Evaluation Specialist (CS / Data Science Students Welcome) · 10 (CA, GB, GR, IE, IT, SG, US)
+- Mindrift (Toloka) · On-Site Recruitment Coordinator (Temporary Employee) · 6 (US)
+- Mindrift (Toloka) · Short-Term Paid Study for Emirati Arabic Speakers - Flexible 3-Day Schedule · 2 (US)
+- Mindrift (Toloka) · Earn $100/hr Using Your Swiss Italian - 3-Day Research Study, No Experience Need · 2 (US)
+- Mindrift (Toloka) · Side Job for Emirati Arabic-Speaking Students - User Research Participant · 2 (US)
+- Scale AI · Head of Strategic Partnerships, Global Systems Integrators · 1 (US)
+- Turing · Engagement Manager · 1 (US)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Chinese Simplified (Thailand) · 1 (TH)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Thai · 1 (TH)
+- RWS (TrainAI) · AI Data Specialist - Thai · 1 (TH)
+- Mindrift (Toloka) · Speak Austrian German- Earn $100/hr in a 3-Day NYC Study · 1 (US)
+- Mindrift (Toloka) · Bilingual Research Participant - Emirati Arabic & English · 1 (US)
+- Mindrift (Toloka) · Extra Income in 3 Days - Research Study for Swiss Italian Speakers, $100/hr · 1 (US)
+- ... and 230 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Part-Time Student Job - Japanese Speakers for Paid Research Study · 2 (US)
+- Scale AI · Software Engineer, Enterprise · 1 (GB)
+- Scale AI · Business Development Representative, Partnerships (Physical AI) · 1 (US)
+- Scale AI · Sales Enablement Lead · 1 (AE, GB)
+- Scale AI · Partner Development Manager · 1 (US)
+- Turing · Community Manager · 1 (BR)
+- RWS (TrainAI) · Audio Transcription - Vietnamese (Czechia) · 1 (CZ)
+- RWS (TrainAI) · Search Engine Evaluator - English (Nigeria) · 1 (NG)
+- RWS (TrainAI) · Audio Transcription - Vietnamese (Thailand) · 1 (TH)
+- RWS (TrainAI) · Audio Transcription - Vietnamese (Taiwan) · 1 (TW)
+- Mindrift (Toloka) · $100/hr Side Job for Korean-Speaking Students · 1 (US)
+- Mindrift (Toloka) · Paid User Study for Japanese Speakers - Use Your Native Language, $100/hr · 1 (US)
+- Mindrift (Toloka) · Temporary Paid Research Project - Japanese Speakers, $100/hr · 1 (US)
+- Mindrift (Toloka) · Short-Term Part-Time Job for Korean-Speaking Students · 1 (US)
+- Mindrift (Toloka) · Swedish Speaker in NYC - Join a 3-Day Paid Phone Study - $100/hr · 1 (US)
+- ... and 157 more families
+
+**Changed**
+
+- Scale AI · Senior Accountant · 1 (US)
+- Scale AI · AI Advisory Principal · 1 (US)
+- Scale AI · Engagement Manager, Public Sector (Miami, FL) · 1 (US)
+- Turing · Engagement Manager · 1 (US)
+- Mindrift (Toloka) · $100/Hour Research Study - German Speakers Wanted · 1 (US)
+
 ## 2026-10-14 · 1125 postings · +604 new · -7 closed · ~38 changed
 
 **New**
