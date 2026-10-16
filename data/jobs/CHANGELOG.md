@@ -2,6 +2,65 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-16 · 1165 postings · +104 new · -171 closed · ~67 changed
+
+**New**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Paid Research Study: $110 for a 75-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · One Session, $110: Join Our In-Person Research Study · 2 (US)
+- Mindrift (Toloka) · Research Participants Needed: $110 for One 75-Minute Session · 2 (US)
+- Mindrift (Toloka) · Easy $110: Take Part in a 75-Minute In-Person Study · 2 (US)
+- Mindrift (Toloka) · Paid Research Study: One 75-Minute In-Person Session · 2 (US)
+- Mindrift (Toloka) · Quick and Simple: $110 for a 75-Minute Conversation Study · 2 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: $110 for 75 Minutes · 2 (US)
+- Mindrift (Toloka) · Paid Conversation Study: $110 for a Single 75-Minute Session · 2 (US)
+- Mindrift (Toloka) · Research Participants Needed: One 75-Minute Session · 2 (US)
+- Mindrift (Toloka) · Your Voice Matters: $110 for a 75-Minute Research Session · 2 (US)
+- Mindrift (Toloka) · Paid Research Study: One Visit, No Preparation Needed · 2 (US)
+- Mindrift (Toloka) · Get Paid $110 to Share Your Opinion: One 75-Minute In-Person Session · 2 (US)
+- ... and 19 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Entry-Level AI Agent Evaluator - Remote Freelance, Flexible Hours · 10 (CA, GB, GR, IE, IT, SG, US)
+- Mindrift (Toloka) · Freelance AI Test Scenario Designer - CS & AI Students Eligible · 10 (CA, GB, GR, IE, IT, SG, US)
+- Mindrift (Toloka) · Short-Term Paid Study for Emirati Arabic Speakers - Flexible 3-Day Schedule · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Research Study for Arabic-Speaking Students · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Study for Saudi Arabic Speakers - Flexible 3-Day Schedule · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Research Study for Arabic-Speaking Students - $100/hr · 2 (US)
+- Mindrift (Toloka) · Side Job for Emirati Arabic-Speaking Students - User Research Participant · 2 (US)
+- Labelbox · Cyber Security Intern · 1 (US)
+- Scale AI · Enablement Manager (Support) · 1 (MX)
+- Scale AI · Public Sector Lead, Defence & Security · 1 (GB)
+- Scale AI · Public Sector Lead, Central Government · 1 (GB)
+- Turing · Product Manager, Finance · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - German (Germany) · 1 (DE)
+- ... and 95 more families
+
+**Changed**
+
+- Mindrift (Toloka) · Paid 3-Day Research Study for European Portuguese Speakers · 2 (US)
+- Invisible Technologies · Senior Manager of Strategic Staffing · 1 (US)
+- Scale AI · Senior Software Engineer - Agentic Tooling & Productivity · 1 (US)
+- Scale AI · Growth Strategy & Operations Lead · 1 (US)
+- Scale AI · Field Marketing & Events Manager, Frontier Data · 1 (US)
+- Mindrift (Toloka) · Flexible Short-Term Research Study for Students - Hebrew Speakers · 1 (US)
+- Mindrift (Toloka) · Hebrew Speakers, $100/hr Research Study · 1 (US)
+- Mindrift (Toloka) · Flexible Short-Term Research Study for Students - Flemish Speakers, $100/hr · 1 (US)
+- Mindrift (Toloka) · Flexible Short-Term Research Study for Students - Saudi Arabic Speakers, $100/hr · 1 (US)
+- Mindrift (Toloka) · Paid 3-Day Research Study for Hebrew Speakers - $100/hr · 1 (US)
+- Mindrift (Toloka) · Earn $100/hr - Short-Term Study for Austrian German Speakers · 1 (US)
+- Mindrift (Toloka) · Saudi Arabic Speakers, $100/hr Research Study · 1 (US)
+- Mindrift (Toloka) · $100/hr Research Study for Arabic-Speaking Students · 1 (US)
+- Mindrift (Toloka) · Paid 3-Day Research Study for Saudi Arabic Speakers - $100/hr · 1 (US)
+- Mindrift (Toloka) · Emirati Arabic-Speaking Students: Paid 3-Day Research Study - $100/hr · 1 (US)
+- ... and 51 more families
+
 ## 2026-10-15 · 1232 postings · +280 new · -173 closed · ~5 changed
 
 **New**
