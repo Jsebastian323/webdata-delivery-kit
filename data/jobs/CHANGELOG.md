@@ -2,6 +2,35 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-17 · 1199 postings · +35 new · -1 closed · ~1 changed
+
+**New**
+
+- Mindrift (Toloka) · Your Voice Matters: Paid 75-Minute Research Session · 2 (US)
+- Mindrift (Toloka) · Take Part in a Paid In-Person Research Study: One Session · 2 (US)
+- Mindrift (Toloka) · 75 Minutes of Conversation: Paid Research Study · 2 (US)
+- Mindrift (Toloka) · Spend 75 Minutes With Us, Get Paid for Your Time · 2 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: 75 Minutes · 2 (US)
+- Mindrift (Toloka) · Quick and Simple: Paid 75-Minute Conversation Study · 2 (US)
+- Invisible Technologies · Head of Frontier AI · 1 (US)
+- Scale AI · Enterprise Account Executive, Defence & Security · 1 (GB)
+- Scale AI · Enterprise Account Executive, Public Sector · 1 (GB)
+- Scale AI · Web Designer, Brand Web Experience · 1 (US)
+- Scale AI · Safety Research Scholar - Human Frontier Labs · 1 (CA, GB, US)
+- Turing · Product Manager · 1 (IN)
+- Mindrift (Toloka) · Easy $110: Take Part in a 75-Minute In-Person Study · 1 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: $110 for 75 Minutes · 1 (US)
+- Mindrift (Toloka) · Paid Conversation Study: Single 75-Minute Session · 1 (US)
+- ... and 14 more families
+
+**Closed**
+
+- Scale AI · COLM 2026 - General Interest · 1 (US)
+
+**Changed**
+
+- Mindrift (Toloka) · Take Part in a Paid 75-Minute In-Person Study · 1 (US)
+
 ## 2026-10-16 · 1165 postings · +104 new · -171 closed · ~67 changed
 
 **New**
