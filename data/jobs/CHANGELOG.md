@@ -2,6 +2,12 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-18 · 1198 postings · +0 new · -1 closed · ~0 changed
+
+**Closed**
+
+- Turing · Investigations Analyst · 1
+
 ## 2026-10-17 · 1199 postings · +35 new · -1 closed · ~1 changed
 
 **New**

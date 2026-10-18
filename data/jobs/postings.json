@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:14:17+00:00",
+  "generated_at": "2026-10-18T14:38:28+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -28538,31 +28538,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4721008005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4721008005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-06",
-      "family_id": "956946efd858",
-      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4729620005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -28579,6 +28554,31 @@
       "published": "2026-09-03",
       "family_id": "956946efd858",
       "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4721008005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4721008005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-08-06",
+      "family_id": "956946efd858",
+      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -29074,31 +29074,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4730862005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730862005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730836005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -29115,6 +29090,31 @@
       "published": "2026-09-04",
       "family_id": "7619d51d4ad0",
       "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730862005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730862005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -29366,31 +29366,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4732430005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4732430005",
-      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-10",
-      "family_id": "56ad11a5ce2b",
-      "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4676610005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -29407,6 +29382,31 @@
       "published": "2026-03-24",
       "family_id": "56ad11a5ce2b",
       "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4732430005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4732430005",
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-10",
+      "family_id": "56ad11a5ce2b",
+      "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -30582,31 +30582,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:6192725004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6192725004",
-      "title": "Forward-Deployed AI Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6192725004",
-      "location": "Bengaluru, Karnataka, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-24",
-      "family_id": "3608d6dd4038",
-      "description_sha1": "f5e2b27cc59a4ea5a6ecce1663fcb1a86c304410",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:turing:6192729004",
       "source": "greenhouse",
       "company": "Turing",
@@ -30632,31 +30607,29 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:turing:6198600004",
+      "key": "greenhouse:turing:6192725004",
       "source": "greenhouse",
       "company": "Turing",
-      "posting_id": "6198600004",
-      "title": "Investigations Analyst",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6198600004",
-      "location": "Global - Remote",
-      "countries": [],
-      "remote": true,
-      "open_to_colombia": true,
+      "posting_id": "6192725004",
+      "title": "Forward-Deployed AI Engineer",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6192725004",
+      "location": "Bengaluru, Karnataka, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-18",
-      "family_id": "04a8943d3a1b",
-      "description_sha1": "87c2ff0d5bb904a14d6eb8235f3968936e52c99a",
-      "min_years": 2,
+      "published": "2026-09-24",
+      "family_id": "3608d6dd4038",
+      "description_sha1": "f5e2b27cc59a4ea5a6ecce1663fcb1a86c304410",
+      "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
-      "evidence": {
-        "min_years": "2+ years of experience in investigations, fraud analysis, security operations, intelligence analysis, or a related analytical role."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:turing:6216854004",
@@ -31627,35 +31600,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:invisibletech:4984239101",
-      "source": "greenhouse",
-      "company": "Invisible Technologies",
-      "posting_id": "4984239101",
-      "title": "Senior Software Engineer (Forward Deployed)",
-      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4984239101",
-      "location": "London - Hybrid",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-23",
-      "family_id": "62f469fc2db1",
-      "description_sha1": "02b05c04656558a9132f0337a307134ef894ac01",
-      "min_years": 6,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "6+ years of software engineering experience, including significant time spent building data, ML, or backend systems"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:invisibletech:4697590101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
@@ -31684,6 +31628,35 @@
       "extracted_by": {
         "min_years": "rules",
         "pay_usd_year_max": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:invisibletech:4984239101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "4984239101",
+      "title": "Senior Software Engineer (Forward Deployed)",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4984239101",
+      "location": "London - Hybrid",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-23",
+      "family_id": "62f469fc2db1",
+      "description_sha1": "02b05c04656558a9132f0337a307134ef894ac01",
+      "min_years": 6,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "6+ years of software engineering experience, including significant time spent building data, ML, or backend systems"
+      },
+      "extracted_by": {
+        "min_years": "rules"
       }
     },
     {
