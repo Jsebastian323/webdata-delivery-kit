@@ -2,6 +2,50 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-19 · 1194 postings · +55 new · -59 closed · ~23 changed
+
+**New**
+
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · CAD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Invisible Technologies · Director of Engineering, Data Labs · 1 (US)
+- Turing · Head of Engineering, Enterprise AI · 1 (US)
+- Turing · Compliance Analyst · 1 (BR)
+- Mindrift (Toloka) · Physicians (MD/DO) - Review Clinical Cases for Medical AI, Remote, Up to $70/hr · 1 (US)
+- Mindrift (Toloka) · Get Paid to Share Your Opinion: One 75-Minute In-Person Session · 1 (US)
+- Mindrift (Toloka) · $110 for One Visit: Paid Research Study, No Preparation Needed · 1 (US)
+- Mindrift (Toloka) · Internal Medicine Physician - Remote Clinical Case Review · 1 (US)
+- Mindrift (Toloka) · $110 for 75 Minutes of Conversation: Paid Research Study · 1 (US)
+- Mindrift (Toloka) · Paid Research Study Participant - Group Conversations · 1 (US)
+
+**Closed**
+
+- Mindrift (Toloka) · CAD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · AI Agent Evaluation Specialist (CS / Data Science Students Welcome) · 10 (CA, GB, GR, IE, IT, SG, US)
+- Scale AI · Software Engineer, Public Sector · 1 (US)
+- Turing · Technical Business Analyst · 1 (US)
+- Mindrift (Toloka) · Student Side Job - Paid Research Study for Hebrew Speakers, $100/hr · 1 (US)
+
+**Changed**
+
+- Mindrift (Toloka) · Paid Research Study for Emirati Arabic Speakers, $100/hr · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Flemish Speakers · 1 (US)
+- Mindrift (Toloka) · Temporary Research Participant (Hebrew Language) · 1 (US)
+- Mindrift (Toloka) · 3-Day Paid Study, $100/hr for Finnish Speakers · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for German Speakers · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Saudi Arabic Speakers, $100/hr · 1 (US)
+- Mindrift (Toloka) · Temporary Research Participant (European Portuguese Language) · 1 (US)
+- Mindrift (Toloka) · Bilingual Gig - Emirati Arabic & English Speakers, $100/hr Research Study · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Saudi Arabic Speakers · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Swedish Speakers · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Hebrew Speakers · 1 (US)
+- Mindrift (Toloka) · Spend 75 Minutes With Us, Walk Away With $110 · 1 (US)
+- Mindrift (Toloka) · Swiss German-Speaking Students: Paid 3-Day Research Study · 1 (US)
+- Mindrift (Toloka) · Finnish Speakers for Paid Research Study · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Swiss Italian Speakers · 1 (US)
+- ... and 8 more families
+
 ## 2026-10-18 · 1198 postings · +0 new · -1 closed · ~0 changed
 
 **Closed**
