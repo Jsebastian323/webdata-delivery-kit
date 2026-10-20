@@ -2,6 +2,47 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-20 · 1203 postings · +58 new · -49 closed · ~11 changed
+
+**New**
+
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Mindrift (Toloka) · CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Scale AI · Senior Infrastructure Software Engineer, Apps Platform · 1 (GB)
+- Scale AI · Machine Learning Research Intern (Summer 2027) · 1 (US)
+- Scale AI · Infrastructure Software Engineer, Apps Platform · 1 (GB)
+- Scale AI · Strategic Contracts Lead, Public Sector · 1 (US)
+- Turing · Forward Deployed AI Engineer (In Training) · 1 (US)
+- Turing · Senior Software Engineer, AI Evaluation Infrastructure · 1
+- RWS (TrainAI) · Search Engine Evaluator - Portuguese (Brazil) · 1 (BR)
+- RWS (TrainAI) · Search Engine Evaluator - Portuguese (Portugal) · 1 (PT)
+- RWS (TrainAI) · AI Data Annotation-Spanish · 1 (CN)
+- Mindrift (Toloka) · Research Study Participant · 1 (US)
+- Mindrift (Toloka) · In-Person Research Study Participant - Santa Clara Valley · 1 (US)
+- Mindrift (Toloka) · Hospitalist / Internist - Medical AI Evaluation (Remote, Part-Time) · 1 (US)
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Mindrift (Toloka) · CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Invisible Technologies · Enterprise Solutions Manager - Data Labs · 1 (US)
+- Invisible Technologies · Senior Enterprise Solutions Manager - Data Labs · 1 (US)
+- Scale AI · Senior Software Engineer, Public Sector · 1 (US)
+
+**Changed**
+
+- Invisible Technologies · Senior Manager of Strategic Staffing · 1 (US)
+- Scale AI · Frontier Agents Engineer (Forward Deployed Engineering) · 1 (US)
+- Scale AI · Senior Frontier Agents Engineer (Forward Deployed Engineering) · 1 (US)
+- Scale AI · Staff Frontier Agents Engineer (Forward Deployed Engineering) · 1 (US)
+- Scale AI · Senior Frontier Agents Engineer (Applied AI) · 1 (US)
+- Scale AI · Staff Frontier Agents Engineer (Applied AI) · 1 (US)
+- Scale AI · Frontier Agents Engineer (Applied AI) · 1 (US)
+- Scale AI · Public Sector Lead, Defence & Security · 1 (GB)
+- Scale AI · Public Sector Lead, Central & Local Government · 1 (GB)
+- Scale AI · Safety Research Scholar - Human Frontier Labs · 1 (CA, GB, US)
+- Turing · Machine Learning / Data Engineer · 1 (BR, CO)
+
 ## 2026-10-19 · 1194 postings · +55 new · -59 closed · ~23 changed
 
 **New**
