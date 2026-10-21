@@ -2,6 +2,65 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-21 · 1210 postings · +76 new · -69 closed · ~25 changed
+
+**New**
+
+- RWS (TrainAI) · AI Voice Recording Contributor - Arabic (Gulf) · 3 (BH, KW, QA)
+- RWS (TrainAI) · AI Voice Recording Contributor - Spanish (Puerto Rico) · 1 (US)
+- RWS (TrainAI) · AI Voice Recording Contributor - Arabic (Morocco) · 1 (MA)
+- RWS (TrainAI) · AI Voice Recording Contributor - Arabic (Jordan) · 1 (JO)
+- RWS (TrainAI) · Search Engine Evaluator - English (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Hindi (India) · 1 (IN)
+- RWS (TrainAI) · Generative Audio Evaluation - Swedish (Sweden) · 1 (SE)
+- RWS (TrainAI) · AI Voice Recording Contributor - Scots (Mid/Central Scots) · 1 (GB)
+- Mindrift (Toloka) · Native Arabic Speakers from the UAE in NYC: Paid In-Person Research Study · 1 (US)
+- Mindrift (Toloka) · Paid Study in San Marino, CA - $200 per Session · 1 (US)
+- Mindrift (Toloka) · Étude rémunérée à New York - Francophones natifs (1 200-1 600 $) · 1 (US)
+- Mindrift (Toloka) · Student Gig - French Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Freelance Gig - $200 Paid Study, Los Angeles · 1 (US)
+- Mindrift (Toloka) · Native Arabic Speakers from Saudi Arabia in NYC: Paid In-Person Research Study · 1 (US)
+- Mindrift (Toloka) · French Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- ... and 59 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Research Participant - Japanese Speakers, $100/hr · 2 (US)
+- Mindrift (Toloka) · Short-Term Freelance Gig for Bilingual Japanese Speakers - $100/hr · 2 (US)
+- Mindrift (Toloka) · One-Time Paid Study for Japanese Speakers - Choose Your 3 Days, $100/hr · 2 (US)
+- Handshake · EPiC Associate Consultant - Organizational Effectiveness · 1
+- Handshake · EPiC Associate Consultant - Strategy & Execution · 1
+- Handshake · EPiC Associate Consultant - Data & Analytics · 1
+- Handshake · EPiC Associate Consultant - ServiceNow · 1
+- Handshake · EPiC Intern - Minneapolis · 1
+- Scale AI · Software Engineer, Robotics · 1 (AR, UY)
+- Scale AI · Product Security Engineer, Public Sector · 1 (US)
+- Scale AI · Operations Program Manager, Robotics · 1 (MX)
+- Scale AI · Operations Associate, Robotics · 1 (MX)
+- Scale AI · Senior Full-Stack Software Engineer, (Forward Deployed), GPS · 1 (QA)
+- Scale AI · Head of International Security · 1 (GB)
+- Scale AI · Team Lead, ARC Software Engineering Team · 1 (US)
+- ... and 51 more families
+
+**Changed**
+
+- Scale AI · Machine Learning Engineer, Public Sector · 1 (US)
+- Scale AI · Enterprise Account Executive · 1 (US)
+- Scale AI · Enterprise Account Executive (Financial Services) · 1 (US)
+- Scale AI · Enterprise Account Executive (Healthcare & Life Sciences) · 1 (US)
+- Scale AI · Product Marketing Lead, Enterprise · 1 (US)
+- Scale AI · Senior Machine Learning Engineer, Public Sector · 1 (US)
+- Scale AI · US Payroll Specialist · 1 (MX)
+- Scale AI · Strategic Contracts Lead, Public Sector · 1 (US)
+- Turing · Senior Software Engineer, AI Evaluation Infrastructure · 1 (US)
+- RWS (TrainAI) · Brazilian Portuguese - Games & Puzzles Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Fashion & Style Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - History Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Arts Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Food, Drink & Culinary Culture Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Internet Culture Subject Matter Expert (SME) · 1 (BR)
+- ... and 10 more families
+
 ## 2026-10-20 · 1203 postings · +58 new · -49 closed · ~11 changed
 
 **New**
