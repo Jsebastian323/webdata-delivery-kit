@@ -2,6 +2,65 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-22 · 776 postings · +123 new · -557 closed · ~69 changed
+
+**New**
+
+- Mindrift (Toloka) · Earn up to $1,600 - 3-Day German Language Study in NYC · 2 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native German Speakers - NYC · 2 (US)
+- Mindrift (Toloka) · Flexible Gig for German Speakers - 3-Day Paid Study, NYC · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Italian Speakers, Manhattan · 2 (US)
+- Mindrift (Toloka) · German Translators and Native Speakers - Paid Study in NYC · 2 (US)
+- Mindrift (Toloka) · Bilingual German-English Participant - Paid UX Study, New York · 2 (US)
+- Mindrift (Toloka) · Side Income for German Speakers - 3-Day Paid Study, NYC · 2 (US)
+- Invisible Technologies · Staffing Associate (Contract) · 1 (US)
+- Turing · Software Engineer · 1 (IN)
+- Mindrift (Toloka) · Native Austrian German Speakers - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Japanese Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Estudo remunerado em Nova Iorque - Falantes nativos de português europeu · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native German Speakers from Austria, NYC · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for German Speakers from Switzerland - Midtown Manhattan · 1 (US)
+- Mindrift (Toloka) · Side Income for Korean Speakers - 3-Day Paid Study, NYC · 1 (US)
+- ... and 101 more families
+
+**Closed**
+
+- RWS (TrainAI) · AI Voice Recording Contributor - Arabic (Gulf) · 3 (BH, KW, QA)
+- Mindrift (Toloka) · Paid Research Participant - Arabic Speakers, $100/hr · 2 (US)
+- Mindrift (Toloka) · Arabic Speaker - 3-Day Paid User Research Study · 2 (US)
+- Mindrift (Toloka) · Students: Earn $100/hr - 3-Day Study for Arabic Speakers · 2 (US)
+- Mindrift (Toloka) · Temporary Research Participant (Arabic Language) - $100/hr · 2 (US)
+- Mindrift (Toloka) · Paid 3-Day Research Study for European Portuguese Speakers · 2 (US)
+- Mindrift (Toloka) · Paid Research Participant - Arabic Speakers · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Research Study for European Portuguese-Speaking Students · 2 (US)
+- Mindrift (Toloka) · Short-Term Paid Study for European Portuguese Speakers - Flexible 3-Day Schedule · 2 (US)
+- Mindrift (Toloka) · Paid Study for European Portuguese-Speaking Students - Choose Your 3 Days · 2 (US)
+- Mindrift (Toloka) · Arabic Speaker in NYC - Join a 3-Day Paid Phone Study - $100/hr · 2 (US)
+- Mindrift (Toloka) · Arabic Speaker - 3-Day Paid User Research Study, $100/hr · 2 (US)
+- Mindrift (Toloka) · Earn $100/hr Using Your Swiss Italian - 3-Day Research Study, No Experience Need · 2 (US)
+- Mindrift (Toloka) · Temporary Research Participant (Arabic Language) · 2 (US)
+- Mindrift (Toloka) · Temporary Paid Project for European Portuguese Speakers - Start This Month · 2 (US)
+- ... and 525 more families
+
+**Changed**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 16 (AE, BH, CA, EG, GB, IL, JO, JP, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 15 (AE, BH, CA, GB, JP, KR, KW, NZ, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 15 (AE, BH, CA, GB, JP, KR, KW, NZ, ...)
+- Scale AI · Frontier Agent Engineering Manager, Enterprise · 1 (US)
+- Scale AI · Contracts Manager · 1 (US)
+- Mindrift (Toloka) · Physician (MD/DO) - Clinical AI Evaluator · 1 (US)
+- Mindrift (Toloka) · Native Arabic Speakers from the UAE in NYC: Paid In-Person Research Study · 1 (US)
+- Mindrift (Toloka) · Native Arabic Speakers from Saudi Arabia in NYC: Paid In-Person Research Study · 1 (US)
+- Mindrift (Toloka) · Native Polish Speakers in NYC: Paid In-Person Research Study (Up to $1,600) · 1 (US)
+- Mindrift (Toloka) · Native Dutch Speakers in NYC: Paid In-Person Research Study (Up to $1,600) · 1 (US)
+- Mindrift (Toloka) · Native Finnish Speakers in NYC: Paid In-Person Research Study (Up to $1,600) · 1 (US)
+- Mindrift (Toloka) · Medicine Expert - Freelance AI Trainer · 1 (US)
+- Mindrift (Toloka) · Native Austrian German Speakers in NYC: Paid In-Person Research Study · 1 (US)
+- Mindrift (Toloka) · Internal Medicine Physician - Remote Clinical Case Review · 1 (US)
+- Mindrift (Toloka) · Native Swiss German Speakers in NYC: Paid In-Person Research Study · 1 (US)
+- ... and 11 more families
+
 ## 2026-10-21 · 1210 postings · +76 new · -69 closed · ~25 changed
 
 **New**
