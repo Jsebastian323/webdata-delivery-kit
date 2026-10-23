@@ -2,6 +2,55 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-23 · 879 postings · +115 new · -12 closed · ~86 changed
+
+**New**
+
+- Mindrift (Toloka) · $110 Paid Group Conversation Study in Santa Clara · 3 (US)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Lingala · 2 (GB, KE, ZA)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Swati · 2 (SZ, ZA)
+- Mindrift (Toloka) · Earn up to $1,600 - 3-Day Arabic Language Study in NYC · 2 (US)
+- Mindrift (Toloka) · Saudi Arabic Speakers Wanted - Paid Smartphone Study, NYC · 2 (US)
+- Scale AI · Software Engineer, Platform · 1 (US)
+- Scale AI · Product Leadership, Enterprise Core Platform · 1 (GB)
+- Turing · Field Engineer, AI Labs · 1 (US)
+- Turing · Vice President, Business Development, Financial Services (BFSI) · 1 (US)
+- RWS (TrainAI) · AI Conversation Recording Contributor - German (Germany) · 1 (DE)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Afrikaans (South Africa) · 1 (ZA)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Kyrgyz · 1 (UZ)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Cebuano · 1 (PH)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Latvian (Latvia) · 1 (LV)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Slovenian (Slovenia) · 1 (SI)
+- ... and 94 more families
+
+**Closed**
+
+- Mindrift (Toloka) · On-Site Recruitment Coordinator (Temporary Employee) · 6 (US)
+- Turing · Compliance Analyst · 2 (BR, IN)
+- Scale AI · Finance Fellow - Human Frontier Collective (US) · 1 (US)
+- Scale AI · Senior Software Engineer, Identity · 1 (US)
+- Scale AI · Chief of Staff, Public Sector Engineering & Security · 1 (US)
+- Scale AI · Safety Research Scholar - Human Frontier Labs · 1 (CA, GB, US)
+
+**Changed**
+
+- Mindrift (Toloka) · One Session, $110: Join Our In-Person Research Study · 3 (US)
+- Mindrift (Toloka) · Take Part in a Paid In-Person Research Study: One Session · 3 (US)
+- Mindrift (Toloka) · Research Participants Needed: $110 for One 90-Minute Session · 3 (US)
+- Mindrift (Toloka) · Easy $110: Take Part in a 90-Minute In-Person Study · 3 (US)
+- Mindrift (Toloka) · Spend 90 Minutes With Us, Walk Away With $110 · 3 (US)
+- Mindrift (Toloka) · 90 Minutes of Conversation: Paid Research Study · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: $110 for a 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Quick and Simple: $110 for a 90-Minute Conversation Study · 3 (US)
+- Mindrift (Toloka) · Get Paid to Share Your Opinion: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: $110 for 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Paid Conversation Study: Single 90-Minute Session · 3 (US)
+- Mindrift (Toloka) · Take Part in a Paid 90-Minute In-Person Study · 3 (US)
+- Mindrift (Toloka) · Paid Conversation Study: $110 for a Single 90-Minute Session · 3 (US)
+- Mindrift (Toloka) · Research Participants Needed: One 90-Minute Session · 3 (US)
+- ... and 25 more families
+
 ## 2026-10-22 · 776 postings · +123 new · -557 closed · ~69 changed
 
 **New**
