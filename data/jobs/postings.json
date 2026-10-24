@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:46:37+00:00",
+  "generated_at": "2026-10-24T14:37:00+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -28,31 +28,6 @@
       "published": "2026-10-21",
       "family_id": "739ee1904d48",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:6870578583",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "6870578583",
-      "title": "$110 for 90 Minutes of Conversation: Paid Research Study",
-      "url": "https://apply.workable.com/j/6870578583",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "b0aa7a7f9e97",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -101,6 +76,31 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-19",
+      "family_id": "b0aa7a7f9e97",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:7156710EBE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7156710EBE",
+      "title": "$110 for 90 Minutes of Conversation: Paid Research Study",
+      "url": "https://apply.workable.com/j/7156710EBE",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "b0aa7a7f9e97",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -716,6 +716,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:520BD4C880",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "520BD4C880",
+      "title": "Bilingual Danish-English Participant - Paid UX Study, New York",
+      "url": "https://apply.workable.com/j/520BD4C880",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "90e1b2cd7f97",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:518B408ACB",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -732,6 +757,31 @@
       "published": "2026-10-23",
       "family_id": "ff542214fe98",
       "description_sha1": "5e6f90a97917c02294ab8bae260000f00b90edfa",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:B5F21212BD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B5F21212BD",
+      "title": "Bilingual Finnish-English Participant - Paid UX Study, New York",
+      "url": "https://apply.workable.com/j/B5F21212BD",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "eb56431f7a0d",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -845,6 +895,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:79ED67A2E6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "79ED67A2E6",
+      "title": "Bilingual Hebrew-English Participant from Israel - Paid UX Study, New York",
+      "url": "https://apply.workable.com/j/79ED67A2E6",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "b17a89bb30c4",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:9C6338E274",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -936,6 +1011,31 @@
       "published": "2026-10-22",
       "family_id": "f82d606b2049",
       "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:737C514E81",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "737C514E81",
+      "title": "Bilingual Polish-English Participant - Paid UX Study, New York",
+      "url": "https://apply.workable.com/j/737C514E81",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "667df98b8f12",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -2690,6 +2790,81 @@
       }
     },
     {
+      "key": "workable:toloka-ai:717541ABFE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "717541ABFE",
+      "title": "Danish Speaker Study Participant - NYC, $1,200-1,600",
+      "url": "https://apply.workable.com/j/717541ABFE",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "099e4ff212c4",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:FDF8FE6143",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "FDF8FE6143",
+      "title": "Danish Speakers Wanted - Paid Smartphone Study, NYC",
+      "url": "https://apply.workable.com/j/FDF8FE6143",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "0638c4da25bc",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:09A15BCAD3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "09A15BCAD3",
+      "title": "Danish Translators and Native Speakers - Paid Study in NYC",
+      "url": "https://apply.workable.com/j/09A15BCAD3",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "21dfa1da0439",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:64089E795F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -2894,6 +3069,56 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:2FC920139B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2FC920139B",
+      "title": "Earn up to $1,600 - 3-Day Danish Language Study in NYC",
+      "url": "https://apply.workable.com/j/2FC920139B",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "ad6856f2cb32",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:40BA5A3D60",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "40BA5A3D60",
+      "title": "Earn up to $1,600 - 3-Day Finnish Language Study in NYC",
+      "url": "https://apply.workable.com/j/40BA5A3D60",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "ebcdc06b8957",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:132783B2E1",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -2998,6 +3223,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:E9403633ED",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E9403633ED",
+      "title": "Earn up to $1,600 - 3-Day Hebrew Language Study in NYC",
+      "url": "https://apply.workable.com/j/E9403633ED",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "75374beabc30",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:E09017CB1F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -3064,6 +3314,31 @@
       "published": "2026-10-22",
       "family_id": "98dc3a798b65",
       "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:09875D6C0C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "09875D6C0C",
+      "title": "Earn up to $1,600 - 3-Day Polish Language Study in NYC",
+      "url": "https://apply.workable.com/j/09875D6C0C",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "35aef1acd05d",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -3173,31 +3448,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:AEF490EEE3",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "AEF490EEE3",
-      "title": "Easy $110: Take Part in a 90-Minute In-Person Study",
-      "url": "https://apply.workable.com/j/AEF490EEE3",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "9022ee440193",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:291D3FA538",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -3237,6 +3487,31 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-16",
+      "family_id": "9022ee440193",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:FC9669F132",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "FC9669F132",
+      "title": "Easy $110: Take Part in a 90-Minute In-Person Study",
+      "url": "https://apply.workable.com/j/FC9669F132",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "9022ee440193",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -3448,6 +3723,81 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:7A4B258570",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7A4B258570",
+      "title": "Finnish Speaker Study Participant - NYC, $1,200-1,600",
+      "url": "https://apply.workable.com/j/7A4B258570",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "0b1382c821a6",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:0A7FD4D2B9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0A7FD4D2B9",
+      "title": "Finnish Speakers Wanted - Paid Smartphone Study, NYC",
+      "url": "https://apply.workable.com/j/0A7FD4D2B9",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "9f6ecdc4756b",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:9AA7335C17",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9AA7335C17",
+      "title": "Finnish Translators and Native Speakers - Paid Study in NYC",
+      "url": "https://apply.workable.com/j/9AA7335C17",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "91e64c2236d2",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:4CED2AB0CF",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -3506,6 +3856,31 @@
       }
     },
     {
+      "key": "workable:toloka-ai:093627D347",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "093627D347",
+      "title": "Flexible Gig for Danish Speakers - 3-Day Paid Study, NYC",
+      "url": "https://apply.workable.com/j/093627D347",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "708d48bdfeef",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:8259059E6F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -3547,6 +3922,31 @@
       "published": "2026-10-23",
       "family_id": "bd6f9adaaa6d",
       "description_sha1": "ca67bbee6889e6f7ae624db22aa278a3c389135f",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:40EED305E6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "40EED305E6",
+      "title": "Flexible Gig for Finnish Speakers - 3-Day Paid Study, NYC",
+      "url": "https://apply.workable.com/j/40EED305E6",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "ecfeb0cc339e",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -3660,6 +4060,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:F74EBFB99A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F74EBFB99A",
+      "title": "Flexible Gig for Israeli Hebrew Speakers - 3-Day Paid Study, NYC",
+      "url": "https://apply.workable.com/j/F74EBFB99A",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "c30638b727c8",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:9CF55C8400",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -3726,6 +4151,31 @@
       "published": "2026-10-22",
       "family_id": "70dbf3221f8a",
       "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:1D626A9713",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1D626A9713",
+      "title": "Flexible Gig for Polish Speakers - 3-Day Paid Study, NYC",
+      "url": "https://apply.workable.com/j/1D626A9713",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "446b8dce061f",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -5763,31 +6213,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:D1D285F311",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "D1D285F311",
-      "title": "Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/D1D285F311",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "1e4c4b204fab",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:96176BE6E7",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -5827,6 +6252,31 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-16",
+      "family_id": "1e4c4b204fab",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:59CAEDA15C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "59CAEDA15C",
+      "title": "Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/59CAEDA15C",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "1e4c4b204fab",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -6013,6 +6463,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:B5A2ED5C72",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B5A2ED5C72",
+      "title": "Hebrew Translators and Israeli Native Speakers - Paid Study in NYC",
+      "url": "https://apply.workable.com/j/B5A2ED5C72",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "6b9991a41adc",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:CFD18E71E5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -6152,6 +6627,56 @@
         "hours_per_week": "rules",
         "pay_usd_hour_max": "rules"
       }
+    },
+    {
+      "key": "workable:toloka-ai:DD728DDDD0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DD728DDDD0",
+      "title": "Israeli Hebrew Speaker Study Participant - NYC, $1,200-1,600",
+      "url": "https://apply.workable.com/j/DD728DDDD0",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "4e416e468abd",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:93647AC366",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "93647AC366",
+      "title": "Israeli Hebrew Speakers Wanted - Paid Smartphone Study, NYC",
+      "url": "https://apply.workable.com/j/93647AC366",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "a68a0b65b47d",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "workable:toloka-ai:9A5D126AEE",
@@ -7223,6 +7748,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:A3B319FEAA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A3B319FEAA",
+      "title": "Native Danish Speakers from Denmark - Paid 3-Day Study in NYC ($1,200-1,600)",
+      "url": "https://apply.workable.com/j/A3B319FEAA",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "2a6c2c4b6662",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:E7C7DE42B7",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -7402,6 +7952,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:6C33851F73",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "6C33851F73",
+      "title": "Native Finnish Speakers from Finland - Paid 3-Day Study in NYC ($1,200-1,600)",
+      "url": "https://apply.workable.com/j/6C33851F73",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "b2fead2c52e2",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:619667301F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -7547,6 +8122,31 @@
       "published": "2026-10-21",
       "family_id": "984d287f4dad",
       "description_sha1": "0d4210b63b3cc0cb52ce959389d356089724f745",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:635D799570",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "635D799570",
+      "title": "Native Hebrew Speakers from Israel - Paid 3-Day Study in NYC ($1,200-1,600)",
+      "url": "https://apply.workable.com/j/635D799570",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "84275b0471cc",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -7747,6 +8347,31 @@
       "published": "2026-10-21",
       "family_id": "1e2510891604",
       "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:DBDFC0865D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DBDFC0865D",
+      "title": "Native Polish Speakers from Poland - Paid 3-Day Study in NYC ($1,200-1,600)",
+      "url": "https://apply.workable.com/j/DBDFC0865D",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "9f3535297bc7",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8081,31 +8706,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:5ED727383E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "5ED727383E",
-      "title": "Paid Conversation Study: $110 for a Single 90-Minute Session",
-      "url": "https://apply.workable.com/j/5ED727383E",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "7984ac8faa4a",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:F8BB69901E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -8145,6 +8745,31 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-16",
+      "family_id": "7984ac8faa4a",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:C9EDD20CE0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C9EDD20CE0",
+      "title": "Paid Conversation Study: $110 for a Single 90-Minute Session",
+      "url": "https://apply.workable.com/j/C9EDD20CE0",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "7984ac8faa4a",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -8356,6 +8981,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:8FC976B2CB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8FC976B2CB",
+      "title": "Paid Research Study for Danish Speakers - Midtown Manhattan",
+      "url": "https://apply.workable.com/j/8FC976B2CB",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "76ad4101a73c",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:EA4841CA8A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -8408,6 +9058,31 @@
       "extracted_by": {
         "pay_usd_hour_max": "rules"
       }
+    },
+    {
+      "key": "workable:toloka-ai:0C08D2623B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0C08D2623B",
+      "title": "Paid Research Study for Finnish Speakers - Midtown Manhattan",
+      "url": "https://apply.workable.com/j/0C08D2623B",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "2108486680af",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "workable:toloka-ai:7E4E4364B9",
@@ -8510,6 +9185,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:C781E5A4F4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C781E5A4F4",
+      "title": "Paid Research Study for Israeli Hebrew Speakers - Midtown Manhattan",
+      "url": "https://apply.workable.com/j/C781E5A4F4",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "856dd50ba566",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:BEDF27A103",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -8601,6 +9301,31 @@
       "published": "2026-10-22",
       "family_id": "a4fb75c179d2",
       "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:B7BF707839",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B7BF707839",
+      "title": "Paid Research Study for Polish Speakers from Poland - Midtown Manhattan",
+      "url": "https://apply.workable.com/j/B7BF707839",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "f3c84710c57d",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8735,31 +9460,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:71AB052089",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "71AB052089",
-      "title": "Paid Research Study: $110 for a 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/71AB052089",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "5d9746c217fe",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:455FE0C1EF",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -8799,6 +9499,31 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-16",
+      "family_id": "5d9746c217fe",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:163A6EECA5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "163A6EECA5",
+      "title": "Paid Research Study: $110 for a 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/163A6EECA5",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "5d9746c217fe",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -9035,6 +9760,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:5293B41DE3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5293B41DE3",
+      "title": "Paid Study for International Students - Native Danish Speakers from Denmark, NYC",
+      "url": "https://apply.workable.com/j/5293B41DE3",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "3bc7d1a4b315",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:C277250500",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -9080,6 +9830,31 @@
       "published": "2026-10-23",
       "family_id": "89b4713b9e16",
       "description_sha1": "5e6f90a97917c02294ab8bae260000f00b90edfa",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:03385EA1FF",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "03385EA1FF",
+      "title": "Paid Study for International Students - Native Finnish Speakers from Finland, NY",
+      "url": "https://apply.workable.com/j/03385EA1FF",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "0badd54e64c6",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9189,6 +9964,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:1525673BBC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1525673BBC",
+      "title": "Paid Study for International Students - Native Hebrew Speakers from Israel, NYC",
+      "url": "https://apply.workable.com/j/1525673BBC",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "d8b7bade6256",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:5C6AA616E7",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -9280,6 +10080,31 @@
       "published": "2026-10-22",
       "family_id": "6d8c6b459f1a",
       "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:98C6FF93FB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "98C6FF93FB",
+      "title": "Paid Study for International Students - Native Polish Speakers from Poland, NYC",
+      "url": "https://apply.workable.com/j/98C6FF93FB",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "580971f27a1d",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9389,6 +10214,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:3499A97FB9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3499A97FB9",
+      "title": "Paid Study for Retirees and Native Danish Speakers - NYC",
+      "url": "https://apply.workable.com/j/3499A97FB9",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "16eb7ee46d88",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:0281F59987",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -9405,6 +10255,31 @@
       "published": "2026-10-23",
       "family_id": "439a6d837f3c",
       "description_sha1": "5e6f90a97917c02294ab8bae260000f00b90edfa",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:173BD40EC0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "173BD40EC0",
+      "title": "Paid Study for Retirees and Native Finnish Speakers - NYC",
+      "url": "https://apply.workable.com/j/173BD40EC0",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "3d697c0fc77b",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9518,6 +10393,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:9D334EDFB0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9D334EDFB0",
+      "title": "Paid Study for Retirees and Native Hebrew Speakers from Israel - NYC",
+      "url": "https://apply.workable.com/j/9D334EDFB0",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "c8b1db1d2b1f",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:5966D209E2",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -9609,6 +10509,31 @@
       "published": "2026-10-22",
       "family_id": "8505db68aab3",
       "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:3EB0D0FD3B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3EB0D0FD3B",
+      "title": "Paid Study for Retirees and Native Polish Speakers - NYC",
+      "url": "https://apply.workable.com/j/3EB0D0FD3B",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "4947a1052cfa",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -11480,6 +12405,106 @@
       }
     },
     {
+      "key": "workable:toloka-ai:F5ECBEFE71",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F5ECBEFE71",
+      "title": "Płatne badanie w Nowym Jorku - Dla osób z polskim jako językiem ojczystym, honor",
+      "url": "https://apply.workable.com/j/F5ECBEFE71",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "0f5d0b64023a",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:056AD6A596",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "056AD6A596",
+      "title": "Polish Speaker Study Participant - NYC, $1,200-1,600",
+      "url": "https://apply.workable.com/j/056AD6A596",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "26b456669b41",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:06C2AF8CCB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "06C2AF8CCB",
+      "title": "Polish Speakers Wanted - Paid Smartphone Study, NYC",
+      "url": "https://apply.workable.com/j/06C2AF8CCB",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "dbb240e1e78f",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:10D3A9BE28",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "10D3A9BE28",
+      "title": "Polish Translators and Native Speakers - Paid Study in NYC",
+      "url": "https://apply.workable.com/j/10D3A9BE28",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "99d271a87cd3",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:2A1FB057A6",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -11655,31 +12680,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:DD4F315776",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "DD4F315776",
-      "title": "Research Participants Needed: $110 for One 90-Minute Session",
-      "url": "https://apply.workable.com/j/DD4F315776",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "66ea2010c4d7",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:1081D39A0E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -11719,6 +12719,31 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-16",
+      "family_id": "66ea2010c4d7",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:3F495EC32D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3F495EC32D",
+      "title": "Research Participants Needed: $110 for One 90-Minute Session",
+      "url": "https://apply.workable.com/j/3F495EC32D",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "66ea2010c4d7",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -12021,6 +13046,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:E47C5E5C26",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E47C5E5C26",
+      "title": "Short-Term Paid Study - Native Danish Speakers, Manhattan",
+      "url": "https://apply.workable.com/j/E47C5E5C26",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "27444983a863",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:C321DFBD66",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -12066,6 +13116,31 @@
       "published": "2026-10-23",
       "family_id": "ac550ed39327",
       "description_sha1": "5e6f90a97917c02294ab8bae260000f00b90edfa",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:40C26461A5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "40C26461A5",
+      "title": "Short-Term Paid Study - Native Finnish Speakers, Manhattan",
+      "url": "https://apply.workable.com/j/40C26461A5",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "5133bc34b6bf",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -12166,6 +13241,31 @@
       "published": "2026-10-22",
       "family_id": "5910d426e7e9",
       "description_sha1": "0d4210b63b3cc0cb52ce959389d356089724f745",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:B7C0C12564",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B7C0C12564",
+      "title": "Short-Term Paid Study - Native Hebrew Speakers from Israel, Manhattan",
+      "url": "https://apply.workable.com/j/B7C0C12564",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "f35939dae5cb",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -12300,6 +13400,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:5184B9973D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5184B9973D",
+      "title": "Short-Term Paid Study - Native Polish Speakers from Poland, Manhattan",
+      "url": "https://apply.workable.com/j/5184B9973D",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "514cf93a7963",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:95CC044815",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -12400,6 +13525,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:AC15DA6B91",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "AC15DA6B91",
+      "title": "Side Income for Danish Speakers - 3-Day Paid Study, NYC",
+      "url": "https://apply.workable.com/j/AC15DA6B91",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "525dacd889f6",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:BD2BB33FE6",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -12416,6 +13566,31 @@
       "published": "2026-10-23",
       "family_id": "c3b3222be1f3",
       "description_sha1": "5e6f90a97917c02294ab8bae260000f00b90edfa",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:9FB9995EA5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9FB9995EA5",
+      "title": "Side Income for Finnish Speakers - 3-Day Paid Study, NYC",
+      "url": "https://apply.workable.com/j/9FB9995EA5",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "95769d485eb3",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -12529,6 +13704,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:E77E8F38BE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E77E8F38BE",
+      "title": "Side Income for Israelis in NYC - 3-Day Paid Study, Native Hebrew Speakers",
+      "url": "https://apply.workable.com/j/E77E8F38BE",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "9e97f9414567",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:5E082FF3FA",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -12595,6 +13795,31 @@
       "published": "2026-10-22",
       "family_id": "078c372f96f0",
       "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:E31036F941",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E31036F941",
+      "title": "Side Income for Polish Speakers - 3-Day Paid Study, NYC",
+      "url": "https://apply.workable.com/j/E31036F941",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "ad24011e4268",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -13008,6 +14233,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:4769028E71",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4769028E71",
+      "title": "Student Gig - Israeli Hebrew Speakers, Paid Study in NYC",
+      "url": "https://apply.workable.com/j/4769028E71",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "97ba64a1a06a",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:613ACEABDC",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -13058,6 +14308,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:37438AE2FF",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "37438AE2FF",
+      "title": "Student Gig - Native Danish Speakers, Paid Study in NYC",
+      "url": "https://apply.workable.com/j/37438AE2FF",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "71930ce8b0c2",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:212235272B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -13074,6 +14349,31 @@
       "published": "2026-10-23",
       "family_id": "951149fb552e",
       "description_sha1": "5e6f90a97917c02294ab8bae260000f00b90edfa",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:39AAFA1883",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "39AAFA1883",
+      "title": "Student Gig - Native Finnish Speakers, Paid Study in NYC",
+      "url": "https://apply.workable.com/j/39AAFA1883",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "faf63fa8bab6",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -13124,6 +14424,31 @@
       "published": "2026-10-22",
       "family_id": "056d95789597",
       "description_sha1": "0ed616aae382f09b65bf08be8f671abe328ca76e",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:73ECF4ACFD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "73ECF4ACFD",
+      "title": "Student Gig - Native Polish Speakers, Paid Study in NYC",
+      "url": "https://apply.workable.com/j/73ECF4ACFD",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "a238b02c2a30",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -13633,6 +14958,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:50E885D22A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "50E885D22A",
+      "title": "Temporary Gig - Danish Speaker Research Participant, NYC",
+      "url": "https://apply.workable.com/j/50E885D22A",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "aa60a6a86c76",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:02C490CCEB",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -13699,6 +15049,31 @@
       "published": "2026-10-22",
       "family_id": "969e8f020bb2",
       "description_sha1": "eb0895bd594773b02083768609e69ed7632fce1c",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:41AC52BAEA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "41AC52BAEA",
+      "title": "Temporary Gig - Finnish Speaker Research Participant, NYC",
+      "url": "https://apply.workable.com/j/41AC52BAEA",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "8e324cbbb8d6",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -13787,6 +15162,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:5C11840D01",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5C11840D01",
+      "title": "Temporary Gig - Israeli Hebrew Research Participant, NYC",
+      "url": "https://apply.workable.com/j/5C11840D01",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "f35a9c7fc823",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:7F815C6C99",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -13853,6 +15253,31 @@
       "published": "2026-10-22",
       "family_id": "7aa1752c885c",
       "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:3C49072767",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3C49072767",
+      "title": "Temporary Gig - Polish Speaker Research Participant, NYC",
+      "url": "https://apply.workable.com/j/3C49072767",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "fa4a027ffa65",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -13962,6 +15387,56 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:A040D37757",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A040D37757",
+      "title": "Tutkimus New Yorkissa - Suomea äidinkielenään puhuville, palkkio 1 200-1 600 USD",
+      "url": "https://apply.workable.com/j/A040D37757",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "d1723fe1f270",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:74129E7DDB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "74129E7DDB",
+      "title": "Undersøgelse i New York - For personer med dansk som modersmål, 1.200-1.600 USD",
+      "url": "https://apply.workable.com/j/74129E7DDB",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "1698545f0abc",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:C391DE4939",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -14012,31 +15487,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:7955395F89",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "7955395F89",
-      "title": "Your Voice Matters: $110 for a 90-Minute Research Session",
-      "url": "https://apply.workable.com/j/7955395F89",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "94988cac68b4",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:CFC0F5434F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -14076,6 +15526,31 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-16",
+      "family_id": "94988cac68b4",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:B5FC1B13A5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B5FC1B13A5",
+      "title": "Your Voice Matters: $110 for a 90-Minute Research Session",
+      "url": "https://apply.workable.com/j/B5FC1B13A5",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "94988cac68b4",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14153,6 +15628,31 @@
       "published": "2026-10-16",
       "family_id": "6fa289f0dfa3",
       "description_sha1": "b81fa0a330ac95bd820562e026b0b98caea94c9c",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:516BFD65B3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "516BFD65B3",
+      "title": "מחקר בתשלום בניו יורק - לדוברי עברית כשפת אם מישראל (1,200-1,600 דולר)",
+      "url": "https://apply.workable.com/j/516BFD65B3",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "4bb665d1a0ee",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -14590,6 +16090,31 @@
       "published": "2026-09-09",
       "family_id": "d47b8a7ed7bc",
       "description_sha1": "0adcaf5c61cc7863741c12ea33befce2941411e1",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4747295005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4747295005",
+      "title": "Creative Advisor - Human Frontier Collective (US)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747295005",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-23",
+      "family_id": "7f7eacc48271",
+      "description_sha1": "4367271ac53c3d72a3c1bcb0a6ee9e15310a9837",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -15352,6 +16877,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4673051005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4644742005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -15379,31 +16929,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -15460,35 +16985,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4602177005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4602177005",
-      "title": "Frontier Agent Engineering Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4602177005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-27",
-      "family_id": "262fca07ec23",
-      "description_sha1": "5c4c5a8d0721af80ee375cbdcc67c1121d44972a",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of software engineering experience with 3+ yrs of"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4743438005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -15505,6 +17001,35 @@
       "published": "2026-10-16",
       "family_id": "262fca07ec23",
       "description_sha1": "8da4967d01329df60c30080d7235c1c25de54e04",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of software engineering experience with 3+ yrs of"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4602177005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4602177005",
+      "title": "Frontier Agent Engineering Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4602177005",
+      "location": "San Francisco, CA; New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-27",
+      "family_id": "262fca07ec23",
+      "description_sha1": "5c4c5a8d0721af80ee375cbdcc67c1121d44972a",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -16006,7 +17531,7 @@
       "employment_type": null,
       "published": "2025-11-18",
       "family_id": "ccc1722806d1",
-      "description_sha1": "87ebf85b19b50e4db859289c18cc5d5a9d6738ea",
+      "description_sha1": "92dbd9fa892cce38d8a5b8e1753fbaeeefea6070",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -16413,6 +17938,35 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -16430,35 +17984,6 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -17323,7 +18848,7 @@
       "employment_type": null,
       "published": "2026-09-10",
       "family_id": "7a75ab9b2ea5",
-      "description_sha1": "9975568ecabdd75f386ededa42be4739c9aa9ebd",
+      "description_sha1": "dbddcb21b5fd7bd4e4b4d65c84a8a2587d0339ce",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -17769,22 +19294,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730845005",
+      "key": "greenhouse:scaleai:4730846005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730845005",
+      "posting_id": "4730846005",
       "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
       "countries": [
-        "US"
+        "GB"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-04",
+      "published": "2026-09-14",
       "family_id": "560d46ffe696",
-      "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -17819,22 +19344,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730846005",
+      "key": "greenhouse:scaleai:4730845005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730846005",
+      "posting_id": "4730845005",
       "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "location": "San Francisco, CA",
       "countries": [
-        "GB"
+        "US"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-14",
+      "published": "2026-09-04",
       "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
+      "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -17871,6 +19396,31 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:scaleai:4730836005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730836005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-04",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4730862005",
@@ -17914,31 +19464,6 @@
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
       "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4730836005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730836005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-04",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -18139,31 +19664,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4732430005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4732430005",
-      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-10",
-      "family_id": "56ad11a5ce2b",
-      "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4676610005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -18180,6 +19680,31 @@
       "published": "2026-03-24",
       "family_id": "56ad11a5ce2b",
       "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4732430005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4732430005",
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-10",
+      "family_id": "56ad11a5ce2b",
+      "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -18272,31 +19797,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4718917005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4718917005",
-      "title": "Staff Product Designer, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-29",
-      "family_id": "614cd584a7ff",
-      "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4735360005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -18313,6 +19813,31 @@
       "published": "2026-09-24",
       "family_id": "614cd584a7ff",
       "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4718917005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4718917005",
+      "title": "Staff Product Designer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-07-29",
+      "family_id": "614cd584a7ff",
+      "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -18598,35 +20123,6 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4722944005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4722944005",
-      "title": "Strategic Finance Manager, Corporate",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722944005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-14",
-      "family_id": "f2ae995a63db",
-      "description_sha1": "0cbb1185bb54710959e493e255de27a1693f124e",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of financial analysis experience working directly in Corporate Finance or Strategic Finance"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
     },
     {
       "key": "greenhouse:scaleai:4282118005",
@@ -18965,31 +20461,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4693449005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4693449005",
-      "title": "Technical Program Manager, Gen AI Operations Planning",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4693449005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-05-08",
-      "family_id": "b7c6303f4759",
-      "description_sha1": "9e94c90248ad16cb2d49c803503a762cc45eb88d",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4726268005",
@@ -19782,31 +21253,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:turing:6225409004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6225409004",
-      "title": "Senior Software Engineer, AI Evaluation Infrastructure",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6225409004",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-19",
-      "family_id": "b5197a9030c7",
-      "description_sha1": "07c295a913ff90a64b9b6291785647ca020b97e4",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:turing:6115695004",
       "source": "greenhouse",
       "company": "Turing",
@@ -20021,7 +21467,7 @@
       "employment_type": null,
       "published": "2026-10-22",
       "family_id": "cbc89a1a7df5",
-      "description_sha1": "ca4db4851b2428d455da12139a2256d40c66fffa",
+      "description_sha1": "1ec31bc57734210ec611a92d8700005990a5fa3a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -20836,6 +22282,35 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "2+ years of professional software engineering experience, with strong fundamentals in Python and at least one systems-level language (Go, Rust, C++)"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:labelbox:5271920007",
+      "source": "greenhouse",
+      "company": "Labelbox",
+      "posting_id": "5271920007",
+      "title": "Recruiting Operations Specialist (Contract)",
+      "url": "https://job-boards.greenhouse.io/labelbox/jobs/5271920007",
+      "location": "San Francisco Bay Area",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-23",
+      "family_id": "465c7f719c2b",
+      "description_sha1": "7bdfda9d08bb1c22305d34813111db97f9085db3",
+      "min_years": 2,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "2+ years of experience in recruiting operations, recruiting coordination, or people operations preferred."
       },
       "extracted_by": {
         "min_years": "rules"
@@ -22568,6 +24043,31 @@
       }
     },
     {
+      "key": "lever:rws:29d88ab2-7857-4178-a30c-676ba8e63c9a",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "29d88ab2-7857-4178-a30c-676ba8e63c9a",
+      "title": "General AI Data Annotator - Brazilian Portuguese (United States)",
+      "url": "https://jobs.lever.co/rws/29d88ab2-7857-4178-a30c-676ba8e63c9a",
+      "location": "Massachusetts",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time Employee",
+      "published": "2025-10-03",
+      "family_id": "f032adc9e9eb",
+      "description_sha1": "8888a61d160d978a7f50902a02621b06dee4fb52",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "lever:rws:c0992264-6bb0-495a-9eea-cd127255419e",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -22684,6 +24184,31 @@
       "published": "2026-01-30",
       "family_id": "5806fe07ed5e",
       "description_sha1": "2e2885ad27b497ee1124051fe91ec4d4c2c91321",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:8d8825f3-4600-4b62-91c1-c2676860d538",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "8d8825f3-4600-4b62-91c1-c2676860d538",
+      "title": "General AI Data Annotator - Spanish (United States)",
+      "url": "https://jobs.lever.co/rws/8d8825f3-4600-4b62-91c1-c2676860d538",
+      "location": "Dallas, Texas; California; Florida",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time Employee",
+      "published": "2025-11-06",
+      "family_id": "813b91895553",
+      "description_sha1": "eb6b7f9eec04f91118841c4ab217c14108ef0420",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -23181,7 +24706,7 @@
       "posting_id": "6e4e9691-244b-493a-9a8b-ceed10f0d5a3",
       "title": "Search Engine Evaluator - Danish (Denmark)",
       "url": "https://jobs.lever.co/rws/6e4e9691-244b-493a-9a8b-ceed10f0d5a3",
-      "location": "Copenhagen",
+      "location": "Copenhagen; Aalborg; Aarhus; Odense; Esbjerg; Helsingør; Herning; Horsens; Hørsholm; Kolding; Randers; Roskilde; Silkeborg; Vejle; Fredericia",
       "countries": [
         "DK"
       ],
@@ -23500,7 +25025,7 @@
       "posting_id": "313aa400-4340-4c4e-965d-86aa0ccb8c3e",
       "title": "Search Engine Evaluator - German (Austria)",
       "url": "https://jobs.lever.co/rws/313aa400-4340-4c4e-965d-86aa0ccb8c3e",
-      "location": "Vienna",
+      "location": "Vienna; Graz; Salzburg; Linz; Bregenz; Sankt Pölten; Dornbirn; Feldkirch; Innsbruck; Klagenfurt; Steyr; Villach; Wels; Wiener Neustadt",
       "countries": [
         "AT"
       ],
@@ -23821,7 +25346,7 @@
       "posting_id": "5f8c12c7-a72c-4c9c-bbb9-557ad98bacf1",
       "title": "Search Engine Evaluator - Norwegian (Norway)",
       "url": "https://jobs.lever.co/rws/5f8c12c7-a72c-4c9c-bbb9-557ad98bacf1",
-      "location": "Oslo",
+      "location": "Oslo; Bergen; Nordfjordeid; Sandane; Sogndal; Ørsta; Stavanger; Stryn; Trondheim; Volda; Voss; Ålesund; Molde; Leikanger; Kristiansund",
       "countries": [
         "NO"
       ],
@@ -23966,7 +25491,7 @@
       "posting_id": "71b45d5b-c17f-49f6-b523-9eab28324667",
       "title": "Search Engine Evaluator - Spanish (Argentina)",
       "url": "https://jobs.lever.co/rws/71b45d5b-c17f-49f6-b523-9eab28324667",
-      "location": "Buenos Aires; Cordoba; Mendoza; Rosario",
+      "location": "Buenos Aires; Cordoba; Mendoza; Rosario; Mar del Plata; Salta; Santa Fe; San Miguel de Tucuman",
       "countries": [
         "AR"
       ],
@@ -24083,7 +25608,7 @@
       "posting_id": "c350c80b-aecc-4d22-9b8b-08289f091528",
       "title": "Search Engine Evaluator - Swedish (Sweden)",
       "url": "https://jobs.lever.co/rws/c350c80b-aecc-4d22-9b8b-08289f091528",
-      "location": "Stockholm",
+      "location": "Stockholm; Borås; Jönköping; Gävle; Helsingborg; Lund; Malmö; Norrköping; Södertälje; Umeå; Uppsala; Västerås; Örebro; Eskilstuna; Halmstad",
       "countries": [
         "SE"
       ],
@@ -24257,7 +25782,7 @@
       "posting_id": "79718852-d99d-4bd3-8206-6a1c13469c66",
       "title": "Search Engine Evaluator - Vietnamese (Vietnam)",
       "url": "https://jobs.lever.co/rws/79718852-d99d-4bd3-8206-6a1c13469c66",
-      "location": "Hanoi",
+      "location": "Hanoi; Hue; Ho Chi Minh City; Bien Hoa; Can Tho; Hai Phong; Da Nang; Ho Chi Minh",
       "countries": [
         "VN"
       ],

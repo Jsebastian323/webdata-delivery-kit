@@ -2,6 +2,52 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-24 · 940 postings · +71 new · -10 closed · ~9 changed
+
+**New**
+
+- Labelbox · Recruiting Operations Specialist (Contract) · 1 (US)
+- Scale AI · Creative Advisor - Human Frontier Collective (US) · 1 (US)
+- RWS (TrainAI) · General AI Data Annotator - Brazilian Portuguese (United States) · 1 (US)
+- RWS (TrainAI) · General AI Data Annotator - Spanish (United States) · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Finnish Speakers from Finland, NY · 1 (US)
+- Mindrift (Toloka) · Polish Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Polish Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Flexible Gig for Danish Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Earn up to $1,600 - 3-Day Polish Language Study in NYC · 1 (US)
+- Mindrift (Toloka) · Danish Translators and Native Speakers - Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Finnish Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Finnish Speakers - Midtown Manhattan · 1 (US)
+- Mindrift (Toloka) · Polish Translators and Native Speakers - Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Hebrew Speakers from Israel, NYC · 1 (US)
+- Mindrift (Toloka) · Paid Research Study: $110 for a 90-Minute In-Person Session · 1 (US)
+- ... and 56 more families
+
+**Closed**
+
+- Scale AI · Technical Program Manager, Gen AI Operations Planning · 1 (US)
+- Scale AI · Strategic Finance Manager, Corporate · 1 (US)
+- Turing · Senior Software Engineer, AI Evaluation Infrastructure · 1 (US)
+- Mindrift (Toloka) · Paid Conversation Study: $110 for a Single 90-Minute Session · 1 (US)
+- Mindrift (Toloka) · $110 for 90 Minutes of Conversation: Paid Research Study · 1 (US)
+- Mindrift (Toloka) · Paid Research Study: $110 for a 90-Minute In-Person Session · 1 (US)
+- Mindrift (Toloka) · Your Voice Matters: $110 for a 90-Minute Research Session · 1 (US)
+- Mindrift (Toloka) · Easy $110: Take Part in a 90-Minute In-Person Study · 1 (US)
+- Mindrift (Toloka) · Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session · 1 (US)
+- Mindrift (Toloka) · Research Participants Needed: $110 for One 90-Minute Session · 1 (US)
+
+**Changed**
+
+- Scale AI · Machine Learning Engineer, Public Sector · 1 (US)
+- Scale AI · Senior Machine Learning Engineer, Public Sector · 1 (US)
+- Turing · Vice President, Business Development, Financial Services (BFSI) · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - German (Austria) · 1 (AT)
+- RWS (TrainAI) · Search Engine Evaluator - Norwegian (Norway) · 1 (NO)
+- RWS (TrainAI) · Search Engine Evaluator - Danish (Denmark) · 1 (DK)
+- RWS (TrainAI) · Search Engine Evaluator - Spanish (Argentina) · 1 (AR)
+- RWS (TrainAI) · Search Engine Evaluator - Vietnamese (Vietnam) · 1 (VN)
+- RWS (TrainAI) · Search Engine Evaluator - Swedish (Sweden) · 1 (SE)
+
 ## 2026-10-23 · 879 postings · +115 new · -12 closed · ~86 changed
 
 **New**
