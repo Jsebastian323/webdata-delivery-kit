@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:37:00+00:00",
+  "generated_at": "2026-10-25T14:57:59+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -37,56 +37,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:7C37F5E46E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "7C37F5E46E",
-      "title": "$110 for 90 Minutes of Conversation: Paid Research Study",
-      "url": "https://apply.workable.com/j/7C37F5E46E",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "b0aa7a7f9e97",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:E0C9C15D7F",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "E0C9C15D7F",
-      "title": "$110 for 90 Minutes of Conversation: Paid Research Study",
-      "url": "https://apply.workable.com/j/E0C9C15D7F",
-      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-19",
-      "family_id": "b0aa7a7f9e97",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:7156710EBE",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -101,6 +51,56 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-24",
+      "family_id": "b0aa7a7f9e97",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:DB3290DA2F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DB3290DA2F",
+      "title": "$110 for 90 Minutes of Conversation: Paid Research Study",
+      "url": "https://apply.workable.com/j/DB3290DA2F",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "b0aa7a7f9e97",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:1CF04FF2E4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1CF04FF2E4",
+      "title": "$110 for 90 Minutes of Conversation: Paid Research Study",
+      "url": "https://apply.workable.com/j/1CF04FF2E4",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
       "family_id": "b0aa7a7f9e97",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -162,12 +162,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:8439D7D8B4",
+      "key": "workable:toloka-ai:879B13812E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "8439D7D8B4",
+      "posting_id": "879B13812E",
       "title": "$110 for One Visit: Paid Research Study, No Preparation Needed",
-      "url": "https://apply.workable.com/j/8439D7D8B4",
+      "url": "https://apply.workable.com/j/879B13812E",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -175,7 +175,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "46ba63be8b24",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -187,37 +187,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:D9DD5F66AC",
+      "key": "workable:toloka-ai:92C3196B04",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "D9DD5F66AC",
+      "posting_id": "92C3196B04",
       "title": "$110 for One Visit: Paid Research Study, No Preparation Needed",
-      "url": "https://apply.workable.com/j/D9DD5F66AC",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "46ba63be8b24",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:90CE6F90C2",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "90CE6F90C2",
-      "title": "$110 for One Visit: Paid Research Study, No Preparation Needed",
-      "url": "https://apply.workable.com/j/90CE6F90C2",
+      "url": "https://apply.workable.com/j/92C3196B04",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -225,7 +200,32 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-19",
+      "published": "2026-10-24",
+      "family_id": "46ba63be8b24",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:5693671CCA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5693671CCA",
+      "title": "$110 for One Visit: Paid Research Study, No Preparation Needed",
+      "url": "https://apply.workable.com/j/5693671CCA",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
       "family_id": "46ba63be8b24",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -337,12 +337,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:505D78725D",
+      "key": "workable:toloka-ai:0C70BDB316",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "505D78725D",
+      "posting_id": "0C70BDB316",
       "title": "90 Minutes of Conversation: Paid Research Study",
-      "url": "https://apply.workable.com/j/505D78725D",
+      "url": "https://apply.workable.com/j/0C70BDB316",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -350,7 +350,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "c9aa6645db6a",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -362,12 +362,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:C241B3DC13",
+      "key": "workable:toloka-ai:1C158C9CC7",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C241B3DC13",
+      "posting_id": "1C158C9CC7",
       "title": "90 Minutes of Conversation: Paid Research Study",
-      "url": "https://apply.workable.com/j/C241B3DC13",
+      "url": "https://apply.workable.com/j/1C158C9CC7",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -375,7 +375,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "c9aa6645db6a",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -387,12 +387,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:20FA2E855D",
+      "key": "workable:toloka-ai:8E97B0AC53",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "20FA2E855D",
+      "posting_id": "8E97B0AC53",
       "title": "90 Minutes of Conversation: Paid Research Study",
-      "url": "https://apply.workable.com/j/20FA2E855D",
+      "url": "https://apply.workable.com/j/8E97B0AC53",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -400,7 +400,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "c9aa6645db6a",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -2969,6 +2969,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:F58D31AD60",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F58D31AD60",
+      "title": "Earn $110 in 90 Minutes: Paid Research Study",
+      "url": "https://apply.workable.com/j/F58D31AD60",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "0be79aacaea6",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:2F70A93121",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -3448,56 +3473,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:291D3FA538",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "291D3FA538",
-      "title": "Easy $110: Take Part in a 90-Minute In-Person Study",
-      "url": "https://apply.workable.com/j/291D3FA538",
-      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "9022ee440193",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:181FC05DAE",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "181FC05DAE",
-      "title": "Easy $110: Take Part in a 90-Minute In-Person Study",
-      "url": "https://apply.workable.com/j/181FC05DAE",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "9022ee440193",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:FC9669F132",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -3512,6 +3487,56 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-24",
+      "family_id": "9022ee440193",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:B86432FAD2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B86432FAD2",
+      "title": "Easy $110: Take Part in a 90-Minute In-Person Study",
+      "url": "https://apply.workable.com/j/B86432FAD2",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "9022ee440193",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:7A4CB2497B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7A4CB2497B",
+      "title": "Easy $110: Take Part in a 90-Minute In-Person Study",
+      "url": "https://apply.workable.com/j/7A4CB2497B",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
       "family_id": "9022ee440193",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -6213,56 +6238,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:96176BE6E7",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "96176BE6E7",
-      "title": "Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/96176BE6E7",
-      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "1e4c4b204fab",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:E1C8E8072C",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "E1C8E8072C",
-      "title": "Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/E1C8E8072C",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "1e4c4b204fab",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:59CAEDA15C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -6277,6 +6252,56 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-24",
+      "family_id": "1e4c4b204fab",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:2B316B059C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2B316B059C",
+      "title": "Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/2B316B059C",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "1e4c4b204fab",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:C4E8824696",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C4E8824696",
+      "title": "Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/C4E8824696",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
       "family_id": "1e4c4b204fab",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -6338,12 +6363,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:E7D8DD5C52",
+      "key": "workable:toloka-ai:7F0EAFBCEE",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "E7D8DD5C52",
+      "posting_id": "7F0EAFBCEE",
       "title": "Get Paid to Share Your Opinion: One 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/E7D8DD5C52",
+      "url": "https://apply.workable.com/j/7F0EAFBCEE",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -6351,7 +6376,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "6bf09a214458",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -6363,37 +6388,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:46635073AC",
+      "key": "workable:toloka-ai:9077D955B8",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "46635073AC",
+      "posting_id": "9077D955B8",
       "title": "Get Paid to Share Your Opinion: One 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/46635073AC",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "6bf09a214458",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:37DFC3E55D",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "37DFC3E55D",
-      "title": "Get Paid to Share Your Opinion: One 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/37DFC3E55D",
+      "url": "https://apply.workable.com/j/9077D955B8",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -6401,7 +6401,32 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-19",
+      "published": "2026-10-24",
+      "family_id": "6bf09a214458",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:E6E7CBF444",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E6E7CBF444",
+      "title": "Get Paid to Share Your Opinion: One 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/E6E7CBF444",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
       "family_id": "6bf09a214458",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -6562,6 +6587,31 @@
       "published": "2026-10-21",
       "family_id": "35570cb71054",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:02A8D05267",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "02A8D05267",
+      "title": "In-Person Research Session in Santa Clara: $110",
+      "url": "https://apply.workable.com/j/02A8D05267",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "ae33d1fc8039",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -8581,12 +8631,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:C1D2F2398D",
+      "key": "workable:toloka-ai:270FD64C86",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C1D2F2398D",
+      "posting_id": "270FD64C86",
       "title": "One Session, $110: Join Our In-Person Research Study",
-      "url": "https://apply.workable.com/j/C1D2F2398D",
+      "url": "https://apply.workable.com/j/270FD64C86",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -8594,7 +8644,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "e10a54f3d3f9",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -8606,12 +8656,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:049A0D28BA",
+      "key": "workable:toloka-ai:9790CD6953",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "049A0D28BA",
+      "posting_id": "9790CD6953",
       "title": "One Session, $110: Join Our In-Person Research Study",
-      "url": "https://apply.workable.com/j/049A0D28BA",
+      "url": "https://apply.workable.com/j/9790CD6953",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -8619,7 +8669,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "e10a54f3d3f9",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -8631,12 +8681,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:F42CE2FAA8",
+      "key": "workable:toloka-ai:99FF8E97F5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F42CE2FAA8",
+      "posting_id": "99FF8E97F5",
       "title": "One Session, $110: Join Our In-Person Research Study",
-      "url": "https://apply.workable.com/j/F42CE2FAA8",
+      "url": "https://apply.workable.com/j/99FF8E97F5",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -8644,7 +8694,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "e10a54f3d3f9",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -8681,6 +8731,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:9088130689",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9088130689",
+      "title": "One-Time Paid Research Session in Santa Clara Valley",
+      "url": "https://apply.workable.com/j/9088130689",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "61968edab2a2",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:A21BB82FA7",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -8696,56 +8771,6 @@
       "employment_type": "Part-time",
       "published": "2026-10-20",
       "family_id": "507143de5bb3",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:F8BB69901E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "F8BB69901E",
-      "title": "Paid Conversation Study: $110 for a Single 90-Minute Session",
-      "url": "https://apply.workable.com/j/F8BB69901E",
-      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "7984ac8faa4a",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:BEFF1931F4",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "BEFF1931F4",
-      "title": "Paid Conversation Study: $110 for a Single 90-Minute Session",
-      "url": "https://apply.workable.com/j/BEFF1931F4",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "7984ac8faa4a",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
       "english_level": null,
@@ -8781,37 +8806,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:9256687F15",
+      "key": "workable:toloka-ai:32A6E2BB0F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "9256687F15",
-      "title": "Paid Conversation Study: Single 90-Minute Session",
-      "url": "https://apply.workable.com/j/9256687F15",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "6a7aef7c2e82",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:B39F6DC149",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "B39F6DC149",
-      "title": "Paid Conversation Study: Single 90-Minute Session",
-      "url": "https://apply.workable.com/j/B39F6DC149",
+      "posting_id": "32A6E2BB0F",
+      "title": "Paid Conversation Study: $110 for a Single 90-Minute Session",
+      "url": "https://apply.workable.com/j/32A6E2BB0F",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -8819,7 +8819,57 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
+      "family_id": "7984ac8faa4a",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:F15DAABBBF",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F15DAABBBF",
+      "title": "Paid Conversation Study: $110 for a Single 90-Minute Session",
+      "url": "https://apply.workable.com/j/F15DAABBBF",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "7984ac8faa4a",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:47EDE38A69",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "47EDE38A69",
+      "title": "Paid Conversation Study: Single 90-Minute Session",
+      "url": "https://apply.workable.com/j/47EDE38A69",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "6a7aef7c2e82",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -8831,12 +8881,37 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:447295A153",
+      "key": "workable:toloka-ai:4D225DB58D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "447295A153",
+      "posting_id": "4D225DB58D",
       "title": "Paid Conversation Study: Single 90-Minute Session",
-      "url": "https://apply.workable.com/j/447295A153",
+      "url": "https://apply.workable.com/j/4D225DB58D",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "6a7aef7c2e82",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:E18A1FA5FC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E18A1FA5FC",
+      "title": "Paid Conversation Study: Single 90-Minute Session",
+      "url": "https://apply.workable.com/j/E18A1FA5FC",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -8844,7 +8919,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "6a7aef7c2e82",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -8881,6 +8956,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:7017131252",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7017131252",
+      "title": "Paid Group Discussion Study: $110 for 90 Minutes",
+      "url": "https://apply.workable.com/j/7017131252",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "6d9a80cb6576",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:A10C360A09",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -8897,6 +8997,31 @@
       "published": "2026-10-21",
       "family_id": "532a24c4183d",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:9CD53554C7",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9CD53554C7",
+      "title": "Paid In-Person Group Conversation Study: $110",
+      "url": "https://apply.workable.com/j/9CD53554C7",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "30315f232fa4",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -9410,6 +9535,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:F1B85FE0B6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F1B85FE0B6",
+      "title": "Paid Research Study in South Bay: $110 for 90 Minutes",
+      "url": "https://apply.workable.com/j/F1B85FE0B6",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "0f01b53def3d",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:F2A8515134",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -9460,56 +9610,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:455FE0C1EF",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "455FE0C1EF",
-      "title": "Paid Research Study: $110 for a 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/455FE0C1EF",
-      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "5d9746c217fe",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:27F7B1EBCC",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "27F7B1EBCC",
-      "title": "Paid Research Study: $110 for a 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/27F7B1EBCC",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "5d9746c217fe",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:163A6EECA5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -9535,37 +9635,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:2C6E997E2F",
+      "key": "workable:toloka-ai:AB563FB778",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2C6E997E2F",
-      "title": "Paid Research Study: One 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/2C6E997E2F",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "fff922d16531",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:D69327730F",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "D69327730F",
-      "title": "Paid Research Study: One 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/D69327730F",
+      "posting_id": "AB563FB778",
+      "title": "Paid Research Study: $110 for a 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/AB563FB778",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -9573,8 +9648,8 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "fff922d16531",
+      "published": "2026-10-24",
+      "family_id": "5d9746c217fe",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
       "english_level": null,
@@ -9585,12 +9660,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:9A54528BF3",
+      "key": "workable:toloka-ai:0FCF606066",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "9A54528BF3",
-      "title": "Paid Research Study: One 90-Minute In-Person Session",
-      "url": "https://apply.workable.com/j/9A54528BF3",
+      "posting_id": "0FCF606066",
+      "title": "Paid Research Study: $110 for a 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/0FCF606066",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -9598,7 +9673,32 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
+      "family_id": "5d9746c217fe",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:0C6AB6FEA7",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0C6AB6FEA7",
+      "title": "Paid Research Study: One 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/0C6AB6FEA7",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "fff922d16531",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -9610,12 +9710,62 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:90D2DCCAF7",
+      "key": "workable:toloka-ai:B35741DFF7",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "90D2DCCAF7",
+      "posting_id": "B35741DFF7",
+      "title": "Paid Research Study: One 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/B35741DFF7",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "fff922d16531",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:0D0D53A978",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0D0D53A978",
+      "title": "Paid Research Study: One 90-Minute In-Person Session",
+      "url": "https://apply.workable.com/j/0D0D53A978",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "fff922d16531",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:9EDA4B6882",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "9EDA4B6882",
       "title": "Paid Research Study: One Visit, No Preparation Needed",
-      "url": "https://apply.workable.com/j/90D2DCCAF7",
+      "url": "https://apply.workable.com/j/9EDA4B6882",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -9623,7 +9773,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "84f379b0bcca",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -9635,12 +9785,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:797181E666",
+      "key": "workable:toloka-ai:F3046734D9",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "797181E666",
+      "posting_id": "F3046734D9",
       "title": "Paid Research Study: One Visit, No Preparation Needed",
-      "url": "https://apply.workable.com/j/797181E666",
+      "url": "https://apply.workable.com/j/F3046734D9",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -9648,7 +9798,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "84f379b0bcca",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -9660,12 +9810,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:F2069193F2",
+      "key": "workable:toloka-ai:EB1B0EA1A0",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F2069193F2",
+      "posting_id": "EB1B0EA1A0",
       "title": "Paid Research Study: One Visit, No Preparation Needed",
-      "url": "https://apply.workable.com/j/F2069193F2",
+      "url": "https://apply.workable.com/j/EB1B0EA1A0",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -9673,7 +9823,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "84f379b0bcca",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -10693,12 +10843,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:C28616C50B",
+      "key": "workable:toloka-ai:EDDF5CAE4E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C28616C50B",
+      "posting_id": "EDDF5CAE4E",
       "title": "Paid Study, Real Conversations: $110 for 90 Minutes",
-      "url": "https://apply.workable.com/j/C28616C50B",
+      "url": "https://apply.workable.com/j/EDDF5CAE4E",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -10706,7 +10856,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "0aadeb659587",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -10718,12 +10868,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:4533B6E13A",
+      "key": "workable:toloka-ai:945B2AC73C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "4533B6E13A",
+      "posting_id": "945B2AC73C",
       "title": "Paid Study, Real Conversations: $110 for 90 Minutes",
-      "url": "https://apply.workable.com/j/4533B6E13A",
+      "url": "https://apply.workable.com/j/945B2AC73C",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -10731,7 +10881,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "0aadeb659587",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -10743,12 +10893,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:43C99EEEB3",
+      "key": "workable:toloka-ai:EB537A7101",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "43C99EEEB3",
+      "posting_id": "EB537A7101",
       "title": "Paid Study, Real Conversations: $110 for 90 Minutes",
-      "url": "https://apply.workable.com/j/43C99EEEB3",
+      "url": "https://apply.workable.com/j/EB537A7101",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -10756,7 +10906,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "0aadeb659587",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -10768,12 +10918,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:850F2822BE",
+      "key": "workable:toloka-ai:4484BFFA5E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "850F2822BE",
+      "posting_id": "4484BFFA5E",
       "title": "Paid Study, Real Conversations: 90 Minutes",
-      "url": "https://apply.workable.com/j/850F2822BE",
+      "url": "https://apply.workable.com/j/4484BFFA5E",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -10781,7 +10931,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "fe29c6fb86ae",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -10793,12 +10943,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:B30071928D",
+      "key": "workable:toloka-ai:8BDC192BFC",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B30071928D",
+      "posting_id": "8BDC192BFC",
       "title": "Paid Study, Real Conversations: 90 Minutes",
-      "url": "https://apply.workable.com/j/B30071928D",
+      "url": "https://apply.workable.com/j/8BDC192BFC",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -10806,7 +10956,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "fe29c6fb86ae",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -10818,12 +10968,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:DE27D5BB0C",
+      "key": "workable:toloka-ai:0D45165093",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "DE27D5BB0C",
+      "posting_id": "0D45165093",
       "title": "Paid Study, Real Conversations: 90 Minutes",
-      "url": "https://apply.workable.com/j/DE27D5BB0C",
+      "url": "https://apply.workable.com/j/0D45165093",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -10831,7 +10981,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "fe29c6fb86ae",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -12530,12 +12680,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:3794F8F026",
+      "key": "workable:toloka-ai:DCC5117884",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "3794F8F026",
+      "posting_id": "DCC5117884",
       "title": "Quick and Simple: $110 for a 90-Minute Conversation Study",
-      "url": "https://apply.workable.com/j/3794F8F026",
+      "url": "https://apply.workable.com/j/DCC5117884",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -12543,7 +12693,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "8d1c5ea342ca",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -12555,12 +12705,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:90AC65AEC9",
+      "key": "workable:toloka-ai:AEC00A20B8",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "90AC65AEC9",
+      "posting_id": "AEC00A20B8",
       "title": "Quick and Simple: $110 for a 90-Minute Conversation Study",
-      "url": "https://apply.workable.com/j/90AC65AEC9",
+      "url": "https://apply.workable.com/j/AEC00A20B8",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -12568,7 +12718,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "8d1c5ea342ca",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -12580,12 +12730,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:669859DDF2",
+      "key": "workable:toloka-ai:E319B2A0B5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "669859DDF2",
+      "posting_id": "E319B2A0B5",
       "title": "Quick and Simple: $110 for a 90-Minute Conversation Study",
-      "url": "https://apply.workable.com/j/669859DDF2",
+      "url": "https://apply.workable.com/j/E319B2A0B5",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -12593,7 +12743,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "8d1c5ea342ca",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -12605,12 +12755,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:B0BFD9EFB4",
+      "key": "workable:toloka-ai:E0BFE23391",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B0BFD9EFB4",
+      "posting_id": "E0BFE23391",
       "title": "Quick and Simple: Paid 90-Minute Conversation Study",
-      "url": "https://apply.workable.com/j/B0BFD9EFB4",
+      "url": "https://apply.workable.com/j/E0BFE23391",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -12618,7 +12768,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "5826a6a5f325",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -12630,12 +12780,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:FB647617C2",
+      "key": "workable:toloka-ai:22965D58D7",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "FB647617C2",
+      "posting_id": "22965D58D7",
       "title": "Quick and Simple: Paid 90-Minute Conversation Study",
-      "url": "https://apply.workable.com/j/FB647617C2",
+      "url": "https://apply.workable.com/j/22965D58D7",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -12643,7 +12793,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "5826a6a5f325",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -12655,12 +12805,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:C36DBE52C8",
+      "key": "workable:toloka-ai:80766BA367",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C36DBE52C8",
+      "posting_id": "80766BA367",
       "title": "Quick and Simple: Paid 90-Minute Conversation Study",
-      "url": "https://apply.workable.com/j/C36DBE52C8",
+      "url": "https://apply.workable.com/j/80766BA367",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -12668,58 +12818,8 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "5826a6a5f325",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:1081D39A0E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "1081D39A0E",
-      "title": "Research Participants Needed: $110 for One 90-Minute Session",
-      "url": "https://apply.workable.com/j/1081D39A0E",
-      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "66ea2010c4d7",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:C630F00168",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "C630F00168",
-      "title": "Research Participants Needed: $110 for One 90-Minute Session",
-      "url": "https://apply.workable.com/j/C630F00168",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "66ea2010c4d7",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
       "english_level": null,
@@ -12755,37 +12855,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:D5E50095F1",
+      "key": "workable:toloka-ai:E3B2FD8B1E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "D5E50095F1",
-      "title": "Research Participants Needed: One 90-Minute Session",
-      "url": "https://apply.workable.com/j/D5E50095F1",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "43e98899ef5b",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:63B9B1F67D",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "63B9B1F67D",
-      "title": "Research Participants Needed: One 90-Minute Session",
-      "url": "https://apply.workable.com/j/63B9B1F67D",
+      "posting_id": "E3B2FD8B1E",
+      "title": "Research Participants Needed: $110 for One 90-Minute Session",
+      "url": "https://apply.workable.com/j/E3B2FD8B1E",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -12793,7 +12868,57 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
+      "family_id": "66ea2010c4d7",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:208509984A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "208509984A",
+      "title": "Research Participants Needed: $110 for One 90-Minute Session",
+      "url": "https://apply.workable.com/j/208509984A",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "66ea2010c4d7",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:3B59C0A414",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3B59C0A414",
+      "title": "Research Participants Needed: One 90-Minute Session",
+      "url": "https://apply.workable.com/j/3B59C0A414",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "43e98899ef5b",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -12805,12 +12930,37 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:DC44E31289",
+      "key": "workable:toloka-ai:6B14E4732E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "DC44E31289",
+      "posting_id": "6B14E4732E",
       "title": "Research Participants Needed: One 90-Minute Session",
-      "url": "https://apply.workable.com/j/DC44E31289",
+      "url": "https://apply.workable.com/j/6B14E4732E",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "43e98899ef5b",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:B4E1E8EAA2",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B4E1E8EAA2",
+      "title": "Research Participants Needed: One 90-Minute Session",
+      "url": "https://apply.workable.com/j/B4E1E8EAA2",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -12818,8 +12968,33 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "43e98899ef5b",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:4855E109F7",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4855E109F7",
+      "title": "Research Participants Wanted in South Bay: $110",
+      "url": "https://apply.workable.com/j/4855E109F7",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "69644212dd4d",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
       "english_level": null,
@@ -13954,12 +14129,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:74F063A537",
+      "key": "workable:toloka-ai:9A8797618A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "74F063A537",
-      "title": "Spend 90 Minutes With Us, Get Paid for Your Time",
-      "url": "https://apply.workable.com/j/74F063A537",
+      "posting_id": "9A8797618A",
+      "title": "Small-Group Conversation Study: $110 for One Visit",
+      "url": "https://apply.workable.com/j/9A8797618A",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -13967,7 +14142,32 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
+      "family_id": "95b768a6e131",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:BF27536894",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "BF27536894",
+      "title": "Spend 90 Minutes With Us, Get Paid for Your Time",
+      "url": "https://apply.workable.com/j/BF27536894",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
       "family_id": "f7868fd73bb1",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -13979,12 +14179,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:9717814884",
+      "key": "workable:toloka-ai:5DFF01869E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "9717814884",
+      "posting_id": "5DFF01869E",
       "title": "Spend 90 Minutes With Us, Get Paid for Your Time",
-      "url": "https://apply.workable.com/j/9717814884",
+      "url": "https://apply.workable.com/j/5DFF01869E",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -13992,7 +14192,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "f7868fd73bb1",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14004,12 +14204,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:7A56E3C3F8",
+      "key": "workable:toloka-ai:3A7374E4F2",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "7A56E3C3F8",
+      "posting_id": "3A7374E4F2",
       "title": "Spend 90 Minutes With Us, Get Paid for Your Time",
-      "url": "https://apply.workable.com/j/7A56E3C3F8",
+      "url": "https://apply.workable.com/j/3A7374E4F2",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -14017,7 +14217,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "f7868fd73bb1",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14029,12 +14229,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:1EF1A9CE5F",
+      "key": "workable:toloka-ai:CEC8956469",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "1EF1A9CE5F",
+      "posting_id": "CEC8956469",
       "title": "Spend 90 Minutes With Us, Walk Away With $110",
-      "url": "https://apply.workable.com/j/1EF1A9CE5F",
+      "url": "https://apply.workable.com/j/CEC8956469",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -14042,7 +14242,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "3a5e4f8edbd3",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14054,12 +14254,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:93DB40412A",
+      "key": "workable:toloka-ai:BED36BF59D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "93DB40412A",
+      "posting_id": "BED36BF59D",
       "title": "Spend 90 Minutes With Us, Walk Away With $110",
-      "url": "https://apply.workable.com/j/93DB40412A",
+      "url": "https://apply.workable.com/j/BED36BF59D",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -14067,7 +14267,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "3a5e4f8edbd3",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14079,12 +14279,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:B49CD8B324",
+      "key": "workable:toloka-ai:8DA8A933A9",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "B49CD8B324",
+      "posting_id": "8DA8A933A9",
       "title": "Spend 90 Minutes With Us, Walk Away With $110",
-      "url": "https://apply.workable.com/j/B49CD8B324",
+      "url": "https://apply.workable.com/j/8DA8A933A9",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -14092,7 +14292,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "3a5e4f8edbd3",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14783,12 +14983,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:BBD75C1E8C",
+      "key": "workable:toloka-ai:1B9E347AE2",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "BBD75C1E8C",
+      "posting_id": "1B9E347AE2",
       "title": "Take Part in a Paid 90-Minute In-Person Study",
-      "url": "https://apply.workable.com/j/BBD75C1E8C",
+      "url": "https://apply.workable.com/j/1B9E347AE2",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -14796,7 +14996,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "40135d067ae5",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14808,12 +15008,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:59EACBEBCE",
+      "key": "workable:toloka-ai:D13A55AC03",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "59EACBEBCE",
+      "posting_id": "D13A55AC03",
       "title": "Take Part in a Paid 90-Minute In-Person Study",
-      "url": "https://apply.workable.com/j/59EACBEBCE",
+      "url": "https://apply.workable.com/j/D13A55AC03",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -14821,7 +15021,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "40135d067ae5",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14833,12 +15033,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:E4148B6266",
+      "key": "workable:toloka-ai:F784E2C627",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "E4148B6266",
+      "posting_id": "F784E2C627",
       "title": "Take Part in a Paid 90-Minute In-Person Study",
-      "url": "https://apply.workable.com/j/E4148B6266",
+      "url": "https://apply.workable.com/j/F784E2C627",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -14846,7 +15046,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "40135d067ae5",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14858,12 +15058,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:7F60639853",
+      "key": "workable:toloka-ai:96DBA5BAF2",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "7F60639853",
+      "posting_id": "96DBA5BAF2",
       "title": "Take Part in a Paid In-Person Research Study: One Session",
-      "url": "https://apply.workable.com/j/7F60639853",
+      "url": "https://apply.workable.com/j/96DBA5BAF2",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
       "countries": [
         "US"
@@ -14871,7 +15071,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "17ff33c3b031",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14883,12 +15083,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:F11255D72B",
+      "key": "workable:toloka-ai:FBB8572623",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F11255D72B",
+      "posting_id": "FBB8572623",
       "title": "Take Part in a Paid In-Person Research Study: One Session",
-      "url": "https://apply.workable.com/j/F11255D72B",
+      "url": "https://apply.workable.com/j/FBB8572623",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
       "countries": [
         "US"
@@ -14896,7 +15096,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-24",
       "family_id": "17ff33c3b031",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -14908,12 +15108,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:07B7C2C2C1",
+      "key": "workable:toloka-ai:4ED4C92C3C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "07B7C2C2C1",
+      "posting_id": "4ED4C92C3C",
       "title": "Take Part in a Paid In-Person Research Study: One Session",
-      "url": "https://apply.workable.com/j/07B7C2C2C1",
+      "url": "https://apply.workable.com/j/4ED4C92C3C",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -14921,8 +15121,33 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "17ff33c3b031",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:0C740AE066",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0C740AE066",
+      "title": "Talk About Everyday Topics, Earn $110 in 90 Minutes",
+      "url": "https://apply.workable.com/j/0C740AE066",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "ee0781707895",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
       "english_level": null,
@@ -15487,56 +15712,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:CFC0F5434F",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "CFC0F5434F",
-      "title": "Your Voice Matters: $110 for a 90-Minute Research Session",
-      "url": "https://apply.workable.com/j/CFC0F5434F",
-      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "94988cac68b4",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:DE5BC7CAF2",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "DE5BC7CAF2",
-      "title": "Your Voice Matters: $110 for a 90-Minute Research Session",
-      "url": "https://apply.workable.com/j/DE5BC7CAF2",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "94988cac68b4",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:B5FC1B13A5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -15551,6 +15726,56 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-24",
+      "family_id": "94988cac68b4",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:93272F8CF3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "93272F8CF3",
+      "title": "Your Voice Matters: $110 for a 90-Minute Research Session",
+      "url": "https://apply.workable.com/j/93272F8CF3",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "94988cac68b4",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:A0A9A86BB4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A0A9A86BB4",
+      "title": "Your Voice Matters: $110 for a 90-Minute Research Session",
+      "url": "https://apply.workable.com/j/A0A9A86BB4",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
       "family_id": "94988cac68b4",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -15627,6 +15852,31 @@
       "employment_type": "Part-time",
       "published": "2026-10-16",
       "family_id": "6fa289f0dfa3",
+      "description_sha1": "b81fa0a330ac95bd820562e026b0b98caea94c9c",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:D9BAED6BDE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D9BAED6BDE",
+      "title": "Your Voice Matters: Paid 90-Minute Research Session",
+      "url": "https://apply.workable.com/j/D9BAED6BDE",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-24",
+      "family_id": "9526742e9e76",
       "description_sha1": "b81fa0a330ac95bd820562e026b0b98caea94c9c",
       "min_years": null,
       "english_level": null,
@@ -16877,31 +17127,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4644742005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -16929,6 +17154,31 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:scaleai:4673051005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -16985,35 +17235,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4743438005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4743438005",
-      "title": "Frontier Agent Engineering Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743438005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-16",
-      "family_id": "262fca07ec23",
-      "description_sha1": "8da4967d01329df60c30080d7235c1c25de54e04",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of software engineering experience with 3+ yrs of"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4602177005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -17030,6 +17251,35 @@
       "published": "2026-01-27",
       "family_id": "262fca07ec23",
       "description_sha1": "5c4c5a8d0721af80ee375cbdcc67c1121d44972a",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of software engineering experience with 3+ yrs of"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4743438005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4743438005",
+      "title": "Frontier Agent Engineering Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743438005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-16",
+      "family_id": "262fca07ec23",
+      "description_sha1": "8da4967d01329df60c30080d7235c1c25de54e04",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -17938,35 +18188,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4650514005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4650514005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-16",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -17984,6 +18205,35 @@
       "published": "2025-09-03",
       "family_id": "c9edd589ac8c",
       "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4650514005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "location": "Riyadh, Saudi Arabia",
+      "countries": [
+        "SA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-01-16",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "a5ef5598b74c343c6531f875df5d419fa80e10d6",
       "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -19319,31 +19569,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730834005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730834005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-      "location": "Doha, Qatar",
-      "countries": [
-        "QA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730845005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19360,6 +19585,31 @@
       "published": "2026-09-04",
       "family_id": "560d46ffe696",
       "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730834005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730834005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+      "location": "Doha, Qatar",
+      "countries": [
+        "QA"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "9f183d8e27c50b76d7d9664824b19f9d5b1753c9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -19423,31 +19673,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730862005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730862005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730851005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19464,6 +19689,31 @@
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
       "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730862005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730862005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -19664,31 +19914,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4676610005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4676610005",
-      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-24",
-      "family_id": "56ad11a5ce2b",
-      "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4732430005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19705,6 +19930,31 @@
       "published": "2026-09-10",
       "family_id": "56ad11a5ce2b",
       "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4676610005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4676610005",
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-24",
+      "family_id": "56ad11a5ce2b",
+      "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -19797,31 +20047,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4735360005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4735360005",
-      "title": "Staff Product Designer, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735360005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-24",
-      "family_id": "614cd584a7ff",
-      "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4718917005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19838,6 +20063,31 @@
       "published": "2026-07-29",
       "family_id": "614cd584a7ff",
       "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4735360005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4735360005",
+      "title": "Staff Product Designer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735360005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-24",
+      "family_id": "614cd584a7ff",
+      "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -20693,6 +20943,31 @@
       }
     },
     {
+      "key": "greenhouse:turing:6225075004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6225075004",
+      "title": "Engagement Manager",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6225075004",
+      "location": "Dallas, Texas, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-14",
+      "family_id": "790af78ade28",
+      "description_sha1": "f62d4d45e1e501d562062a051d1e5888a0cb5be8",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:turing:6186761004",
       "source": "greenhouse",
       "company": "Turing",
@@ -20718,12 +20993,12 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:turing:6225075004",
+      "key": "greenhouse:turing:6234003004",
       "source": "greenhouse",
       "company": "Turing",
-      "posting_id": "6225075004",
-      "title": "Engagement Manager",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6225075004",
+      "posting_id": "6234003004",
+      "title": "Enterprise AI - Account Director - Consumer Packaged Goods",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6234003004",
       "location": "Dallas, Texas, United States",
       "countries": [
         "US"
@@ -20731,16 +21006,20 @@
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-10-14",
-      "family_id": "790af78ade28",
-      "description_sha1": "f62d4d45e1e501d562062a051d1e5888a0cb5be8",
-      "min_years": null,
+      "published": "2026-10-24",
+      "family_id": "2dd49b607146",
+      "description_sha1": "c6f83612be794ffb6f69e8c356e5b6d49387e1aa",
+      "min_years": 8,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
+      "evidence": {
+        "min_years": "8+ years; consumer packaged goods experience highly desirable"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
     },
     {
       "key": "greenhouse:turing:5985543004",
@@ -20803,31 +21082,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:6192725004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6192725004",
-      "title": "Forward-Deployed AI Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6192725004",
-      "location": "Bengaluru, Karnataka, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-24",
-      "family_id": "3608d6dd4038",
-      "description_sha1": "f5e2b27cc59a4ea5a6ecce1663fcb1a86c304410",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:turing:6192729004",
       "source": "greenhouse",
       "company": "Turing",
@@ -20844,6 +21098,31 @@
       "published": "2026-09-24",
       "family_id": "3608d6dd4038",
       "description_sha1": "e7cfbcd0b5d3e2db0e83cd35cf9cf6d95e442279",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:turing:6192725004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6192725004",
+      "title": "Forward-Deployed AI Engineer",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6192725004",
+      "location": "Bengaluru, Karnataka, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-24",
+      "family_id": "3608d6dd4038",
+      "description_sha1": "f5e2b27cc59a4ea5a6ecce1663fcb1a86c304410",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -20897,7 +21176,7 @@
       "employment_type": null,
       "published": "2026-10-19",
       "family_id": "c16f4acd23ab",
-      "description_sha1": "9c607dc424119b03ad499de9afb475b715dd7a61",
+      "description_sha1": "dd9eec7df1f2c64d3cfdbd909dd72e30c3601847",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -21467,14 +21746,18 @@
       "employment_type": null,
       "published": "2026-10-22",
       "family_id": "cbc89a1a7df5",
-      "description_sha1": "1ec31bc57734210ec611a92d8700005990a5fa3a",
+      "description_sha1": "123bb62b99d6ecadf73e6e9df9fde7385437527b",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
+      "pay_usd_year_max": 375000.0,
       "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
+      "evidence": {
+        "pay_usd_year_max": "$340,000-$375,000 base salary + variable compensation, equity, and additional benefits"
+      },
+      "extracted_by": {
+        "pay_usd_year_max": "rules"
+      }
     },
     {
       "key": "greenhouse:invisibletech:4997999101",
