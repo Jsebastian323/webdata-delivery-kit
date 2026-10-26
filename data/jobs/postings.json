@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:57:59+00:00",
+  "generated_at": "2026-10-26T17:25:29+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -237,62 +237,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:F5890F2053",
+      "key": "workable:toloka-ai:FA6ECC9E23",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F5890F2053",
+      "posting_id": "FA6ECC9E23",
       "title": "$110 Paid Group Conversation Study in Santa Clara",
-      "url": "https://apply.workable.com/j/F5890F2053",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-23",
-      "family_id": "78a40939d38a",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:5A8F4AE1B6",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "5A8F4AE1B6",
-      "title": "$110 Paid Group Conversation Study in Santa Clara",
-      "url": "https://apply.workable.com/j/5A8F4AE1B6",
-      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-23",
-      "family_id": "78a40939d38a",
-      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:3001802C14",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3001802C14",
-      "title": "$110 Paid Group Conversation Study in Santa Clara",
-      "url": "https://apply.workable.com/j/3001802C14",
+      "url": "https://apply.workable.com/j/FA6ECC9E23",
       "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
@@ -300,7 +250,57 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-23",
+      "published": "2026-10-25",
+      "family_id": "78a40939d38a",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:4B1587017D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4B1587017D",
+      "title": "$110 Paid Group Conversation Study in Santa Clara",
+      "url": "https://apply.workable.com/j/4B1587017D",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "78a40939d38a",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:3FF552FBDA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3FF552FBDA",
+      "title": "$110 Paid Group Conversation Study in Santa Clara",
+      "url": "https://apply.workable.com/j/3FF552FBDA",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
       "family_id": "78a40939d38a",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
       "min_years": null,
@@ -403,6 +403,56 @@
       "published": "2026-10-25",
       "family_id": "c9aa6645db6a",
       "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:D819743E24",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D819743E24",
+      "title": "Arabic Speakers from Saudi Arabia - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/D819743E24",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "ea3768615ac8",
+      "description_sha1": "8f54302be2c1807623769b8fab108a42ffa531e0",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:2BB1A602EE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2BB1A602EE",
+      "title": "Arabic Speakers from the UAE - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/2BB1A602EE",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "9b95171f408c",
+      "description_sha1": "ca67bbee6889e6f7ae624db22aa278a3c389135f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -2815,6 +2865,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:4F2C22BC49",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4F2C22BC49",
+      "title": "Danish Speakers from Denmark - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/4F2C22BC49",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "561b8b117eec",
+      "description_sha1": "4fee1af4b491c4d786ac5f665002b15332ca7911",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:FDF8FE6143",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -2880,6 +2955,60 @@
       "employment_type": "Part-time",
       "published": "2026-10-23",
       "family_id": "46cad87e025a",
+      "description_sha1": "5e6f90a97917c02294ab8bae260000f00b90edfa",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:5489B181A0",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5489B181A0",
+      "title": "Dutch Speakers from Belgium - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/5489B181A0",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "b9a4f10ab23f",
+      "description_sha1": "edec773eba392035083cce43dcbd5e21910e3c9f",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_hour_max": "$100/hour, up to $2,400 for the full study."
+      },
+      "extracted_by": {
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:6AB137A6F6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "6AB137A6F6",
+      "title": "Dutch Speakers from the Netherlands - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/6AB137A6F6",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "47005ec6b0dc",
       "description_sha1": "5e6f90a97917c02294ab8bae260000f00b90edfa",
       "min_years": null,
       "english_level": null,
@@ -2976,6 +3105,56 @@
       "title": "Earn $110 in 90 Minutes: Paid Research Study",
       "url": "https://apply.workable.com/j/F58D31AD60",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "0be79aacaea6",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:DB67D3E58B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DB67D3E58B",
+      "title": "Earn $110 in 90 Minutes: Paid Research Study",
+      "url": "https://apply.workable.com/j/DB67D3E58B",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "0be79aacaea6",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:5293E97FCA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5293E97FCA",
+      "title": "Earn $110 in 90 Minutes: Paid Research Study",
+      "url": "https://apply.workable.com/j/5293E97FCA",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
       ],
@@ -3763,6 +3942,31 @@
       "employment_type": "Part-time",
       "published": "2026-10-24",
       "family_id": "0b1382c821a6",
+      "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:4092E0E832",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4092E0E832",
+      "title": "Finnish Speakers from Finland - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/4092E0E832",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "4c6d784d0405",
       "description_sha1": "b4166323ab425b63c088139628bd96376b6291b9",
       "min_years": null,
       "english_level": null,
@@ -6138,6 +6342,81 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:448BC9705A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "448BC9705A",
+      "title": "German Speakers from Austria - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/448BC9705A",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "121b9067eb2b",
+      "description_sha1": "8d4d97560ee4c66ba25c58fd0d9b0bf684475e0a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:7DEF905F8E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7DEF905F8E",
+      "title": "German Speakers from Germany - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/7DEF905F8E",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "3308f4e134b8",
+      "description_sha1": "0d4210b63b3cc0cb52ce959389d356089724f745",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:455C4DFECD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "455C4DFECD",
+      "title": "German Speakers from Switzerland - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/455C4DFECD",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "4f24d0337d05",
+      "description_sha1": "2ac71af6dd32a83116ddcde1b57627674c9b6baa",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:5D3F1B8C47",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -6488,6 +6767,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:4DCDE56596",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4DCDE56596",
+      "title": "Hebrew Speakers from Israel - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/4DCDE56596",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "29974420bde8",
+      "description_sha1": "2d0042099f82b61303f1cacc4ce033cfa511f8ed",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:B5A2ED5C72",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -6603,6 +6907,56 @@
       "title": "In-Person Research Session in Santa Clara: $110",
       "url": "https://apply.workable.com/j/02A8D05267",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "ae33d1fc8039",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:8203CE17DE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8203CE17DE",
+      "title": "In-Person Research Session in Santa Clara: $110",
+      "url": "https://apply.workable.com/j/8203CE17DE",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "ae33d1fc8039",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:0C5640E05D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "0C5640E05D",
+      "title": "In-Person Research Session in Santa Clara: $110",
+      "url": "https://apply.workable.com/j/0C5640E05D",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
       ],
@@ -6754,6 +7108,56 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:01B7B28E81",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "01B7B28E81",
+      "title": "Italian Speakers from Italy - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/01B7B28E81",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "b8a41bf6efad",
+      "description_sha1": "0ed616aae382f09b65bf08be8f671abe328ca76e",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:67C5F09DC8",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "67C5F09DC8",
+      "title": "Italian Speakers from Switzerland - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/67C5F09DC8",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "159ecb3f2a60",
+      "description_sha1": "dc77fb93496d154a3084ca336cb792ebba95f219",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:3E87B5D61F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -6854,6 +7258,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:074E3529BC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "074E3529BC",
+      "title": "Japanese Speakers from Japan - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/074E3529BC",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "abbc24f49437",
+      "description_sha1": "3b09281e3d350ba2d1a86a4501f520c66f76b5fa",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:B71DC27DD9",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -6929,6 +7358,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:2930DCB59E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2930DCB59E",
+      "title": "Korean Speakers from South Korea - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/2930DCB59E",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "fb839d2a96ef",
+      "description_sha1": "0654275cbfe5469bf14b540f015630b1a8499b4d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:E634C247C2",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -6979,23 +7433,20 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:E856F17DB2",
+      "key": "workable:toloka-ai:E78A10C1E1",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "E856F17DB2",
+      "posting_id": "E78A10C1E1",
       "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/E856F17DB2",
-      "location": "Japan; South Korea; New Zealand; Singapore",
+      "url": "https://apply.workable.com/j/E78A10C1E1",
+      "location": "United States",
       "countries": [
-        "JP",
-        "KR",
-        "NZ",
-        "SG"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "695f64b26e63",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -7015,20 +7466,20 @@
       }
     },
     {
-      "key": "workable:toloka-ai:CEBE10D0DA",
+      "key": "workable:toloka-ai:E796EDD3B1",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "CEBE10D0DA",
+      "posting_id": "E796EDD3B1",
       "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/CEBE10D0DA",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "url": "https://apply.workable.com/j/E796EDD3B1",
+      "location": "United States; Miami, United States; Tampa, United States; Orlando, United States; Jacksonville, United States",
       "countries": [
-        "GB"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "695f64b26e63",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -7048,170 +7499,20 @@
       }
     },
     {
-      "key": "workable:toloka-ai:362B0DD2CC",
+      "key": "workable:toloka-ai:2C97661C3C",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "362B0DD2CC",
+      "posting_id": "2C97661C3C",
       "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/362B0DD2CC",
-      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
+      "url": "https://apply.workable.com/j/2C97661C3C",
+      "location": "United States; Denver, United States; Colorado Springs, United States; Aurora, United States; Boulder, United States; Fort Collins, United States",
       "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "c35fb1f48637c84a22f00d69cef88580d1c9f44c",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 60.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$60/hr"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:A8904EBE00",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "A8904EBE00",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/A8904EBE00",
-      "location": "Mexico; Colombia; Brazil; Argentina; Peru; Chile",
-      "countries": [
-        "AR",
-        "BR",
-        "CL",
-        "CO",
-        "MX",
-        "PE"
-      ],
-      "remote": true,
-      "open_to_colombia": true,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "c35fb1f48637c84a22f00d69cef88580d1c9f44c",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 60.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$60/hr"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:42CFE7CAA9",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "42CFE7CAA9",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/42CFE7CAA9",
-      "location": "Philippines; Malaysia; Indonesia; South Africa; Jamaica",
-      "countries": [
-        "ID",
-        "JM",
-        "MY",
-        "PH",
-        "ZA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 35.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$35/hr"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:1609E40028",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "1609E40028",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/1609E40028",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 35.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$35/hr"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:710A6B4823",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "710A6B4823",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/710A6B4823",
-      "location": "Israel; Jordan; Lebanon; Egypt; Turkey",
-      "countries": [
-        "EG",
-        "IL",
-        "JO",
-        "LB",
-        "TR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "695f64b26e63",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -7231,12 +7532,309 @@
       }
     },
     {
-      "key": "workable:toloka-ai:2BE1E65E64",
+      "key": "workable:toloka-ai:73203CBEB5",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2BE1E65E64",
+      "posting_id": "73203CBEB5",
       "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/2BE1E65E64",
+      "url": "https://apply.workable.com/j/73203CBEB5",
+      "location": "United States; Milwaukee, United States; Madison, United States; Green Bay, United States; Kenosha, United States; Racine, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B32A9E6BE9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B32A9E6BE9",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/B32A9E6BE9",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4BC26BEF6E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4BC26BEF6E",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/4BC26BEF6E",
+      "location": "United States; Philadelphia, United States; Pittsburgh, United States; Allentown, United States; Erie, United States; Reading, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:E26AA09CDD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E26AA09CDD",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/E26AA09CDD",
+      "location": "United States; Detroit, United States; Grand Rapids, United States; Ann Arbor, United States; Lansing, United States; Flint, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1D9C4C983A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1D9C4C983A",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/1D9C4C983A",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:147846609A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "147846609A",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/147846609A",
+      "location": "United States; Minneapolis, United States; Saint Paul, United States; Rochester, United States; Duluth, United States; Bloomington, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3999F1F437",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3999F1F437",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/3999F1F437",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1D80FC1B56",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1D80FC1B56",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/1D80FC1B56",
+      "location": "Canada; Toronto, Canada; Ottawa, Canada; Mississauga, Canada; Hamilton, Canada; Waterloo, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:CDB1C9CA2F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "CDB1C9CA2F",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/CDB1C9CA2F",
+      "location": "Vancouver, Canada; Victoria, Canada; Burnaby, Canada; Montreal, Canada; Québec City, Canada; Calgary, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C568888735",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C568888735",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/C568888735",
       "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
       "countries": [
         "AE",
@@ -7249,7 +7847,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "695f64b26e63",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -7269,20 +7867,24 @@
       }
     },
     {
-      "key": "workable:toloka-ai:DA3D89EF2B",
+      "key": "workable:toloka-ai:5C77AB4A74",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "DA3D89EF2B",
+      "posting_id": "5C77AB4A74",
       "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/DA3D89EF2B",
-      "location": "Vancouver, Canada; Victoria, Canada; Burnaby, Canada; Montreal, Canada; Québec City, Canada; Calgary, Canada",
+      "url": "https://apply.workable.com/j/5C77AB4A74",
+      "location": "Israel; Jordan; Lebanon; Egypt; Turkey",
       "countries": [
-        "CA"
+        "EG",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "695f64b26e63",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -7302,20 +7904,166 @@
       }
     },
     {
-      "key": "workable:toloka-ai:44D79FE8E3",
+      "key": "workable:toloka-ai:2F4D2E7D87",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "44D79FE8E3",
+      "posting_id": "2F4D2E7D87",
       "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/44D79FE8E3",
-      "location": "Canada; Toronto, Canada; Ottawa, Canada; Mississauga, Canada; Hamilton, Canada; Waterloo, Canada",
+      "url": "https://apply.workable.com/j/2F4D2E7D87",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
       "countries": [
-        "CA"
+        "IN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 35.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$35/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:A2EDBABD86",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A2EDBABD86",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/A2EDBABD86",
+      "location": "Philippines; Malaysia; Indonesia; South Africa; Jamaica",
+      "countries": [
+        "ID",
+        "JM",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 35.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$35/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4FFC2FBCF4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4FFC2FBCF4",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/4FFC2FBCF4",
+      "location": "Mexico; Colombia; Brazil; Argentina; Peru; Chile",
+      "countries": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "c35fb1f48637c84a22f00d69cef88580d1c9f44c",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 60.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$60/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:ED27904AD1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "ED27904AD1",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/ED27904AD1",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "695f64b26e63",
+      "description_sha1": "c35fb1f48637c84a22f00d69cef88580d1c9f44c",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 60.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$60/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:58DF5E81C3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "58DF5E81C3",
+      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+      "url": "https://apply.workable.com/j/58DF5E81C3",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
       "family_id": "695f64b26e63",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -7335,317 +8083,23 @@
       }
     },
     {
-      "key": "workable:toloka-ai:33BF70E3A6",
+      "key": "workable:toloka-ai:0B20B1211B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "33BF70E3A6",
+      "posting_id": "0B20B1211B",
       "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/33BF70E3A6",
-      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "url": "https://apply.workable.com/j/0B20B1211B",
+      "location": "Japan; South Korea; New Zealand; Singapore",
       "countries": [
-        "US"
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:5BBC86E3B4",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "5BBC86E3B4",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/5BBC86E3B4",
-      "location": "United States; Minneapolis, United States; Saint Paul, United States; Rochester, United States; Duluth, United States; Bloomington, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3B9D1D3F45",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3B9D1D3F45",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/3B9D1D3F45",
-      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:00BA80E060",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "00BA80E060",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/00BA80E060",
-      "location": "United States; Detroit, United States; Grand Rapids, United States; Ann Arbor, United States; Lansing, United States; Flint, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:72848BDD70",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "72848BDD70",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/72848BDD70",
-      "location": "United States; Philadelphia, United States; Pittsburgh, United States; Allentown, United States; Erie, United States; Reading, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:742DD617A5",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "742DD617A5",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/742DD617A5",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:AB92EB1E27",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "AB92EB1E27",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/AB92EB1E27",
-      "location": "United States; Milwaukee, United States; Madison, United States; Green Bay, United States; Kenosha, United States; Racine, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:75A1E3553E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "75A1E3553E",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/75A1E3553E",
-      "location": "United States; Denver, United States; Colorado Springs, United States; Aurora, United States; Boulder, United States; Fort Collins, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:C8D67B029E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "C8D67B029E",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/C8D67B029E",
-      "location": "United States; Miami, United States; Tampa, United States; Orlando, United States; Jacksonville, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "695f64b26e63",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:20C46C99C1",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "20C46C99C1",
-      "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
-      "url": "https://apply.workable.com/j/20C46C99C1",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-25",
       "family_id": "695f64b26e63",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -8756,6 +9210,56 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:79C8A209FC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "79C8A209FC",
+      "title": "One-Time Paid Research Session in Santa Clara Valley",
+      "url": "https://apply.workable.com/j/79C8A209FC",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "61968edab2a2",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:046B68E49E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "046B68E49E",
+      "title": "One-Time Paid Research Session in Santa Clara Valley",
+      "url": "https://apply.workable.com/j/046B68E49E",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "61968edab2a2",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:A21BB82FA7",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -8981,6 +9485,56 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:3F9EAB4386",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3F9EAB4386",
+      "title": "Paid Group Discussion Study: $110 for 90 Minutes",
+      "url": "https://apply.workable.com/j/3F9EAB4386",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "6d9a80cb6576",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:465D30BC91",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "465D30BC91",
+      "title": "Paid Group Discussion Study: $110 for 90 Minutes",
+      "url": "https://apply.workable.com/j/465D30BC91",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "6d9a80cb6576",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:A10C360A09",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -9013,6 +9567,56 @@
       "title": "Paid In-Person Group Conversation Study: $110",
       "url": "https://apply.workable.com/j/9CD53554C7",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "30315f232fa4",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:DC981F4964",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DC981F4964",
+      "title": "Paid In-Person Group Conversation Study: $110",
+      "url": "https://apply.workable.com/j/DC981F4964",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "30315f232fa4",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:77CB632015",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "77CB632015",
+      "title": "Paid In-Person Group Conversation Study: $110",
+      "url": "https://apply.workable.com/j/77CB632015",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
       ],
@@ -9542,6 +10146,56 @@
       "title": "Paid Research Study in South Bay: $110 for 90 Minutes",
       "url": "https://apply.workable.com/j/F1B85FE0B6",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "0f01b53def3d",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:46CE6F7B30",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "46CE6F7B30",
+      "title": "Paid Research Study in South Bay: $110 for 90 Minutes",
+      "url": "https://apply.workable.com/j/46CE6F7B30",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "0f01b53def3d",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:900BC7D736",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "900BC7D736",
+      "title": "Paid Research Study in South Bay: $110 for 90 Minutes",
+      "url": "https://apply.workable.com/j/900BC7D736",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
       ],
@@ -11084,23 +11738,20 @@
       }
     },
     {
-      "key": "workable:toloka-ai:92962D3B6F",
+      "key": "workable:toloka-ai:AB119622A0",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "92962D3B6F",
+      "posting_id": "AB119622A0",
       "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/92962D3B6F",
-      "location": "Japan; South Korea; New Zealand; Singapore",
+      "url": "https://apply.workable.com/j/AB119622A0",
+      "location": "United States",
       "countries": [
-        "JP",
-        "KR",
-        "NZ",
-        "SG"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "c4792d4f6f67",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -11120,20 +11771,20 @@
       }
     },
     {
-      "key": "workable:toloka-ai:747BEE08DE",
+      "key": "workable:toloka-ai:04318716F2",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "747BEE08DE",
+      "posting_id": "04318716F2",
       "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/747BEE08DE",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "url": "https://apply.workable.com/j/04318716F2",
+      "location": "United States; Miami, United States; Tampa, United States; Orlando, United States; Jacksonville, United States",
       "countries": [
-        "GB"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "c4792d4f6f67",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -11153,36 +11804,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:A71A4B15D4",
+      "key": "workable:toloka-ai:68B479FBF3",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "A71A4B15D4",
+      "posting_id": "68B479FBF3",
       "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/A71A4B15D4",
-      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
+      "url": "https://apply.workable.com/j/68B479FBF3",
+      "location": "United States; Denver, United States; Colorado Springs, United States; Aurora, United States; Boulder, United States; Fort Collins, United States",
       "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "c4792d4f6f67",
-      "description_sha1": "c35fb1f48637c84a22f00d69cef88580d1c9f44c",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
       "english_level": "C1",
-      "pay_usd_hour_max": 60.0,
+      "pay_usd_hour_max": 100.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "Strong written English (C1+).",
         "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$60/hr"
+        "pay_usd_hour_max": "$100/hr."
       },
       "extracted_by": {
         "english_level": "rules",
@@ -11191,73 +11837,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:78E11EAF4D",
+      "key": "workable:toloka-ai:4148D3EDFA",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "78E11EAF4D",
+      "posting_id": "4148D3EDFA",
       "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/78E11EAF4D",
-      "location": "Mexico; Colombia; Brazil; Argentina; Peru; Chile",
+      "url": "https://apply.workable.com/j/4148D3EDFA",
+      "location": "United States; Milwaukee, United States; Madison, United States; Green Bay, United States; Kenosha, United States; Racine, United States",
       "countries": [
-        "AR",
-        "BR",
-        "CL",
-        "CO",
-        "MX",
-        "PE"
-      ],
-      "remote": true,
-      "open_to_colombia": true,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "c35fb1f48637c84a22f00d69cef88580d1c9f44c",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 60.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$60/hr"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:14A34C9823",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "14A34C9823",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/14A34C9823",
-      "location": "Philippines; Malaysia; Indonesia; South Africa; Jamaica",
-      "countries": [
-        "ID",
-        "JM",
-        "MY",
-        "PH",
-        "ZA"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "c4792d4f6f67",
-      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
       "english_level": "C1",
-      "pay_usd_hour_max": 35.0,
+      "pay_usd_hour_max": 100.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "Strong written English (C1+).",
         "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$35/hr"
+        "pay_usd_hour_max": "$100/hr."
       },
       "extracted_by": {
         "english_level": "rules",
@@ -11266,31 +11870,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:6BF06FF40E",
+      "key": "workable:toloka-ai:69D793C708",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "6BF06FF40E",
+      "posting_id": "69D793C708",
       "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/6BF06FF40E",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "url": "https://apply.workable.com/j/69D793C708",
+      "location": "United States",
       "countries": [
-        "IN"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "c4792d4f6f67",
-      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
       "english_level": "C1",
-      "pay_usd_hour_max": 35.0,
+      "pay_usd_hour_max": 100.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "Strong written English (C1+).",
         "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$35/hr"
+        "pay_usd_hour_max": "$100/hr."
       },
       "extracted_by": {
         "english_level": "rules",
@@ -11299,35 +11903,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:19204A8874",
+      "key": "workable:toloka-ai:3372A7B458",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "19204A8874",
+      "posting_id": "3372A7B458",
       "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/19204A8874",
-      "location": "Israel; Jordan; Lebanon; Egypt; Turkey",
+      "url": "https://apply.workable.com/j/3372A7B458",
+      "location": "United States; Philadelphia, United States; Pittsburgh, United States; Allentown, United States; Erie, United States; Reading, United States",
       "countries": [
-        "EG",
-        "IL",
-        "JO",
-        "LB",
-        "TR"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "c4792d4f6f67",
-      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
       "english_level": "C1",
-      "pay_usd_hour_max": 35.0,
+      "pay_usd_hour_max": 100.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "Strong written English (C1+).",
         "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$35/hr"
+        "pay_usd_hour_max": "$100/hr."
       },
       "extracted_by": {
         "english_level": "rules",
@@ -11336,12 +11936,210 @@
       }
     },
     {
-      "key": "workable:toloka-ai:AC4422AB38",
+      "key": "workable:toloka-ai:3A1D1DE080",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "AC4422AB38",
+      "posting_id": "3A1D1DE080",
       "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/AC4422AB38",
+      "url": "https://apply.workable.com/j/3A1D1DE080",
+      "location": "United States; Detroit, United States; Grand Rapids, United States; Ann Arbor, United States; Lansing, United States; Flint, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:339E11BAF3",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "339E11BAF3",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/339E11BAF3",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:57768A3824",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "57768A3824",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/57768A3824",
+      "location": "United States; Minneapolis, United States; Saint Paul, United States; Rochester, United States; Duluth, United States; Bloomington, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:21BEDC736C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "21BEDC736C",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/21BEDC736C",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4E0F7977D9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4E0F7977D9",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/4E0F7977D9",
+      "location": "Canada; Toronto, Canada; Ottawa, Canada; Mississauga, Canada; Hamilton, Canada; Waterloo, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:A297FF6BBE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A297FF6BBE",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/A297FF6BBE",
+      "location": "Vancouver, Canada; Victoria, Canada; Burnaby, Canada; Montreal, Canada; Québec City, Canada; Calgary, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1A9FF0DE25",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1A9FF0DE25",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/1A9FF0DE25",
       "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
       "countries": [
         "AE",
@@ -11354,7 +12152,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "c4792d4f6f67",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -11374,20 +12172,203 @@
       }
     },
     {
-      "key": "workable:toloka-ai:E1FA5A67D3",
+      "key": "workable:toloka-ai:F7F4B7BA8A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "E1FA5A67D3",
+      "posting_id": "F7F4B7BA8A",
       "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/E1FA5A67D3",
-      "location": "Vancouver, Canada; Victoria, Canada; Burnaby, Canada; Montreal, Canada; Québec City, Canada; Calgary, Canada",
+      "url": "https://apply.workable.com/j/F7F4B7BA8A",
+      "location": "Israel; Jordan; Lebanon; Egypt; Turkey",
       "countries": [
-        "CA"
+        "EG",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 35.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$35/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:99F0BA1682",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "99F0BA1682",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/99F0BA1682",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 35.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$35/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D80600769C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D80600769C",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/D80600769C",
+      "location": "Philippines; Malaysia; Indonesia; South Africa; Jamaica",
+      "countries": [
+        "ID",
+        "JM",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "b6dc1fd72ea157fd33608f8ffedd9fe324fba547",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 35.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$35/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:A4E9D95645",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A4E9D95645",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/A4E9D95645",
+      "location": "Mexico; Colombia; Brazil; Argentina; Peru; Chile",
+      "countries": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "c35fb1f48637c84a22f00d69cef88580d1c9f44c",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 60.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$60/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3E7C1FCAB4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3E7C1FCAB4",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/3E7C1FCAB4",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "c4792d4f6f67",
+      "description_sha1": "c35fb1f48637c84a22f00d69cef88580d1c9f44c",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 60.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$60/hr"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:577C0AB9F6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "577C0AB9F6",
+      "title": "Physician (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/577C0AB9F6",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
       "family_id": "c4792d4f6f67",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -11407,350 +12388,23 @@
       }
     },
     {
-      "key": "workable:toloka-ai:E681D00658",
+      "key": "workable:toloka-ai:7070DA7C02",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "E681D00658",
+      "posting_id": "7070DA7C02",
       "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/E681D00658",
-      "location": "Canada; Toronto, Canada; Ottawa, Canada; Mississauga, Canada; Hamilton, Canada; Waterloo, Canada",
+      "url": "https://apply.workable.com/j/7070DA7C02",
+      "location": "Japan; South Korea; New Zealand; Singapore",
       "countries": [
-        "CA"
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:2FC56CACBA",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "2FC56CACBA",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/2FC56CACBA",
-      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:68DF5DF3DB",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "68DF5DF3DB",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/68DF5DF3DB",
-      "location": "United States; Minneapolis, United States; Saint Paul, United States; Rochester, United States; Duluth, United States; Bloomington, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:C5738FA8C3",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "C5738FA8C3",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/C5738FA8C3",
-      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:324288F5B9",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "324288F5B9",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/324288F5B9",
-      "location": "United States; Detroit, United States; Grand Rapids, United States; Ann Arbor, United States; Lansing, United States; Flint, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:F3282013B5",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "F3282013B5",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/F3282013B5",
-      "location": "United States; Philadelphia, United States; Pittsburgh, United States; Allentown, United States; Erie, United States; Reading, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:83EBCFFF14",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "83EBCFFF14",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/83EBCFFF14",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:336AC81AFD",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "336AC81AFD",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/336AC81AFD",
-      "location": "United States; Milwaukee, United States; Madison, United States; Green Bay, United States; Kenosha, United States; Racine, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3AD205A8A9",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3AD205A8A9",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/3AD205A8A9",
-      "location": "United States; Denver, United States; Colorado Springs, United States; Aurora, United States; Boulder, United States; Fort Collins, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:572AAEB21F",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "572AAEB21F",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/572AAEB21F",
-      "location": "United States; Miami, United States; Tampa, United States; Orlando, United States; Jacksonville, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "c4792d4f6f67",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:3C4B1FFBEF",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "3C4B1FFBEF",
-      "title": "Physician (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/3C4B1FFBEF",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "c4792d4f6f67",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -11836,20 +12490,23 @@
       }
     },
     {
-      "key": "workable:toloka-ai:2A873BAC39",
+      "key": "workable:toloka-ai:59BAD123E1",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "2A873BAC39",
+      "posting_id": "59BAD123E1",
       "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/2A873BAC39",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/59BAD123E1",
+      "location": "Japan; South Korea; New Zealand; Singapore",
       "countries": [
-        "US"
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "333c38830d79",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -11869,20 +12526,20 @@
       }
     },
     {
-      "key": "workable:toloka-ai:28265865A0",
+      "key": "workable:toloka-ai:A7FEFA62DC",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "28265865A0",
+      "posting_id": "A7FEFA62DC",
       "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/28265865A0",
-      "location": "United States; Miami, United States; Tampa, United States; Orlando, United States; Jacksonville, United States",
+      "url": "https://apply.workable.com/j/A7FEFA62DC",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
       "countries": [
-        "US"
+        "GB"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "333c38830d79",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -11902,525 +12559,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:C7EE0C31CD",
+      "key": "workable:toloka-ai:5524DE1C3A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C7EE0C31CD",
+      "posting_id": "5524DE1C3A",
       "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/C7EE0C31CD",
-      "location": "United States; Denver, United States; Colorado Springs, United States; Aurora, United States; Boulder, United States; Fort Collins, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:C0F4DA05F5",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "C0F4DA05F5",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/C0F4DA05F5",
-      "location": "United States; Milwaukee, United States; Madison, United States; Green Bay, United States; Kenosha, United States; Racine, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:1E19BAED1D",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "1E19BAED1D",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/1E19BAED1D",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:55C9976650",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "55C9976650",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/55C9976650",
-      "location": "United States; Philadelphia, United States; Pittsburgh, United States; Allentown, United States; Erie, United States; Reading, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:B093ED95FE",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "B093ED95FE",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/B093ED95FE",
-      "location": "United States; Detroit, United States; Grand Rapids, United States; Ann Arbor, United States; Lansing, United States; Flint, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:DDA13AB4ED",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "DDA13AB4ED",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/DDA13AB4ED",
-      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:84BADED6E3",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "84BADED6E3",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/84BADED6E3",
-      "location": "United States; Minneapolis, United States; Saint Paul, United States; Rochester, United States; Duluth, United States; Bloomington, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:DF6FE91062",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "DF6FE91062",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/DF6FE91062",
-      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:779C52946F",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "779C52946F",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/779C52946F",
-      "location": "Canada; Toronto, Canada; Ottawa, Canada; Mississauga, Canada; Hamilton, Canada; Waterloo, Canada",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:C304BC59C5",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "C304BC59C5",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/C304BC59C5",
-      "location": "Vancouver, Canada; Victoria, Canada; Burnaby, Canada; Montreal, Canada; Québec City, Canada; Calgary, Canada",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:58F85F7154",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "58F85F7154",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/58F85F7154",
-      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
-      "countries": [
-        "AE",
-        "BH",
-        "KW",
-        "OM",
-        "QA",
-        "SA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 100.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$100/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:8A7398887E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "8A7398887E",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/8A7398887E",
-      "location": "Israel; Jordan; Lebanon; Egypt; Turkey",
-      "countries": [
-        "EG",
-        "IL",
-        "JO",
-        "LB",
-        "TR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "eeda3599574c1ff9cba5ab60563859f06be11d87",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 35.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$35/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:683B4EAE29",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "683B4EAE29",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/683B4EAE29",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "eeda3599574c1ff9cba5ab60563859f06be11d87",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 35.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$35/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:86B097A63E",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "86B097A63E",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/86B097A63E",
-      "location": "Philippines; Malaysia; Indonesia; South Africa; Jamaica",
-      "countries": [
-        "ID",
-        "JM",
-        "MY",
-        "PH",
-        "ZA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "592b1a6d6b30b41e3317048fdff874996e617ab5",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 60.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$60/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:534826A184",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "534826A184",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/534826A184",
-      "location": "Mexico; Colombia; Brazil; Argentina; Peru; Chile",
-      "countries": [
-        "AR",
-        "BR",
-        "CL",
-        "CO",
-        "MX",
-        "PE"
-      ],
-      "remote": true,
-      "open_to_colombia": true,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "333c38830d79",
-      "description_sha1": "592b1a6d6b30b41e3317048fdff874996e617ab5",
-      "min_years": null,
-      "english_level": "C1",
-      "pay_usd_hour_max": 60.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "Strong written English (C1+).",
-        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$60/hr."
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:6FEED1AEFB",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "6FEED1AEFB",
-      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/6FEED1AEFB",
+      "url": "https://apply.workable.com/j/5524DE1C3A",
       "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
       "countries": [
         "BG",
@@ -12433,7 +12577,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
       "family_id": "333c38830d79",
       "description_sha1": "592b1a6d6b30b41e3317048fdff874996e617ab5",
       "min_years": null,
@@ -12453,20 +12597,170 @@
       }
     },
     {
-      "key": "workable:toloka-ai:5A8AACBF12",
+      "key": "workable:toloka-ai:43C82EF446",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "5A8AACBF12",
+      "posting_id": "43C82EF446",
       "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/5A8AACBF12",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "url": "https://apply.workable.com/j/43C82EF446",
+      "location": "Mexico; Colombia; Brazil; Argentina; Peru; Chile",
       "countries": [
-        "GB"
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "592b1a6d6b30b41e3317048fdff874996e617ab5",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 60.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$60/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:03AE71AA9A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "03AE71AA9A",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/03AE71AA9A",
+      "location": "Philippines; Malaysia; Indonesia; South Africa; Jamaica",
+      "countries": [
+        "ID",
+        "JM",
+        "MY",
+        "PH",
+        "ZA"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "592b1a6d6b30b41e3317048fdff874996e617ab5",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 60.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$60/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:D5BECAE05A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D5BECAE05A",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/D5BECAE05A",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "eeda3599574c1ff9cba5ab60563859f06be11d87",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 35.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$35/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2C1D6E76E8",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2C1D6E76E8",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/2C1D6E76E8",
+      "location": "Israel; Jordan; Lebanon; Egypt; Turkey",
+      "countries": [
+        "EG",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "eeda3599574c1ff9cba5ab60563859f06be11d87",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 35.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$35/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2301F2A2DB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2301F2A2DB",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/2301F2A2DB",
+      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
+      "countries": [
+        "AE",
+        "BH",
+        "KW",
+        "OM",
+        "QA",
+        "SA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
       "family_id": "333c38830d79",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -12486,23 +12780,383 @@
       }
     },
     {
-      "key": "workable:toloka-ai:835EC95CDD",
+      "key": "workable:toloka-ai:2B5A263F16",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "835EC95CDD",
+      "posting_id": "2B5A263F16",
       "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
-      "url": "https://apply.workable.com/j/835EC95CDD",
-      "location": "Japan; South Korea; New Zealand; Singapore",
+      "url": "https://apply.workable.com/j/2B5A263F16",
+      "location": "Vancouver, Canada; Victoria, Canada; Burnaby, Canada; Montreal, Canada; Québec City, Canada; Calgary, Canada",
       "countries": [
-        "JP",
-        "KR",
-        "NZ",
-        "SG"
+        "CA"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-16",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1A236BD1DC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1A236BD1DC",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/1A236BD1DC",
+      "location": "Canada; Toronto, Canada; Ottawa, Canada; Mississauga, Canada; Hamilton, Canada; Waterloo, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7F67FBDC93",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7F67FBDC93",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/7F67FBDC93",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5465815025",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5465815025",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/5465815025",
+      "location": "United States; Minneapolis, United States; Saint Paul, United States; Rochester, United States; Duluth, United States; Bloomington, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:21FEA3C9F1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "21FEA3C9F1",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/21FEA3C9F1",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:551C35C1E6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "551C35C1E6",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/551C35C1E6",
+      "location": "United States; Detroit, United States; Grand Rapids, United States; Ann Arbor, United States; Lansing, United States; Flint, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C8CB049309",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C8CB049309",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/C8CB049309",
+      "location": "United States; Philadelphia, United States; Pittsburgh, United States; Allentown, United States; Erie, United States; Reading, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:8D1220356D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8D1220356D",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/8D1220356D",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:8CFE888DCA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8CFE888DCA",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/8CFE888DCA",
+      "location": "United States; Milwaukee, United States; Madison, United States; Green Bay, United States; Kenosha, United States; Racine, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:F6113856A4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F6113856A4",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/F6113856A4",
+      "location": "United States; Denver, United States; Colorado Springs, United States; Aurora, United States; Boulder, United States; Fort Collins, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7AF3EC5C97",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7AF3EC5C97",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/7AF3EC5C97",
+      "location": "United States; Miami, United States; Tampa, United States; Orlando, United States; Jacksonville, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "333c38830d79",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": 100.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "Strong written English (C1+).",
+        "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$100/hr."
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:685063ADCB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "685063ADCB",
+      "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation",
+      "url": "https://apply.workable.com/j/685063ADCB",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
       "family_id": "333c38830d79",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
@@ -12605,6 +13259,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:D09710DA9F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D09710DA9F",
+      "title": "Polish Speakers from Poland - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/D09710DA9F",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "05557a123399",
+      "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:06C2AF8CCB",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -12646,6 +13325,31 @@
       "published": "2026-10-24",
       "family_id": "99d271a87cd3",
       "description_sha1": "0152519efd263ae037a8ee6849c12b53c7c2b3fe",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:EE6DC190E6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "EE6DC190E6",
+      "title": "Portuguese Speakers from Portugal - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/EE6DC190E6",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "5659117cff9f",
+      "description_sha1": "eb0895bd594773b02083768609e69ed7632fce1c",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -12987,6 +13691,56 @@
       "title": "Research Participants Wanted in South Bay: $110",
       "url": "https://apply.workable.com/j/4855E109F7",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "69644212dd4d",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:979FB8FA1D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "979FB8FA1D",
+      "title": "Research Participants Wanted in South Bay: $110",
+      "url": "https://apply.workable.com/j/979FB8FA1D",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "69644212dd4d",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:7E618D2898",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7E618D2898",
+      "title": "Research Participants Wanted in South Bay: $110",
+      "url": "https://apply.workable.com/j/7E618D2898",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
       ],
@@ -14154,6 +14908,56 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:CDDD349B85",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "CDDD349B85",
+      "title": "Small-Group Conversation Study: $110 for One Visit",
+      "url": "https://apply.workable.com/j/CDDD349B85",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "95b768a6e131",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:CABEDEC47F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "CABEDEC47F",
+      "title": "Small-Group Conversation Study: $110 for One Visit",
+      "url": "https://apply.workable.com/j/CABEDEC47F",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "95b768a6e131",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:BF27536894",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -14833,6 +15637,31 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:64A3335E3A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "64A3335E3A",
+      "title": "Swedish Speakers from Sweden - Paid Study Participant, NYC",
+      "url": "https://apply.workable.com/j/64A3335E3A",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "6043ca452b65",
+      "description_sha1": "314d305302d8e6b2ea5913a9f4d862d5cacee6dd",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:ABF6F222AB",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -15140,6 +15969,56 @@
       "title": "Talk About Everyday Topics, Earn $110 in 90 Minutes",
       "url": "https://apply.workable.com/j/0C740AE066",
       "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "ee0781707895",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:2CEBD028AF",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2CEBD028AF",
+      "title": "Talk About Everyday Topics, Earn $110 in 90 Minutes",
+      "url": "https://apply.workable.com/j/2CEBD028AF",
+      "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-25",
+      "family_id": "ee0781707895",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:D4F51760BD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "D4F51760BD",
+      "title": "Talk About Everyday Topics, Earn $110 in 90 Minutes",
+      "url": "https://apply.workable.com/j/D4F51760BD",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
       ],
@@ -15787,31 +16666,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:344F95FD5D",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "344F95FD5D",
-      "title": "Your Voice Matters: Paid 75-Minute Research Session",
-      "url": "https://apply.workable.com/j/344F95FD5D",
-      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "6fa289f0dfa3",
-      "description_sha1": "b81fa0a330ac95bd820562e026b0b98caea94c9c",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:02656C5D6D",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -15819,31 +16673,6 @@
       "title": "Your Voice Matters: Paid 75-Minute Research Session",
       "url": "https://apply.workable.com/j/02656C5D6D",
       "location": "Campbell, United States; Milpitas, United States; Palo Alto, United States; Fremont, United States; Redwood City, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-16",
-      "family_id": "6fa289f0dfa3",
-      "description_sha1": "b81fa0a330ac95bd820562e026b0b98caea94c9c",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "workable:toloka-ai:B4529FE3E0",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "B4529FE3E0",
-      "title": "Your Voice Matters: Paid 75-Minute Research Session",
-      "url": "https://apply.workable.com/j/B4529FE3E0",
-      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
       "countries": [
         "US"
       ],
@@ -15887,6 +16716,56 @@
       "extracted_by": {}
     },
     {
+      "key": "workable:toloka-ai:F7282274A9",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F7282274A9",
+      "title": "Your Voice Matters: Paid 90-Minute Research Session",
+      "url": "https://apply.workable.com/j/F7282274A9",
+      "location": "San Jose, United States; Santa Clara, United States; Sunnyvale, United States; Cupertino, United States; Mountain View, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "9526742e9e76",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:A38231A81E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "A38231A81E",
+      "title": "Your Voice Matters: Paid 90-Minute Research Session",
+      "url": "https://apply.workable.com/j/A38231A81E",
+      "location": "San Mateo, United States; Union City, United States; Hayward, United States; San Francisco, United States; Oakland, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-26",
+      "family_id": "9526742e9e76",
+      "description_sha1": "688dac586d7efc1217db0f70642ac7653d051b0b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "workable:toloka-ai:516BFD65B3",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -15912,31 +16791,6 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:E9E29228A5",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "E9E29228A5",
-      "title": "دراسة مدفوعة في نيويورك - للمتحدثين الأصليين بالعربية من الإمارات (1,200-1,600 د",
-      "url": "https://apply.workable.com/j/E9E29228A5",
-      "location": "New York, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": false,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-23",
-      "family_id": "939e7176b46e",
-      "description_sha1": "ca67bbee6889e6f7ae624db22aa278a3c389135f",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "workable:toloka-ai:DBB1AC0204",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -15953,6 +16807,31 @@
       "published": "2026-10-23",
       "family_id": "b829afe92617",
       "description_sha1": "8f54302be2c1807623769b8fab108a42ffa531e0",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "workable:toloka-ai:E9E29228A5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "E9E29228A5",
+      "title": "دراسة مدفوعة في نيويورك لمتحدثي العربية من الإمارات (1,200-1,600$)",
+      "url": "https://apply.workable.com/j/E9E29228A5",
+      "location": "New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": false,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-23",
+      "family_id": "21b1315a117c",
+      "description_sha1": "ca67bbee6889e6f7ae624db22aa278a3c389135f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -16482,35 +17361,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4727252005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4727252005",
-      "title": "Engagement Manager",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727252005",
-      "location": "Riyadh, Saudi Arabia",
-      "countries": [
-        "SA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-26",
-      "family_id": "841b510a02ea",
-      "description_sha1": "b87d889c11f83d0d21c5433a243a03aead0457c2",
-      "min_years": 7,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5-7+ years of total work experience, with experience in consulting or as a technical program management role in industry"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4687384005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -16673,35 +17523,6 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "10+ years of professional experience, often in a customer-facing technical program management role in industry or government"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
-      "key": "greenhouse:scaleai:4625271005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4625271005",
-      "title": "Engineering Manager, Agent Oversight",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625271005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-10-31",
-      "family_id": "c6c672969093",
-      "description_sha1": "b8c0ad5de33bb3b50246b105e08cb0b021d16b2f",
-      "min_years": 7,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "7+ years of engineering experience, including 2+ years directly managing engineers or ML engineers responsible for a production ML/LLM-powered system — not just consuming a third-party ML API within a feature"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -17127,6 +17948,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4673051005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4644742005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -17154,31 +18000,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -17250,7 +18071,7 @@
       "employment_type": null,
       "published": "2026-01-27",
       "family_id": "262fca07ec23",
-      "description_sha1": "5c4c5a8d0721af80ee375cbdcc67c1121d44972a",
+      "description_sha1": "59feacddd65aad2d6c44a5e5e89591abbb80d03a",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -18188,36 +19009,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4589749005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4589749005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
-      "location": "Doha, Qatar ; Dubai, UAE",
-      "countries": [
-        "AE",
-        "QA"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-09-03",
-      "family_id": "c9edd589ac8c",
-      "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4650514005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -18247,29 +19038,30 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4739058005",
+      "key": "greenhouse:scaleai:4589749005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4739058005",
-      "title": "Product Marketing Lead, Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4739058005",
-      "location": "Washington, DC",
+      "posting_id": "4589749005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "location": "Doha, Qatar ; Dubai, UAE",
       "countries": [
-        "US"
+        "AE",
+        "QA"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-30",
-      "family_id": "62afb7c180d8",
-      "description_sha1": "82beea7ae37802f3afed89fca8e2bad7e3f3e47b",
-      "min_years": 6,
+      "published": "2025-09-03",
+      "family_id": "c9edd589ac8c",
+      "description_sha1": "ff57a60e7ec9690f550d104a2964170db68756ad",
+      "min_years": 4,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
       "evidence": {
-        "min_years": "6+ years of experience in Product Marketing, preferably within B2G (Business-to-Government), targeting federal civilian accounts"
+        "min_years": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -19166,31 +19958,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4721008005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4721008005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-06",
-      "family_id": "956946efd858",
-      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4729620005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19207,6 +19974,31 @@
       "published": "2026-09-03",
       "family_id": "956946efd858",
       "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4721008005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4721008005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-08-06",
+      "family_id": "956946efd858",
+      "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -19490,6 +20282,35 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4536653005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4536653005",
+      "title": "Software Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4536653005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2025-03-04",
+      "family_id": "58f0d35f7b2e",
+      "description_sha1": "85d65a714f4b28ce4b2a589a18a9983b265c3dd6",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "4+ years of experience"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:scaleai:4513943005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19535,31 +20356,6 @@
       "published": "2024-02-15",
       "family_id": "39428452d57d",
       "description_sha1": "a7a0c787f8db768408d8f0bf7f123d1b26d74bac",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4730846005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730846005",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -19619,6 +20415,31 @@
       "extracted_by": {}
     },
     {
+      "key": "greenhouse:scaleai:4730846005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730846005",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "560d46ffe696",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4715325005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19646,6 +20467,31 @@
       "extracted_by": {
         "min_years": "rules"
       }
+    },
+    {
+      "key": "greenhouse:scaleai:4730862005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730862005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4730836005",
@@ -19689,31 +20535,6 @@
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
       "description_sha1": "e898b15171b5234a02489d0a11df9e91a2e71637",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4730862005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730862005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -20999,7 +21820,7 @@
       "posting_id": "6234003004",
       "title": "Enterprise AI - Account Director - Consumer Packaged Goods",
       "url": "https://job-boards.greenhouse.io/turing/jobs/6234003004",
-      "location": "Dallas, Texas, United States",
+      "location": "Dallas, Texas, United States; Plano, Texas, United States",
       "countries": [
         "US"
       ],
@@ -21008,7 +21829,7 @@
       "employment_type": null,
       "published": "2026-10-24",
       "family_id": "2dd49b607146",
-      "description_sha1": "c6f83612be794ffb6f69e8c356e5b6d49387e1aa",
+      "description_sha1": "9431d12e410a8faf6d470ee810af5a45b6eaf82d",
       "min_years": 8,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -23276,6 +24097,81 @@
       "extracted_by": {}
     },
     {
+      "key": "lever:rws:4c76ed5c-9518-4676-b52c-5d2ad766c4af",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "4c76ed5c-9518-4676-b52c-5d2ad766c4af",
+      "title": "AI Conversation Recording Contributor - Setswana",
+      "url": "https://jobs.lever.co/rws/4c76ed5c-9518-4676-b52c-5d2ad766c4af",
+      "location": "Johannesburg; Pretoria; Rustenburg; Mahikeng; Klerksdorp; Potchefstroom; Kimberley; Vryburg; Kuruman; Mmabatho; Vereeniging; Vanderbijlpark; Bloemfontein; Welkom; Polokwane",
+      "countries": [
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-21",
+      "family_id": "1605a5b7cef6",
+      "description_sha1": "61ff3ce7d3c8ddf408a5bca539ff468c18d415ac",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:24f9cc98-079b-448d-9145-98669aeb7cac",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "24f9cc98-079b-448d-9145-98669aeb7cac",
+      "title": "AI Conversation Recording Contributor - Siswati",
+      "url": "https://jobs.lever.co/rws/24f9cc98-079b-448d-9145-98669aeb7cac",
+      "location": "Johannesburg; Pretoria; Nelspruit; Barberton; Ermelo; Piet Retief; Standerton; Middelburg; Witbank",
+      "countries": [
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-21",
+      "family_id": "dfc6f295393c",
+      "description_sha1": "95ad3717f1ecbb6c273a5b77f8c18c2a5d766d8d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:fecc1a58-0c94-41d6-a2c8-db5e6288ecbb",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "fecc1a58-0c94-41d6-a2c8-db5e6288ecbb",
+      "title": "AI Conversation Recording Contributor - Siswati",
+      "url": "https://jobs.lever.co/rws/fecc1a58-0c94-41d6-a2c8-db5e6288ecbb",
+      "location": "Mbabane; Manzini; Siteki; Nhlangano; Pigg's Peak; Matsapha",
+      "countries": [
+        "SZ"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-21",
+      "family_id": "dfc6f295393c",
+      "description_sha1": "4f42ec419e8cec00e48336a133b476c09e080fd6",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "lever:rws:97804610-ab36-46f3-8448-1a0f8617add6",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -23292,81 +24188,6 @@
       "published": "2026-10-21",
       "family_id": "3786f9d8df8e",
       "description_sha1": "36fc71a1dd3336674845a9cd48d133812859dfab",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "lever:rws:24f9cc98-079b-448d-9145-98669aeb7cac",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "24f9cc98-079b-448d-9145-98669aeb7cac",
-      "title": "AI Conversation Recording Contributor - Swati",
-      "url": "https://jobs.lever.co/rws/24f9cc98-079b-448d-9145-98669aeb7cac",
-      "location": "Johannesburg; Pretoria; Nelspruit; Barberton; Ermelo; Piet Retief; Standerton; Middelburg; Witbank",
-      "countries": [
-        "ZA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-21",
-      "family_id": "fa99bda4ac17",
-      "description_sha1": "a414d8e6b037148bbf41874dd00b3c4b60006da5",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "lever:rws:fecc1a58-0c94-41d6-a2c8-db5e6288ecbb",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "fecc1a58-0c94-41d6-a2c8-db5e6288ecbb",
-      "title": "AI Conversation Recording Contributor - Swati",
-      "url": "https://jobs.lever.co/rws/fecc1a58-0c94-41d6-a2c8-db5e6288ecbb",
-      "location": "Mbabane; Manzini; Siteki; Nhlangano; Pigg's Peak; Matsapha",
-      "countries": [
-        "SZ"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-21",
-      "family_id": "fa99bda4ac17",
-      "description_sha1": "56d5f9e25abd546b6ec3957375f82938e254b756",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "lever:rws:4c76ed5c-9518-4676-b52c-5d2ad766c4af",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "4c76ed5c-9518-4676-b52c-5d2ad766c4af",
-      "title": "AI Conversation Recording Contributor - Tswana",
-      "url": "https://jobs.lever.co/rws/4c76ed5c-9518-4676-b52c-5d2ad766c4af",
-      "location": "Johannesburg; Pretoria; Rustenburg; Mahikeng; Klerksdorp; Potchefstroom; Kimberley; Vryburg; Kuruman; Mmabatho; Vereeniging; Vanderbijlpark; Bloemfontein; Welkom; Polokwane",
-      "countries": [
-        "ZA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-21",
-      "family_id": "0601dd08c002",
-      "description_sha1": "92724f67f6c4f5b4ee8977eb06337908b4336e69",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -23589,7 +24410,7 @@
       "posting_id": "726a3bbc-1a36-48a2-84eb-24a43f5af088",
       "title": "AI Data Specialist - Japanese",
       "url": "https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088",
-      "location": "Tokyo",
+      "location": "Tokyo; Fukuoka; Hiroshima; Hokkaido; Kagoshima; Aarhus; Kawasaki; Kyoto; Osaka; Saitama; Yokohama",
       "countries": [
         "JP"
       ],
@@ -25511,7 +26332,7 @@
       "posting_id": "e960893d-081d-410e-9888-392e06924c26",
       "title": "Search Engine Evaluator - Japanese (Japan)",
       "url": "https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26",
-      "location": "Tokyo",
+      "location": "Tokyo; Osaka; Hiroshima; Hokkaido; Kyoto; Saitama; Yokohama; Kawasaki; Fukuoka; Kagoshima",
       "countries": [
         "JP"
       ],
@@ -25978,8 +26799,9 @@
       "posting_id": "67840119-acb3-47d9-b7f1-37f77e719c9d",
       "title": "Search Engine Evaluator - Thai (Thailand)",
       "url": "https://jobs.lever.co/rws/67840119-acb3-47d9-b7f1-37f77e719c9d",
-      "location": "Bangkok",
+      "location": "Bangkok; Chiang Mai; Hua Hin; Pattaya; Phuket; Manila; Kuala Lumpur; Jakarta",
       "countries": [
+        "PH",
         "TH"
       ],
       "remote": true,
@@ -26094,7 +26916,7 @@
       "posting_id": "5bd8381a-0dd4-4ebb-83e4-05300c55cd7a",
       "title": "Speech AI Evaluation Specialist - Chinese Simplified (Malaysia)",
       "url": "https://jobs.lever.co/rws/5bd8381a-0dd4-4ebb-83e4-05300c55cd7a",
-      "location": "Kuala Lumpur",
+      "location": "Kuala Lumpur; George Town; Ipoh; Johor Bahru; Kota Bharu; Kota Kinabalu; Melaka; Putrajaya",
       "countries": [
         "MY"
       ],
@@ -26125,7 +26947,7 @@
       "posting_id": "048d58d0-c720-46b4-a9c8-f05569cd452b",
       "title": "Speech AI Evaluation Specialist - Chinese Simplified (Thailand)",
       "url": "https://jobs.lever.co/rws/048d58d0-c720-46b4-a9c8-f05569cd452b",
-      "location": "Bangkok",
+      "location": "Bangkok; Chiang Mai; Hua Hin; Pattaya; Phuket",
       "countries": [
         "TH"
       ],
@@ -26156,7 +26978,7 @@
       "posting_id": "b6ae34f4-57e5-4bb8-8f29-4c69cf25ecbd",
       "title": "Speech AI Evaluation Specialist - Chinese Simplified (USA)",
       "url": "https://jobs.lever.co/rws/b6ae34f4-57e5-4bb8-8f29-4c69cf25ecbd",
-      "location": "Remote",
+      "location": "Remote; Atlanta, Georgia; Las Vegas, Nevada; California; Detroit, Michigan; Allentown, Pennsylvania; Washington, DC.; Virginia Beach, Virginia; Texas; United States; Tennessee; Tampa, Florida; Springfield, Massachusetts; Oklahoma City, Oklahoma",
       "countries": [
         "US"
       ],
@@ -26280,7 +27102,7 @@
       "posting_id": "28b3d23d-7e18-4842-adfe-b708af798a9c",
       "title": "Speech AI Evaluation Specialist - Japanese (Japan)",
       "url": "https://jobs.lever.co/rws/28b3d23d-7e18-4842-adfe-b708af798a9c",
-      "location": "Tokyo",
+      "location": "Tokyo; Fukuoka; Hiroshima; Hokkaido; Kagoshima; Kawasaki; Kyoto; Osaka; Saitama; Yokohama",
       "countries": [
         "JP"
       ],
@@ -26289,7 +27111,7 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-09-29",
       "family_id": "d5e91086d639",
-      "description_sha1": "79b1b407c0aecb078098ba30978faaffa2a7fc58",
+      "description_sha1": "3b5b22e5ca363867a56733fc26ed143f3c538f37",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": null,

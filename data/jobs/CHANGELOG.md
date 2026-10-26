@@ -2,6 +2,53 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-26 · 984 postings · +101 new · -68 closed · ~13 changed
+
+**New**
+
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · $110 Paid Group Conversation Study in Santa Clara · 3 (US)
+- Mindrift (Toloka) · One-Time Paid Research Session in Santa Clara Valley · 2 (US)
+- Mindrift (Toloka) · In-Person Research Session in Santa Clara: $110 · 2 (US)
+- Mindrift (Toloka) · Talk About Everyday Topics, Earn $110 in 90 Minutes · 2 (US)
+- Mindrift (Toloka) · Paid Group Discussion Study: $110 for 90 Minutes · 2 (US)
+- Mindrift (Toloka) · Paid Research Study in South Bay: $110 for 90 Minutes · 2 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: Paid Research Study · 2 (US)
+- Mindrift (Toloka) · Paid In-Person Group Conversation Study: $110 · 2 (US)
+- Mindrift (Toloka) · Research Participants Wanted in South Bay: $110 · 2 (US)
+- Mindrift (Toloka) · Your Voice Matters: Paid 90-Minute Research Session · 2 (US)
+- Mindrift (Toloka) · Small-Group Conversation Study: $110 for One Visit · 2 (US)
+- Scale AI · Software Engineer, Enterprise · 1 (GB)
+- ... and 17 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 20 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · $110 Paid Group Conversation Study in Santa Clara · 3 (US)
+- Mindrift (Toloka) · Your Voice Matters: Paid 75-Minute Research Session · 2 (US)
+- Scale AI · Engineering Manager, Agent Oversight · 1 (US)
+- Scale AI · Engagement Manager · 1 (SA)
+- Scale AI · Product Marketing Lead, Public Sector · 1 (US)
+
+**Changed**
+
+- RWS (TrainAI) · AI Conversation Recording Contributor - Siswati · 2 (SZ, ZA)
+- Scale AI · Frontier Agent Engineering Manager, Enterprise · 1 (US)
+- Turing · Enterprise AI - Account Director - Consumer Packaged Goods · 1 (US)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Chinese Simplified (Thailand) · 1 (TH)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Japanese (Japan) · 1 (JP)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Setswana · 1 (ZA)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Chinese Simplified (Malaysia) · 1 (MY)
+- RWS (TrainAI) · Search Engine Evaluator - Thai (Thailand) · 1 (PH, TH)
+- RWS (TrainAI) · AI Data Specialist - Japanese · 1 (JP)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Chinese Simplified (USA) · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Japanese (Japan) · 1 (JP)
+- Mindrift (Toloka) · دراسة مدفوعة في نيويورك لمتحدثي العربية من الإمارات (1,200-1,600$) · 1 (US)
+
 ## 2026-10-25 · 951 postings · +73 new · -62 closed · ~2 changed
 
 **New**
