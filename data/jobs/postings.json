@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:25:29+00:00",
+  "generated_at": "2026-10-27T16:43:13+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -2005,34 +2005,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:E2E7873912",
+      "key": "workable:toloka-ai:51F3B6B9DE",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "E2E7873912",
+      "posting_id": "51F3B6B9DE",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/E2E7873912",
-      "location": "Japan; South Korea; New Zealand; Singapore",
+      "url": "https://apply.workable.com/j/51F3B6B9DE",
+      "location": "United States",
       "countries": [
-        "JP",
-        "KR",
-        "NZ",
-        "SG"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 39.0,
+      "pay_usd_hour_max": 69.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$39 per hour equivalent"
+        "pay_usd_hour_max": "$69 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2041,72 +2038,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:88E0FAA00F",
+      "key": "workable:toloka-ai:2D3FEC929E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "88E0FAA00F",
+      "posting_id": "2D3FEC929E",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/88E0FAA00F",
-      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
+      "url": "https://apply.workable.com/j/2D3FEC929E",
+      "location": "United States",
       "countries": [
-        "AR",
-        "BR",
-        "CL",
-        "CO",
-        "MX",
-        "PE"
-      ],
-      "remote": true,
-      "open_to_colombia": true,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 17.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$17 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:D8F14C6C35",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "D8F14C6C35",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/D8F14C6C35",
-      "location": "Egypt; Morocco; Algeria; Tunisia",
-      "countries": [
-        "DZ",
-        "EG",
-        "MA",
-        "TN"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "41000519e84998ea08282022941e2b8baf759f0f",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 23.0,
+      "pay_usd_hour_max": 69.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$23 per hour equivalent"
+        "pay_usd_hour_max": "$69 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2115,34 +2071,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:201D3A4923",
+      "key": "workable:toloka-ai:CDF935E104",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "201D3A4923",
+      "posting_id": "CDF935E104",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/201D3A4923",
-      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "url": "https://apply.workable.com/j/CDF935E104",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
       "countries": [
-        "ID",
-        "MY",
-        "PH",
-        "ZA"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "41000519e84998ea08282022941e2b8baf759f0f",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 23.0,
+      "pay_usd_hour_max": 69.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$23 per hour equivalent"
+        "pay_usd_hour_max": "$69 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2151,31 +2104,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:FE007F58F0",
+      "key": "workable:toloka-ai:B7BCB26782",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "FE007F58F0",
+      "posting_id": "B7BCB26782",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/FE007F58F0",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "url": "https://apply.workable.com/j/B7BCB26782",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
       "countries": [
-        "IN"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
+      "pay_usd_hour_max": 69.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
+        "pay_usd_hour_max": "$69 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2184,35 +2137,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:DE3236D8C7",
+      "key": "workable:toloka-ai:BD130D0272",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "DE3236D8C7",
+      "posting_id": "BD130D0272",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/DE3236D8C7",
-      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
+      "url": "https://apply.workable.com/j/BD130D0272",
+      "location": "United States",
       "countries": [
-        "AM",
-        "IL",
-        "JO",
-        "LB",
-        "TR"
+        "US"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "3c32691b1baf57145a964f1e796891b1f4e78f02",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 19.0,
+      "pay_usd_hour_max": 69.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$19 per hour equivalent"
+        "pay_usd_hour_max": "$69 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2221,400 +2170,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:7B8F7BE3A5",
+      "key": "workable:toloka-ai:964E6A1900",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "7B8F7BE3A5",
+      "posting_id": "964E6A1900",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/7B8F7BE3A5",
-      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
-      "countries": [
-        "AE",
-        "BH",
-        "KW",
-        "OM",
-        "QA",
-        "SA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "9a4dbeff9d04855de946410f63ba85ee64edf988",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 37.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$37 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:0F8FE68A16",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "0F8FE68A16",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/0F8FE68A16",
-      "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
-      "countries": [
-        "BA",
-        "EE",
-        "LT",
-        "LV",
-        "MT",
-        "RS"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:C07AF1E6BD",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "C07AF1E6BD",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/C07AF1E6BD",
-      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:B6B667E147",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "B6B667E147",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/B6B667E147",
-      "location": "Portugal; Greece; Italy",
-      "countries": [
-        "GR",
-        "IT",
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:B442CD5E73",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "B442CD5E73",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/B442CD5E73",
-      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
-      "countries": [
-        "AT",
-        "BE",
-        "DK",
-        "FI",
-        "NO",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:AC82CDF585",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "AC82CDF585",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/AC82CDF585",
-      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
-      "countries": [
-        "CR",
-        "EC",
-        "JM",
-        "UY"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 17.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$17 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:CC45011AA0",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "CC45011AA0",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/CC45011AA0",
-      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
-      "countries": [
-        "ES"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:ABCA3B4BDB",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "ABCA3B4BDB",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/ABCA3B4BDB",
-      "location": "France; Paris, France; Lyon, France",
-      "countries": [
-        "FR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:EA2855FDDE",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "EA2855FDDE",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/EA2855FDDE",
-      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
-      "countries": [
-        "DE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:B0ED0FB2AE",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "B0ED0FB2AE",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/B0ED0FB2AE",
-      "location": "Australia",
-      "countries": [
-        "AU"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 39.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$39 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:E0AD288897",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "E0AD288897",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/E0AD288897",
-      "location": "Canada",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "063c99ffb797",
-      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 39.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$39 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:712DFA09E4",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "712DFA09E4",
-      "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/712DFA09E4",
+      "url": "https://apply.workable.com/j/964E6A1900",
       "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
       "countries": [
         "GB"
@@ -2622,7 +2183,7 @@
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
       "description_sha1": "ceebad2c2e4579caf939b18dfc36a65ecc6dc0ab",
       "min_years": null,
@@ -2642,31 +2203,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:3A5484D388",
+      "key": "workable:toloka-ai:9992260D6E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "3A5484D388",
+      "posting_id": "9992260D6E",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/3A5484D388",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/9992260D6E",
+      "location": "Canada",
       "countries": [
-        "US"
+        "CA"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
+      "pay_usd_hour_max": 39.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
+        "pay_usd_hour_max": "$39 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2675,31 +2236,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:22D14251B9",
+      "key": "workable:toloka-ai:46F8862549",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "22D14251B9",
+      "posting_id": "46F8862549",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/22D14251B9",
-      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "url": "https://apply.workable.com/j/46F8862549",
+      "location": "Australia",
       "countries": [
-        "US"
+        "AU"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
+      "pay_usd_hour_max": 39.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
+        "pay_usd_hour_max": "$39 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2708,31 +2269,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:15672C8752",
+      "key": "workable:toloka-ai:DB2246BFAB",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "15672C8752",
+      "posting_id": "DB2246BFAB",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/15672C8752",
-      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "url": "https://apply.workable.com/j/DB2246BFAB",
+      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
       "countries": [
-        "US"
+        "DE"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
+      "pay_usd_hour_max": 50.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
+        "pay_usd_hour_max": "$50 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2741,31 +2302,31 @@
       }
     },
     {
-      "key": "workable:toloka-ai:366FCB7FA7",
+      "key": "workable:toloka-ai:009E349EA0",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "366FCB7FA7",
+      "posting_id": "009E349EA0",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/366FCB7FA7",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/009E349EA0",
+      "location": "France; Paris, France; Lyon, France",
       "countries": [
-        "US"
+        "FR"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
+      "pay_usd_hour_max": 50.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
+        "pay_usd_hour_max": "$50 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -2774,31 +2335,470 @@
       }
     },
     {
-      "key": "workable:toloka-ai:C0FE2D5957",
+      "key": "workable:toloka-ai:EE71F4CE16",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "C0FE2D5957",
+      "posting_id": "EE71F4CE16",
       "title": "CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/C0FE2D5957",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/EE71F4CE16",
+      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
       "countries": [
-        "US"
+        "ES"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "063c99ffb797",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
       "min_years": null,
       "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
+      "pay_usd_hour_max": 31.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:571EDEC275",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "571EDEC275",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/571EDEC275",
+      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
+      "countries": [
+        "CR",
+        "EC",
+        "JM",
+        "UY"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 17.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$17 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7448BD2512",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7448BD2512",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/7448BD2512",
+      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
+      "countries": [
+        "AT",
+        "BE",
+        "DK",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1F6C0CA5FA",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1F6C0CA5FA",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/1F6C0CA5FA",
+      "location": "Portugal; Greece; Italy",
+      "countries": [
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:31A3623D14",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "31A3623D14",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/31A3623D14",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:4B805B9B5C",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "4B805B9B5C",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/4B805B9B5C",
+      "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
+      "countries": [
+        "BA",
+        "EE",
+        "LT",
+        "LV",
+        "MT",
+        "RS"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:84BBB5B01B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "84BBB5B01B",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/84BBB5B01B",
+      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
+      "countries": [
+        "AE",
+        "BH",
+        "KW",
+        "OM",
+        "QA",
+        "SA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "9a4dbeff9d04855de946410f63ba85ee64edf988",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 37.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$37 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:CD807009FB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "CD807009FB",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/CD807009FB",
+      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
+      "countries": [
+        "AM",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "3c32691b1baf57145a964f1e796891b1f4e78f02",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 19.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$19 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:74E0B2EA1E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "74E0B2EA1E",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/74E0B2EA1E",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:957BE96676",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "957BE96676",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/957BE96676",
+      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "countries": [
+        "ID",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "41000519e84998ea08282022941e2b8baf759f0f",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 23.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$23 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:1480B56EB4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "1480B56EB4",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/1480B56EB4",
+      "location": "Egypt; Morocco; Algeria; Tunisia",
+      "countries": [
+        "DZ",
+        "EG",
+        "MA",
+        "TN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "41000519e84998ea08282022941e2b8baf759f0f",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 23.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$23 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:2BA6A546DD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "2BA6A546DD",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/2BA6A546DD",
+      "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
+      "countries": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ],
+      "remote": true,
+      "open_to_colombia": true,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 17.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$17 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:BF4C1049AF",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "BF4C1049AF",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/BF4C1049AF",
+      "location": "Japan; South Korea; New Zealand; Singapore",
+      "countries": [
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "063c99ffb797",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -5415,573 +5415,23 @@
       }
     },
     {
-      "key": "workable:toloka-ai:D9DBEFCD99",
+      "key": "workable:toloka-ai:5CA767F004",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "D9DBEFCD99",
+      "posting_id": "5CA767F004",
       "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/D9DBEFCD99",
-      "location": "United States",
+      "url": "https://apply.workable.com/j/5CA767F004",
+      "location": "Japan; South Korea; New Zealand; Singapore",
       "countries": [
-        "US"
+        "JP",
+        "KR",
+        "NZ",
+        "SG"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:49D5A4A50F",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "49D5A4A50F",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/49D5A4A50F",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:1D50FDDE86",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "1D50FDDE86",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/1D50FDDE86",
-      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:FCC9CE06BB",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "FCC9CE06BB",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/FCC9CE06BB",
-      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:D6F1BDC597",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "D6F1BDC597",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/D6F1BDC597",
-      "location": "United States",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 69.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$69 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:84B5235C18",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "84B5235C18",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/84B5235C18",
-      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
-      "countries": [
-        "GB"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "ceebad2c2e4579caf939b18dfc36a65ecc6dc0ab",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 36.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$36 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:84524D7D9B",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "84524D7D9B",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/84524D7D9B",
-      "location": "Canada; St. Marys, Canada",
-      "countries": [
-        "CA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 39.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$39 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:75F638F603",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "75F638F603",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/75F638F603",
-      "location": "Australia",
-      "countries": [
-        "AU"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 39.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$39 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:29C5954D87",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "29C5954D87",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/29C5954D87",
-      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
-      "countries": [
-        "DE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:06A4E2D98C",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "06A4E2D98C",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/06A4E2D98C",
-      "location": "France; Paris, France; Lyon, France",
-      "countries": [
-        "FR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:1DC5407F51",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "1DC5407F51",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/1DC5407F51",
-      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
-      "countries": [
-        "ES"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:CD97889756",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "CD97889756",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/CD97889756",
-      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
-      "countries": [
-        "CR",
-        "EC",
-        "JM",
-        "UY"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 17.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$17 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:DD42A0EFDB",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "DD42A0EFDB",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/DD42A0EFDB",
-      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
-      "countries": [
-        "AT",
-        "BE",
-        "DK",
-        "FI",
-        "NO",
-        "SE"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 50.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$50 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:BDBBEF66A8",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "BDBBEF66A8",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/BDBBEF66A8",
-      "location": "Portugal; Greece; Italy",
-      "countries": [
-        "GR",
-        "IT",
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:BAFC4D1E3D",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "BAFC4D1E3D",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/BAFC4D1E3D",
-      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
-      "countries": [
-        "BG",
-        "CZ",
-        "HU",
-        "PL",
-        "RO",
-        "SK"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:94C5CA2475",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "94C5CA2475",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/94C5CA2475",
-      "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
-      "countries": [
-        "BA",
-        "EE",
-        "LT",
-        "LV",
-        "MT",
-        "RS"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "090393b983f926386de2191784ca57902140f545",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 31.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$31 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:D53B221F51",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "D53B221F51",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/D53B221F51",
-      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
-      "countries": [
-        "AE",
-        "BH",
-        "KW",
-        "OM",
-        "QA",
-        "SA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "a762657c1833",
       "description_sha1": "9a4dbeff9d04855de946410f63ba85ee64edf988",
       "min_years": null,
@@ -6001,154 +5451,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:585C4866AB",
+      "key": "workable:toloka-ai:46B3BBB82E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "585C4866AB",
+      "posting_id": "46B3BBB82E",
       "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/585C4866AB",
-      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
-      "countries": [
-        "AM",
-        "IL",
-        "JO",
-        "LB",
-        "TR"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:8260251136",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "8260251136",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/8260251136",
-      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:4D9382AD50",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "4D9382AD50",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/4D9382AD50",
-      "location": "Philippines; Malaysia; Indonesia; South Africa",
-      "countries": [
-        "ID",
-        "MY",
-        "PH",
-        "ZA"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:8E7C020B91",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "8E7C020B91",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/8E7C020B91",
-      "location": "Egypt; Morocco; Algeria; Tunisia",
-      "countries": [
-        "DZ",
-        "EG",
-        "MA",
-        "TN"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Part-time",
-      "published": "2026-10-20",
-      "family_id": "a762657c1833",
-      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
-      "min_years": null,
-      "english_level": "B2",
-      "pay_usd_hour_max": 9.0,
-      "pay_usd_year_max": null,
-      "hours_per_week": "10-20",
-      "evidence": {
-        "english_level": "English at B2 level or above.",
-        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$9 per hour equivalent"
-      },
-      "extracted_by": {
-        "english_level": "rules",
-        "hours_per_week": "rules",
-        "pay_usd_hour_max": "rules"
-      }
-    },
-    {
-      "key": "workable:toloka-ai:A8F143C66A",
-      "source": "workable",
-      "company": "Mindrift (Toloka)",
-      "posting_id": "A8F143C66A",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/A8F143C66A",
+      "url": "https://apply.workable.com/j/46B3BBB82E",
       "location": "Brazil; Argentina; Colombia; Chile; Mexico; Peru",
       "countries": [
         "AR",
@@ -6161,7 +5469,7 @@
       "remote": true,
       "open_to_colombia": true,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
       "family_id": "a762657c1833",
       "description_sha1": "e269c3d9dd6529b8bc36d71ba4bc4607b0d946ab",
       "min_years": null,
@@ -6181,23 +5489,167 @@
       }
     },
     {
-      "key": "workable:toloka-ai:189EBCF720",
+      "key": "workable:toloka-ai:C26A663000",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "189EBCF720",
+      "posting_id": "C26A663000",
       "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://apply.workable.com/j/189EBCF720",
-      "location": "Japan; South Korea; New Zealand; Singapore",
+      "url": "https://apply.workable.com/j/C26A663000",
+      "location": "Egypt; Morocco; Algeria; Tunisia",
       "countries": [
-        "JP",
-        "KR",
-        "NZ",
-        "SG"
+        "DZ",
+        "EG",
+        "MA",
+        "TN"
       ],
       "remote": true,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-20",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B8EBB882F1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B8EBB882F1",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/B8EBB882F1",
+      "location": "Philippines; Malaysia; Indonesia; South Africa",
+      "countries": [
+        "ID",
+        "MY",
+        "PH",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:916942D94A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "916942D94A",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/916942D94A",
+      "location": "India; Mumbai, India; Bengaluru, India; New Delhi, India; Hyderabad, India; Chennai, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5BFB63D36F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5BFB63D36F",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/5BFB63D36F",
+      "location": "Israel; Jordan; Lebanon; Turkey; Armenia",
+      "countries": [
+        "AM",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "16124d549819dffd839a7a3c1a6c4369e373836a",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 9.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$9 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5B028D658B",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5B028D658B",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/5B028D658B",
+      "location": "Saudi Arabia; Qatar; Kuwait; United Arab Emirates; Bahrain; Oman",
+      "countries": [
+        "AE",
+        "BH",
+        "KW",
+        "OM",
+        "QA",
+        "SA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
       "family_id": "a762657c1833",
       "description_sha1": "9a4dbeff9d04855de946410f63ba85ee64edf988",
       "min_years": null,
@@ -6209,6 +5661,554 @@
         "english_level": "English at B2 level or above.",
         "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
         "pay_usd_hour_max": "$37 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:CC93CE49C5",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "CC93CE49C5",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/CC93CE49C5",
+      "location": "Serbia; Estonia; Malta; Bosnia and Herzegovina; Lithuania; Latvia",
+      "countries": [
+        "BA",
+        "EE",
+        "LT",
+        "LV",
+        "MT",
+        "RS"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:5C67102816",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "5C67102816",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/5C67102816",
+      "location": "Romania; Poland; Czechia; Hungary; Slovakia; Bulgaria",
+      "countries": [
+        "BG",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "SK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:C7D57C6A8F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "C7D57C6A8F",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/C7D57C6A8F",
+      "location": "Portugal; Greece; Italy",
+      "countries": [
+        "GR",
+        "IT",
+        "PT"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:BEC6E608D1",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "BEC6E608D1",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/BEC6E608D1",
+      "location": "Sweden; Denmark; Finland; Norway; Austria; Belgium",
+      "countries": [
+        "AT",
+        "BE",
+        "DK",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:DB199C3EF6",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "DB199C3EF6",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/DB199C3EF6",
+      "location": "Uruguay; Costa Rica; Ecuador; Jamaica",
+      "countries": [
+        "CR",
+        "EC",
+        "JM",
+        "UY"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "cc2910649e11118c8b5665583e5e9eb68ec2e72f",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 17.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$17 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:8F417F54E4",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8F417F54E4",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/8F417F54E4",
+      "location": "Spain; Barcelona, Spain; Madrid, Spain; València, Spain",
+      "countries": [
+        "ES"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "090393b983f926386de2191784ca57902140f545",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 31.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$31 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7B40A7111F",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7B40A7111F",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/7B40A7111F",
+      "location": "France; Paris, France; Lyon, France",
+      "countries": [
+        "FR"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:67497964AE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "67497964AE",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/67497964AE",
+      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
+      "countries": [
+        "DE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "c9ad605adcd9f9967782ffdc39b0b7c3ba06f85b",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:BFA42242EE",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "BFA42242EE",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/BFA42242EE",
+      "location": "Australia",
+      "countries": [
+        "AU"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:7221CD4A0D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "7221CD4A0D",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/7221CD4A0D",
+      "location": "Canada; St. Marys, Canada",
+      "countries": [
+        "CA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "cb6cbfcab10d3b5eccd58252a20d71fa0114fc62",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 39.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$39 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:8ACB1826DD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8ACB1826DD",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/8ACB1826DD",
+      "location": "United Kingdom; London, United Kingdom; Manchester, United Kingdom; Birmingham, United Kingdom; Glasgow, United Kingdom; Edinburgh, United Kingdom",
+      "countries": [
+        "GB"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "ceebad2c2e4579caf939b18dfc36a65ecc6dc0ab",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 36.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$36 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:FD1C292BCD",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "FD1C292BCD",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/FD1C292BCD",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:390E3F0930",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "390E3F0930",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/390E3F0930",
+      "location": "New York, United States; United States; Queens, United States; Brooklyn, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:3A43CC28CC",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "3A43CC28CC",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/3A43CC28CC",
+      "location": "United States; Austin, United States; Dallas, United States; Houston, United States; San Antonio, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:F61456553D",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "F61456553D",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/F61456553D",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
+      "key": "workable:toloka-ai:B887ED5C4A",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "B887ED5C4A",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/B887ED5C4A",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-27",
+      "family_id": "a762657c1833",
+      "description_sha1": "9d70a93fbdba29ae200df191937f440beb20fe5c",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 69.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$69 per hour equivalent"
       },
       "extracted_by": {
         "english_level": "rules",
@@ -8123,7 +8123,7 @@
       "source": "workable",
       "company": "Mindrift (Toloka)",
       "posting_id": "7F43517691",
-      "title": "Medicine Expert - Freelance AI Trainer",
+      "title": "Licensed Physician - Medical AI Evaluation",
       "url": "https://apply.workable.com/j/7F43517691",
       "location": "United States",
       "countries": [
@@ -8133,7 +8133,7 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-05",
-      "family_id": "474cf609a012",
+      "family_id": "262681a0546c",
       "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
       "english_level": "C1",
@@ -17232,7 +17232,7 @@
       "source": "greenhouse",
       "company": "Scale AI",
       "posting_id": "4747295005",
-      "title": "Creative Advisor - Human Frontier Collective (US)",
+      "title": "Creative Advisor - Human Frontier Collective",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747295005",
       "location": "United States",
       "countries": [
@@ -17242,7 +17242,7 @@
       "open_to_colombia": false,
       "employment_type": null,
       "published": "2026-10-23",
-      "family_id": "7f7eacc48271",
+      "family_id": "94394aaf1b5f",
       "description_sha1": "4367271ac53c3d72a3c1bcb0a6ee9e15310a9837",
       "min_years": null,
       "english_level": null,
@@ -18062,7 +18062,7 @@
       "posting_id": "4602177005",
       "title": "Frontier Agent Engineering Manager, Enterprise",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4602177005",
-      "location": "San Francisco, CA; New York, NY",
+      "location": "San Francisco, CA",
       "countries": [
         "US"
       ],
@@ -18071,7 +18071,7 @@
       "employment_type": null,
       "published": "2026-01-27",
       "family_id": "262fca07ec23",
-      "description_sha1": "59feacddd65aad2d6c44a5e5e89591abbb80d03a",
+      "description_sha1": "0f7b636eea93fe43d6ab98c20dab260b753e8406",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -18101,6 +18101,35 @@
       "published": "2026-10-16",
       "family_id": "262fca07ec23",
       "description_sha1": "8da4967d01329df60c30080d7235c1c25de54e04",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of software engineering experience with 3+ yrs of"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4747506005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4747506005",
+      "title": "Frontier Agent Engineering Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747506005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-27",
+      "family_id": "262fca07ec23",
+      "description_sha1": "59feacddd65aad2d6c44a5e5e89591abbb80d03a",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -19097,35 +19126,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4740039005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4740039005",
-      "title": "Product Operations Lead, Generative AI",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4740039005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-02",
-      "family_id": "c553c08866d7",
-      "description_sha1": "f8e9ec4e52b451f3a39dc26668f217a6d213aeb8",
-      "min_years": 4,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "4+ years of experience in Product Operations, Technical Program Management, Strategy & Operations, or delivery operations within high-growth tech environments; the ideal candidate will have 6+ months of experience delivering GenAI data pipelines"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4720969005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19564,60 +19564,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4720213005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4720213005",
-      "title": "Senior AI Product Manager, Cybersecurity",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720213005",
-      "location": "New York, NY; San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-08-04",
-      "family_id": "f773540fb86a",
-      "description_sha1": "cd95fcf01aa8715bf4989d32df8b9349fd3d19a8",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4611776005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4611776005",
-      "title": "Senior AI Product Manager, Finance Agents",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611776005",
-      "location": "San Francisco, CA; New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2025-09-23",
-      "family_id": "dc4b9d060467",
-      "description_sha1": "b9ed71e67ebaebfc505f33d1e25e97043e159057",
-      "min_years": 3,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "3–6 years of direct experience in the Finance industry"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4729899005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19958,31 +19904,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4729620005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4729620005",
-      "title": "Senior Product Design Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-03",
-      "family_id": "956946efd858",
-      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4721008005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19999,6 +19920,31 @@
       "published": "2026-08-06",
       "family_id": "956946efd858",
       "description_sha1": "0e8df71d968769e1075ffcb9d2feb25d269af60a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4729620005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4729620005",
+      "title": "Senior Product Design Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-03",
+      "family_id": "956946efd858",
+      "description_sha1": "0db62cdd8004d0d2cb62e4248347767e5d8d77f9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -20868,31 +20814,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4718917005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4718917005",
-      "title": "Staff Product Designer, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-29",
-      "family_id": "614cd584a7ff",
-      "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4735360005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -20909,6 +20830,31 @@
       "published": "2026-09-24",
       "family_id": "614cd584a7ff",
       "description_sha1": "3bf412ef54c5bb7860e8baa07d668d58204da5c8",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4718917005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4718917005",
+      "title": "Staff Product Designer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-07-29",
+      "family_id": "614cd584a7ff",
+      "description_sha1": "50666aa91f484519ae6cac089a6ebd1b63e77439",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -21735,6 +21681,56 @@
       }
     },
     {
+      "key": "greenhouse:turing:6235314004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6235314004",
+      "title": "Backend Engineer, Enterprise AI",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6235314004",
+      "location": "New York, New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-26",
+      "family_id": "ed46ee7fa3da",
+      "description_sha1": "71db111dc16c004f62d000779f807f9b20327d4a",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:turing:6234887004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6234887004",
+      "title": "Deployment Architect",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6234887004",
+      "location": "New York, New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-26",
+      "family_id": "6a62cf584de8",
+      "description_sha1": "2138d5fa98b4eb99da4bc2a2b8a10529147e7214",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:turing:6225527004",
       "source": "greenhouse",
       "company": "Turing",
@@ -21903,31 +21899,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:6192729004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6192729004",
-      "title": "Forward-Deployed AI Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6192729004",
-      "location": "Hyderabad, Telangana, India",
-      "countries": [
-        "IN"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-24",
-      "family_id": "3608d6dd4038",
-      "description_sha1": "e7cfbcd0b5d3e2db0e83cd35cf9cf6d95e442279",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:turing:6192725004",
       "source": "greenhouse",
       "company": "Turing",
@@ -21944,6 +21915,31 @@
       "published": "2026-09-24",
       "family_id": "3608d6dd4038",
       "description_sha1": "f5e2b27cc59a4ea5a6ecce1663fcb1a86c304410",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:turing:6192729004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6192729004",
+      "title": "Forward-Deployed AI Engineer",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6192729004",
+      "location": "Hyderabad, Telangana, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-24",
+      "family_id": "3608d6dd4038",
+      "description_sha1": "e7cfbcd0b5d3e2db0e83cd35cf9cf6d95e442279",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -22064,6 +22060,31 @@
       "extracted_by": {
         "pay_usd_year_max": "rules"
       }
+    },
+    {
+      "key": "greenhouse:turing:6234874004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6234874004",
+      "title": "Platform Engineer - Enterprise AI",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6234874004",
+      "location": "New York, New York, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-26",
+      "family_id": "5c744e0ab54d",
+      "description_sha1": "cd5f11b3762afaf70777d37e1a4c872d224c12ac",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:turing:6227621004",
@@ -22212,6 +22233,35 @@
       }
     },
     {
+      "key": "greenhouse:turing:6235517004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6235517004",
+      "title": "Senior Full-Stack Engineer - Enterprise AI",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6235517004",
+      "location": "Mumbai, Maharashtra, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-26",
+      "family_id": "4064044e9f88",
+      "description_sha1": "e2c40797388efde819fe252c46f689a641269db7",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of professional software engineering experience"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:turing:6207732004",
       "source": "greenhouse",
       "company": "Turing",
@@ -22351,6 +22401,35 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:turing:6225409004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6225409004",
+      "title": "Senior Software Engineer, AI Evaluation Infrastructure",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6225409004",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-19",
+      "family_id": "b5197a9030c7",
+      "description_sha1": "0acd07965bdc1e7069422f07f5916149d7236e1f",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": 200000.0,
+      "hours_per_week": null,
+      "evidence": {
+        "pay_usd_year_max": "$170,000 - $200,000 Base Salary + Equity"
+      },
+      "extracted_by": {
+        "pay_usd_year_max": "rules"
+      }
     },
     {
       "key": "greenhouse:turing:6115695004",
@@ -23421,6 +23500,35 @@
       }
     },
     {
+      "key": "greenhouse:labelbox:5275455007",
+      "source": "greenhouse",
+      "company": "Labelbox",
+      "posting_id": "5275455007",
+      "title": "Senior Accounts Receivable Analyst",
+      "url": "https://job-boards.greenhouse.io/labelbox/jobs/5275455007",
+      "location": "Remote, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-26",
+      "family_id": "3ebb7c99ae9b",
+      "description_sha1": "b32f57a6aefd8434532738c65c48538a7afc50ec",
+      "min_years": 4,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "At least 4-5 years of accounts receivable experience (more preferred)."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
       "key": "greenhouse:labelbox:5199053007",
       "source": "greenhouse",
       "company": "Labelbox",
@@ -23486,7 +23594,57 @@
       "employment_type": "Temporary/Contract",
       "published": "2026-10-21",
       "family_id": "cc924ab63126",
-      "description_sha1": "92e6acf8a64e8ed88bbe3866c97ceade059e7504",
+      "description_sha1": "6ae5cd01a9ff5070d55ab1b8ed07b12e0961c751",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:5097e203-0402-4c70-88a5-abe5ff881a23",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "5097e203-0402-4c70-88a5-abe5ff881a23",
+      "title": "AI Conversation Recording Contributor - Bosnian",
+      "url": "https://jobs.lever.co/rws/5097e203-0402-4c70-88a5-abe5ff881a23",
+      "location": "Sarajevo; Tuzla; Zenica; Mostar; Bihać; Brčko; Travnik; Banja Luka; Bijeljina; Gračanica; Prijedor; Trebinje; Visoko; Cazin; Doboj",
+      "countries": [
+        "BA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-23",
+      "family_id": "cade8ad2f507",
+      "description_sha1": "309ea9d2d718f0f836875d5e4534bcdb3ea37472",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:859dfc3b-fb42-4cb6-a696-20501c3289e6",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "859dfc3b-fb42-4cb6-a696-20501c3289e6",
+      "title": "AI Conversation Recording Contributor - Burmese",
+      "url": "https://jobs.lever.co/rws/859dfc3b-fb42-4cb6-a696-20501c3289e6",
+      "location": "Bangkok; Mae Sot; Hat Yai; Phuket; Khon Kaen; Udon Thani; Kuala Lumpur; Johor Bahru; Ipoh; Kota Bharu; Klang; Penang; Shah Alam; Petaling Jaya; Chiang Mai",
+      "countries": [
+        "TH"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "fe695cc441c5",
+      "description_sha1": "4e76f38d44dacd1320a1124858d6b8134a2472ee",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -23537,6 +23695,31 @@
       "published": "2026-10-21",
       "family_id": "2bf361fa6ddf",
       "description_sha1": "6288ec150274144ca488cc269cf1767b24950001",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:af4d87c1-6447-4aab-9bec-49dcf6e8e799",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "af4d87c1-6447-4aab-9bec-49dcf6e8e799",
+      "title": "AI Conversation Recording Contributor - Chinese Mandarin",
+      "url": "https://jobs.lever.co/rws/af4d87c1-6447-4aab-9bec-49dcf6e8e799",
+      "location": "New Taipei City; Taoyuan; Taitung City; Kaohsiung; Tainan; Hsinchu; Keelung; Chiayi; Changhua; Pingtung; Yilan City; Hualien City; Miaoli City; Taichung",
+      "countries": [
+        "TW"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "ef3a24218bd5",
+      "description_sha1": "8f31bb764c1a88afae99c759ffb9729f38a95e3d",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -23637,6 +23820,31 @@
       "published": "2026-10-21",
       "family_id": "37bda58e70a7",
       "description_sha1": "58f22517487a668f1f58ac8502cebeb73fa0d973",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:2af61904-a5f9-4ef9-80d9-19dcdcb33782",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "2af61904-a5f9-4ef9-80d9-19dcdcb33782",
+      "title": "AI Conversation Recording Contributor - Hebrew",
+      "url": "https://jobs.lever.co/rws/2af61904-a5f9-4ef9-80d9-19dcdcb33782",
+      "location": "Jerusalem; Tel Aviv; Haifa; Rishon LeZion; Petah Tikva; Ashdod; Netanya; Beersheba; Holon; Bnei Brak; Ramat Gan; Herzliya; Rehovot; Modi'in-Maccabim-Re'ut; Ashkelon",
+      "countries": [
+        "IL"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "9fd0afa0b995",
+      "description_sha1": "3e55010eac2cd007e57d9e0dec5ffa20adc30521",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -24072,6 +24280,56 @@
       "extracted_by": {}
     },
     {
+      "key": "lever:rws:0d6b52ff-99c9-4231-9b37-fa959fff7dcb",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "0d6b52ff-99c9-4231-9b37-fa959fff7dcb",
+      "title": "AI Conversation Recording Contributor - Dutch (Netherlands)",
+      "url": "https://jobs.lever.co/rws/0d6b52ff-99c9-4231-9b37-fa959fff7dcb",
+      "location": "Amsterdam; The Hague; Utrecht; Eindhoven; Tilburg; Groningen; Almere; Breda; Nijmegen; Enschede; Haarlem; Arnhem; Leiden; Maastricht; Rotterdam",
+      "countries": [
+        "NL"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "5be822ba3c47",
+      "description_sha1": "94be0a2d3ce8609c0e7e2325b9cf750630ac9008",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:677a0a67-0bb1-47ae-8bbc-387ded659e83",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "677a0a67-0bb1-47ae-8bbc-387ded659e83",
+      "title": "AI Conversation Recording Contributor - Eastern Punjabi/Punjabi (India)",
+      "url": "https://jobs.lever.co/rws/677a0a67-0bb1-47ae-8bbc-387ded659e83",
+      "location": "Ludhiana; Amritsar; Jalandhar; Chandigarh; Patiala; Bathinda; Mohali; Hoshiarpur; Pathankot; Moga; Firozpur; Sangrur; Barnala; Batala; Kapurthala",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "a8e8a35203a4",
+      "description_sha1": "46a9b38380c5bbe759ba43f69b3dbc87a8b4e211",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "lever:rws:b9dafee0-3b92-4340-b4b9-eb9745f74c75",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -24097,6 +24355,56 @@
       "extracted_by": {}
     },
     {
+      "key": "lever:rws:f3f3c4b6-4615-4b8a-b964-356e2dca3950",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "f3f3c4b6-4615-4b8a-b964-356e2dca3950",
+      "title": "AI Conversation Recording Contributor - Kinyarwanda",
+      "url": "https://jobs.lever.co/rws/f3f3c4b6-4615-4b8a-b964-356e2dca3950",
+      "location": "Kigali; Huye; Musanze; Rubavu; Muhanga; Rusizi; Nyagatare; Rwamagana; Kayonza; Gicumbi; Ruhengeri; Kibuye; Nyanza; Kibungo; Byumba",
+      "countries": [
+        "RW"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "eb48544c7600",
+      "description_sha1": "ac5caee5cd851087883fc0eff31c96708b74b87e",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:c6333bed-d249-4b1e-b5ba-29b62e7c808a",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "c6333bed-d249-4b1e-b5ba-29b62e7c808a",
+      "title": "AI Conversation Recording Contributor - Malayalam",
+      "url": "https://jobs.lever.co/rws/c6333bed-d249-4b1e-b5ba-29b62e7c808a",
+      "location": "Kochi; Thiruvananthapuram; Kozhikode; Thrissur; Kollam; Kannur; Kottayam; Palakkad; Alappuzha; Malappuram; Manjeri; Kasaragod; Pathanamthitta; Ponnani; Tirur",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "6d8171df0903",
+      "description_sha1": "4e1e24c7487e2450f08f58025be27133362b4251",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "lever:rws:4c76ed5c-9518-4676-b52c-5d2ad766c4af",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -24113,6 +24421,31 @@
       "published": "2026-10-21",
       "family_id": "1605a5b7cef6",
       "description_sha1": "61ff3ce7d3c8ddf408a5bca539ff468c18d415ac",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:6dad7365-4372-471f-8dba-7e5523b2cd85",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "6dad7365-4372-471f-8dba-7e5523b2cd85",
+      "title": "AI Conversation Recording Contributor - Sinhala (Sri Lanka)",
+      "url": "https://jobs.lever.co/rws/6dad7365-4372-471f-8dba-7e5523b2cd85",
+      "location": "Colombo; Kandy; Galle; Kurunegala; Nugegoda; Matara; Ratnapura; Anuradhapura; Badulla; Kalutara; Moratuwa; Battaramulla; Negombo; Panadura; Hambantota",
+      "countries": [
+        "LK"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "29c8c7000e37",
+      "description_sha1": "41459d125a893071433a0872f6b51e92dbb7037f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -24213,6 +24546,57 @@
       "published": "2026-10-21",
       "family_id": "1ad569462d12",
       "description_sha1": "b7faf09de5a5789f516fbd35107c192ca5145196",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:d1da252c-8387-4bbe-94b9-94b21b4eab03",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "d1da252c-8387-4bbe-94b9-94b21b4eab03",
+      "title": "AI Conversation Recording Contributor - Xhosa",
+      "url": "https://jobs.lever.co/rws/d1da252c-8387-4bbe-94b9-94b21b4eab03",
+      "location": "Cape Town; East London; Port Elizabeth; Mthatha; Queenstown; King William's Town; Johannesburg; Pretoria; Durban; George; Worcester; Paarl; Kimberley; Bhisho; Butterworth",
+      "countries": [
+        "GB",
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "33335700a7b8",
+      "description_sha1": "f4fc3a4e52326d4f065f8d33d0286d293c3f21b9",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "lever:rws:9c6091c8-fdb6-40e4-8deb-c4921058b8ce",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "9c6091c8-fdb6-40e4-8deb-c4921058b8ce",
+      "title": "AI Conversation Recording Contributor - Zulu",
+      "url": "https://jobs.lever.co/rws/9c6091c8-fdb6-40e4-8deb-c4921058b8ce",
+      "location": "Durban; Johannesburg; Pretoria; Pietermaritzburg; Richards Bay; Newcastle, KwaZulu-Natal; Empangeni; Ladysmith; Vryheid; Ulundi; Emalahleni; Nelspruit; Dundee, KwaZulu-Natal; KwaDukuza; Port Shepstone",
+      "countries": [
+        "ZA"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-10-27",
+      "family_id": "7b7c2a5e43d0",
+      "description_sha1": "268d1f3bf8be95b1443b5e405820b61cf14ebf8f",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -25694,7 +26078,7 @@
       "posting_id": "0df914c7-2848-4a05-be1d-96f52909886d",
       "title": "Search Engine Evaluator - Bengali (India)",
       "url": "https://jobs.lever.co/rws/0df914c7-2848-4a05-be1d-96f52909886d",
-      "location": "New Delhi",
+      "location": "West Bengal; New Delhi; Tripura; Jharkhand; Assam; Odisha; Bihar",
       "countries": [
         "IN"
       ],
@@ -25955,7 +26339,7 @@
       "posting_id": "a38e64bc-e483-4a2b-96a6-532fdeb730f9",
       "title": "Search Engine Evaluator - English (New Zealand)",
       "url": "https://jobs.lever.co/rws/a38e64bc-e483-4a2b-96a6-532fdeb730f9",
-      "location": "Wellington",
+      "location": "Wellington; Tauranga; Hamilton; Auckland; Christchurch; Dunedin",
       "countries": [
         "NZ"
       ],
@@ -25984,7 +26368,7 @@
       "posting_id": "c51e2341-822c-4b66-a2dd-646b73dd756a",
       "title": "Search Engine Evaluator - English (Singapore)",
       "url": "https://jobs.lever.co/rws/c51e2341-822c-4b66-a2dd-646b73dd756a",
-      "location": "Singapore",
+      "location": "Singapore; Tampines; Bedok; Ang Mo Kio; Hougang; Jurong West; Sengkang; Woodlands; Yishun",
       "countries": [
         "SG"
       ],
@@ -26187,7 +26571,7 @@
       "posting_id": "8ca5eb75-c2ba-4584-b4e1-2053b65401a7",
       "title": "Search Engine Evaluator - Gujarati (India)",
       "url": "https://jobs.lever.co/rws/8ca5eb75-c2ba-4584-b4e1-2053b65401a7",
-      "location": "New Delhi",
+      "location": "Ahmedabad, Gujarat; Gujarat; Maharashtra; Madhya Pradesh; Rajasthan; Surat; New Delhi",
       "countries": [
         "IN"
       ],
@@ -26341,7 +26725,7 @@
       "employment_type": "Temporary/Contract",
       "published": "2024-10-14",
       "family_id": "a1d097f1600d",
-      "description_sha1": "87cc8d96e607d125134171b904b1d070ac8a5658",
+      "description_sha1": "66c646c97b94159377ae01147b2cbbfa32d296ee",
       "min_years": null,
       "english_level": "B2",
       "pay_usd_hour_max": null,
@@ -26363,7 +26747,7 @@
       "posting_id": "004da6b2-2601-4a8a-bb9d-6ed265d6f536",
       "title": "Search Engine Evaluator - Kannada (India)",
       "url": "https://jobs.lever.co/rws/004da6b2-2601-4a8a-bb9d-6ed265d6f536",
-      "location": "New Delhi",
+      "location": "Karnataka; Tamil Nadu; Kerala; Andra Pradesh; Maharashtra; Goa",
       "countries": [
         "IN"
       ],
@@ -26421,7 +26805,7 @@
       "posting_id": "08656502-13c0-4cfa-826f-2a2b3976939d",
       "title": "Search Engine Evaluator - Marathi (India)",
       "url": "https://jobs.lever.co/rws/08656502-13c0-4cfa-826f-2a2b3976939d",
-      "location": "New Delhi",
+      "location": "Mumbai; Nagpur; Pune; Maharashtra; New Delhi; Goa; Vadodara; Surat",
       "countries": [
         "IN"
       ],
@@ -26479,7 +26863,7 @@
       "posting_id": "82064cf1-75a2-408d-a702-1cd2f4aecfd8",
       "title": "Search Engine Evaluator - Odia (India)",
       "url": "https://jobs.lever.co/rws/82064cf1-75a2-408d-a702-1cd2f4aecfd8",
-      "location": "New Delhi",
+      "location": "Odisha; West Bengal; Jharkhand; Andra Pradesh; Chattisgarh; New Delhi",
       "countries": [
         "IN"
       ],
@@ -26741,7 +27125,7 @@
       "posting_id": "1d37af16-344b-40df-acba-9deafa8f2e64",
       "title": "Search Engine Evaluator - Tamil (India)",
       "url": "https://jobs.lever.co/rws/1d37af16-344b-40df-acba-9deafa8f2e64",
-      "location": "New Delhi",
+      "location": "Tamil Nadu; Karnataka; Kerala; Telangana; Andra Pradesh; Bangalore; Mysore",
       "countries": [
         "IN"
       ],

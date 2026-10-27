@@ -2,6 +2,51 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-27 · 999 postings · +64 new · -49 closed · ~13 changed
+
+**New**
+
+- Mindrift (Toloka) · CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Labelbox · Senior Accounts Receivable Analyst · 1 (IN)
+- Scale AI · Frontier Agent Engineering Manager, Enterprise · 1 (US)
+- Turing · Senior Software Engineer, AI Evaluation Infrastructure · 1 (US)
+- Turing · Platform Engineer - Enterprise AI · 1 (US)
+- Turing · Deployment Architect · 1 (US)
+- Turing · Backend Engineer, Enterprise AI · 1 (US)
+- Turing · Senior Full-Stack Engineer - Enterprise AI · 1 (IN)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Dutch (Netherlands) · 1 (NL)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Hebrew · 1 (IL)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Bosnian · 1 (BA)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Eastern Punjabi/Punjabi (India) · 1 (IN)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Sinhala (Sri Lanka) · 1 (LK)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Burmese · 1 (TH)
+- ... and 5 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Mindrift (Toloka) · CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Scale AI · Senior AI Product Manager, Finance Agents · 1 (US)
+- Scale AI · Senior AI Product Manager, Cybersecurity · 1 (US)
+- Scale AI · Product Operations Lead, Generative AI · 1 (US)
+
+**Changed**
+
+- Scale AI · Frontier Agent Engineering Manager, Enterprise · 1 (US)
+- Scale AI · Creative Advisor - Human Frontier Collective · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Kannada (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Marathi (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Bengali (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Tamil (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Odia (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Gujarati (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - English (New Zealand) · 1 (NZ)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Assamese · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - English (Singapore) · 1 (SG)
+- RWS (TrainAI) · Search Engine Evaluator - Japanese (Japan) · 1 (JP)
+- Mindrift (Toloka) · Licensed Physician - Medical AI Evaluation · 1 (US)
+
 ## 2026-10-26 · 984 postings · +101 new · -68 closed · ~13 changed
 
 **New**
