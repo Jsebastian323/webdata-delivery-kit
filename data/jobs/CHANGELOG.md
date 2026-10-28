@@ -2,6 +2,65 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-28 · 1067 postings · +139 new · -71 closed · ~35 changed
+
+**New**
+
+- Mindrift (Toloka) · CAD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 22 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 7 (US)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 7 (US)
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 7 (US)
+- Mindrift (Toloka) · Side Income: $110 for One In-Person Study Session (South Bay) · 3 (US)
+- Mindrift (Toloka) · All Accents Welcome: $110 Paid Conversation Study · 3 (US)
+- Mindrift (Toloka) · Paid Research Participant: $110 for One 90-Min Session · 3 (US)
+- Mindrift (Toloka) · Extra Cash: $110 for a 90-Minute Group Discussion · 3 (US)
+- Mindrift (Toloka) · $110 One-Time Paid Study - No Experience Needed (Santa Clara) · 3 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: In-Person Research Study, South Bay · 3 (US)
+- Mindrift (Toloka) · Daytime Paid Research Session - $110, Santa Clara · 3 (US)
+- Mindrift (Toloka) · One-Time Paid Group Discussion: $110 (Santa Clara Valley) · 3 (US)
+- Mindrift (Toloka) · Weekday Paid Focus Group - $110, Santa Clara · 3 (US)
+- Mindrift (Toloka) · Paid Focus Group in Santa Clara: $110 for 90 Minutes · 3 (US)
+- ... and 38 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · CAD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Invisible Technologies · Senior Technical Project Manager · 1 (US)
+- Invisible Technologies · Software Engineer, Agentic AI · 1 (BR)
+- Turing · Forward Deployed AI Engineer (In Training) · 1 (US)
+- Turing · Senior Software Engineer · 1 (BR)
+- Mindrift (Toloka) · Paid Study in San Marino, CA - $200 per Session · 1 (US)
+- Mindrift (Toloka) · Freelance Gig - $200 Paid Study, Los Angeles · 1 (US)
+- Mindrift (Toloka) · Earn $200 in One Day - Household Tasks Study, LA · 1 (US)
+- Mindrift (Toloka) · Weekend Paid Study Opportunity - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Household Tasks Study Participant - $200 per Session, Los Angeles · 1 (US)
+- Mindrift (Toloka) · Paid Video Recording Study - Everyday Tasks, $200, LA · 1 (US)
+- Mindrift (Toloka) · In-Person Paid Study - Everyday Home Tasks, Mid-City LA · 1 (US)
+- Mindrift (Toloka) · Paid DIY & Home Improvement Study - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Get Paid $200 for Everyday Household Tasks - LA Study · 1 (US)
+- ... and 12 more families
+
+**Changed**
+
+- Invisible Technologies · Senior Software Engineer (Forward Deployed) · 2 (GB, US)
+- Invisible Technologies · Software Engineer (Forward Deployed) · 2 (GB, US)
+- Invisible Technologies · Data Scientist · 1 (US)
+- Invisible Technologies · Senior Data Scientist · 1 (US)
+- Invisible Technologies · Staff Software Engineer (Forward Deployed) · 1 (US)
+- Invisible Technologies · Principal Backend Engineer (Forward Deployed) · 1 (US)
+- Invisible Technologies · Enterprise Solutions Manager · 1 (US)
+- Invisible Technologies · Senior Enterprise Solutions Manager · 1 (US)
+- Invisible Technologies · Senior DevOps Engineer · 1 (GB)
+- Invisible Technologies · Site Reliability Engineer (Contract, Rotation-Based) · 1 (IN, ZA)
+- Invisible Technologies · Senior Data Product Owner · 1 (US)
+- Invisible Technologies · Research Engineer · 1 (US)
+- Invisible Technologies · Senior Solutions Architect - Data Labs · 1 (GB, US)
+- Invisible Technologies · Contract Technical Recruiter · 1 (US)
+- Invisible Technologies · Senior Manager of Strategic Staffing · 1 (US)
+- ... and 18 more families
+
 ## 2026-10-27 · 999 postings · +64 new · -49 closed · ~13 changed
 
 **New**
