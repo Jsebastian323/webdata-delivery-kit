@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:11:22+00:00",
+  "generated_at": "2026-10-29T17:27:09+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -4268,12 +4268,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:8DD620A3BF",
+      "key": "workable:toloka-ai:73DA93D27E",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "8DD620A3BF",
+      "posting_id": "73DA93D27E",
       "title": "Everyday Tasks Research Study - Paid, Los Angeles",
-      "url": "https://apply.workable.com/j/8DD620A3BF",
+      "url": "https://apply.workable.com/j/73DA93D27E",
       "location": "Los Angeles, United States",
       "countries": [
         "US"
@@ -4281,7 +4281,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-21",
+      "published": "2026-10-28",
       "family_id": "50319ecd9108",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
       "min_years": null,
@@ -5889,6 +5889,39 @@
       }
     },
     {
+      "key": "workable:toloka-ai:8B3A0FB84E",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "8B3A0FB84E",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://apply.workable.com/j/8B3A0FB84E",
+      "location": "Germany; Berlin, Germany; Frankfurt am Main, Germany; Hamburg, Germany; Munich, Germany",
+      "countries": [
+        "DE"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-10-29",
+      "family_id": "cad6bf48bcec",
+      "description_sha1": "9676e0497b0619320d12a8c38bff4984e13d33a6",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": 50.0,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10-20",
+      "evidence": {
+        "english_level": "English at B2 level or above.",
+        "hours_per_week": "For this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements.",
+        "pay_usd_hour_max": "$50 per hour equivalent"
+      },
+      "extracted_by": {
+        "english_level": "rules",
+        "hours_per_week": "rules",
+        "pay_usd_hour_max": "rules"
+      }
+    },
+    {
       "key": "workable:toloka-ai:5CA767F004",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -6691,12 +6724,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:642FE61936",
+      "key": "workable:toloka-ai:EE1B0A01C9",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "642FE61936",
+      "posting_id": "EE1B0A01C9",
       "title": "Freelance Research Participant - Home & DIY Tasks, LA",
-      "url": "https://apply.workable.com/j/642FE61936",
+      "url": "https://apply.workable.com/j/EE1B0A01C9",
       "location": "Los Angeles, United States",
       "countries": [
         "US"
@@ -6704,7 +6737,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-21",
+      "published": "2026-10-28",
       "family_id": "e070e7744581",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
       "min_years": null,
@@ -7091,12 +7124,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:95145BB5D1",
+      "key": "workable:toloka-ai:9EB6FABE3A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "95145BB5D1",
+      "posting_id": "9EB6FABE3A",
       "title": "Get Paid for Everyday Tasks - In-Person Research Study, LA",
-      "url": "https://apply.workable.com/j/95145BB5D1",
+      "url": "https://apply.workable.com/j/9EB6FABE3A",
       "location": "Los Angeles, United States",
       "countries": [
         "US"
@@ -7104,7 +7137,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-21",
+      "published": "2026-10-28",
       "family_id": "570ed1410437",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
       "min_years": null,
@@ -7216,12 +7249,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:AD25AEEED8",
+      "key": "workable:toloka-ai:6B22A7F58B",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "AD25AEEED8",
+      "posting_id": "6B22A7F58B",
       "title": "Half-Day Paid Study Available - Los Angeles",
-      "url": "https://apply.workable.com/j/AD25AEEED8",
+      "url": "https://apply.workable.com/j/6B22A7F58B",
       "location": "Los Angeles, United States",
       "countries": [
         "US"
@@ -7229,7 +7262,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-21",
+      "published": "2026-10-28",
       "family_id": "729d5f7c5933",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
       "min_years": null,
@@ -10618,12 +10651,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:F60927AE4A",
+      "key": "workable:toloka-ai:BA987C6684",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "F60927AE4A",
+      "posting_id": "BA987C6684",
       "title": "Paid In-Person Study Near Pasadena - San Marino, CA",
-      "url": "https://apply.workable.com/j/F60927AE4A",
+      "url": "https://apply.workable.com/j/BA987C6684",
       "location": "Los Angeles, United States",
       "countries": [
         "US"
@@ -10631,7 +10664,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-21",
+      "published": "2026-10-28",
       "family_id": "473ba134f55c",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
       "min_years": null,
@@ -11547,12 +11580,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:A0408D2AAA",
+      "key": "workable:toloka-ai:14D0739D3A",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "A0408D2AAA",
+      "posting_id": "14D0739D3A",
       "title": "Paid Study for DIY Enthusiasts - Los Angeles",
-      "url": "https://apply.workable.com/j/A0408D2AAA",
+      "url": "https://apply.workable.com/j/14D0739D3A",
       "location": "Los Angeles, United States",
       "countries": [
         "US"
@@ -11560,7 +11593,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-21",
+      "published": "2026-10-28",
       "family_id": "d08a90c9d5f9",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
       "min_years": null,
@@ -11572,12 +11605,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:300C3B83F4",
+      "key": "workable:toloka-ai:159643D34F",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "300C3B83F4",
+      "posting_id": "159643D34F",
       "title": "Paid Study for Hands-On People - Los Angeles",
-      "url": "https://apply.workable.com/j/300C3B83F4",
+      "url": "https://apply.workable.com/j/159643D34F",
       "location": "Los Angeles, United States",
       "countries": [
         "US"
@@ -11585,7 +11618,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-21",
+      "published": "2026-10-28",
       "family_id": "e743d0cc7345",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
       "min_years": null,
@@ -12530,12 +12563,12 @@
       "extracted_by": {}
     },
     {
-      "key": "workable:toloka-ai:931DEAC50B",
+      "key": "workable:toloka-ai:F43D34BA55",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "931DEAC50B",
+      "posting_id": "F43D34BA55",
       "title": "Paid Study with Wearable Camera - Household Tasks, LA",
-      "url": "https://apply.workable.com/j/931DEAC50B",
+      "url": "https://apply.workable.com/j/F43D34BA55",
       "location": "Los Angeles, United States",
       "countries": [
         "US"
@@ -12543,7 +12576,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-21",
+      "published": "2026-10-28",
       "family_id": "e43fab76c085",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
       "min_years": null,
@@ -13761,16 +13794,16 @@
       "employment_type": "Part-time",
       "published": "2026-10-09",
       "family_id": "cfcc076d0725",
-      "description_sha1": "aa9e2b0a9152bf6f34f13cd38ce9e883a009fa5a",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
       "english_level": "C1",
-      "pay_usd_hour_max": 70.0,
+      "pay_usd_hour_max": 100.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "Strong written English (C1+).",
         "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$70/hr."
+        "pay_usd_hour_max": "$100/hr."
       },
       "extracted_by": {
         "english_level": "rules",
@@ -14766,7 +14799,7 @@
       "source": "workable",
       "company": "Mindrift (Toloka)",
       "posting_id": "1A20D705FF",
-      "title": "Physicians (MD/DO) - Review Clinical Cases for Medical AI, Remote, Up to $70/hr",
+      "title": "Physicians (MD/DO) - Review Clinical Cases for Medical AI, Remote, Up to $100/hr",
       "url": "https://apply.workable.com/j/1A20D705FF",
       "location": "Philadelphia, United States",
       "countries": [
@@ -14776,17 +14809,17 @@
       "open_to_colombia": false,
       "employment_type": "Part-time",
       "published": "2026-10-19",
-      "family_id": "4dde0d58a8ab",
-      "description_sha1": "aa9e2b0a9152bf6f34f13cd38ce9e883a009fa5a",
+      "family_id": "fb4e4ccfd402",
+      "description_sha1": "ec358544a30e7151fc69b7ed6266de50286d65eb",
       "min_years": null,
       "english_level": "C1",
-      "pay_usd_hour_max": 70.0,
+      "pay_usd_hour_max": 100.0,
       "pay_usd_year_max": null,
       "hours_per_week": "10-20",
       "evidence": {
         "english_level": "Strong written English (C1+).",
         "hours_per_week": "For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements.",
-        "pay_usd_hour_max": "$70/hr."
+        "pay_usd_hour_max": "$100/hr."
       },
       "extracted_by": {
         "english_level": "rules",
@@ -15486,12 +15519,12 @@
       }
     },
     {
-      "key": "workable:toloka-ai:366DBE4628",
+      "key": "workable:toloka-ai:1FE3495754",
       "source": "workable",
       "company": "Mindrift (Toloka)",
-      "posting_id": "366DBE4628",
+      "posting_id": "1FE3495754",
       "title": "Short-Term Paid Study - Home & DIY Tasks, Los Angeles",
-      "url": "https://apply.workable.com/j/366DBE4628",
+      "url": "https://apply.workable.com/j/1FE3495754",
       "location": "Los Angeles, United States",
       "countries": [
         "US"
@@ -15499,7 +15532,7 @@
       "remote": false,
       "open_to_colombia": false,
       "employment_type": "Part-time",
-      "published": "2026-10-21",
+      "published": "2026-10-28",
       "family_id": "35c6ffa904e7",
       "description_sha1": "51c40ebc3668bf7e5c966ee8f8eb70cf3567fa44",
       "min_years": null,
@@ -19097,6 +19130,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4748330005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4748330005",
+      "title": "Director of Partner Marketing",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748330005",
+      "location": "San Francisco, CA; New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-28",
+      "family_id": "b2d8aabea18f",
+      "description_sha1": "a973c9d9547d82e2a10bfbc98e67a8fe2ea31479",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4687384005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19684,6 +19742,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4673051005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4644742005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19711,31 +19794,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -19792,35 +19850,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4747506005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4747506005",
-      "title": "Frontier Agent Engineering Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747506005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-27",
-      "family_id": "262fca07ec23",
-      "description_sha1": "59feacddd65aad2d6c44a5e5e89591abbb80d03a",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of software engineering experience with 3+ yrs of"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4602177005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19837,6 +19866,35 @@
       "published": "2026-01-27",
       "family_id": "262fca07ec23",
       "description_sha1": "0f7b636eea93fe43d6ab98c20dab260b753e8406",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of software engineering experience with 3+ yrs of"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4747506005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4747506005",
+      "title": "Frontier Agent Engineering Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747506005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-27",
+      "family_id": "262fca07ec23",
+      "description_sha1": "59feacddd65aad2d6c44a5e5e89591abbb80d03a",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -19952,7 +20010,7 @@
       "employment_type": null,
       "published": "2026-04-20",
       "family_id": "18ca6663ffb5",
-      "description_sha1": "b2473cd549d1a59973d80ceb03681309da8b0cea",
+      "description_sha1": "5e97c355aab814a17ab1762c67769d83909c14f4",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -20659,31 +20717,6 @@
       "published": "2025-03-10",
       "family_id": "3dcd39701f38",
       "description_sha1": "b2b9606bade2f2bbe7b821da72c1f4d37fd59e4a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4687588005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4687588005",
-      "title": "National Security Hackathon 2026 - General Interest",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687588005",
-      "location": "San Francisco, CA; New York, NY; Washington, DC",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-04-29",
-      "family_id": "fefc78c2facd",
-      "description_sha1": "dc455e0abca9bf8f836742c45a11ae326f5eabda",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -22180,33 +22213,29 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4715325005",
+      "key": "greenhouse:scaleai:4730836005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4715325005",
-      "title": "Software Engineering Manager, Public Sector",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715325005",
-      "location": "Washington, DC",
+      "posting_id": "4730836005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "San Francisco, CA",
       "countries": [
         "US"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-07-14",
-      "family_id": "6ce399648d2d",
-      "description_sha1": "7f9f79cb292f00465262f9dca4ec0a9d3b436e86",
-      "min_years": 5,
+      "published": "2026-09-04",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
+      "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
       "pay_usd_year_max": null,
       "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of full-time engineering experience, post-graduation"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
+      "evidence": {},
+      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4730851005",
@@ -22250,31 +22279,6 @@
       "published": "2026-09-14",
       "family_id": "7619d51d4ad0",
       "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4730836005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730836005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "San Francisco, CA",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-04",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -22475,31 +22479,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4676610005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4676610005",
-      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-24",
-      "family_id": "56ad11a5ce2b",
-      "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4732430005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -22516,6 +22495,31 @@
       "published": "2026-09-10",
       "family_id": "56ad11a5ce2b",
       "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4676610005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4676610005",
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-24",
+      "family_id": "56ad11a5ce2b",
+      "description_sha1": "20e8d329e72cfd4050517f1722231bbd403b29cc",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -22965,6 +22969,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4748372005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4748372005",
+      "title": "Strategist, Bids & Business Development",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748372005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-28",
+      "family_id": "1269eaeb3600",
+      "description_sha1": "69221bc057476d032d1cc920e643991b03da7166",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4607930005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -23047,61 +23076,6 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4648176005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4648176005",
-      "title": "Support Specialist",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4648176005",
-      "location": "Mexico City, MX",
-      "countries": [
-        "MX"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-01-12",
-      "family_id": "b55310b8928d",
-      "description_sha1": "23ef791e9b452b437ceea1039c27b99e435e0259",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:scaleai:4716431005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4716431005",
-      "title": "Support Team Lead",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716431005",
-      "location": "Argentina; Mexico City, MX",
-      "countries": [
-        "AR",
-        "MX"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-07-27",
-      "family_id": "cb8a260e4522",
-      "description_sha1": "437bb56e5b7df1ba8d89c574f57b7a5206d27054",
-      "min_years": 2,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "Minimum 2 years of direct people management experience in a customer support or operations environment, with a demonstrated track record of leading teams, driving performance outcomes, and developing individual contributors."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
     },
     {
       "key": "greenhouse:scaleai:4689954005",
@@ -23446,7 +23420,7 @@
       "posting_id": "4743989005",
       "title": "Web Designer, Brand Web Experience",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743989005",
-      "location": "San Francisco, CA",
+      "location": "New York, NY; San Francisco, CA",
       "countries": [
         "US"
       ],
@@ -23500,31 +23474,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:6235314004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6235314004",
-      "title": "Backend Engineer, Enterprise AI",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6235314004",
-      "location": "New York, New York, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-26",
-      "family_id": "ed46ee7fa3da",
-      "description_sha1": "71db111dc16c004f62d000779f807f9b20327d4a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:turing:6228299004",
       "source": "greenhouse",
       "company": "Turing",
@@ -23552,31 +23501,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:turing:6234887004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6234887004",
-      "title": "Deployment Architect",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6234887004",
-      "location": "New York, New York, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-26",
-      "family_id": "6a62cf584de8",
-      "description_sha1": "2138d5fa98b4eb99da4bc2a2b8a10529147e7214",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:turing:6236429004",
@@ -23632,31 +23556,6 @@
       "extracted_by": {
         "pay_usd_year_max": "rules"
       }
-    },
-    {
-      "key": "greenhouse:turing:6225075004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6225075004",
-      "title": "Engagement Manager",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6225075004",
-      "location": "Dallas, Texas, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-14",
-      "family_id": "790af78ade28",
-      "description_sha1": "0ff1b8e3751e6243a430c457535b138aec3b1889",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:turing:6186761004",
@@ -24480,35 +24379,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:6233037004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6233037004",
-      "title": "Vice President, Business Development, Financial Services (BFSI)",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6233037004",
-      "location": "New York, New York, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-22",
-      "family_id": "cbc89a1a7df5",
-      "description_sha1": "123bb62b99d6ecadf73e6e9df9fde7385437527b",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": 375000.0,
-      "hours_per_week": null,
-      "evidence": {
-        "pay_usd_year_max": "$340,000-$375,000 base salary + variable compensation, equity, and additional benefits"
-      },
-      "extracted_by": {
-        "pay_usd_year_max": "rules"
-      }
-    },
-    {
       "key": "greenhouse:invisibletech:4997999101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
@@ -24598,6 +24468,32 @@
       }
     },
     {
+      "key": "greenhouse:invisibletech:4649462101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "4649462101",
+      "title": "Enterprise Solutions Associate - Data Labs",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4649462101",
+      "location": "London - Hybrid; New York - Hybrid; San Francisco Bay Area - Hybrid",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2025-08-04",
+      "family_id": "23a4fdb8fb6c",
+      "description_sha1": "f44ec319b8692d0764bc98cf4fa116c65d80a65d",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:invisibletech:4945812101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
@@ -24621,6 +24517,36 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "The Profile (2 - 4 Years Experience):"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:invisibletech:4649449101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "4649449101",
+      "title": "Enterprise Solutions Manager - Data Labs",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4649449101",
+      "location": "London - Hybrid; New York - Hybrid",
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2025-08-04",
+      "family_id": "e01bc30766bb",
+      "description_sha1": "f2f5d082ee424faa9ea5fe0812b75a63b29f4356",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years experience in a client-facing role working with enterprise accounts and stakeholder management"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -24847,60 +24773,6 @@
       }
     },
     {
-      "key": "greenhouse:invisibletech:5001107101",
-      "source": "greenhouse",
-      "company": "Invisible Technologies",
-      "posting_id": "5001107101",
-      "title": "Senior Manager of Strategic Staffing",
-      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/5001107101",
-      "location": "New York - Hybrid; San Francisco Bay Area - Hybrid",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-08",
-      "family_id": "43b978211902",
-      "description_sha1": "7f890edf289150c4ccaa80614b92dd60c8fe6922",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
-      "key": "greenhouse:invisibletech:4984239101",
-      "source": "greenhouse",
-      "company": "Invisible Technologies",
-      "posting_id": "4984239101",
-      "title": "Senior Software Engineer (Forward Deployed)",
-      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4984239101",
-      "location": "London - Hybrid",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-23",
-      "family_id": "62f469fc2db1",
-      "description_sha1": "397e583e6ee8a73721696168e607c2fd46e96017",
-      "min_years": 6,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "6+ years of software engineering experience, including significant time spent building data, ML, or backend systems"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:invisibletech:4697590101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
@@ -24929,6 +24801,35 @@
       "extracted_by": {
         "min_years": "rules",
         "pay_usd_year_max": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:invisibletech:4984239101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "4984239101",
+      "title": "Senior Software Engineer (Forward Deployed)",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4984239101",
+      "location": "London - Hybrid",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-23",
+      "family_id": "62f469fc2db1",
+      "description_sha1": "397e583e6ee8a73721696168e607c2fd46e96017",
+      "min_years": 6,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "6+ years of software engineering experience, including significant time spent building data, ML, or backend systems"
+      },
+      "extracted_by": {
+        "min_years": "rules"
       }
     },
     {
@@ -25042,35 +24943,6 @@
       }
     },
     {
-      "key": "greenhouse:invisibletech:5010247101",
-      "source": "greenhouse",
-      "company": "Invisible Technologies",
-      "posting_id": "5010247101",
-      "title": "Staffing Associate (Contract)",
-      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/5010247101",
-      "location": "United States - Remote",
-      "countries": [
-        "US"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-21",
-      "family_id": "49e61b1321c2",
-      "description_sha1": "e8d5ada7123856e5a80eaa308db5a6738e8ffec0",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of recruiting or staffing experience, including meaningful time in a staffing agency with a track record of meeting fill, placement and billable-hours targets."
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:invisibletech:4697593101",
       "source": "greenhouse",
       "company": "Invisible Technologies",
@@ -25172,6 +25044,31 @@
       "published": "2026-04-13",
       "family_id": "13b0d73bd685",
       "description_sha1": "dddf0f8cf22d1b31737990d12773c55dc1dd1d1b",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:labelbox:5278783007",
+      "source": "greenhouse",
+      "company": "Labelbox",
+      "posting_id": "5278783007",
+      "title": "Frontier Data Lead",
+      "url": "https://job-boards.greenhouse.io/labelbox/jobs/5278783007",
+      "location": "San Francisco Bay Area",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-28",
+      "family_id": "f55b670f3c1e",
+      "description_sha1": "ac820d755c73b9843846f2fea898574cc75ec890",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -26701,6 +26598,37 @@
       }
     },
     {
+      "key": "lever:rws:e8732819-c6b9-4ff1-8ac9-a31742df4c7a",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "e8732819-c6b9-4ff1-8ac9-a31742df4c7a",
+      "title": "AI Data Specialist - Marathi",
+      "url": "https://jobs.lever.co/rws/e8732819-c6b9-4ff1-8ac9-a31742df4c7a",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2026-02-20",
+      "family_id": "fc9ddbaadd85",
+      "description_sha1": "8cf8e2333004a6af2f2737256d0dd6ba3b47bbd4",
+      "min_years": null,
+      "english_level": "B2",
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "10",
+      "evidence": {
+        "hours_per_week": "Work Schedule: Part-time - 10+ hours per week.",
+        "english_level": "- English Proficiency: Fluent or advanced proficiency in English (levels B2–C2)"
+      },
+      "extracted_by": {
+        "hours_per_week": "rules",
+        "english_level": "rules"
+      }
+    },
+    {
       "key": "lever:rws:3887c975-c1a0-4ff5-b88a-60dc62b3aeb6",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -26935,31 +26863,6 @@
       "extracted_by": {
         "english_level": "rules"
       }
-    },
-    {
-      "key": "lever:rws:4c85a4da-44bd-438a-9658-9bbb16cf9456",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "4c85a4da-44bd-438a-9658-9bbb16cf9456",
-      "title": "AI Voice Recording Contributor - Arabic (Jordan)",
-      "url": "https://jobs.lever.co/rws/4c85a4da-44bd-438a-9658-9bbb16cf9456",
-      "location": "Amman; Aqaba; Irbid; Jerash; Madaba; Russeifa; Salt; Zarqa",
-      "countries": [
-        "JO"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-10-20",
-      "family_id": "b9c55de44b11",
-      "description_sha1": "dd98c79c0192692b9f5b1efbac2273dc92037f68",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "lever:rws:175c6939-981a-4229-9cd3-42850c8884af",
@@ -27910,31 +27813,6 @@
       "extracted_by": {}
     },
     {
-      "key": "lever:rws:1196a75c-547a-4e5a-bb0e-f24ada55e2df",
-      "source": "lever",
-      "company": "RWS (TrainAI)",
-      "posting_id": "1196a75c-547a-4e5a-bb0e-f24ada55e2df",
-      "title": "Legal Annotators - Portuguese (Portugal)",
-      "url": "https://jobs.lever.co/rws/1196a75c-547a-4e5a-bb0e-f24ada55e2df",
-      "location": "Lisbon",
-      "countries": [
-        "PT"
-      ],
-      "remote": true,
-      "open_to_colombia": false,
-      "employment_type": "Temporary/Contract",
-      "published": "2026-09-16",
-      "family_id": "6f5093d04374",
-      "description_sha1": "a611bbfcf8c9d208a4e52300d7b0f1f3082ddaca",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "lever:rws:23f8db78-86a3-44b5-86a4-af73039ccc9e",
       "source": "lever",
       "company": "RWS (TrainAI)",
@@ -28258,6 +28136,35 @@
       "published": "2026-10-02",
       "family_id": "58ebca77cc37",
       "description_sha1": "055bb71f9730aed08a0617e8ee31bdf5cf9517ce",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": "5",
+      "evidence": {
+        "hours_per_week": "Commit to a minimum of 5 hours per week, maximum of 20 hours per week."
+      },
+      "extracted_by": {
+        "hours_per_week": "rules"
+      }
+    },
+    {
+      "key": "lever:rws:6f8b2719-8e7b-4dd7-b4e4-5510da989354",
+      "source": "lever",
+      "company": "RWS (TrainAI)",
+      "posting_id": "6f8b2719-8e7b-4dd7-b4e4-5510da989354",
+      "title": "Search Engine Evaluator - English (India)",
+      "url": "https://jobs.lever.co/rws/6f8b2719-8e7b-4dd7-b4e4-5510da989354",
+      "location": "New Delhi",
+      "countries": [
+        "IN"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Temporary/Contract",
+      "published": "2024-10-14",
+      "family_id": "812d42f907e5",
+      "description_sha1": "3c8d34e77030812e4bd43fde949b96d93a4d8ae9",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,

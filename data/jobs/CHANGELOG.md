@@ -2,6 +2,53 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-29 · 1063 postings · +17 new · -21 closed · ~4 changed
+
+**New**
+
+- Invisible Technologies · Enterprise Solutions Manager - Data Labs · 1 (GB, US)
+- Invisible Technologies · Enterprise Solutions Associate - Data Labs · 1 (GB, US)
+- Labelbox · Frontier Data Lead · 1 (US)
+- Scale AI · Director of Partner Marketing · 1 (US)
+- Scale AI · Strategist, Bids & Business Development · 1 (GB)
+- RWS (TrainAI) · Search Engine Evaluator - English (India) · 1 (IN)
+- RWS (TrainAI) · AI Data Specialist - Marathi · 1 (IN)
+- Mindrift (Toloka) · Paid Study for DIY Enthusiasts - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Paid Study for Hands-On People - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Home & DIY Tasks, Los Angeles · 1 (US)
+- Mindrift (Toloka) · Half-Day Paid Study Available - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Everyday Tasks Research Study - Paid, Los Angeles · 1 (US)
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 1 (DE)
+- Mindrift (Toloka) · Get Paid for Everyday Tasks - In-Person Research Study, LA · 1 (US)
+- Mindrift (Toloka) · Paid In-Person Study Near Pasadena - San Marino, CA · 1 (US)
+- ... and 2 more families
+
+**Closed**
+
+- Invisible Technologies · Senior Manager of Strategic Staffing · 1 (US)
+- Invisible Technologies · Staffing Associate (Contract) · 1 (US)
+- Scale AI · Support Specialist · 1 (MX)
+- Scale AI · National Security Hackathon 2026 - General Interest · 1 (US)
+- Scale AI · Software Engineering Manager, Public Sector · 1 (US)
+- Scale AI · Support Team Lead · 1 (AR, MX)
+- Turing · Engagement Manager · 1 (US)
+- Turing · Vice President, Business Development, Financial Services (BFSI) · 1 (US)
+- Turing · Deployment Architect · 1 (US)
+- Turing · Backend Engineer, Enterprise AI · 1 (US)
+- RWS (TrainAI) · Legal Annotators - Portuguese (Portugal) · 1 (PT)
+- RWS (TrainAI) · AI Voice Recording Contributor - Arabic (Jordan) · 1 (JO)
+- Mindrift (Toloka) · Paid Study for Hands-On People - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Home & DIY Tasks, Los Angeles · 1 (US)
+- Mindrift (Toloka) · Freelance Research Participant - Home & DIY Tasks, LA · 1 (US)
+- ... and 6 more families
+
+**Changed**
+
+- Scale AI · Frontier Data Strategist · 1 (US)
+- Scale AI · Web Designer, Brand Web Experience · 1 (US)
+- Mindrift (Toloka) · Physicians (MD/DO) - Review Clinical Cases for Medical AI, Remote, Up to $100/hr · 1 (US)
+- Mindrift (Toloka) · Physician - AI Clinical Reviewer · 1 (US)
+
 ## 2026-10-28 · 1067 postings · +139 new · -71 closed · ~35 changed
 
 **New**
