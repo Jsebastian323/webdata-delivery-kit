@@ -2,6 +2,50 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-30 · 1068 postings · +89 new · -84 closed · ~25 changed
+
+**New**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Scale AI · Staff Software Engineer, Data Platform · 1 (US)
+- Scale AI · Senior Cloud Infrastructure Engineer · 1 (US)
+- Scale AI · Safety Research Scholar - Human Frontier Labs · 1 (CA, GB, US)
+- Turing · Senior DevOps & Infrastructure Engineer · 1
+- Turing · Client Director, Financial Services (BFSI) · 1 (US)
+- Turing · Marketplace Operations Lead · 1 (US)
+- Turing · Client Engagement Lead - Pharma & Life Sciences · 1 (US)
+- Turing · Social Media Manager · 1 (US)
+
+**Closed**
+
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Scale AI · Senior Software Engineer - Agentic Tooling & Productivity · 1 (US)
+- Scale AI · Technical Program Manager, Red Team · 1 (US)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - German (Germany) · 1 (DE)
+
+**Changed**
+
+- Mindrift (Toloka) · Your Voice Matters: Paid 90-Minute Research Session · 2 (US)
+- Mindrift (Toloka) · Family & Internal Medicine MD/DO - Flexible Remote Case Review · 2 (US)
+- Mindrift (Toloka) · Internal Medicine Physician (MD/DO) - Remote Chart Review, Flexible · 2 (US)
+- Mindrift (Toloka) · Hospitalist / Internist - Remote Case Review, Up to $100/hr · 2 (US)
+- Mindrift (Toloka) · Physician AI Tutor (MD/DO) - Clinical Case Review, Remote · 2 (US)
+- Mindrift (Toloka) · Board-Certified Physician - Non-Clinical Remote Case Review · 2 (US)
+- Turing · Sr. Director, Partnerships · 1 (US)
+- Turing · Account Director - Consumer Packaged Goods - Enterprise AI · 1 (US)
+- RWS (TrainAI) · Legal Annotators - Chinese (Traditional) · 1 (TW)
+- RWS (TrainAI) · Legal Annotators - Chinese (Simplified) · 1 (MY, PH)
+- RWS (TrainAI) · Brazilian Portuguese - Animals & Pets Subject Matter Expert (SME) · 1 (BR)
+- Mindrift (Toloka) · Physician (MD/DO) - Clinical AI Evaluator · 1 (US)
+- Mindrift (Toloka) · Physicians (MD/DO) - Review Clinical Cases for Medical AI, Remote, Up to $100/hr · 1 (US)
+- Mindrift (Toloka) · Licensed Physician - Medical AI Evaluation · 1 (US)
+- Mindrift (Toloka) · Internal Medicine Physician - Remote Clinical Case Review · 1 (US)
+- ... and 4 more families
+
 ## 2026-10-29 · 1063 postings · +17 new · -21 closed · ~4 changed
 
 **New**
