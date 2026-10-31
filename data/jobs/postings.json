@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:02:11+00:00",
+  "generated_at": "2026-10-31T16:08:53+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -19742,6 +19742,31 @@
       }
     },
     {
+      "key": "greenhouse:scaleai:4673051005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
+      "location": "New York, NY",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-03-13",
+      "family_id": "bb124c68a31d",
+      "description_sha1": "9546d30153d543040a3cc82eb5bacc7a22012cba",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
       "key": "greenhouse:scaleai:4644742005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19769,31 +19794,6 @@
       "extracted_by": {
         "min_years": "rules"
       }
-    },
-    {
-      "key": "greenhouse:scaleai:4673051005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4673051005",
-      "title": "Forward Deployed Product Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673051005",
-      "location": "New York, NY",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-03-13",
-      "family_id": "bb124c68a31d",
-      "description_sha1": "e5bd84e648c72621c310c4f051488e2fe1f72828",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
     },
     {
       "key": "greenhouse:scaleai:4713648005",
@@ -19850,35 +19850,6 @@
       }
     },
     {
-      "key": "greenhouse:scaleai:4743438005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4743438005",
-      "title": "Frontier Agent Engineering Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743438005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-16",
-      "family_id": "262fca07ec23",
-      "description_sha1": "8da4967d01329df60c30080d7235c1c25de54e04",
-      "min_years": 5,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {
-        "min_years": "5+ years of software engineering experience with 3+ yrs of"
-      },
-      "extracted_by": {
-        "min_years": "rules"
-      }
-    },
-    {
       "key": "greenhouse:scaleai:4747506005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -19924,6 +19895,35 @@
       "published": "2026-01-27",
       "family_id": "262fca07ec23",
       "description_sha1": "0f7b636eea93fe43d6ab98c20dab260b753e8406",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of software engineering experience with 3+ yrs of"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:scaleai:4743438005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4743438005",
+      "title": "Frontier Agent Engineering Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743438005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-16",
+      "family_id": "262fca07ec23",
+      "description_sha1": "8da4967d01329df60c30080d7235c1c25de54e04",
       "min_years": 5,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -20188,6 +20188,35 @@
       "hours_per_week": null,
       "evidence": {},
       "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4748981005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4748981005",
+      "title": "Head of Corporate Accounting",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748981005",
+      "location": "San Francisco, CA",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-30",
+      "family_id": "5e770fc522a9",
+      "description_sha1": "f64c92381d27ae79400fd9c623e9a0d5e74a286a",
+      "min_years": 12,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "12+ years of progressive accounting experience across public accounting and corporate accounting leadership roles; Big 4 experience preferred"
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
     },
     {
       "key": "greenhouse:scaleai:4662232005",
@@ -22171,22 +22200,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730846005",
+      "key": "greenhouse:scaleai:4730845005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730846005",
+      "posting_id": "4730845005",
       "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "location": "San Francisco, CA",
       "countries": [
-        "GB"
+        "US"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-14",
+      "published": "2026-09-04",
       "family_id": "560d46ffe696",
-      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
+      "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -22221,22 +22250,22 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730845005",
+      "key": "greenhouse:scaleai:4730846005",
       "source": "greenhouse",
       "company": "Scale AI",
-      "posting_id": "4730845005",
+      "posting_id": "4730846005",
       "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
       "countries": [
-        "US"
+        "GB"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-04",
+      "published": "2026-09-14",
       "family_id": "560d46ffe696",
-      "description_sha1": "dc4f87845fc65cb157ea659ab6fec04e80973b22",
+      "description_sha1": "1f515447f66be9fd6cc976b6d8fef0fffe695788",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -22271,31 +22300,6 @@
       "extracted_by": {}
     },
     {
-      "key": "greenhouse:scaleai:4730862005",
-      "source": "greenhouse",
-      "company": "Scale AI",
-      "posting_id": "4730862005",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
-      "location": "London, UK",
-      "countries": [
-        "GB"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-09-14",
-      "family_id": "7619d51d4ad0",
-      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
-      "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
-    },
-    {
       "key": "greenhouse:scaleai:4730836005",
       "source": "greenhouse",
       "company": "Scale AI",
@@ -22312,6 +22316,31 @@
       "published": "2026-09-04",
       "family_id": "7619d51d4ad0",
       "description_sha1": "4ee6a5385b1d5f87b1cd3b4028c91f70bc4dee50",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:scaleai:4730862005",
+      "source": "greenhouse",
+      "company": "Scale AI",
+      "posting_id": "4730862005",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+      "location": "London, UK",
+      "countries": [
+        "GB"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-14",
+      "family_id": "7619d51d4ad0",
+      "description_sha1": "52886782f3ca6da42f677b3b0b3b3b7202382e3a",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -22552,7 +22581,7 @@
       "employment_type": null,
       "published": "2026-09-10",
       "family_id": "56ad11a5ce2b",
-      "description_sha1": "45b895b62f56c605441070840800674c4095b71f",
+      "description_sha1": "8b4c910c5235af9015ab821c7ebf7861b1eb5a8d",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -23760,35 +23789,6 @@
       }
     },
     {
-      "key": "greenhouse:turing:6237590004",
-      "source": "greenhouse",
-      "company": "Turing",
-      "posting_id": "6237590004",
-      "title": "Forward Deployed AI Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6237590004",
-      "location": "Los Angeles, California, United States",
-      "countries": [
-        "US"
-      ],
-      "remote": null,
-      "open_to_colombia": false,
-      "employment_type": null,
-      "published": "2026-10-28",
-      "family_id": "ce4569cc8dc6",
-      "description_sha1": "071d3a7eab31e956b769c8e8a1a044d0ecad59ca",
-      "min_years": null,
-      "english_level": null,
-      "pay_usd_hour_max": null,
-      "pay_usd_year_max": 250000.0,
-      "hours_per_week": null,
-      "evidence": {
-        "pay_usd_year_max": "$200,000–$250,000 base salary + equity"
-      },
-      "extracted_by": {
-        "pay_usd_year_max": "rules"
-      }
-    },
-    {
       "key": "greenhouse:turing:6192730004",
       "source": "greenhouse",
       "company": "Turing",
@@ -23818,29 +23818,33 @@
       }
     },
     {
-      "key": "greenhouse:turing:6192725004",
+      "key": "greenhouse:turing:6237590004",
       "source": "greenhouse",
       "company": "Turing",
-      "posting_id": "6192725004",
-      "title": "Forward-Deployed AI Engineer",
-      "url": "https://job-boards.greenhouse.io/turing/jobs/6192725004",
-      "location": "Bengaluru, Karnataka, India",
+      "posting_id": "6237590004",
+      "title": "Forward Deployed AI Engineer",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6237590004",
+      "location": "Los Angeles, California, United States",
       "countries": [
-        "IN"
+        "US"
       ],
       "remote": null,
       "open_to_colombia": false,
       "employment_type": null,
-      "published": "2026-09-24",
-      "family_id": "3608d6dd4038",
-      "description_sha1": "f5e2b27cc59a4ea5a6ecce1663fcb1a86c304410",
+      "published": "2026-10-28",
+      "family_id": "ce4569cc8dc6",
+      "description_sha1": "071d3a7eab31e956b769c8e8a1a044d0ecad59ca",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
-      "pay_usd_year_max": null,
+      "pay_usd_year_max": 250000.0,
       "hours_per_week": null,
-      "evidence": {},
-      "extracted_by": {}
+      "evidence": {
+        "pay_usd_year_max": "$200,000–$250,000 base salary + equity"
+      },
+      "extracted_by": {
+        "pay_usd_year_max": "rules"
+      }
     },
     {
       "key": "greenhouse:turing:6192729004",
@@ -23859,6 +23863,31 @@
       "published": "2026-09-24",
       "family_id": "3608d6dd4038",
       "description_sha1": "e7cfbcd0b5d3e2db0e83cd35cf9cf6d95e442279",
+      "min_years": null,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {},
+      "extracted_by": {}
+    },
+    {
+      "key": "greenhouse:turing:6192725004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6192725004",
+      "title": "Forward-Deployed AI Engineer",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6192725004",
+      "location": "Bengaluru, Karnataka, India",
+      "countries": [
+        "IN"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-09-24",
+      "family_id": "3608d6dd4038",
+      "description_sha1": "f5e2b27cc59a4ea5a6ecce1663fcb1a86c304410",
       "min_years": null,
       "english_level": null,
       "pay_usd_hour_max": null,
@@ -24058,6 +24087,35 @@
       "hours_per_week": null,
       "evidence": {
         "min_years": "4–5 years of experience building or improving deep learning systems where data quality mattered materially (training, post-training, evals, or agentic systems)."
+      },
+      "extracted_by": {
+        "min_years": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:turing:6236593004",
+      "source": "greenhouse",
+      "company": "Turing",
+      "posting_id": "6236593004",
+      "title": "Research Partner - Frontier AI Sales",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6236593004",
+      "location": "Palo Alto, California, United States; San Francisco, California, United States",
+      "countries": [
+        "US"
+      ],
+      "remote": null,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-30",
+      "family_id": "c0ff18ee2702",
+      "description_sha1": "546f78e007423cc0f77cdd6b8f6da707bd86f8c2",
+      "min_years": 7,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "7+ years of relevant sales or business development experience"
       },
       "extracted_by": {
         "min_years": "rules"
@@ -25104,6 +25162,35 @@
       },
       "extracted_by": {
         "pay_usd_year_max": "rules"
+      }
+    },
+    {
+      "key": "greenhouse:invisibletech:5010247101",
+      "source": "greenhouse",
+      "company": "Invisible Technologies",
+      "posting_id": "5010247101",
+      "title": "Staffing Associate (Contract)",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/5010247101",
+      "location": "United States - Remote",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": null,
+      "published": "2026-10-21",
+      "family_id": "49e61b1321c2",
+      "description_sha1": "896c88f39650e875afad15c7f9a18fe2a72b0e51",
+      "min_years": 5,
+      "english_level": null,
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "min_years": "5+ years of recruiting or staffing experience, including high-volume, fast-turnaround staffing of niche profiles, ideally in a talent marketplace or AI data environment."
+      },
+      "extracted_by": {
+        "min_years": "rules"
       }
     },
     {

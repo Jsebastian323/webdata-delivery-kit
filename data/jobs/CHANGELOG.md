@@ -2,6 +2,19 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-10-31 · 1071 postings · +3 new · -0 closed · ~2 changed
+
+**New**
+
+- Invisible Technologies · Staffing Associate (Contract) · 1 (US)
+- Scale AI · Head of Corporate Accounting · 1 (US)
+- Turing · Research Partner - Frontier AI Sales · 1 (US)
+
+**Changed**
+
+- Scale AI · Forward Deployed Product Manager, Enterprise · 1 (US)
+- Scale AI · Staff Full-Stack Software Engineer, (Forward Deployed), GPS · 1 (SA)
+
 ## 2026-10-30 · 1068 postings · +89 new · -84 closed · ~25 changed
 
 **New**
