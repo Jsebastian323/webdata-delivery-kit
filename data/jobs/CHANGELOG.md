@@ -2,6 +2,65 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-02 · 1067 postings · +204 new · -208 closed · ~174 changed
+
+**New**
+
+- Mindrift (Toloka) · Paid Study for Retirees and Native Arabic Speakers from Saudi Arabia - N · 3 (US)
+- Mindrift (Toloka) · Saudi Arabic Speakers Wanted - Paid Smartphone Study, NYC · 2 (US)
+- Invisible Technologies · Corporate Counsel · 1 (US)
+- Turing · Vice President, Business Development (BFSI) · 1 (US)
+- Mindrift (Toloka) · Danish Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Polish Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Finnish Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Austrian German Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Side Income for Portuguese Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Native Swedish Speakers from Sweden - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Native Swiss German Speakers - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Side Income for Finnish Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Japanese Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Japanese Speakers, NYC · 1 (US)
+- Mindrift (Toloka) · Bilingual Flemish-English Participant - Paid UX Study, New York · 1 (US)
+- ... and 186 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Earn up to $1,600 - 3-Day German Language Study in NYC · 2 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native German Speakers - NYC · 2 (US)
+- Mindrift (Toloka) · Earn up to $1,600 - 3-Day Arabic Language Study in NYC · 2 (US)
+- Mindrift (Toloka) · Flexible Gig for German Speakers - 3-Day Paid Study, NYC · 2 (US)
+- Mindrift (Toloka) · Saudi Arabic Speakers Wanted - Paid Smartphone Study, NYC · 2 (US)
+- Mindrift (Toloka) · German Translators and Native Speakers - Paid Study in NYC · 2 (US)
+- Mindrift (Toloka) · Bilingual German-English Participant - Paid UX Study, New York · 2 (US)
+- Mindrift (Toloka) · Side Income for German Speakers - 3-Day Paid Study, NYC · 2 (US)
+- Scale AI · Software Engineer, Enterprise · 1 (GB)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Dutch Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Dutch Speaker Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Polish Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Native Austrian German Speakers - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Polish Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Betald studie i New York - För svenska modersmålstalare (1 200-1 600 USD) · 1 (US)
+- ... and 185 more families
+
+**Changed**
+
+- Mindrift (Toloka) · Your Voice Matters: Paid 90-Minute Research Session · 4 (US)
+- Mindrift (Toloka) · Side Income: $110 for One In-Person Study Session (South Bay) · 3 (US)
+- Mindrift (Toloka) · In-Person Research Session in Santa Clara: $110 · 3 (US)
+- Mindrift (Toloka) · One-Time Paid Research Session in Santa Clara Valley · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · 90 Minutes of Conversation: Paid Research Study · 3 (US)
+- Mindrift (Toloka) · Talk About Everyday Topics, Earn $110 in 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: 90 Minutes · 3 (US)
+- Mindrift (Toloka) · $110 One-Time Paid Study - No Experience Needed (Santa Clara) · 3 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: In-Person Research Study, South Bay · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: $110 for a 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Take Part in a Paid 90-Minute In-Person Study · 3 (US)
+- Mindrift (Toloka) · $110 for 90 Minutes of Conversation: Paid Research Study · 3 (US)
+- Mindrift (Toloka) · Research Participants Needed: $110 for One 90-Minute Session · 3 (US)
+- Mindrift (Toloka) · Quick and Simple: Paid 90-Minute Conversation Study · 3 (US)
+- ... and 80 more families
+
 ## 2026-11-01 · 1071 postings · +0 new · -0 closed · ~0 changed
 
 ## 2026-10-31 · 1071 postings · +3 new · -0 closed · ~2 changed
