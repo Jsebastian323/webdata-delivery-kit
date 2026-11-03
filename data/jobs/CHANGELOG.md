@@ -2,6 +2,65 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-03 · 1064 postings · +244 new · -247 closed · ~21 changed
+
+**New**
+
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 28 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Small-Group Conversation Study: $110 for One Visit · 3 (US)
+- Mindrift (Toloka) · Paid Conversation Study: $110 for a Single 90-Minute Session · 3 (US)
+- Mindrift (Toloka) · Take Part in a Paid In-Person Research Study: One Session · 3 (US)
+- Mindrift (Toloka) · Research Participants Wanted in South Bay: $110 · 3 (US)
+- Mindrift (Toloka) · Your Voice Matters: $110 for a 90-Minute Research Session · 3 (US)
+- Mindrift (Toloka) · Research Participants Needed: $110 for One 90-Minute Session · 3 (US)
+- Mindrift (Toloka) · One Session, $110: Join Our In-Person Research Study · 3 (US)
+- Mindrift (Toloka) · One-Time Paid Research Session in Santa Clara Valley · 3 (US)
+- Mindrift (Toloka) · Paid Group Discussion Study: $110 for 90 Minutes · 3 (US)
+- Mindrift (Toloka) · $110 for One Visit: Paid Research Study, No Preparation Needed · 3 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: Paid Research Study · 3 (US)
+- Mindrift (Toloka) · Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session · 3 (US)
+- ... and 71 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Your Voice Matters: Paid 90-Minute Research Session · 4 (US)
+- Mindrift (Toloka) · Side Income: $110 for One In-Person Study Session (South Bay) · 3 (US)
+- Mindrift (Toloka) · In-Person Research Session in Santa Clara: $110 · 3 (US)
+- Mindrift (Toloka) · One-Time Paid Research Session in Santa Clara Valley · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · 90 Minutes of Conversation: Paid Research Study · 3 (US)
+- Mindrift (Toloka) · Talk About Everyday Topics, Earn $110 in 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: 90 Minutes · 3 (US)
+- Mindrift (Toloka) · $110 One-Time Paid Study - No Experience Needed (Santa Clara) · 3 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: In-Person Research Study, South Bay · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: $110 for a 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Take Part in a Paid 90-Minute In-Person Study · 3 (US)
+- ... and 76 more families
+
+**Changed**
+
+- Invisible Technologies · Research Engineer · 1 (US)
+- Scale AI · Software Engineer, Enterprise AI · 1 (US)
+- Scale AI · Infrastructure Software Engineer, Enterprise GenAI · 1 (US)
+- Scale AI · Engineering Manager, Customer Platform (GenAI) · 1 (US)
+- Scale AI · Senior Cloud Infrastructure Engineer · 1 (US)
+- Turing · Sr. Director, Partnerships · 1 (US)
+- Turing · Client Director, Financial Services (BFSI) · 1 (US)
+- Turing · Account Director, Enterprise AI - Consumer Packaged Goods · 1 (US)
+- Turing · Account Executive, Frontier AI · 1 (US)
+- Turing · Client Engagement Lead - Pharma & Life Sciences · 1 (US)
+- RWS (TrainAI) · AI Linguistic Quality Evaluator - Bengali (Singapore) · 1 (SG)
+- RWS (TrainAI) · AI Linguistic Quality Evaluator - Hindi (Singapore) · 1 (SG)
+- Mindrift (Toloka) · Paid Research Study for Arabic Speakers from Saudi Arabia - Midtown Manhattan · 1 (US)
+- Mindrift (Toloka) · Side Income for Arabic Speakers from Saudi Arabia - 3-Day Paid Study, NY · 1 (US)
+- Mindrift (Toloka) · Native Arabic Speakers from Saudi Arabia in NYC: Paid In-Person Research Study · 1 (US)
+- ... and 6 more families
+
 ## 2026-11-02 · 1067 postings · +204 new · -208 closed · ~174 changed
 
 **New**
