@@ -2,6 +2,65 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-04 · 1093 postings · +88 new · -59 closed · ~301 changed
+
+**New**
+
+- Mindrift (Toloka) · Physician (MD/DO) - Put Medical AI to the Test, Remote · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Scale AI · Growth Program Manager · 1 (US)
+- Scale AI · Quality Lead, Gen AI · 1 (US)
+- Scale AI · Senior Applied AI Engineer · 1 (GB)
+- Turing · Senior Software Engineer · 1 (BR)
+- RWS (TrainAI) · AI Data Quality Rater - United States · 1 (US)
+- Mindrift (Toloka) · Get Paid $200 for Everyday Household Tasks - LA Study · 1 (US)
+- Mindrift (Toloka) · Earn $200 in One Day - Household Tasks Study, LA · 1 (US)
+- Mindrift (Toloka) · $100 Half-Day Paid Study - Home & DIY Tasks, Los Angeles · 1 (US)
+- Mindrift (Toloka) · Paid Study for DIY Enthusiasts - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Research Participant - Finnish, Polish, Arabic, Hebrew Speakers · 1 (US)
+- Mindrift (Toloka) · Flexible Paid Study - Mornings, Evenings or Weekends, $200, LA · 1 (US)
+- Mindrift (Toloka) · Paid Study with Wearable Camera - Household Tasks, LA · 1 (US)
+- Mindrift (Toloka) · Paid Study for Hands-On People - Los Angeles · 1 (US)
+- ... and 25 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Invisible Technologies · Principal Backend Engineer (Forward Deployed) · 1 (US)
+- Scale AI · Applied AI Engineer, Global Public Sector · 1 (GB, QA)
+- Scale AI · Senior Cloud Infrastructure Engineer · 1 (US)
+- Mindrift (Toloka) · Paid Study for DIY Enthusiasts - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Paid Study for Hands-On People - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Paid Research Study in Los Angeles - $200 per Session · 1 (US)
+- Mindrift (Toloka) · Get Paid $200 for Everyday Household Tasks - LA Study · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Home & DIY Tasks, Los Angeles · 1 (US)
+- Mindrift (Toloka) · Flexible One-Day Paid Study - San Marino, CA · 1 (US)
+- Mindrift (Toloka) · Paid Research Study Participant - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Weekend Paid Study in LA - Up to $200 per Session · 1 (US)
+- Mindrift (Toloka) · Paid Study Participant - $200 per Day, San Marino / Mid-City LA · 1 (US)
+- Mindrift (Toloka) · Paid DIY & Home Improvement Study - Los Angeles · 1 (US)
+- Mindrift (Toloka) · Side Income Opportunity - $200 Paid Study in Los Angeles · 1 (US)
+- ... and 22 more families
+
+**Changed**
+
+- Mindrift (Toloka) · Paid Study for Retirees and Native Arabic Speakers from Saudi Arabia · 3 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Italian Speakers, Manhattan · 2 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Hebrew Speakers · 2 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Arabic Speakers · 2 (US)
+- Mindrift (Toloka) · Saudi Arabic Speakers Wanted - Paid Smartphone Study, NYC · 2 (US)
+- Scale AI · Research Scientist, Agent Robustness · 1 (US)
+- Scale AI · Research Scientist, AI Controls and Monitoring · 1 (US)
+- Scale AI · Research Scientist, Frontier Risk Evaluations · 1 (US)
+- Scale AI · Research Scientist, Safety Post Training · 1 (US)
+- Scale AI · Staff Applied AI Engineer · 1 (GB)
+- Scale AI · Engagement Manager, Public Sector (Midwest) · 1
+- Turing · Account Executive, Frontier AI · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Italian (Italy) · 1 (IT)
+- RWS (TrainAI) · AI Data Specialist - Tamil · 1 (IN)
+- RWS (TrainAI) · AI Data Specialist - Telugu · 1 (IN)
+- ... and 280 more families
+
 ## 2026-11-03 · 1064 postings · +244 new · -247 closed · ~21 changed
 
 **New**
