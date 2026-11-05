@@ -2,6 +2,48 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-05 · 1099 postings · +78 new · -72 closed · ~139 changed
+
+**New**
+
+- Mindrift (Toloka) · CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Mindrift (Toloka) · CAD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- RWS (TrainAI) · AI Voice Recording Contributor - Chinese Simplified · 4 (ID, MY, SG, TW)
+- Scale AI · Strategic Finance Manager, BU Partnership · 1 (US)
+- Scale AI · Principal Software Engineer, GPS · 1 (GB)
+- Turing · Senior Product Manager, AI · 1 (US)
+- Turing · Strategic Account Director, Enterprise AI (CPG) · 1 (US)
+- RWS (TrainAI) · AI Voice Recording Contributor - French (Canada) · 1 (CA)
+
+**Closed**
+
+- Mindrift (Toloka) · CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Mindrift (Toloka) · CAD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Scale AI · Field Engineer, Data Engine · 1 (US)
+- Scale AI · Forward Deployed Product Manager, Enterprise · 1 (GB)
+- Scale AI · Product Leadership, Enterprise Core Platform · 1 (GB)
+
+**Changed**
+
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 28 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Put Medical AI to the Test, Remote · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Family & Internal Medicine MD/DO - Flexible Remote Case Review · 2 (US)
+- Mindrift (Toloka) · Internal Medicine Physician (MD/DO) - Remote Chart Review, Flexible · 2 (US)
+- Mindrift (Toloka) · Hospitalist / Internist - Remote Case Review, Up to $100/hr · 2 (US)
+- Mindrift (Toloka) · Physician AI Tutor (MD/DO) - Clinical Case Review, Remote · 2 (US)
+- Mindrift (Toloka) · Board-Certified Physician - Non-Clinical Remote Case Review · 2 (US)
+- Scale AI · Principal Architect · 1 (US)
+- Scale AI · Field Engineer, Public Sector · 1 (US)
+- Scale AI · Expansion Specialist, Bids & Business Development · 1 (GB)
+- Scale AI · Growth Program Manager · 1 (US)
+- Turing · AI Engagement Lead · 1 (US)
+- Turing · Account Director, Enterprise AI - Consumer Packaged Goods · 1 (US)
+- ... and 14 more families
+
 ## 2026-11-04 · 1093 postings · +88 new · -59 closed · ~301 changed
 
 **New**
