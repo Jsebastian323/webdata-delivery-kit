@@ -2,6 +2,65 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-06 · 1134 postings · +140 new · -105 closed · ~37 changed
+
+**New**
+
+- Mindrift (Toloka) · Physician (MD/DO) - Put Medical AI to the Test, Remote · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Record Videos at Home with Your iPhone - Get $70 · 22 (US)
+- Mindrift (Toloka) · iPhone Video Data Collection - Paid Task ($70) · 22 (US)
+- Mindrift (Toloka) · Earn $70 Recording Videos at Home for AI · 22 (US)
+- Mindrift (Toloka) · Record Video at Home for AI - $70 One-Time Task · 21 (US)
+- Mindrift (Toloka) · On-Site Recruitment Coordinator (Temporary Employee) · 4 (US)
+- Mindrift (Toloka) · Hospitalist / Internist - Remote Case Review, Up to $100/hr · 2 (US)
+- Mindrift (Toloka) · Physician AI Tutor (MD/DO) - Clinical Case Review, Remote · 2 (US)
+- Mindrift (Toloka) · Family & Internal Medicine MD/DO - Flexible Remote Case Review · 2 (US)
+- Mindrift (Toloka) · Internal Medicine Physician (MD/DO) - Remote Chart Review, Flexible · 2 (US)
+- Mindrift (Toloka) · Board-Certified Physician - Non-Clinical Remote Case Review · 2 (US)
+- Invisible Technologies · Principal Backend Engineer (Forward Deployed) · 1 (US)
+- Scale AI · Staff Software Engineer, AI Developer Tooling · 1 (US)
+- Scale AI · Engagement Manager · 1
+- Scale AI · Applied AI Engineer · 1
+- ... and 8 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Put Medical AI to the Test, Remote · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Siswati · 2 (SZ, ZA)
+- Mindrift (Toloka) · Family & Internal Medicine MD/DO - Flexible Remote Case Review · 2 (US)
+- Mindrift (Toloka) · Internal Medicine Physician (MD/DO) - Remote Chart Review, Flexible · 2 (US)
+- Mindrift (Toloka) · Hospitalist / Internist - Remote Case Review, Up to $100/hr · 2 (US)
+- Mindrift (Toloka) · Physician AI Tutor (MD/DO) - Clinical Case Review, Remote · 2 (US)
+- Mindrift (Toloka) · Board-Certified Physician - Non-Clinical Remote Case Review · 2 (US)
+- Invisible Technologies · Senior DevOps Engineer · 1 (GB)
+- Invisible Technologies · Site Reliability Engineer (Contract, Rotation-Based) · 1 (IN, ZA)
+- Invisible Technologies · Senior Data Product Owner · 1 (US)
+- Turing · Product Manager · 1 (IN)
+- RWS (TrainAI) · Speech AI Evaluation Specialist - Chinese Simplified (Thailand) · 1 (TH)
+- RWS (TrainAI) · AI Conversation Recording Contributor - German (Germany) · 1 (DE)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Afrikaans (South Africa) · 1 (ZA)
+- ... and 32 more families
+
+**Changed**
+
+- Scale AI · Frontier Agent Engineering Manager, Enterprise · 2 (US)
+- Invisible Technologies · Data Scientist (Forward Deployed) · 1 (US)
+- Invisible Technologies · Senior Data Scientist (Forward Deployed) · 1 (US)
+- Scale AI · Strategic Projects Lead, Generative AI · 1 (US)
+- Scale AI · Senior / Staff Machine Learning Research Scientist, Agents · 1 (US)
+- Scale AI · Software Engineer, Enterprise AI · 1 (US)
+- Scale AI · Software Engineer, Platform · 1 (US)
+- Scale AI · Principal Architect · 1 (US)
+- Scale AI · Machine Learning Engineer, Public Sector · 1 (US)
+- Scale AI · Security Engineer, Product Security · 1 (US)
+- Scale AI · Head of GTM Strategy & Operations, Enterprise · 1 (US)
+- Scale AI · Senior Accountant · 1 (US)
+- Scale AI · Infrastructure Software Engineer, Enterprise GenAI · 1 (US)
+- Scale AI · Forward Deployed Product Manager, Enterprise · 1 (US)
+- Scale AI · Research Scientist, Agent Robustness · 1 (US)
+- ... and 21 more families
+
 ## 2026-11-05 · 1099 postings · +78 new · -72 closed · ~139 changed
 
 **New**
