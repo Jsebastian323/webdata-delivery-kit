@@ -2,6 +2,47 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-07 · 1192 postings · +121 new · -63 closed · ~7 changed
+
+**New**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 37 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Put Medical AI to the Test, Remote · 7 (US)
+- Scale AI · Technical Revenue Accounting Manager · 1 (US)
+- Turing · Growth Analyst (Paid Acquisition) · 1 (IN)
+- Turing · Performance Marketing Analyst, Paid Acquisition · 1 (IN)
+- Turing · Senior Technical Recruiter, Frontier AI · 1 (ZA)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Estonian · 1 (EE)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Nepali · 1 (NP)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Swedish · 1 (SE)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Beira Portuguese · 1 (PT)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Danish · 1 (DK)
+
+**Closed**
+
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 28 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 27 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Scale AI · Lead Counsel, Product · 1 (US)
+- Scale AI · Research Scientist, AI Controls and Monitoring · 1 (US)
+- Scale AI · Research Scientist, Frontier Risk Evaluations · 1 (US)
+- Scale AI · Research Scientist, Safety Post Training · 1 (US)
+- Scale AI · AI Advisory Principal · 1 (US)
+- Scale AI · Engineering Manager, Infrastructure · 1 (GB)
+- Mindrift (Toloka) · $110 Paid Study for Non-Native English Speakers · 1 (US)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation (Remote, Part-Time) · 1 (US)
+
+**Changed**
+
+- Scale AI · STEM Fellow - Human Frontier Collective · 1 (US)
+- Scale AI · Research Scientist, AI Safety and Alignment · 1 (US)
+- Scale AI · Deployment Strategist, Space Systems Command · 1 (US)
+- Scale AI · AI Safety Residency - SLPreP · 1 (CA, GB, US)
+- Scale AI · Head of Corporate Accounting · 1 (US)
+- Mindrift (Toloka) · Paid Smartphone Habits Study in NYC - Bilingual Speakers · 1 (US)
+- Mindrift (Toloka) · $110 Paid Study for Non-Native English Speakers · 1 (US)
+
 ## 2026-11-06 · 1134 postings · +140 new · -105 closed · ~37 changed
 
 **New**
