@@ -2,6 +2,16 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-08 · 1193 postings · +1 new · -0 closed · ~1 changed
+
+**New**
+
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation (Remote, Part-Time) · 1 (US)
+
+**Changed**
+
+- Turing · Senior Technical Recruiter, Frontier AI · 1 (ZA)
+
 ## 2026-11-07 · 1192 postings · +121 new · -63 closed · ~7 changed
 
 **New**

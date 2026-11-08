@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:52:50+00:00",
+  "generated_at": "2026-11-08T17:06:07+00:00",
   "boards": [
     "workable:toloka-ai",
     "workable:huggingface",
@@ -15148,6 +15148,35 @@
       }
     },
     {
+      "key": "workable:toloka-ai:FAD64C6ADB",
+      "source": "workable",
+      "company": "Mindrift (Toloka)",
+      "posting_id": "FAD64C6ADB",
+      "title": "Physician (MD/DO) - Medical AI Evaluation (Remote, Part-Time)",
+      "url": "https://apply.workable.com/j/FAD64C6ADB",
+      "location": "United States",
+      "countries": [
+        "US"
+      ],
+      "remote": true,
+      "open_to_colombia": false,
+      "employment_type": "Part-time",
+      "published": "2026-11-08",
+      "family_id": "4687a87f2d19",
+      "description_sha1": "396ce501d252273bd897d5e7fe7d98697b261433",
+      "min_years": null,
+      "english_level": "C1",
+      "pay_usd_hour_max": null,
+      "pay_usd_year_max": null,
+      "hours_per_week": null,
+      "evidence": {
+        "english_level": "Strong written English (C1+)."
+      },
+      "extracted_by": {
+        "english_level": "rules"
+      }
+    },
+    {
       "key": "workable:toloka-ai:55E9133191",
       "source": "workable",
       "company": "Mindrift (Toloka)",
@@ -27885,7 +27914,7 @@
       "employment_type": null,
       "published": "2026-11-07",
       "family_id": "7cbbff23f11e",
-      "description_sha1": "3586ef8c93e38df781f82128b15c7b6c00e4a9dc",
+      "description_sha1": "5250bac960eef255e772b1d79a6be6eef51c1c5c",
       "min_years": 7,
       "english_level": null,
       "pay_usd_hour_max": null,
