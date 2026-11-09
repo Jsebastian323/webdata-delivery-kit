@@ -2,6 +2,50 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-09 · 1199 postings · +72 new · -66 closed · ~1 changed
+
+**New**
+
+- Scale AI · AI Policy Lead · 1 (US)
+- Scale AI · US Executive Branch Policy & International Engagement Lead · 1 (US)
+- RWS (TrainAI) · Generative Audio Evaluation - Spanish (Spain) · 1 (ES)
+- RWS (TrainAI) · Linguistic AI Auditor - Malay (Singapore) · 1 (SG)
+- RWS (TrainAI) · Linguistic AI Auditor - Tamil (Singapore) · 1 (SG)
+- RWS (TrainAI) · Linguistic AI Auditor - Bengali (Singapore) · 1 (SG)
+- RWS (TrainAI) · Linguistic AI Auditor - Chinese Simplified (Singapore) · 1 (SG)
+- RWS (TrainAI) · Generative Audio Evaluation - Portuguese (Portugal) · 1 (PT)
+- Mindrift (Toloka) · Japanese Translators and Native Speakers - Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Flexible Gig for Japanese Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Japanese Speaker Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Student Gig - French Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Korean Speakers - Midtown Manhattan · 1 (US)
+- Mindrift (Toloka) · Paid Research Study · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Korean Speakers, Manhattan · 1 (US)
+- ... and 57 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Side Income for Portuguese Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Japanese Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Japanese Speakers, NYC · 1 (US)
+- Mindrift (Toloka) · Japanese Speakers from Japan - Paid Study Participant, NYC · 1 (US)
+- Mindrift (Toloka) · European Portuguese Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native French Speakers, NYC · 1 (US)
+- Mindrift (Toloka) · Native European Portuguese Speakers - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Korean Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Flexible Gig for Japanese Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · European Portuguese Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Student Gig - Japanese Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Italian Speakers, Manhattan · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Portuguese Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Korean Speakers from South Korea - Paid Study Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Flexible Gig for French Speakers - 3-Day Paid Study, NYC · 1 (US)
+- ... and 51 more families
+
+**Changed**
+
+- Scale AI · Research Scientist, AI Safety and Alignment · 1 (US)
+
 ## 2026-11-08 · 1193 postings · +1 new · -0 closed · ~1 changed
 
 **New**
