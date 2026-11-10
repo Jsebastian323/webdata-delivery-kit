@@ -2,6 +2,56 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-10 · 1154 postings · +80 new · -125 closed · ~91 changed
+
+**New**
+
+- Mindrift (Toloka) · Paid Study for International Students - Native German Speakers from Aust · 2 (US)
+- Mindrift (Toloka) · Bezahlte Studie in New York - Deutsch-Muttersprachler:innen aus Österrei · 2 (US)
+- Scale AI · Senior Applied AI Engineer · 1
+- Turing · Technical Delivery Lead, Emerging · 1 (IN)
+- Turing · Research Engineering Manager, STEM · 1 (US)
+- RWS (TrainAI) · Linguistic AI Auditor - French From Canda · 1 (CA)
+- RWS (TrainAI) · AI Voice Recording Contributor - English (Australia) · 1 (AU)
+- Mindrift (Toloka) · Flexible Gig for Swiss Italian Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Swiss German Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Dutch Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Bilingual Italian-English Participant from Switzerland - Paid UX Study, New York · 1 (US)
+- Mindrift (Toloka) · Flexible Gig for Swiss German Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Swiss Italian Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Dutch Translators and Native Speakers - Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Italian Translators and Swiss Native Speakers - Paid Study in NYC · 1 (US)
+- ... and 63 more families
+
+**Closed**
+
+- Mindrift (Toloka) · CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Mindrift (Toloka) · Freelance Mechanical CFD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BG, ...)
+- Scale AI · Staff FullStack Software Engineer, (Forward Deployed), GPS · 1 (QA)
+- Scale AI · Product Marketing Manager, Global Public Sector · 1 (QA)
+- Turing · Research Engineer · 1 (CO)
+- RWS (TrainAI) · AI Voice Recording Contributor - Chinese Simplified · 1 (TW)
+- Mindrift (Toloka) · Temporary Gig - Austrian German Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Native Swiss German Speakers - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Side Income for Swiss Italian Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Native Austrian German Speakers - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for German Speakers from Switzerland - Midtown Manhattan · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native German Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Student Gig - Swiss Italian Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Swiss Italian Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Senior CAD Engineer (CATIA / SolidWorks / NX / ANSYS) - Freelance AI Trainer · 1 (US)
+- ... and 66 more families
+
+**Changed**
+
+- Mindrift (Toloka) · Record Videos at Home with Your iPhone - Get $70 · 22 (US)
+- Mindrift (Toloka) · iPhone Video Data Collection - Paid Task ($70) · 22 (US)
+- Mindrift (Toloka) · Record Videos at Home for AI - $70 One-Time Task · 22 (US)
+- Mindrift (Toloka) · Earn $70 Recording Videos at Home for AI · 22 (US)
+- Scale AI · Staff Product Designer, Global Public Sector · 1 (AE, GB, QA)
+- Scale AI · Executive Assistant · 1 (US)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Hebrew · 1 (IL)
+
 ## 2026-11-09 · 1199 postings · +72 new · -66 closed · ~1 changed
 
 **New**
