@@ -2,6 +2,53 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-11 · 1108 postings · +137 new · -183 closed · ~6 changed
+
+**New**
+
+- RWS (TrainAI) · AI Voice Recording Contributor - Arabic (Gulf) · 3 (BH, KW, QA)
+- Turing · Engineering Manager · 1 (US)
+- Turing · Research Engineering Manager, STEM · 1 (US)
+- Turing · Forward Deployed AI Engineer · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Arabic (Egypt) · 1 (EG)
+- Mindrift (Toloka) · Student Gig - Native Finnish Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Studio retribuito a New York - Per madrelingua italiani (1.200-1.600 $) · 1 (US)
+- Mindrift (Toloka) · Native Danish Speakers from Denmark - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Polish Speaker Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Polish Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Betald studie i New York - För svenska modersmålstalare (1 200-1 600 USD) · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Italian Speakers · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Saudi Arabic Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Dutch Translators and Flemish Native Speakers - Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Finnish Speakers from Finland - Paid Study Participant, NYC · 1 (US)
+- ... and 120 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Freelance Mechanical CAD&Simulation Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · CAD Engineer - AI Trainer · 23 (AE, AM, AR, AT, AU, BA, BE, BH, ...)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Arabic Speakers from Saudi Arabia · 3 (US)
+- Mindrift (Toloka) · Saudi Arabic Speakers Wanted - Paid Smartphone Study, NYC · 2 (US)
+- Turing · Forward Deployed AI Engineer · 1 (US)
+- Turing · Research Engineering Manager, STEM · 1 (US)
+- RWS (TrainAI) · AI Voice Recording Contributor - French (Cameroon) · 1 (CM)
+- RWS (TrainAI) · Search Engine Evaluator - Telugu (India) · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Turkish (Turkiye) · 1 (TR)
+- Mindrift (Toloka) · Italian Speakers from Italy - Paid Study Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Danish Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Finnish Speakers from Finland, NY · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Polish Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Finnish Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Swedish Speakers - Midtown Manhattan · 1 (US)
+- ... and 121 more families
+
+**Changed**
+
+- RWS (TrainAI) · AI Voice Recording Contributor - Mandarin Chinese · 3 (ID, MY, SG)
+- Turing · Partnerships Lead, Frontier AI · 1 (US)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Beira Portuguese · 1 (PT)
+- Mindrift (Toloka) · Paid At-Home Video Task for iPhone Pro Owners · 1 (US)
+
 ## 2026-11-10 · 1154 postings · +80 new · -125 closed · ~91 changed
 
 **New**
