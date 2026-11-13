@@ -2,6 +2,54 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-13 · 1107 postings · +144 new · -147 closed · ~19 changed
+
+**New**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 36 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Put Medical AI to the Test, Remote · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Labelbox · Forward Deployed Engineer, Enterprise Accounts · 1 (US)
+- Scale AI · Account Executive, Navy · 1 (US)
+- Scale AI · Account Executive, Army · 1 (US)
+- Scale AI · Account Executive, Air Force · 1 (US)
+- RWS (TrainAI) · Linguistic AI Auditor - Tamil · 1 (IN)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Bosnian · 1 (BA)
+
+**Closed**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 37 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Put Medical AI to the Test, Remote · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · $110 in 90 Minutes: In-Person Research Study, South Bay · 2 (US)
+- Scale AI · Product Leadership, Forward Deployed & Strategy · 1 (GB)
+- Scale AI · Program Manager, Technical Enablement · 1 (US)
+- Turing · Compliance Analyst · 1 (BR)
+- RWS (TrainAI) · Search Engine Evaluator - Portuguese (Portugal) · 1 (PT)
+- RWS (TrainAI) · Search Engine Evaluator - Vietnamese (Vietnam) · 1 (VN)
+- RWS (TrainAI) · Search Engine Evaluator - Chinese Simplified (China) · 1 (CN)
+
+**Changed**
+
+- Mindrift (Toloka) · In-Person Research Session in Santa Clara · 3 (US)
+- Scale AI · Enterprise Pricing Manager · 1 (US)
+- Scale AI · Field Marketing & Events Manager · 1 (US)
+- Turing · Forward Deployed AI Engineer · 1 (US)
+- RWS (TrainAI) · AI Voice Recording Contributor - Mandarin Chinese (Hong Kong) · 1 (MY)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Kyrgyz · 1 (UZ)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Slovenian (Slovenia) · 1 (SI)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Catalan · 1 (ES)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Norwegian Nynorsk · 1 (NO)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Sinhala (Sri Lanka) · 1 (LK)
+- RWS (TrainAI) · AI Voice Recording Contributor - Mandarin Chinese (Singapore) · 1 (SG)
+- RWS (TrainAI) · AI Voice Recording Contributor - Simplified Chinese · 1 (ID)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Danish · 1 (DK)
+- Mindrift (Toloka) · Paid Research Study · 1 (US)
+- Mindrift (Toloka) · $110 Paid Study for Non-Native English Speakers · 1 (US)
+- ... and 2 more families
+
 ## 2026-11-12 · 1110 postings · +271 new · -269 closed · ~4 changed
 
 **New**
