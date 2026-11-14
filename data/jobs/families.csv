@@ -529,7 +529,7 @@ e07ce1dcfe2f,RWS (TrainAI),Legal Annotators - Korean,1,KR,False,,,,,2026-09-16,2
 858c9c30b834,RWS (TrainAI),Legal Annotators - Russian,3,EE|LV|RS,False,,,,,2026-09-16,2026-10-09,https://jobs.lever.co/rws/23f8db78-86a3-44b5-86a4-af73039ccc9e
 eef67f8ba9e6,RWS (TrainAI),Linguistic AI Auditor - Bengali (Singapore),1,SG,False,,,,,2026-11-09,2026-11-09,https://jobs.lever.co/rws/b397670e-8b8e-4cf0-84bf-2b166753b588
 e9734c2cc855,RWS (TrainAI),Linguistic AI Auditor - Chinese Simplified (Singapore),1,SG,False,,,,,2026-11-09,2026-11-09,https://jobs.lever.co/rws/b8947277-0611-4449-aae5-dff09b41600c
-cc1cdd4d85d4,RWS (TrainAI),Linguistic AI Auditor - French From Canda,1,CA,False,,,,,2026-11-10,2026-11-10,https://jobs.lever.co/rws/530f05a9-3b11-4294-bf86-20dcad8bd4d4
+ebae96320195,RWS (TrainAI),Linguistic AI Auditor - French From Canada,1,CA,False,,,,,2026-11-10,2026-11-10,https://jobs.lever.co/rws/530f05a9-3b11-4294-bf86-20dcad8bd4d4
 c22d8ff62d25,RWS (TrainAI),Linguistic AI Auditor - Malay (Singapore),1,SG,False,,,,,2026-11-09,2026-11-09,https://jobs.lever.co/rws/6cf76666-5c7d-42f9-a780-a8aa283790b0
 4b39ec71184e,RWS (TrainAI),Linguistic AI Auditor - Tamil,1,IN,False,,,,,2026-11-13,2026-11-13,https://jobs.lever.co/rws/105d7fdb-3d42-4593-81ac-eb651cc49c79
 b116e24b37ee,RWS (TrainAI),Linguistic AI Auditor - Tamil (Singapore),1,SG,False,,,,,2026-11-09,2026-11-09,https://jobs.lever.co/rws/738afd93-b258-4d42-9527-18545c4e39dc
@@ -647,13 +647,12 @@ f2727ca8c3a5,Scale AI,"Machine Learning Research Scientist, Evaluations",1,US,Fa
 ba494d7bbfe8,Scale AI,Medical Fellow - Human Frontier Collective (US),1,US,False,,,,,2025-07-30,2025-07-30,https://job-boards.greenhouse.io/scaleai/jobs/4591782005
 1d4a1ba21c4b,Scale AI,Principal Architect,1,US,False,10,,,,2025-08-22,2025-08-22,https://job-boards.greenhouse.io/scaleai/jobs/4599202005
 7ce755fa4435,Scale AI,"Principal Software Engineer, GPS",1,GB,False,10,,,,2026-11-05,2026-11-05,https://job-boards.greenhouse.io/scaleai/jobs/4751159005
-c9edd589ac8c,Scale AI,"Product Manager of AI Applications, Global Public Sector",2,AE|QA|SA,False,4,,,,2025-09-03,2026-01-16,https://job-boards.greenhouse.io/scaleai/jobs/4650514005
+c9edd589ac8c,Scale AI,"Product Manager of AI Applications, Global Public Sector",2,AE|QA|SA,False,4,,,,2025-09-03,2026-01-16,https://job-boards.greenhouse.io/scaleai/jobs/4589749005
 3d319b8df3cb,Scale AI,"Product Manager, AI Applications",1,,,4,,,,2026-11-06,2026-11-06,https://job-boards.greenhouse.io/scaleai/jobs/4751108005
 0db367eb53bb,Scale AI,"Product Manager, Enterprise Core Platform",1,US,False,,,,,2026-05-27,2026-05-27,https://job-boards.greenhouse.io/scaleai/jobs/4699779005
 95524d15655d,Scale AI,"Product Marketing Lead, Enterprise",1,US,False,6,,,,2026-10-28,2026-10-28,https://job-boards.greenhouse.io/scaleai/jobs/4748328005
 a8df59c679f5,Scale AI,"Program Manager - Growth Operations, Contract",1,US,False,3,,85.0,,2026-08-03,2026-08-03,https://job-boards.greenhouse.io/scaleai/jobs/4720969005
 159ee9f84f80,Scale AI,"Public Sector Lead, Central & Local Government",1,GB,False,,,,,2026-10-06,2026-10-06,https://job-boards.greenhouse.io/scaleai/jobs/4740975005
-a7d2b959952e,Scale AI,"Public Sector Lead, Defence & Security",1,GB,False,,,,,2026-09-30,2026-09-30,https://job-boards.greenhouse.io/scaleai/jobs/4736243005
 bb6b9baa6cb4,Scale AI,"Quality Operations Lead, Gen AI",1,US,False,,,,,2026-11-04,2026-11-04,https://job-boards.greenhouse.io/scaleai/jobs/4750929005
 fb81782071db,Scale AI,Research Advisor - Human Frontier Collective (UK),1,GB,False,5,,300.0,,2026-05-13,2026-05-13,https://job-boards.greenhouse.io/scaleai/jobs/4695042005
 148f154e5e3f,Scale AI,Research Advisor - Human Frontier Collective (US),1,US,False,5,,300.0,,2026-05-08,2026-05-08,https://job-boards.greenhouse.io/scaleai/jobs/4693078005
@@ -670,41 +669,41 @@ ac703eee93d2,Scale AI,"Security Engineer, Product Security",1,US,False,,,,,2025-
 51444477ebe5,Scale AI,"Senior / Staff Machine Learning Research Scientist, Agents",1,US,False,,,,,2024-10-25,2024-10-25,https://job-boards.greenhouse.io/scaleai/jobs/4488520005
 4ed28dcaf8f3,Scale AI,Senior AI Product Manager,1,US,False,5,,,,2026-08-04,2026-08-04,https://job-boards.greenhouse.io/scaleai/jobs/4720501005
 c69470095035,Scale AI,Senior Accountant,1,US,False,3,,,,2026-03-06,2026-03-06,https://job-boards.greenhouse.io/scaleai/jobs/4663533005
-1e834e83225e,Scale AI,Senior Applied AI Engineer,2,GB,,,,,,2026-11-04,2026-11-10,https://job-boards.greenhouse.io/scaleai/jobs/4751149005
+1e834e83225e,Scale AI,Senior Applied AI Engineer,2,GB,,,,,,2026-11-04,2026-11-10,https://job-boards.greenhouse.io/scaleai/jobs/4751081005
 e709390fbcce,Scale AI,"Senior Data Analyst, Public Sector",1,US,False,6,,,,2026-09-02,2026-09-02,https://job-boards.greenhouse.io/scaleai/jobs/4729899005
 7b40dc45a256,Scale AI,"Senior Data Engineer, Public Sector",1,US,False,5,,,,2026-07-10,2026-07-10,https://job-boards.greenhouse.io/scaleai/jobs/4713597005
 8a9ff1de3934,Scale AI,"Senior Engineering Manager, Kuwait",1,,,6,,,,2026-11-12,2026-11-12,https://job-boards.greenhouse.io/scaleai/jobs/4753437005
 0e6355b8f0c5,Scale AI,Senior Frontier Agents Engineer (Applied AI),1,US,False,5,,,,2026-07-31,2026-07-31,https://job-boards.greenhouse.io/scaleai/jobs/4720478005
 8c66a5ce984b,Scale AI,Senior Frontier Agents Engineer (Forward Deployed Engineering),1,US,False,5,,,,2026-05-15,2026-05-15,https://job-boards.greenhouse.io/scaleai/jobs/4694863005
-b57fc5af0370,Scale AI,"Senior Full-Stack Software Engineer, (Forward deployed), GPS",3,GB|SA,,5,,,,2026-03-24,2026-11-06,https://job-boards.greenhouse.io/scaleai/jobs/4751635005
+b57fc5af0370,Scale AI,"Senior Full-Stack Software Engineer, (Forward deployed), GPS",3,GB|SA,,5,,,,2026-03-24,2026-11-06,https://job-boards.greenhouse.io/scaleai/jobs/4732394005
 f4a929a5e700,Scale AI,"Senior Infrastructure Software Engineer, Apps Platform",1,GB,False,7,,,,2026-09-02,2026-09-02,https://job-boards.greenhouse.io/scaleai/jobs/4729979005
 de87f0ec12ec,Scale AI,"Senior Infrastructure Software Engineer, Enterprise AI",1,US,False,5,,,,2025-08-20,2025-08-20,https://job-boards.greenhouse.io/scaleai/jobs/4599700005
 7a75ab9b2ea5,Scale AI,"Senior Machine Learning Engineer, Public Sector",1,US,False,,,,,2026-09-10,2026-09-10,https://job-boards.greenhouse.io/scaleai/jobs/4732798005
 cea3fc86e1c2,Scale AI,"Senior Manager, Research Scientist",1,US,False,5,,,,2026-07-24,2026-07-24,https://job-boards.greenhouse.io/scaleai/jobs/4718431005
 588ba9c37d34,Scale AI,"Senior Mission Software Engineer, Public Sector",1,US,False,5,,,,2026-07-31,2026-07-31,https://job-boards.greenhouse.io/scaleai/jobs/4720422005
-956946efd858,Scale AI,"Senior Product Design Manager, Enterprise",2,GB|US,False,,,,,2026-08-06,2026-09-03,https://job-boards.greenhouse.io/scaleai/jobs/4729620005
+956946efd858,Scale AI,"Senior Product Design Manager, Enterprise",2,GB|US,False,,,,,2026-08-06,2026-09-03,https://job-boards.greenhouse.io/scaleai/jobs/4721008005
 3e025138314d,Scale AI,"Senior Software Engineer, AI Operations, GPS",1,QA,False,,,,,2026-08-20,2026-08-20,https://job-boards.greenhouse.io/scaleai/jobs/4725133005
 2d9804db4a56,Scale AI,"Senior Software Engineer, Agent Oversight",1,US,False,4,,,,2026-07-14,2026-07-14,https://job-boards.greenhouse.io/scaleai/jobs/4714509005
 c9ae07886919,Scale AI,"Senior Software Engineer, Orchestration Platform",1,US,False,5,,,,2026-10-01,2026-10-01,https://job-boards.greenhouse.io/scaleai/jobs/4739920005
 9a5f5534d1d8,Scale AI,"Senior Software Engineer, Platform",1,US,False,5,,,,2026-09-03,2026-09-03,https://job-boards.greenhouse.io/scaleai/jobs/4730512005
 a35f5fff67e9,Scale AI,Senior Staff Frontier Agents Engineer,1,US,False,12,,,,2026-05-15,2026-05-15,https://job-boards.greenhouse.io/scaleai/jobs/4694869005
 ded3eb1e4555,Scale AI,"Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI",1,US,False,5,,,,2026-02-10,2026-02-10,https://job-boards.greenhouse.io/scaleai/jobs/4658162005
-7619d51d4ad0,Scale AI,Software Engineer - New Grad,3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730836005
+7619d51d4ad0,Scale AI,Software Engineer - New Grad,3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730851005
 2e88fa2c14a1,Scale AI,"Software Engineer, ARC Team",1,US,False,,,,,2026-03-16,2026-03-16,https://job-boards.greenhouse.io/scaleai/jobs/4673771005
 b550c122efdb,Scale AI,"Software Engineer, Enterprise AI",1,US,False,4,,,,2025-01-07,2025-01-07,https://job-boards.greenhouse.io/scaleai/jobs/4513943005
 39428452d57d,Scale AI,"Software Engineer, Frontier AI Infrastructure",1,US,False,,,,,2024-02-15,2024-02-15,https://job-boards.greenhouse.io/scaleai/jobs/4363623005
 cf3aa0be69dc,Scale AI,"Software Engineer, Platform",1,US,False,3,,,,2025-08-21,2025-08-21,https://job-boards.greenhouse.io/scaleai/jobs/4594879005
 131c2cb7cfa2,Scale AI,"Software Engineer, Public Sector - New Grad",1,US,False,,,,,2026-09-23,2026-09-23,https://job-boards.greenhouse.io/scaleai/jobs/4736426005
-560d46ffe696,Scale AI,Software Engineering Intern (Summer 2027),3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730845005
+560d46ffe696,Scale AI,Software Engineering Intern (Summer 2027),3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730846005
 109574890c7a,Scale AI,"Solutions Architect, Enterprise",1,US,False,,,,,2025-04-22,2025-04-22,https://job-boards.greenhouse.io/scaleai/jobs/4554440005
 7bd442ae52b7,Scale AI,Solutions Engineer (Clearance Required),1,US,False,,,,,2026-02-17,2026-02-17,https://job-boards.greenhouse.io/scaleai/jobs/4663481005
 b56b94724d50,Scale AI,Staff Applied AI Engineer,1,GB,False,,,,,2026-07-30,2026-07-30,https://job-boards.greenhouse.io/scaleai/jobs/4720050005
 1add56b42cd7,Scale AI,Staff Frontier Agents Engineer (Applied AI),1,US,False,8,,,,2026-07-31,2026-07-31,https://job-boards.greenhouse.io/scaleai/jobs/4720487005
 1818bf93110a,Scale AI,Staff Frontier Agents Engineer (Forward Deployed Engineering),1,US,False,8,,,,2026-05-15,2026-05-15,https://job-boards.greenhouse.io/scaleai/jobs/4694865005
-56ad11a5ce2b,Scale AI,"Staff Full-Stack Software Engineer, (Forward Deployed), GPS",2,GB|SA,False,,,,,2026-03-24,2026-09-10,https://job-boards.greenhouse.io/scaleai/jobs/4676610005
+56ad11a5ce2b,Scale AI,"Staff Full-Stack Software Engineer, (Forward Deployed), GPS",2,GB|SA,False,,,,,2026-03-24,2026-09-10,https://job-boards.greenhouse.io/scaleai/jobs/4732430005
 cd49fbd1eb26,Scale AI,"Staff Machine Learning Engineer, Public Sector",1,US,False,8,,,,2026-01-30,2026-01-30,https://job-boards.greenhouse.io/scaleai/jobs/4654382005
 eceb8f31545f,Scale AI,Staff Product Designer,1,US,False,10,,,,2026-08-14,2026-08-14,https://job-boards.greenhouse.io/scaleai/jobs/4724276005
-614cd584a7ff,Scale AI,"Staff Product Designer, Enterprise",2,GB|US,False,,,,,2026-07-29,2026-09-24,https://job-boards.greenhouse.io/scaleai/jobs/4718917005
+614cd584a7ff,Scale AI,"Staff Product Designer, Enterprise",2,GB|US,False,,,,,2026-07-29,2026-09-24,https://job-boards.greenhouse.io/scaleai/jobs/4735360005
 cd63925a20a9,Scale AI,"Staff Product Designer, Global Public Sector",1,AE|GB|QA,False,,fluent,,,2025-08-06,2025-08-06,https://job-boards.greenhouse.io/scaleai/jobs/4565768005
 5215441a401d,Scale AI,"Staff Product Manager, Agentic Platform",1,US,False,4,,,,2025-10-14,2025-10-14,https://job-boards.greenhouse.io/scaleai/jobs/4612403005
 6effe8cfbbeb,Scale AI,"Staff Software Engineer, AI Developer Tooling",1,US,False,8,,,,2026-11-05,2026-11-05,https://job-boards.greenhouse.io/scaleai/jobs/4750028005

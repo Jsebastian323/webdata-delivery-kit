@@ -2,6 +2,17 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-14 · 1106 postings · +0 new · -1 closed · ~2 changed
+
+**Closed**
+
+- Scale AI · Public Sector Lead, Defence & Security · 1 (GB)
+
+**Changed**
+
+- Scale AI · Senior Infrastructure Software Engineer, Enterprise AI · 1 (US)
+- RWS (TrainAI) · Linguistic AI Auditor - French From Canada · 1 (CA)
+
 ## 2026-11-13 · 1107 postings · +144 new · -147 closed · ~19 changed
 
 **New**
