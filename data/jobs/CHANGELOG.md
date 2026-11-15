@@ -2,6 +2,19 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-15 · 1099 postings · +0 new · -7 closed · ~1 changed
+
+**Closed**
+
+- Mindrift (Toloka) · On-Site Recruitment Coordinator (Temporary Employee) · 4 (US)
+- Turing · Director, Investor Relations & Corporate Development · 1 (US)
+- Turing · Social Media Manager · 1 (US)
+- Turing · Senior Technical Recruiter, Frontier AI · 1 (ZA)
+
+**Changed**
+
+- Scale AI · AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP) · 1 (CA, GB, US)
+
 ## 2026-11-14 · 1106 postings · +0 new · -1 closed · ~2 changed
 
 **Closed**
