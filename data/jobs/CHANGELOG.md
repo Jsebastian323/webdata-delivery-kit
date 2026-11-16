@@ -2,6 +2,44 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-16 · 1036 postings · +9 new · -72 closed · ~7 changed
+
+**New**
+
+- RWS (TrainAI) · AI Voice Recording Contributor - Mandarin Chinese (Taiwan) · 3 (GB, TW, US)
+- RWS (TrainAI) · AI Voice Recording Contributor - Simplified Chinese · 2 (GB, US)
+- RWS (TrainAI) · AI Voice Recording Contributor - Mandarin Chinese (Hong Kong) · 2 (GB, US)
+- RWS (TrainAI) · AI Voice Recording Contributor - Mandarin Chinese (Singapore) · 2 (GB, US)
+
+**Closed**
+
+- Turing · Design Manager · 1 (BR, CO)
+- RWS (TrainAI) · Search Engine Evaluator - Arabic (Egypt) · 1 (EG)
+- Mindrift (Toloka) · Japanese Translators and Native Speakers - Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Student Gig - Native Finnish Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Polish Speaker Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Saudi Arabic Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Dutch Translators and Flemish Native Speakers - Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Dutch Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Saudi Arabic Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Finnish Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Dutch Speakers from Belgium, Manhattan · 1 (US)
+- Mindrift (Toloka) · Swedish Translators and Native Speakers - Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Emirati Arabic Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Earn up to $1,600 - 3-Day Finnish Language Study in NYC · 1 (US)
+- Mindrift (Toloka) · Flexible Gig for Emirati Arabic Speakers - 3-Day Paid Study, NYC · 1 (US)
+- ... and 57 more families
+
+**Changed**
+
+- Labelbox · Recruiting Operations Specialist · 1 (US)
+- Scale AI · Software Engineer, Enterprise AI · 1 (US)
+- Scale AI · Infrastructure Software Engineer, Enterprise GenAI · 1 (US)
+- Turing · Head of Platform Engineering, Enterprise AI · 1 (US)
+- Turing · Growth Strategy and Operations · 1 (IN)
+- RWS (TrainAI) · AI Voice Recording Contributor - Scottish · 1 (GB)
+- Mindrift (Toloka) · Multilingual Research Participant · 1 (US)
+
 ## 2026-11-15 · 1099 postings · +0 new · -7 closed · ~1 changed
 
 **Closed**
