@@ -2,6 +2,55 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-17 · 953 postings · +76 new · -159 closed · ~6 changed
+
+**New**
+
+- Mindrift (Toloka) · iPhone Video Data Collection - Paid Task ($70) · 28 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Mindrift (Toloka) · Record Videos at Home for AI - $70 One-Time Task · 28 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Mindrift (Toloka) · Earn $70 Recording Videos at Home for AI · 5 (CA, GB, US)
+- Invisible Technologies · Senior Product Manager · 1 (US)
+- RWS (TrainAI) · AI Data Specialist - Chinese Simplified (Singapore) · 1 (SG)
+- RWS (TrainAI) · Search Engine Evaluator - Chinese Simplified (USA) · 1 (US)
+- RWS (TrainAI) · AI Data Specialist - Bengali (Singapore) · 1 (SG)
+- RWS (TrainAI) · AI Data Specialist - Malay (Singapore) · 1 (SG)
+- RWS (TrainAI) · AI Data Specialist - Spanish (MX) · 1 (MX)
+- RWS (TrainAI) · Search Engine Evaluator - Chinese Simplified (Canada) · 1 (CA)
+- RWS (TrainAI) · AI Data Specialist - Tamil (Singapore) · 1 (SG)
+- RWS (TrainAI) · AI Data Specialist - Hindi · 1 (IN)
+- Mindrift (Toloka) · Dutch Speakers in NYC: Paid 3-Day Research Study · 1 (US)
+- Mindrift (Toloka) · Danish Speakers in NYC: Paid 3-Day Research Study · 1 (US)
+- Mindrift (Toloka) · Arabic Speakers in NYC: Paid 3-Day Research Study · 1 (US)
+- ... and 3 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Licensed Physician (MD/DO) - Freelance AI Trainer · 36 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician Reviewer (MD/DO) - Medical AI Evaluation · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Put Medical AI to the Test, Remote · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Physician (MD/DO) - Medical AI Evaluation · 34 (AE, AR, BG, BH, BR, CA, CL, CO, ...)
+- Mindrift (Toloka) · Hospitalist / Internist - Remote Case Review, Up to $100/hr · 2 (US)
+- Mindrift (Toloka) · Physician AI Tutor (MD/DO) - Clinical Case Review, Remote · 2 (US)
+- Mindrift (Toloka) · Family & Internal Medicine MD/DO - Flexible Remote Case Review · 2 (US)
+- Mindrift (Toloka) · Internal Medicine Physician (MD/DO) - Remote Chart Review, Flexible · 2 (US)
+- Mindrift (Toloka) · Board-Certified Physician - Non-Clinical Remote Case Review · 2 (US)
+- Invisible Technologies · Enterprise Solutions Associate - Data Labs · 1 (GB, US)
+- Scale AI · Head of GTM Strategy & Operations, Enterprise · 1 (US)
+- Scale AI · Senior Accountant · 1 (US)
+- Scale AI · Deployment Strategist - DHS/DOJ · 1 (US)
+- Mindrift (Toloka) · Physicians (MD/DO) - Review Clinical Cases for Medical AI, Remote, Up to $100/hr · 1 (US)
+- Mindrift (Toloka) · Licensed Physician - Medical AI Evaluation · 1 (US)
+- ... and 5 more families
+
+**Changed**
+
+- Scale AI · Staff Software Engineer, Enterprise GenAI · 1 (US)
+- Scale AI · Enterprise Pricing Manager · 1 (US)
+- Scale AI · Data Acquisition Lead, Frontier Environments · 1 (US)
+- Scale AI · Expansion Specialist, Bids & Business Development · 1 (GB)
+- Turing · Engagement Manager · 1 (US)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Nepali · 1 (NP)
+
 ## 2026-11-16 · 1036 postings · +9 new · -72 closed · ~7 changed
 
 **New**
