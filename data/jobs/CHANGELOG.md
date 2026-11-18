@@ -2,6 +2,58 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-18 · 968 postings · +137 new · -122 closed · ~58 changed
+
+**New**
+
+- Mindrift (Toloka) · Record Videos at Home with Your iPhone - Get $70 · 28 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Mindrift (Toloka) · Earn $70 Recording Videos at Home for AI · 23 (AT, BE, BG, CZ, DE, DK, EE, ES, ...)
+- Invisible Technologies · Senior IT Manager · 1 (US)
+- Scale AI · Head of EMEA Policy · 1 (GB)
+- Turing · Research Engineering Manager, STEM · 1 (BR, CO)
+- Mindrift (Toloka) · Temporary Gig - Flemish Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Side Income for Arabic Speakers from the UAE - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Dutch Speakers, Manhattan · 1 (US)
+- Mindrift (Toloka) · Flexible Gig for Finnish Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Native Danish Speakers from Denmark - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Bilingual Flemish-English Participant - Paid UX Study, New York · 1 (US)
+- Mindrift (Toloka) · Student Gig - Native Dutch Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Finnish Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Bilingual Portuguese-English Participant - Paid UX Study, New York · 1 (US)
+- Mindrift (Toloka) · Earn up to $1,600 - 3-Day Danish Language Study in NYC · 1 (US)
+- ... and 73 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Record Videos at Home with Your iPhone - Get $70 · 3 (US)
+- Mindrift (Toloka) · iPhone Video Data Collection - Paid Task ($70) · 3 (US)
+- Mindrift (Toloka) · Earn $70 Recording Videos at Home for AI · 3 (US)
+- Mindrift (Toloka) · Record Videos at Home for AI - $70 One-Time Task · 3 (US)
+- Scale AI · Staff Full-Stack Software Engineer, (Forward Deployed), GPS · 1 (GB)
+- Turing · Senior Full-Stack Engineer - Enterprise AI · 1 (IN)
+- Turing · Strategy and Operations Associate · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Indonesian (Indonesia) · 1 (ID)
+- RWS (TrainAI) · Search Engine Evaluator - Spanish (Argentina) · 1 (AR)
+- Mindrift (Toloka) · Native Danish Speakers from Denmark - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Polish Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Betald studie i New York - För svenska modersmålstalare (1 200-1 600 USD) · 1 (US)
+- Mindrift (Toloka) · Finnish Speakers from Finland - Paid Study Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Polish Speakers from Poland - Paid Study Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Bilingual Swedish-English Participant - Paid UX Study, New York · 1 (US)
+- ... and 99 more families
+
+**Changed**
+
+- Mindrift (Toloka) · iPhone Video Data Collection - Paid Task ($70) · 25 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Mindrift (Toloka) · Record Videos at Home for AI - $70 One-Time Task · 25 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Mindrift (Toloka) · Earn $70 Recording Videos at Home for AI · 2 (CA, GB)
+- Scale AI · Strategic Projects Lead, Generative AI · 1 (US)
+- Scale AI · Staff Software Engineer, Enterprise GenAI · 1 (US)
+- Scale AI · Executive Assistant · 1 (US)
+- Scale AI · Expansion Specialist, Bids & Business Development · 1 (GB)
+- Turing · Software Engineer · 1 (US)
+- RWS (TrainAI) · AI Data Specialist - Chinese (Mandarin or Cantonese) (Singapore) · 1 (SG)
+
 ## 2026-11-17 · 953 postings · +76 new · -159 closed · ~6 changed
 
 **New**
