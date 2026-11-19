@@ -24,6 +24,7 @@ c13a74ebff70,Invisible Technologies,Senior Solutions Architect - Data Labs,1,GB|
 ee57f8c54ce7,Invisible Technologies,Software Engineer (Forward Deployed),2,GB|US,False,,,,217000.0,2025-10-22,2026-09-17,https://job-boards.eu.greenhouse.io/invisibletech/jobs/4697599101
 3ef83eab60b9,Invisible Technologies,Staff Software Engineer (Forward Deployed),1,US,False,8,,,300000.0,2025-10-22,2025-10-22,https://job-boards.eu.greenhouse.io/invisibletech/jobs/4697593101
 49e61b1321c2,Invisible Technologies,Staffing Associate (Contract),1,US,False,5,,,,2026-10-21,2026-10-21,https://job-boards.eu.greenhouse.io/invisibletech/jobs/5010247101
+208ca0ca7b53,Labelbox,Director of Marketing,1,US,False,,,,,2026-11-18,2026-11-18,https://job-boards.greenhouse.io/labelbox/jobs/5301037007
 05ac0cd65540,Labelbox,"Forward Deployed Engineer, Enterprise Accounts",1,US,False,3,,,,2026-11-13,2026-11-13,https://job-boards.greenhouse.io/labelbox/jobs/5294769007
 32b343196791,Labelbox,"Forward Deployed Engineer, RL Environments",1,US,False,2,,,,2026-04-07,2026-04-07,https://job-boards.greenhouse.io/labelbox/jobs/5101187007
 c93cefbab388,Labelbox,Forward Deployed Engineering Manager,1,US,False,,,,,2026-06-08,2026-06-08,https://job-boards.greenhouse.io/labelbox/jobs/5158989007
@@ -35,88 +36,92 @@ a0cc9aea78e0,Labelbox,Managing Partner,1,US,False,,,,,2026-06-08,2026-06-08,http
 dca9b152f410,Labelbox,Recruiting Operations Specialist,1,US,False,2,,,,2026-10-23,2026-10-23,https://job-boards.greenhouse.io/labelbox/jobs/5271920007
 3ebb7c99ae9b,Labelbox,Senior Accounts Receivable Analyst,1,IN,False,4,,,,2026-10-26,2026-10-26,https://job-boards.greenhouse.io/labelbox/jobs/5275455007
 9b01baa5a0e3,Labelbox,"Staff ML Engineer, Agent Training & Environments",1,US,False,,,,,2026-07-29,2026-07-29,https://job-boards.greenhouse.io/labelbox/jobs/5199053007
-739ee1904d48,Mindrift (Toloka),"$100 Half-Day Paid Study - Home & DIY Tasks, Los Angeles",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/64B1B3EBAC
-78f8268e5b3f,Mindrift (Toloka),$110 One-Time Paid Study - No Experience Needed (Santa Clara),3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/1EE4E0E02A
-78a40939d38a,Mindrift (Toloka),$110 Paid Group Conversation Study in Santa Clara,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/F77FF0DE43
+739ee1904d48,Mindrift (Toloka),"$100 Half-Day Paid Study - Home & DIY Tasks, Los Angeles",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/58AF537DF1
+78f8268e5b3f,Mindrift (Toloka),$110 One-Time Paid Study - No Experience Needed (Santa Clara),3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/C957FF75F3
+78a40939d38a,Mindrift (Toloka),$110 Paid Group Conversation Study in Santa Clara,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/76828AE204
 f4e4bdee5010,Mindrift (Toloka),$110 Paid Study for Non-Native English Speakers,1,US,False,,,,,2026-10-20,2026-10-20,https://apply.workable.com/j/A21BB82FA7
-b0aa7a7f9e97,Mindrift (Toloka),$110 for 90 Minutes of Conversation: Paid Research Study,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/490564D9F5
-fc59cf7e2dc9,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Arabic Speakers,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/144580EE0A
-5e1c3b1612ba,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Armenian Speakers,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/670FD26C57
-0637f6e96833,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Bilingual Spanish,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/8BE6D9FB4F
-f4bedc28909c,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Farsi Speakers,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/AA9CE20655
-cd003ea43596,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - French Speakers,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/40E9251F93
-9c6fc7379498,Mindrift (Toloka),"$110 for 90 Minutes: Paid Study - Hindi, Punjabi, Telugu or Tamil Speakers",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/0D77803697
-cda66e773981,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Japanese Speakers,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/B788CB8259
-80e956f8724f,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Korean Speakers,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/010077D884
-7b419fc9ae29,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Mandarin or Cantonese Speakers,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/2B71A2A6CD
-feafc44108f0,Mindrift (Toloka),"$110 for 90 Minutes: Paid Study - Portuguese, German or Italian Speakers",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/CF1F43B23C
-68ef23bb4495,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Tagalog Speakers,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/422702D822
-46ba63be8b24,Mindrift (Toloka),"$110 for One Visit: Paid Research Study, No Preparation Needed",3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/DD8590AD0E
+b0aa7a7f9e97,Mindrift (Toloka),$110 for 90 Minutes of Conversation: Paid Research Study,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/3F8C29D037
+fc59cf7e2dc9,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Arabic Speakers,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/7D42002C36
+5e1c3b1612ba,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Armenian Speakers,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/B200A2E77E
+0637f6e96833,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Bilingual Spanish,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/0A0A8F4A9E
+f4bedc28909c,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Farsi Speakers,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/2559726A73
+cd003ea43596,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - French Speakers,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/A2C7C4279D
+9c6fc7379498,Mindrift (Toloka),"$110 for 90 Minutes: Paid Study - Hindi, Punjabi, Telugu or Tamil Speakers",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/CD753C3E9F
+cda66e773981,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Japanese Speakers,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/F628AEE63E
+80e956f8724f,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Korean Speakers,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/6751B99A46
+7b419fc9ae29,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Mandarin or Cantonese Speakers,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/83550DAA29
+feafc44108f0,Mindrift (Toloka),"$110 for 90 Minutes: Paid Study - Portuguese, German or Italian Speakers",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/7D942C2E19
+68ef23bb4495,Mindrift (Toloka),$110 for 90 Minutes: Paid Study - Tagalog Speakers,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/005340EE51
+46ba63be8b24,Mindrift (Toloka),"$110 for One Visit: Paid Research Study, No Preparation Needed",3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/D9F9AE6491
 79ac7c8f68ef,Mindrift (Toloka),$110 for one 90-min conversation session (South Bay),1,US,False,,,,,2026-10-23,2026-10-23,https://apply.workable.com/j/2AD9FBACE7
-f46896d20676,Mindrift (Toloka),"$200 for One Day - In-Person Household Tasks Study, LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/C35EA8194D
-c9aa6645db6a,Mindrift (Toloka),90 Minutes of Conversation: Paid Research Study,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/A67B871D6A
-06127b72a224,Mindrift (Toloka),All Accents Welcome: $110 Paid Conversation Study,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/574F15EE56
-ea3768615ac8,Mindrift (Toloka),"Arabic Speakers from Saudi Arabia - Paid Study Participant, NYC",1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/1CDC99E3C3
+f46896d20676,Mindrift (Toloka),"$200 for One Day - In-Person Household Tasks Study, LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/765B9127A4
+20b9f60a2283,Mindrift (Toloka),$200/Day: In-Person Study in Los Angeles,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/2F778EC2D3
+c9aa6645db6a,Mindrift (Toloka),90 Minutes of Conversation: Paid Research Study,4,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/E79633F037
+06127b72a224,Mindrift (Toloka),All Accents Welcome: $110 Paid Conversation Study,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/6CAD02CAB5
+ea3768615ac8,Mindrift (Toloka),"Arabic Speakers from Saudi Arabia - Paid Study Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/96078D88CB
 9b95171f408c,Mindrift (Toloka),"Arabic Speakers from the UAE - Paid Study Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/D7CD7130A4
 ca13d009ee5f,Mindrift (Toloka),Arabic Speakers in NYC: Paid 3-Day Research Study,1,US,False,,,,,2026-11-17,2026-11-17,https://apply.workable.com/j/611DCE67FF
 68702804cd45,Mindrift (Toloka),Arabic Translators and Emirati Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/D4AAFFD305
-faf7ce1cbf3a,Mindrift (Toloka),Arabic Translators and Saudi Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/AB614053A0
-090ac072b90a,Mindrift (Toloka),"Austrian German Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/FD3ED4E5B6
-0c947a8615a1,Mindrift (Toloka),"Austrian German Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/D45B6EB5E9
+faf7ce1cbf3a,Mindrift (Toloka),Arabic Translators and Saudi Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/1E8BE4062C
+090ac072b90a,Mindrift (Toloka),"Austrian German Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/4870524B2C
+0c947a8615a1,Mindrift (Toloka),"Austrian German Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/04F4BBF40F
 7ba225839311,Mindrift (Toloka),Betaald onderzoek in New York - Nederlandse moedertaalsprekers (USD 1.200-1.600),1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/223B6C3698
 e2aa07715700,Mindrift (Toloka),Betaald onderzoek in New York - Vlaamse moedertaalsprekers (USD 1.200-1.600),1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/7F487D6BE7
-7444fd404d98,Mindrift (Toloka),Bezahlte Studie in New York - Deutsch-Muttersprachler:innen aus Deutschland,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/6B595D657D
-092b044a8f72,Mindrift (Toloka),Bezahlte Studie in New York - Deutsch-Muttersprachler:innen aus Österrei,1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/E31B60357B
-f2f0c02ae93e,Mindrift (Toloka),Bezahlte Studie in New York - Für Deutschsprachige aus der Schweiz,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/6298CA2FB4
-5cb77976173c,Mindrift (Toloka),Bilingual Arabic-English Participant from Saudi Arabia - Paid UX Study,1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/F1DEC66C09
+394937f2ce59,Mindrift (Toloka),Betald studie i New York - För svenska modersmålstalare (1 200-1 600 USD),1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/7EE6315C87
+7444fd404d98,Mindrift (Toloka),Bezahlte Studie in New York - Deutsch-Muttersprachler:innen aus Deutschland,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/F6EEC77D8E
+092b044a8f72,Mindrift (Toloka),Bezahlte Studie in New York - Deutsch-Muttersprachler:innen aus Österrei,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/61DDFEAA95
+f2f0c02ae93e,Mindrift (Toloka),Bezahlte Studie in New York - Für Deutschsprachige aus der Schweiz,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/A1FAFF1BEF
+5cb77976173c,Mindrift (Toloka),Bilingual Arabic-English Participant from Saudi Arabia - Paid UX Study,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/04FA0174DF
 4cdd2421d0fa,Mindrift (Toloka),Bilingual Arabic-English Participant from the UAE - Paid UX Study,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/36A1647ADB
 90e1b2cd7f97,Mindrift (Toloka),"Bilingual Danish-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/75A7D3B934
 ff542214fe98,Mindrift (Toloka),"Bilingual Dutch-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/756A596C95
 eb56431f7a0d,Mindrift (Toloka),"Bilingual Finnish-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/E07769F014
 f1feed037f2d,Mindrift (Toloka),"Bilingual Flemish-English Participant - Paid UX Study, New York",1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/0A220F9F0A
-70f656ee06df,Mindrift (Toloka),"Bilingual French-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/FFB507E159
-740248a95d8d,Mindrift (Toloka),"Bilingual German-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/6EDA54DD02
-584751d42459,Mindrift (Toloka),"Bilingual Italian-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/3CE1578E0E
-a74657d8467e,Mindrift (Toloka),"Bilingual Italian-English Participant from Switzerland - Paid UX Study, New York",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/1E4594C49C
-cbc28bd912fb,Mindrift (Toloka),"Bilingual Japanese-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/97B9A3BAE1
-f82d606b2049,Mindrift (Toloka),"Bilingual Korean-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/8E988C20B5
+70f656ee06df,Mindrift (Toloka),"Bilingual French-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/302F8F9309
+740248a95d8d,Mindrift (Toloka),"Bilingual German-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/0D98DE7A6B
+584751d42459,Mindrift (Toloka),"Bilingual Italian-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/C9821EFD6B
+29c568fd8823,Mindrift (Toloka),"Bilingual Italian-English Participant from Switzerland - Paid UX Study,",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/910955AA5D
+cbc28bd912fb,Mindrift (Toloka),"Bilingual Japanese-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/10D2D6E59F
+f82d606b2049,Mindrift (Toloka),"Bilingual Korean-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/CA1CEF8E85
 667df98b8f12,Mindrift (Toloka),"Bilingual Polish-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/47C3D1602B
 05fd3d357514,Mindrift (Toloka),"Bilingual Portuguese-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/145B661C33
-cb4d83093def,Mindrift (Toloka),"Bilingual Swiss German-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/86248C003C
+06fa8846555b,Mindrift (Toloka),"Bilingual Swedish-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/69CDF6D541
+cb4d83093def,Mindrift (Toloka),"Bilingual Swiss German-English Participant - Paid UX Study, New York",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/DBF00AC34C
 bdc1a0817fc5,Mindrift (Toloka),Cooking & Home Project Study Participant - Los Angeles,1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/25F9CC086A
 099e4ff212c4,Mindrift (Toloka),"Danish Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/BA1596761E
 561b8b117eec,Mindrift (Toloka),"Danish Speakers from Denmark - Paid Study Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/ABF9A9C6AE
 1798b1a65f78,Mindrift (Toloka),Danish Speakers in NYC: Paid 3-Day Research Study,1,US,False,,,,,2026-11-17,2026-11-17,https://apply.workable.com/j/0DE920954D
 21dfa1da0439,Mindrift (Toloka),Danish Translators and Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/A237BB12E1
-a8d4227e41b6,Mindrift (Toloka),"Daytime Paid Research Session - $110, Santa Clara",2,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/AF659188C5
+a8d4227e41b6,Mindrift (Toloka),"Daytime Paid Research Session - $110, Santa Clara",2,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/57C235E31A
 46cad87e025a,Mindrift (Toloka),"Dutch Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/8D1139B785
 fb1d0eaa9e81,Mindrift (Toloka),"Dutch Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/4CF2BC2E9F
 b9a4f10ab23f,Mindrift (Toloka),"Dutch Speakers from Belgium - Paid Study Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/57D36EF12A
 f331254513dc,Mindrift (Toloka),Dutch Speakers in NYC: Paid 3-Day Research Study,1,US,False,,,,,2026-11-17,2026-11-17,https://apply.workable.com/j/0A6AC51765
 604a700e3235,Mindrift (Toloka),Dutch Translators and Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/1D9562E4BC
-6c5d1960edfe,Mindrift (Toloka),"Earn $110 in 90 Minutes: In-Person Research Study, South Bay",3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/7411E69523
-0be79aacaea6,Mindrift (Toloka),Earn $110 in 90 Minutes: Paid Research Study,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/4FC676FAF6
-cd1a99a6132e,Mindrift (Toloka),"Earn $200 in One Day - Household Tasks Study, LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/BF72246617
-8fa254c60d59,Mindrift (Toloka),Earn $200/Day: In-Person Study in Los Angeles,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/E913D67490
+6c5d1960edfe,Mindrift (Toloka),"Earn $110 in 90 Minutes: In-Person Research Study, South Bay",3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/12FAA82FFE
+0be79aacaea6,Mindrift (Toloka),Earn $110 in 90 Minutes: Paid Research Study,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/14B9614DC5
+cd1a99a6132e,Mindrift (Toloka),"Earn $200 in One Day - Household Tasks Study, LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/09AC37C6C8
+8fa254c60d59,Mindrift (Toloka),Earn $200/Day: In-Person Study in Los Angeles,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/12086382EB
 f0c40a39ee80,Mindrift (Toloka),Earn $70 Recording Videos at Home for AI,47,AT|BE|BG|CA|CZ|DE|DK|EE|ES|FI|FR|GB|GR|HR|HU|IE|IN|IT|LT|LV|MX|NL|PL|PT|RO|SE|SI|SK|US,False,,,,,2026-11-12,2026-11-17,https://apply.workable.com/j/302A172CC3
 ad6856f2cb32,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Danish Language Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/15E74A0C4B
 360ab6e78be1,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Flemish Language Study in NYC",1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/9376361D64
-20415ab1a85c,Mindrift (Toloka),"Earn up to $1,600 - 3-Day French Language Study in NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/7B1BF1EABB
-e6768ba486e5,Mindrift (Toloka),"Earn up to $1,600 - 3-Day German Language Study in NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/52E8F71CAC
-75374beabc30,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Hebrew Language Study in NYC",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/69634F64B0
-e5cc6ab00553,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Italian Language Study in NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/CFBDAC02CC
-12bd66c8054e,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Japanese Language Study in NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/D2A1202001
-98dc3a798b65,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Korean Language Study in NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/5CE92331E5
+20415ab1a85c,Mindrift (Toloka),"Earn up to $1,600 - 3-Day French Language Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/DF424BB6F5
+e6768ba486e5,Mindrift (Toloka),"Earn up to $1,600 - 3-Day German Language Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/F9C58E39DB
+75374beabc30,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Hebrew Language Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/B22AEFDE6D
+e5cc6ab00553,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Italian Language Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/990A471779
+12bd66c8054e,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Japanese Language Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/D169C1CFBD
+98dc3a798b65,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Korean Language Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/AA001F6B08
 35aef1acd05d,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Polish Language Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/3425D3234A
 9dd27cfec223,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Portuguese Language Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/94C2475BE5
-a71336a9f629,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Swiss German Language Study in NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/8F8EB0B54E
-4331edca2e0d,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Swiss Italian Language Study in NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/9622DB3B86
-9022ee440193,Mindrift (Toloka),Easy $110: Take Part in a 90-Minute In-Person Study,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/665682C56D
+9279f707d285,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Swedish Language Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/D7C2F9B88C
+a71336a9f629,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Swiss German Language Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/CB62852A5B
+4331edca2e0d,Mindrift (Toloka),"Earn up to $1,600 - 3-Day Swiss Italian Language Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/E02AB7A334
+9022ee440193,Mindrift (Toloka),Easy $110: Take Part in a 90-Minute In-Person Study,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/4CAE50A9EA
 286a060d2275,Mindrift (Toloka),"Emirati Arabic Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/9677477F50
 1d106033b680,Mindrift (Toloka),Estudo remunerado em Nova Iorque - Falantes nativos de português europeu,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/7B0FF90456
 3b5213a68ca3,Mindrift (Toloka),Everyday Dialogue Study Participant - Santa Clara / Sunnyvale,1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/FE5E0BA4A7
-c0485041fa7f,Mindrift (Toloka),Everyday Household Tasks Study (Los Angeles),1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/B7737CC1BF
-50319ecd9108,Mindrift (Toloka),"Everyday Tasks Research Study - Paid, Los Angeles",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/7F7CF2AC0C
+c0485041fa7f,Mindrift (Toloka),Everyday Household Tasks Study (Los Angeles),1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/BB86A37403
+50319ecd9108,Mindrift (Toloka),"Everyday Tasks Research Study - Paid, Los Angeles",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/FBE4170E5E
 9f6ecdc4756b,Mindrift (Toloka),"Finnish Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/18A21B10DD
 4c6d784d0405,Mindrift (Toloka),"Finnish Speakers from Finland - Paid Study Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/71DC26038C
 9d7287aaf211,Mindrift (Toloka),Finnish Speakers in NYC: Paid 3-Day Research Study,1,US,False,,,,,2026-11-17,2026-11-17,https://apply.workable.com/j/A5F8CD63D5
@@ -126,51 +131,52 @@ c0485041fa7f,Mindrift (Toloka),Everyday Household Tasks Study (Los Angeles),1,US
 708d48bdfeef,Mindrift (Toloka),"Flexible Gig for Danish Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/F6797373D0
 ecfeb0cc339e,Mindrift (Toloka),"Flexible Gig for Finnish Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/07791CAC15
 3e25041a5df9,Mindrift (Toloka),"Flexible Gig for Flemish Speakers - 3-Day Paid Study, NYC",1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/60C4EF24CE
-c9ca95a1a54a,Mindrift (Toloka),"Flexible Gig for French Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/73A6816B81
-ea9e142ffacb,Mindrift (Toloka),"Flexible Gig for German Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/A4BEF27309
-c30638b727c8,Mindrift (Toloka),"Flexible Gig for Israeli Hebrew Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/238803BC4D
-e14b9eec708a,Mindrift (Toloka),"Flexible Gig for Italian Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/F52C2AD6BD
-d1ec2d6b0c90,Mindrift (Toloka),"Flexible Gig for Japanese Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/0182DD0BE0
+c9ca95a1a54a,Mindrift (Toloka),"Flexible Gig for French Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/97387EF860
+ea9e142ffacb,Mindrift (Toloka),"Flexible Gig for German Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/9E77874ACE
+c30638b727c8,Mindrift (Toloka),"Flexible Gig for Israeli Hebrew Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/FC35AD4C9A
+e14b9eec708a,Mindrift (Toloka),"Flexible Gig for Italian Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/705509E0B9
+d1ec2d6b0c90,Mindrift (Toloka),"Flexible Gig for Japanese Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/F75A27EEA9
 446b8dce061f,Mindrift (Toloka),"Flexible Gig for Polish Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/4ABEC34524
-5635b04f0464,Mindrift (Toloka),"Flexible Gig for Swiss German Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/20866764CA
-af845aba4323,Mindrift (Toloka),"Flexible Gig for Swiss Italian Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/094A73BE4C
-5c735e7b93f2,Mindrift (Toloka),"Flexible One-Day Paid Study - San Marino, CA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/481397DADF
-dca7aaf8a038,Mindrift (Toloka),"Flexible Paid Study - Mornings, Evenings or Weekends, $200, LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/4758027E37
-6510922fa859,Mindrift (Toloka),"Freelance Gig - $200 Paid Study, Los Angeles",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/CE15440EF1
-e070e7744581,Mindrift (Toloka),"Freelance Research Participant - Home & DIY Tasks, LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/6227D840AB
-fb497e223636,Mindrift (Toloka),"French Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/2F92CA0E66
-9bc5e0eecaa8,Mindrift (Toloka),"German Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/480536370B
-4f24d0337d05,Mindrift (Toloka),"German Speakers from Switzerland - Paid Study Participant, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/66C8738D69
-862194a87305,Mindrift (Toloka),German Translators and Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/C52F3C8E56
-1e4c4b204fab,Mindrift (Toloka),Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/E58F87F20A
-8eb30c6cc7eb,Mindrift (Toloka),Get Paid $200 for Everyday Household Tasks - LA Study,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/A5CE058B56
-570ed1410437,Mindrift (Toloka),"Get Paid for Everyday Tasks - In-Person Research Study, LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/0FF30A939E
-6bf09a214458,Mindrift (Toloka),Get Paid to Share Your Opinion: One 90-Minute In-Person Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/92D21020E7
-729d5f7c5933,Mindrift (Toloka),Half-Day Paid Study Available - Los Angeles,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/036C126342
-3793158da105,Mindrift (Toloka),"Half-Day or Full-Day Paid Study - $100-$200, Los Angeles",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/3D9C8A1147
-29974420bde8,Mindrift (Toloka),"Hebrew Speakers from Israel - Paid Study Participant, NYC",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/D916E04FC8
-6b9991a41adc,Mindrift (Toloka),Hebrew Translators and Israeli Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/A157CDA1D1
-3e0b96280cfd,Mindrift (Toloka),"Household Tasks Study Participant - $200 per Session, Los Angeles",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/95DB93B2EA
-35570cb71054,Mindrift (Toloka),"In-Person Paid Study - Everyday Home Tasks, Mid-City LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/08E670F33F
-4f8aae721b27,Mindrift (Toloka),In-Person Research Session in Santa Clara,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/DF803AF111
-4e416e468abd,Mindrift (Toloka),"Israeli Hebrew Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/B271869C66
-a68a0b65b47d,Mindrift (Toloka),"Israeli Hebrew Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/8F1B163FF4
-136df7fad4ab,Mindrift (Toloka),"Italian Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/6E9AC54E59
-fde65aa19299,Mindrift (Toloka),"Italian Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/0D1788E718
-b8a41bf6efad,Mindrift (Toloka),"Italian Speakers from Italy - Paid Study Participant, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/9B4527F3EE
-159ecb3f2a60,Mindrift (Toloka),"Italian Speakers from Switzerland - Paid Study Participant, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/F06DAD05B9
-e5f5cfbfed8b,Mindrift (Toloka),Italian Translators and Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/8B3657F8E5
-f8f296662f8d,Mindrift (Toloka),Italian Translators and Swiss Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/2CAC763365
-26859459cc49,Mindrift (Toloka),"Japanese Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/66D817921B
-abbc24f49437,Mindrift (Toloka),"Japanese Speakers from Japan - Paid Study Participant, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/286F94D0C4
-7ac7a7893166,Mindrift (Toloka),"Korean Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/3EEB527A2F
-a09ad5b40e48,Mindrift (Toloka),"Korean Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/4D27CC7B9E
-fb839d2a96ef,Mindrift (Toloka),"Korean Speakers from South Korea - Paid Study Participant, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/DCB58738C9
-2c5856e6c3a6,Mindrift (Toloka),Korean Translators and Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/8110D8BCE7
+35522b52d117,Mindrift (Toloka),"Flexible Gig for Swedish Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/70C9518662
+5635b04f0464,Mindrift (Toloka),"Flexible Gig for Swiss German Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/B0FBDCD66C
+af845aba4323,Mindrift (Toloka),"Flexible Gig for Swiss Italian Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/7E5C01D254
+5c735e7b93f2,Mindrift (Toloka),"Flexible One-Day Paid Study - San Marino, CA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/E1E64D7DA5
+dca7aaf8a038,Mindrift (Toloka),"Flexible Paid Study - Mornings, Evenings or Weekends, $200, LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/69E882E92E
+6510922fa859,Mindrift (Toloka),"Freelance Gig - $200 Paid Study, Los Angeles",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/BA38C53C42
+e070e7744581,Mindrift (Toloka),"Freelance Research Participant - Home & DIY Tasks, LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/646129879E
+fb497e223636,Mindrift (Toloka),"French Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/BEDA91BB13
+9bc5e0eecaa8,Mindrift (Toloka),"German Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/75C74ABCB5
+4f24d0337d05,Mindrift (Toloka),"German Speakers from Switzerland - Paid Study Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/8B525C7369
+862194a87305,Mindrift (Toloka),German Translators and Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/92A22F3FFF
+1e4c4b204fab,Mindrift (Toloka),Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/837C6464EE
+8eb30c6cc7eb,Mindrift (Toloka),Get Paid $200 for Everyday Household Tasks - LA Study,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/9DBAF74B23
+570ed1410437,Mindrift (Toloka),"Get Paid for Everyday Tasks - In-Person Research Study, LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/0713E40E61
+6bf09a214458,Mindrift (Toloka),Get Paid to Share Your Opinion: One 90-Minute In-Person Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/4380C05A0C
+729d5f7c5933,Mindrift (Toloka),Half-Day Paid Study Available - Los Angeles,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/5DE4EC7B94
+3793158da105,Mindrift (Toloka),"Half-Day or Full-Day Paid Study - $100-$200, Los Angeles",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/565D72D45A
+29974420bde8,Mindrift (Toloka),"Hebrew Speakers from Israel - Paid Study Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/0FC916B763
+6b9991a41adc,Mindrift (Toloka),Hebrew Translators and Israeli Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/B7C184881B
+3e0b96280cfd,Mindrift (Toloka),"Household Tasks Study Participant - $200 per Session, Los Angeles",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/D7189C2FC9
+35570cb71054,Mindrift (Toloka),"In-Person Paid Study - Everyday Home Tasks, Mid-City LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/7CAF596AA4
+4f8aae721b27,Mindrift (Toloka),In-Person Research Session in Santa Clara,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/B041854297
+4e416e468abd,Mindrift (Toloka),"Israeli Hebrew Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/0D4FED54CE
+a68a0b65b47d,Mindrift (Toloka),"Israeli Hebrew Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/CFEFACF4A4
+136df7fad4ab,Mindrift (Toloka),"Italian Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/7E0E554E08
+fde65aa19299,Mindrift (Toloka),"Italian Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/F22884C52D
+b8a41bf6efad,Mindrift (Toloka),"Italian Speakers from Italy - Paid Study Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/2A3B6063A3
+159ecb3f2a60,Mindrift (Toloka),"Italian Speakers from Switzerland - Paid Study Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/7B88D3D8A0
+e5f5cfbfed8b,Mindrift (Toloka),Italian Translators and Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/80CACA1927
+f8f296662f8d,Mindrift (Toloka),Italian Translators and Swiss Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/7901A684F8
+26859459cc49,Mindrift (Toloka),"Japanese Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/CF36EEDCD3
+abbc24f49437,Mindrift (Toloka),"Japanese Speakers from Japan - Paid Study Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/4671427CC3
+7ac7a7893166,Mindrift (Toloka),"Korean Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/413FEEC39D
+a09ad5b40e48,Mindrift (Toloka),"Korean Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/1CEF4E2AFA
+fb839d2a96ef,Mindrift (Toloka),"Korean Speakers from South Korea - Paid Study Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/32B87B21C0
+2c5856e6c3a6,Mindrift (Toloka),Korean Translators and Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/754ADCC9F8
 cc6c8bd7bab5,Mindrift (Toloka),Multilingual Research Participant,1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/7850CFDAB7
 964162add5ae,Mindrift (Toloka),Native Arabic Speakers from Saudi Arabia in NYC: Paid In-Person Research Study,1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/2844B24494
 6622fc903455,Mindrift (Toloka),Native Arabic Speakers from the UAE in NYC: Paid In-Person Research Study,1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/0A810FB64C
-79a86aa955fc,Mindrift (Toloka),"Native Austrian German Speakers - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/4A603E0ED2
+79a86aa955fc,Mindrift (Toloka),"Native Austrian German Speakers - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/040041ACEB
 199828a10138,Mindrift (Toloka),Native Austrian German Speakers in NYC: Paid In-Person Research Study,1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/93CD5FAA9A
 2a6c2c4b6662,Mindrift (Toloka),"Native Danish Speakers from Denmark - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/08601A4A5E
 a52421d3a4f4,Mindrift (Toloka),"Native Danish Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/E7C7DE42B7
@@ -183,80 +189,84 @@ a11a2ce920f2,Mindrift (Toloka),"Native Emirati Arabic Speakers - Paid 3-Day Stud
 b2fead2c52e2,Mindrift (Toloka),"Native Finnish Speakers from Finland - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/60B3BB4A3C
 a181ae6d26dc,Mindrift (Toloka),"Native Finnish Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/619667301F
 3c05e51206fa,Mindrift (Toloka),"Native Flemish Speakers from Belgium - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/DF8FD4ADC4
-2655896d8d60,Mindrift (Toloka),"Native French Speakers - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/39C9409F62
+2655896d8d60,Mindrift (Toloka),"Native French Speakers - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/E22597486F
 ffe4cd6b51f6,Mindrift (Toloka),"Native French Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/803C3EC2D7
-8c579c77f740,Mindrift (Toloka),"Native German Speakers from Germany - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/3D54BC5D7A
+8c579c77f740,Mindrift (Toloka),"Native German Speakers from Germany - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/783EE216AA
 984d287f4dad,Mindrift (Toloka),"Native German Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/ADA0E8EA85
 3f0843a81e30,Mindrift (Toloka),"Native Hebrew Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/BA4E155DDC
-5be40c75ca26,Mindrift (Toloka),Native Italian Speakers from Italy - Paid 3-Day Study in NYC,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/DD2B408DFC
+5be40c75ca26,Mindrift (Toloka),Native Italian Speakers from Italy - Paid 3-Day Study in NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/ABB31C915E
 8064f40496aa,Mindrift (Toloka),Native Italian Speakers from Switzerland in NYC: Paid In-Person Research Study,1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/F2EFB56A2E
 0dfd1a66818e,Mindrift (Toloka),"Native Italian Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/F2D8E5464F
-5db59035114d,Mindrift (Toloka),"Native Japanese Speakers - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/4AFE76A488
+5db59035114d,Mindrift (Toloka),"Native Japanese Speakers - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/EA54E5FA5D
 bbadd258db2a,Mindrift (Toloka),"Native Japanese Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/BEBA97CA2C
 1e2510891604,Mindrift (Toloka),"Native Korean Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/B3B32F1A2F
 9860b500cf0c,Mindrift (Toloka),Native Polish Speakers from Poland - Paid 3-Day Study in NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/24121D58FE
 289b5238fdf0,Mindrift (Toloka),"Native Polish Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/4D48E52FE9
+9800a8d11d8e,Mindrift (Toloka),"Native Swedish Speakers from Sweden - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/3D5F53FDC2
 c6752eb275fd,Mindrift (Toloka),"Native Swedish Speakers in NYC: Paid In-Person Research Study (Up to $1,600)",1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/CBD362B975
-11c286623aff,Mindrift (Toloka),"Native Swiss German Speakers - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/A6EA744EE6
+11c286623aff,Mindrift (Toloka),"Native Swiss German Speakers - Paid 3-Day Study in NYC ($1,200-1,600)",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/22747E35F7
 684a4f7b79e1,Mindrift (Toloka),Native Swiss German Speakers in NYC: Paid In-Person Research Study,1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/A40A87D3A9
 610c9f3b25fc,Mindrift (Toloka),On-site Data Collection Participant (Los Angeles),1,US,False,,,,,2026-10-21,2026-10-21,https://apply.workable.com/j/CCBDBF4446
-e10a54f3d3f9,Mindrift (Toloka),"One Session, $110: Join Our In-Person Research Study",3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/11C168C221
-0d0f06702e21,Mindrift (Toloka),"One-Day Paid Research Study - $200, Mid-City LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/5E5E7B74A9
-61968edab2a2,Mindrift (Toloka),One-Time Paid Research Session in Santa Clara Valley,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/21E113745D
+e10a54f3d3f9,Mindrift (Toloka),"One Session, $110: Join Our In-Person Research Study",3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/6BE958234D
+0d0f06702e21,Mindrift (Toloka),"One-Day Paid Research Study - $200, Mid-City LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/BE0435958A
+61968edab2a2,Mindrift (Toloka),One-Time Paid Research Session in Santa Clara Valley,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/13523DDFC6
 6ed2c865dea5,Mindrift (Toloka),Paid At-Home Video Task for iPhone Pro Owners,1,US,False,,,,,2026-11-06,2026-11-06,https://apply.workable.com/j/1CF3C5EB1A
-7984ac8faa4a,Mindrift (Toloka),Paid Conversation Study: $110 for a Single 90-Minute Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/5B39F88DFF
-6a7aef7c2e82,Mindrift (Toloka),Paid Conversation Study: Single 90-Minute Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/DC3FD4C861
-f9e43104baad,Mindrift (Toloka),Paid DIY & Home Improvement Study - Los Angeles,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/ACD44EEBC4
-6cc2cf1f18f5,Mindrift (Toloka),Paid Focus Group in Santa Clara: $110 for 90 Minutes,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/BE4D31A814
-6d9a80cb6576,Mindrift (Toloka),Paid Group Discussion Study: $110 for 90 Minutes,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/8F7DA8D699
-532a24c4183d,Mindrift (Toloka),"Paid Home Tasks Study - In-Person, Los Angeles",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/698D800019
-30315f232fa4,Mindrift (Toloka),Paid In-Person Group Conversation Study: $110,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/434EFD6AE7
-473ba134f55c,Mindrift (Toloka),"Paid In-Person Study Near Pasadena - San Marino, CA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/02D9955111
-d32cd7ee1b71,Mindrift (Toloka),Paid Research Participant: $110 for One 90-Min Session,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/8CA61CCE43
+7984ac8faa4a,Mindrift (Toloka),Paid Conversation Study: $110 for a Single 90-Minute Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/B7B7FF220B
+6a7aef7c2e82,Mindrift (Toloka),Paid Conversation Study: Single 90-Minute Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/4FFA32B0FC
+f9e43104baad,Mindrift (Toloka),Paid DIY & Home Improvement Study - Los Angeles,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/CCDB8A665D
+6cc2cf1f18f5,Mindrift (Toloka),Paid Focus Group in Santa Clara: $110 for 90 Minutes,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/31298E17F1
+6d9a80cb6576,Mindrift (Toloka),Paid Group Discussion Study: $110 for 90 Minutes,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/19950B7B1C
+532a24c4183d,Mindrift (Toloka),"Paid Home Tasks Study - In-Person, Los Angeles",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/472E32F30F
+30315f232fa4,Mindrift (Toloka),Paid In-Person Group Conversation Study: $110,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/356A823B78
+473ba134f55c,Mindrift (Toloka),"Paid In-Person Study Near Pasadena - San Marino, CA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/1A90A4B7C2
+d32cd7ee1b71,Mindrift (Toloka),Paid Research Participant: $110 for One 90-Min Session,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/89A9A50B03
 69dd91fa6fc8,Mindrift (Toloka),Paid Research Study,1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/172F41E65B
 68e6c5331c17,Mindrift (Toloka),Paid Research Study Participant - Group Conversations,1,US,False,,,,,2026-10-19,2026-10-19,https://apply.workable.com/j/F2A8515134
-3f85592a9c33,Mindrift (Toloka),Paid Research Study Participant - Los Angeles,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/C326083299
+3f85592a9c33,Mindrift (Toloka),Paid Research Study Participant - Los Angeles,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/B27B527419
 76ad4101a73c,Mindrift (Toloka),Paid Research Study for Danish Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/2073F8978C
 f6a4c446ecd5,Mindrift (Toloka),Paid Research Study for Dutch Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/F80DBB7CAC
 68384c3e0e62,Mindrift (Toloka),Paid Research Study for Dutch Speakers from Belgium - Midtown Manhattan,1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/7007D0CCAC
 2108486680af,Mindrift (Toloka),Paid Research Study for Finnish Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/47C0697154
-1a9bf454c561,Mindrift (Toloka),Paid Research Study for German Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/6C286A35E0
-856dd50ba566,Mindrift (Toloka),Paid Research Study for Israeli Hebrew Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/C02F6D1E1E
-3abad629b1bc,Mindrift (Toloka),Paid Research Study for Italian Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/4F7DEA2659
-13d27ea9d755,Mindrift (Toloka),Paid Research Study for Japanese Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/DC45241DAF
-a4fb75c179d2,Mindrift (Toloka),Paid Research Study for Korean Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/10852E7BB2
+1a9bf454c561,Mindrift (Toloka),Paid Research Study for German Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/EF69E292C8
+856dd50ba566,Mindrift (Toloka),Paid Research Study for Israeli Hebrew Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/A7DBB29CE0
+3abad629b1bc,Mindrift (Toloka),Paid Research Study for Italian Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/C06685975F
+13d27ea9d755,Mindrift (Toloka),Paid Research Study for Japanese Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/180153DE1A
+a4fb75c179d2,Mindrift (Toloka),Paid Research Study for Korean Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/9E218026EE
 f3c84710c57d,Mindrift (Toloka),Paid Research Study for Polish Speakers from Poland - Midtown Manhattan,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/FB4D88751E
 ae1d424056af,Mindrift (Toloka),Paid Research Study for Portuguese Speakers from Portugal - Midtown Manhattan,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/8692AADFF5
-baa75b0274d5,Mindrift (Toloka),Paid Research Study in Los Angeles - $200 per Session,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/D89A390791
-0f01b53def3d,Mindrift (Toloka),Paid Research Study in South Bay: $110 for 90 Minutes,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/BB5076289A
-5d9746c217fe,Mindrift (Toloka),Paid Research Study: $110 for a 90-Minute In-Person Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/E1A180F063
-fff922d16531,Mindrift (Toloka),Paid Research Study: One 90-Minute In-Person Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/A9FBFB72D7
-84f379b0bcca,Mindrift (Toloka),"Paid Research Study: One Visit, No Preparation Needed",3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/091325BA1A
-0ab0d281d91e,Mindrift (Toloka),"Paid Study Participant - $200 per Day, San Marino / Mid-City LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/5E5473CB2D
-d08a90c9d5f9,Mindrift (Toloka),Paid Study for DIY Enthusiasts - Los Angeles,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/2313CF951F
-e743d0cc7345,Mindrift (Toloka),Paid Study for Hands-On People - Los Angeles,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/BECA8541CC
+f8682be4d900,Mindrift (Toloka),Paid Research Study for Swedish Speakers - Midtown Manhattan,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/36D1DAE2BE
+baa75b0274d5,Mindrift (Toloka),Paid Research Study in Los Angeles - $200 per Session,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/E621143AB3
+0f01b53def3d,Mindrift (Toloka),Paid Research Study in South Bay: $110 for 90 Minutes,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/0A821E9059
+5d9746c217fe,Mindrift (Toloka),Paid Research Study: $110 for a 90-Minute In-Person Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/FBC5D5C3F4
+fff922d16531,Mindrift (Toloka),Paid Research Study: One 90-Minute In-Person Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/3177351C7E
+84f379b0bcca,Mindrift (Toloka),"Paid Research Study: One Visit, No Preparation Needed",3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/4C0B895721
+0ab0d281d91e,Mindrift (Toloka),"Paid Study Participant - $200 per Day, San Marino / Mid-City LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/5FA5CC0932
+d08a90c9d5f9,Mindrift (Toloka),Paid Study for DIY Enthusiasts - Los Angeles,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/56E348E4BA
+e743d0cc7345,Mindrift (Toloka),Paid Study for Hands-On People - Los Angeles,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/01E4DE356C
 93822917575f,Mindrift (Toloka),Paid Study for International Students - Native Dutch Speakers,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/994BAF96D7
 7d5eecd2e02f,Mindrift (Toloka),"Paid Study for International Students - Native Dutch Speakers from Belgium, NYC",1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/8A24858643
 0badd54e64c6,Mindrift (Toloka),"Paid Study for International Students - Native Finnish Speakers from Finland, NY",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/BD06078763
-65027b93666f,Mindrift (Toloka),Paid Study for International Students - Native German Speakers from Aust,1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/9A4E5C73DE
-2e853b9b08b9,Mindrift (Toloka),Paid Study for International Students - Native German Speakers from Switzerland,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/3011259D24
-c551dadcbcd8,Mindrift (Toloka),Paid Study for International Students - Native Hebrew Speakers,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/A4C146A047
-e640265c3bfc,Mindrift (Toloka),Paid Study for International Students - Native Italian Speakers,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/096B2D7DBF
-6d8c6b459f1a,Mindrift (Toloka),"Paid Study for International Students - Native Korean Speakers, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/45169491DF
+65027b93666f,Mindrift (Toloka),Paid Study for International Students - Native German Speakers from Aust,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/748E1895B5
+2e853b9b08b9,Mindrift (Toloka),Paid Study for International Students - Native German Speakers from Switzerland,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/118D421221
+c551dadcbcd8,Mindrift (Toloka),Paid Study for International Students - Native Hebrew Speakers,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/294D001167
+e640265c3bfc,Mindrift (Toloka),Paid Study for International Students - Native Italian Speakers,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/F3A83A1F78
+6d8c6b459f1a,Mindrift (Toloka),"Paid Study for International Students - Native Korean Speakers, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/AE3A08792C
 1af874321c69,Mindrift (Toloka),Paid Study for International Students - Native Polish Speakers from Poland,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/B13615B070
 48e8092ee8c7,Mindrift (Toloka),Paid Study for International Students - Native Portuguese Speakers from Portugal,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/BC6904E9CC
-d3590f2324d1,Mindrift (Toloka),Paid Study for Retirees and Native Arabic Speakers from Saudi Arabia,1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/242D5AD942
+3d10e236077b,Mindrift (Toloka),"Paid Study for International Students - Native Swedish Speakers from Sweden, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/96C6A3675C
+d3590f2324d1,Mindrift (Toloka),Paid Study for Retirees and Native Arabic Speakers from Saudi Arabia,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/A06F50A766
 dd2f3b694d84,Mindrift (Toloka),Paid Study for Retirees and Native Arabic Speakers from the UAE - NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/331D4BF3AF
 16eb7ee46d88,Mindrift (Toloka),Paid Study for Retirees and Native Danish Speakers - NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/B095A42696
 3d697c0fc77b,Mindrift (Toloka),Paid Study for Retirees and Native Finnish Speakers - NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/141FD7D2DC
 5e2f150e135b,Mindrift (Toloka),Paid Study for Retirees and Native Flemish Speakers - NYC,1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/EFCCB835CD
 4947a1052cfa,Mindrift (Toloka),Paid Study for Retirees and Native Polish Speakers - NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/92274C606A
-02daab01321f,Mindrift (Toloka),Paid Study for Retirees and Native Swiss German Speakers - NYC,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/3AC6FA7E6A
-2b9e081e8f2c,Mindrift (Toloka),"Paid Study in San Marino, CA - $200 per Session",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/3904799BC5
-e43fab76c085,Mindrift (Toloka),"Paid Study with Wearable Camera - Household Tasks, LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/7DCC89F726
-0aadeb659587,Mindrift (Toloka),"Paid Study, Real Conversations: $110 for 90 Minutes",3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/57950A1903
-fe29c6fb86ae,Mindrift (Toloka),"Paid Study, Real Conversations: 90 Minutes",3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/19C723F2B3
-1a4a919eaae2,Mindrift (Toloka),"Paid Video Recording Study - Everyday Tasks, $200, LA",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/D955E86DED
+6d1cc6980176,Mindrift (Toloka),Paid Study for Retirees and Native Swedish Speakers - NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/E49E1DA6C8
+02daab01321f,Mindrift (Toloka),Paid Study for Retirees and Native Swiss German Speakers - NYC,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/0495AC5009
+2b9e081e8f2c,Mindrift (Toloka),"Paid Study in San Marino, CA - $200 per Session",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/7B6B6610AC
+e43fab76c085,Mindrift (Toloka),"Paid Study with Wearable Camera - Household Tasks, LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/F8BDC07831
+0aadeb659587,Mindrift (Toloka),"Paid Study, Real Conversations: $110 for 90 Minutes",3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/683FC2CE7B
+fe29c6fb86ae,Mindrift (Toloka),"Paid Study, Real Conversations: 90 Minutes",3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/75DE37566E
+1a4a919eaae2,Mindrift (Toloka),"Paid Video Recording Study - Everyday Tasks, $200, LA",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/B865819550
 dbb240e1e78f,Mindrift (Toloka),"Polish Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/7A8BC57E0D
 05557a123399,Mindrift (Toloka),"Polish Speakers from Poland - Paid Study Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/F183C6932D
 33c276bee844,Mindrift (Toloka),Polish Speakers in NYC: Paid 3-Day Research Study,1,US,False,,,,,2026-11-17,2026-11-17,https://apply.workable.com/j/6A84E60B90
@@ -264,109 +274,103 @@ dbb240e1e78f,Mindrift (Toloka),"Polish Speakers Wanted - Paid Smartphone Study, 
 5659117cff9f,Mindrift (Toloka),"Portuguese Speakers from Portugal - Paid Study Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/48BEB0AD89
 0f729f4ed80c,Mindrift (Toloka),Portuguese Translators and Native Speakers - Paid Study in NYC,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/5C07EC9DA7
 04de9e3c1401,Mindrift (Toloka),Płatne badanie w Nowym Jorku - Polski jako język ojczysty,1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/566CC27BBA
-8d1c5ea342ca,Mindrift (Toloka),Quick and Simple: $110 for a 90-Minute Conversation Study,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/4BFFC6E2A6
-5826a6a5f325,Mindrift (Toloka),Quick and Simple: Paid 90-Minute Conversation Study,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/B489BD1266
+8d1c5ea342ca,Mindrift (Toloka),Quick and Simple: $110 for a 90-Minute Conversation Study,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/5BB25F61B3
+5826a6a5f325,Mindrift (Toloka),Quick and Simple: Paid 90-Minute Conversation Study,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/12BD3FFDF5
 1e011e2b66b2,Mindrift (Toloka),Record Videos at Home for AI - $70 One-Time Task,47,AT|BE|BG|CA|CZ|DE|DK|EE|ES|FI|FR|GB|GR|HR|HU|IE|IN|IT|LT|LV|MX|NL|PL|PT|RO|SE|SI|SK|US,False,,,,,2026-11-12,2026-11-17,https://apply.workable.com/j/418C8FD1CD
 eee3104583c3,Mindrift (Toloka),Record Videos at Home with Your iPhone - Get $70,47,AT|BE|BG|CA|CZ|DE|DK|EE|ES|FI|FR|GB|GR|HR|HU|IE|IN|IT|LT|LV|MX|NL|PL|PT|RO|SE|SI|SK|US,False,,,,,2026-11-12,2026-11-18,https://apply.workable.com/j/A144433889
 e697b5983834,Mindrift (Toloka),Remote iPhone Video Participant - AI Data Collection,1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/4FD1D41CF7
-66ea2010c4d7,Mindrift (Toloka),Research Participants Needed: $110 for One 90-Minute Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/5CD2221ED1
-43e98899ef5b,Mindrift (Toloka),Research Participants Needed: One 90-Minute Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/B2CE96C0E7
-69644212dd4d,Mindrift (Toloka),Research Participants Wanted in South Bay: $110,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/2C2F333B0A
-e1d6875b1283,Mindrift (Toloka),"Saudi Arabic Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/786BAF9A76
-35c6ffa904e7,Mindrift (Toloka),"Short-Term Paid Study - Home & DIY Tasks, Los Angeles",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/CB2E9417C3
+66ea2010c4d7,Mindrift (Toloka),Research Participants Needed: $110 for One 90-Minute Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/DBFFDE7A12
+43e98899ef5b,Mindrift (Toloka),Research Participants Needed: One 90-Minute Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/E8890B55C1
+69644212dd4d,Mindrift (Toloka),Research Participants Wanted in South Bay: $110,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/CEF0644D5F
+e1d6875b1283,Mindrift (Toloka),"Saudi Arabic Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/38F03B56D6
+35c6ffa904e7,Mindrift (Toloka),"Short-Term Paid Study - Home & DIY Tasks, Los Angeles",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/D005AE8A4A
 5b6e2e68d567,Mindrift (Toloka),"Short-Term Paid Study - Native Arabic Speakers from the UAE, Manhattan",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/B0CC672C7A
 27444983a863,Mindrift (Toloka),"Short-Term Paid Study - Native Danish Speakers, Manhattan",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/DB60F90F0E
 ac550ed39327,Mindrift (Toloka),"Short-Term Paid Study - Native Dutch Speakers, Manhattan",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/068B463991
 5133bc34b6bf,Mindrift (Toloka),"Short-Term Paid Study - Native Finnish Speakers, Manhattan",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/203D2CE250
-dd13941a949d,Mindrift (Toloka),"Short-Term Paid Study - Native German Speakers from Austria, Manhattan",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/F1C30C956E
-5910d426e7e9,Mindrift (Toloka),"Short-Term Paid Study - Native German Speakers, Manhattan",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/C111DAFDFF
-f35939dae5cb,Mindrift (Toloka),"Short-Term Paid Study - Native Hebrew Speakers from Israel, Manhattan",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/B5978D8420
-382f9506a703,Mindrift (Toloka),"Short-Term Paid Study - Native Korean Speakers, Manhattan",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/209CEE05DE
+dd13941a949d,Mindrift (Toloka),"Short-Term Paid Study - Native German Speakers from Austria, Manhattan",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/8A0A93AC02
+5910d426e7e9,Mindrift (Toloka),"Short-Term Paid Study - Native German Speakers, Manhattan",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/35532BBB1E
+f35939dae5cb,Mindrift (Toloka),"Short-Term Paid Study - Native Hebrew Speakers from Israel, Manhattan",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/2361C2B81D
+382f9506a703,Mindrift (Toloka),"Short-Term Paid Study - Native Korean Speakers, Manhattan",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/309D903B45
 3fd1334b79cf,Mindrift (Toloka),"Short-Term Paid Study - Native Portuguese Speakers from Portugal, Manhattan",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/8BCB568F13
-c55cc2020e31,Mindrift (Toloka),Side Income Opportunity - $200 Paid Study in Los Angeles,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/E952C36EC9
-f76860eeab31,Mindrift (Toloka),"Side Income for Arabic Speakers from Saudi Arabia - 3-Day Paid Study, NY",1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/CC9F2A98DB
+cf91a2812f40,Mindrift (Toloka),"Short-Term Paid Study - Native Swedish Speakers, Manhattan",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/90F770D198
+c55cc2020e31,Mindrift (Toloka),Side Income Opportunity - $200 Paid Study in Los Angeles,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/17BFE49E39
+f76860eeab31,Mindrift (Toloka),"Side Income for Arabic Speakers from Saudi Arabia - 3-Day Paid Study, NY",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/877A5EF5DB
 f3192c4668e6,Mindrift (Toloka),"Side Income for Arabic Speakers from the UAE - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/04E9217480
 f0a8b8c7f946,Mindrift (Toloka),"Side Income for Flemish Speakers - 3-Day Paid Study, NYC",1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/C56E4BDFE2
-a344b62179ce,Mindrift (Toloka),"Side Income for French Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/E6D8E4417C
-bf994db6e5c3,Mindrift (Toloka),"Side Income for German Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/7C1302D6B6
-c78241415a58,Mindrift (Toloka),"Side Income for Israelis in NYC - 3-Day Paid Study, Hebrew Speakers",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/E31272F161
-94b0389d792d,Mindrift (Toloka),"Side Income for Japanese Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/2B2E710A9E
-078c372f96f0,Mindrift (Toloka),"Side Income for Korean Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/FFDE6EEDB9
+a344b62179ce,Mindrift (Toloka),"Side Income for French Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/820F4276F4
+bf994db6e5c3,Mindrift (Toloka),"Side Income for German Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/0F4C1B94E9
+c78241415a58,Mindrift (Toloka),"Side Income for Israelis in NYC - 3-Day Paid Study, Hebrew Speakers",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/974671B923
+078c372f96f0,Mindrift (Toloka),"Side Income for Korean Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/5C7C6B1006
 ad24011e4268,Mindrift (Toloka),"Side Income for Polish Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/B35C6AA79E
 ebb424bff0b9,Mindrift (Toloka),"Side Income for Portuguese Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/67548C9394
-e7affe9971a5,Mindrift (Toloka),"Side Income for Swiss German Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/B93147CD45
-b7fd2a8170ee,Mindrift (Toloka),"Side Income for Swiss Italian Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/EFBA0BA1E3
-3edfc89766e6,Mindrift (Toloka),Side Income: $110 for One In-Person Study Session (South Bay),3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/18E3733A1F
-95b768a6e131,Mindrift (Toloka),Small-Group Conversation Study: $110 for One Visit,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/D756067E31
-f7868fd73bb1,Mindrift (Toloka),"Spend 90 Minutes With Us, Get Paid for Your Time",3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/12AD635B02
-3a5e4f8edbd3,Mindrift (Toloka),"Spend 90 Minutes With Us, Walk Away With $110",3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/9B3E66D36D
-ae1385ebd469,Mindrift (Toloka),"Student Gig - Austrian German Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/E938FAA5EB
+eeb756a32d58,Mindrift (Toloka),"Side Income for Swedish Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/47C4622E7D
+e7affe9971a5,Mindrift (Toloka),"Side Income for Swiss German Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/50859DD280
+b7fd2a8170ee,Mindrift (Toloka),"Side Income for Swiss Italian Speakers - 3-Day Paid Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/F46212B5EF
+3edfc89766e6,Mindrift (Toloka),Side Income: $110 for One In-Person Study Session (South Bay),3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/460B46C1F6
+95b768a6e131,Mindrift (Toloka),Small-Group Conversation Study: $110 for One Visit,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/5F145EF499
+f7868fd73bb1,Mindrift (Toloka),"Spend 90 Minutes With Us, Get Paid for Your Time",3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/6FD83A8A0F
+3a5e4f8edbd3,Mindrift (Toloka),"Spend 90 Minutes With Us, Walk Away With $110",3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/F2B360C511
+ae1385ebd469,Mindrift (Toloka),"Student Gig - Austrian German Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/FA9326764A
 b05693eacb43,Mindrift (Toloka),"Student Gig - Emirati Arabic Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/D57329834D
 cd45ecd9303f,Mindrift (Toloka),"Student Gig - European Portuguese Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/337EB0CBDB
-921222bd21b7,Mindrift (Toloka),"Student Gig - French Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/0EC3F578CE
+921222bd21b7,Mindrift (Toloka),"Student Gig - French Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/FD3F981ED3
 5a34c161d0b1,Mindrift (Toloka),"Student Gig - Japanese Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/46F9D8139B
-2b3747b626b0,Mindrift (Toloka),"Student Gig - Korean Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/A124C69ABF
+2b3747b626b0,Mindrift (Toloka),"Student Gig - Korean Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/2C12E05B5D
 951149fb552e,Mindrift (Toloka),"Student Gig - Native Dutch Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/0CE6E8EB62
-ff290987722b,Mindrift (Toloka),"Student Gig - Native German Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/463DA5DF6D
+ff290987722b,Mindrift (Toloka),"Student Gig - Native German Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/1A038CEF34
 a238b02c2a30,Mindrift (Toloka),"Student Gig - Native Polish Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/1EA2A6B75B
-1d780d59ea99,Mindrift (Toloka),"Student Gig - Saudi Arabic Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/3370398B6F
-a62de34e51ae,Mindrift (Toloka),"Student Gig - Swiss German Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/7CA5DAA08A
-c457b95e7307,Mindrift (Toloka),"Student Gig - Swiss Italian Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/908DBE7B4A
-b832e106e3e2,Mindrift (Toloka),Studio retribuito a New York - Per madrelingua italiani (1.200-1.600 $),1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/02636EB2D9
-58d478f89194,Mindrift (Toloka),Studio retribuito a New York - Per madrelingua italiani dalla Svizzera,1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/576261AA28
+c57b35dfe040,Mindrift (Toloka),"Student Gig - Native Swedish Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/2D85C1749D
+1d780d59ea99,Mindrift (Toloka),"Student Gig - Saudi Arabic Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/2892F047C3
+a62de34e51ae,Mindrift (Toloka),"Student Gig - Swiss German Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/3104EA77B8
+c457b95e7307,Mindrift (Toloka),"Student Gig - Swiss Italian Speakers, Paid Study in NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/A62CFD41F4
+b832e106e3e2,Mindrift (Toloka),Studio retribuito a New York - Per madrelingua italiani (1.200-1.600 $),1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/EB3E6AEE8B
+58d478f89194,Mindrift (Toloka),Studio retribuito a New York - Per madrelingua italiani dalla Svizzera,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/56C4CEA321
+6043ca452b65,Mindrift (Toloka),"Swedish Speakers from Sweden - Paid Study Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/06B127BA75
 a875b3c85217,Mindrift (Toloka),Swedish Speakers in NYC: Paid 3-Day Research Study,1,US,False,,,,,2026-11-17,2026-11-17,https://apply.workable.com/j/AFC777715D
-f9806beae414,Mindrift (Toloka),"Swiss German Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/0A77F4F3A0
-eeb476004755,Mindrift (Toloka),"Swiss German Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/8F0C6E6777
-2243021cee17,Mindrift (Toloka),"Swiss Italian Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/AF300544A2
-a34b376a756f,Mindrift (Toloka),"Swiss Italian Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/23ADF3B404
-40135d067ae5,Mindrift (Toloka),Take Part in a Paid 90-Minute In-Person Study,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/00C88B38D9
-17ff33c3b031,Mindrift (Toloka),Take Part in a Paid In-Person Research Study: One Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/B9E1B55178
-ee0781707895,Mindrift (Toloka),"Talk About Everyday Topics, Earn $110 in 90 Minutes",3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/D29D48D388
-caa873bfcd0a,Mindrift (Toloka),"Temporary Gig - Austrian German Research Participant, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/FAA67C8253
+f9806beae414,Mindrift (Toloka),"Swiss German Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/5E18A8E608
+eeb476004755,Mindrift (Toloka),"Swiss German Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/BB3B599350
+2243021cee17,Mindrift (Toloka),"Swiss Italian Speaker Study Participant - NYC, $1,200-1,600",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/875D312FC5
+a34b376a756f,Mindrift (Toloka),"Swiss Italian Speakers Wanted - Paid Smartphone Study, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/179DA106AA
+40135d067ae5,Mindrift (Toloka),Take Part in a Paid 90-Minute In-Person Study,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/68388B5958
+17ff33c3b031,Mindrift (Toloka),Take Part in a Paid In-Person Research Study: One Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/D582FC5E80
+ee0781707895,Mindrift (Toloka),"Talk About Everyday Topics, Earn $110 in 90 Minutes",3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/85C380CC7F
+caa873bfcd0a,Mindrift (Toloka),"Temporary Gig - Austrian German Research Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/C7D963F744
 d7b772d56b86,Mindrift (Toloka),"Temporary Gig - Dutch Speaker Research Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/67F727322A
 3c980433f136,Mindrift (Toloka),"Temporary Gig - Emirati Arabic Research Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/2AFC5F58AF
 8e324cbbb8d6,Mindrift (Toloka),"Temporary Gig - Finnish Speaker Research Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/743DC82A5D
 b6c79c3a75e6,Mindrift (Toloka),"Temporary Gig - Flemish Research Participant, NYC",1,US,False,,,100.0,,2026-11-18,2026-11-18,https://apply.workable.com/j/031F60F31A
-1609ba27ffb4,Mindrift (Toloka),"Temporary Gig - French Speaker Research Participant, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/C2C60AA450
-f35a9c7fc823,Mindrift (Toloka),"Temporary Gig - Israeli Hebrew Research Participant, NYC",1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/1EB1ACA847
-2f0c4b23170f,Mindrift (Toloka),"Temporary Gig - Italian Speaker Research Participant, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/66884D5D1D
+1609ba27ffb4,Mindrift (Toloka),"Temporary Gig - French Speaker Research Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/5889466280
+f35a9c7fc823,Mindrift (Toloka),"Temporary Gig - Israeli Hebrew Research Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/FDA754D0DC
+2f0c4b23170f,Mindrift (Toloka),"Temporary Gig - Italian Speaker Research Participant, NYC",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/C4D6E51C38
 95b828782243,Mindrift (Toloka),"Temporary Gig - Japanese Speaker Research Participant, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/01D9B2AC33
-7aa1752c885c,Mindrift (Toloka),"Temporary Gig - Korean Speaker Research Participant, NYC",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/669410021B
-352bbce55242,Mindrift (Toloka),"Temporary Gig - Swiss German Research Participant, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/2E3EC62601
-94d518c31e26,Mindrift (Toloka),"Temporary Gig - Swiss Italian Research Participant, NYC",1,US,False,,,,,2026-11-10,2026-11-10,https://apply.workable.com/j/7A215A0FDF
+7aa1752c885c,Mindrift (Toloka),"Temporary Gig - Korean Speaker Research Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/50B80DD1EB
+352bbce55242,Mindrift (Toloka),"Temporary Gig - Swiss German Research Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/1B8E866E4A
+94d518c31e26,Mindrift (Toloka),"Temporary Gig - Swiss Italian Research Participant, NYC",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/4FD42F4E88
 d1723fe1f270,Mindrift (Toloka),"Tutkimus New Yorkissa - Suomea äidinkielenään puhuville, palkkio 1 200-1 600 USD",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/D4CD702B2C
 1698545f0abc,Mindrift (Toloka),"Undersøgelse i New York - For personer med dansk som modersmål, 1.200-1.600 USD",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/E86666080C
-811fb3d2d124,Mindrift (Toloka),"Weekday Paid Focus Group - $110, Santa Clara",2,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/316D960F96
-b20bc9c5461f,Mindrift (Toloka),Weekend Paid Study Opportunity - Los Angeles,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/41A76F2BB3
-6fb19e6a45e0,Mindrift (Toloka),Weekend Paid Study in LA - Up to $200 per Session,1,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/89436F67A5
-94988cac68b4,Mindrift (Toloka),Your Voice Matters: $110 for a 90-Minute Research Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/6E8148E376
-9526742e9e76,Mindrift (Toloka),Your Voice Matters: Paid 90-Minute Research Session,3,US,False,,,,,2026-11-12,2026-11-12,https://apply.workable.com/j/8C23F52DC1
+811fb3d2d124,Mindrift (Toloka),"Weekday Paid Focus Group - $110, Santa Clara",2,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/970AF608D3
+b20bc9c5461f,Mindrift (Toloka),Weekend Paid Study Opportunity - Los Angeles,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/663C3B6475
+6fb19e6a45e0,Mindrift (Toloka),Weekend Paid Study in LA - Up to $200 per Session,1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/ABCDBC9045
+94988cac68b4,Mindrift (Toloka),Your Voice Matters: $110 for a 90-Minute Research Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/CFA44CAC9B
+9526742e9e76,Mindrift (Toloka),Your Voice Matters: Paid 90-Minute Research Session,3,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/55160A2081
 23e5011f0a1f,Mindrift (Toloka),iPhone Video Data Collection - Paid Task ($70),47,AT|BE|BG|CA|CZ|DE|DK|EE|ES|FI|FR|GB|GR|HR|HU|IE|IN|IT|LT|LV|MX|NL|PL|PT|RO|SE|SI|SK|US,False,,,,,2026-11-12,2026-11-17,https://apply.workable.com/j/8325C4590A
-2e16a4f9abe4,Mindrift (Toloka),Étude rémunérée à New York - Francophones natifs (1 200-1 600 $),1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/C1466F8E67
-b829afe92617,Mindrift (Toloka),"دراسة مدفوعة في نيويورك - للناطقين بالعربية من السعودية ($1,200-1,600)",1,US,False,,,,,2026-11-11,2026-11-11,https://apply.workable.com/j/CFBBB9B9DC
+2e16a4f9abe4,Mindrift (Toloka),Étude rémunérée à New York - Francophones natifs (1 200-1 600 $),1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/A7F6FCE267
+b829afe92617,Mindrift (Toloka),"دراسة مدفوعة في نيويورك - للناطقين بالعربية من السعودية ($1,200-1,600)",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/DADB83D9EA
 21b1315a117c,Mindrift (Toloka),"دراسة مدفوعة في نيويورك لمتحدثي العربية من الإمارات (1,200-1,600$)",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/3EC3E05B7E
-2d983247511a,Mindrift (Toloka),"日本語ネイティブの方へ - ニューヨークで3日間の謝礼付き調査 ($1,200-1,600)",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/9A46AC04D4
-2744375184e0,Mindrift (Toloka),"한국어 원어민 대상 - 뉴욕 3일 연구 참여, 사례비 $1,200-1,600",1,US,False,,,,,2026-11-09,2026-11-09,https://apply.workable.com/j/F9C6B611B1
+2d983247511a,Mindrift (Toloka),"日本語ネイティブの方へ - ニューヨークで3日間の謝礼付き調査 ($1,200-1,600)",1,US,False,,,,,2026-11-18,2026-11-18,https://apply.workable.com/j/604EE95B81
+2744375184e0,Mindrift (Toloka),"한국어 원어민 대상 - 뉴욕 3일 연구 참여, 사례비 $1,200-1,600",1,US,False,,,,,2026-11-19,2026-11-19,https://apply.workable.com/j/39B539CE75
 2bccb65f4ab7,RWS (TrainAI),*Future Opportunities: Join our global TrainAI talent pool,1,US,False,,,,,2025-03-14,2025-03-14,https://jobs.lever.co/rws/f4e3ba40-dc02-4f86-a88a-9cc7e7891ede
 cc924ab63126,RWS (TrainAI),AI Conversation Recording Contributor - Assamese,1,IN,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/af968999-dd6a-4133-975d-2921ddc90535
-7b3944385857,RWS (TrainAI),AI Conversation Recording Contributor - Beira Portuguese,1,PT,False,,,,,2026-11-06,2026-11-06,https://jobs.lever.co/rws/a1c3ab70-6b04-426e-8fa2-5d237253a3b4
 cade8ad2f507,RWS (TrainAI),AI Conversation Recording Contributor - Bosnian,1,BA,False,,,,,2026-10-23,2026-10-23,https://jobs.lever.co/rws/5097e203-0402-4c70-88a5-abe5ff881a23
 79dc59368bc3,RWS (TrainAI),AI Conversation Recording Contributor - Catalan,1,ES,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/2830ff5e-78f0-4d46-85f3-a1233db1ef6c
 23ee991472e9,RWS (TrainAI),AI Conversation Recording Contributor - Danish,1,DK,False,,,,,2026-11-06,2026-11-06,https://jobs.lever.co/rws/f2a05c66-b2fd-4d26-ab25-4f651bcdd7dc
 a8e8a35203a4,RWS (TrainAI),AI Conversation Recording Contributor - Eastern Punjabi/Punjabi (India),1,IN,False,,,,,2026-10-27,2026-10-27,https://jobs.lever.co/rws/677a0a67-0bb1-47ae-8bbc-387ded659e83
-5b1a19a95b14,RWS (TrainAI),AI Conversation Recording Contributor - Estonian,1,EE,False,,,,,2026-11-06,2026-11-06,https://jobs.lever.co/rws/44ba5ee7-a760-4367-80b3-c19ec0898dd8
-9fd0afa0b995,RWS (TrainAI),AI Conversation Recording Contributor - Hebrew,1,IL,False,,,,,2026-10-27,2026-10-27,https://jobs.lever.co/rws/2af61904-a5f9-4ef9-80d9-19dcdcb33782
 1ea0388e7095,RWS (TrainAI),AI Conversation Recording Contributor - Icelandic,1,IS,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/9265f434-013d-4a7c-bf13-6cd2a5722820
 db47266e85bd,RWS (TrainAI),AI Conversation Recording Contributor - Kyrgyz,1,UZ,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/0ab32a8b-fd9f-4104-8355-c022a9517481
 2f197faa2e66,RWS (TrainAI),AI Conversation Recording Contributor - Lao (Laos),1,LA,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/50e8adfb-d9f6-4a82-9c9f-6e87b8defb07
-4b586b460f87,RWS (TrainAI),AI Conversation Recording Contributor - Latvian (Latvia),1,LV,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/0f1d28da-0a1a-4c11-89ad-65264b4b79e6
-cd7a84c04e99,RWS (TrainAI),AI Conversation Recording Contributor - Lingala,2,GB|KE|ZA,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/241978d4-31e4-4fbb-aa81-8645d5b9efd9
-ec09c35679e5,RWS (TrainAI),AI Conversation Recording Contributor - Lithuanian (Lithuania),1,LT,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/51102353-59c2-433c-86e4-10e96db534f5
-6d8171df0903,RWS (TrainAI),AI Conversation Recording Contributor - Malayalam,1,IN,False,,,,,2026-10-27,2026-10-27,https://jobs.lever.co/rws/c6333bed-d249-4b1e-b5ba-29b62e7c808a
 4ba09ff71858,RWS (TrainAI),AI Conversation Recording Contributor - Maltese,1,MT,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/3a5ae13f-6e6c-4de9-860a-d1333f7ba749
-778056c3af66,RWS (TrainAI),AI Conversation Recording Contributor - Nepali,1,NP,False,,,,,2026-11-06,2026-11-06,https://jobs.lever.co/rws/48e18e31-8f8f-4c36-9a8d-90100ebe3505
 415524f7d91b,RWS (TrainAI),AI Conversation Recording Contributor - Norwegian Nynorsk,1,NO,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/4a9bbd9d-39ed-47ba-a4c1-6aaccbd87cfa
-29c8c7000e37,RWS (TrainAI),AI Conversation Recording Contributor - Sinhala (Sri Lanka),1,LK,False,,,,,2026-10-27,2026-10-27,https://jobs.lever.co/rws/6dad7365-4372-471f-8dba-7e5523b2cd85
 7078d8fe71d5,RWS (TrainAI),AI Conversation Recording Contributor - Slovenian (Slovenia),1,SI,False,,,,,2026-10-21,2026-10-21,https://jobs.lever.co/rws/11b51b26-1b77-4186-8d00-a79842c4b75a
 cc8ad90957d2,RWS (TrainAI),AI Conversation Recording Contributor - Swedish,1,SE,False,,,,,2026-11-06,2026-11-06,https://jobs.lever.co/rws/50373eb2-a64d-4512-be3b-781e57621d32
 e0583a540ed3,RWS (TrainAI),AI Conversation Specialist - (Jizan) Saudi Arabic,1,SA,False,,,,,2026-09-14,2026-09-14,https://jobs.lever.co/rws/7b86e1c2-9e7e-49a1-9ad3-c0e9905dfb74
@@ -382,6 +386,7 @@ aa94a5ae0ec0,RWS (TrainAI),AI Data Specialist - French from Canada,1,CA,False,,B
 4424cc05e36f,RWS (TrainAI),AI Data Specialist - Italian,1,IT,False,,B2,,,2025-09-16,2025-09-16,https://jobs.lever.co/rws/613a9553-e941-4476-80f1-4dbd00410113
 9b9d17068d30,RWS (TrainAI),AI Data Specialist - Japanese,1,JP,False,,B2,,,2026-02-20,2026-02-20,https://jobs.lever.co/rws/726a3bbc-1a36-48a2-84eb-24a43f5af088
 d30b717b5869,RWS (TrainAI),AI Data Specialist - Korean,1,KR,False,,B2,,,2026-06-18,2026-06-18,https://jobs.lever.co/rws/d70afa3f-68d0-495b-b0b3-d0a2ec891b67
+daaf3f303f42,RWS (TrainAI),AI Data Specialist - Luxembourgish,1,BE|DE|FR|US,False,,B2,,,2026-11-18,2026-11-18,https://jobs.lever.co/rws/02b5cd1e-7f5b-4120-8abf-eb7a93ea7033
 8f20e9b806e2,RWS (TrainAI),AI Data Specialist - Malay,1,MY,False,,B2,,,2026-02-20,2026-02-20,https://jobs.lever.co/rws/0a1ba562-de05-4bc4-825b-53cf0762abf6
 1793413c774f,RWS (TrainAI),AI Data Specialist - Malay (Singapore),1,SG,False,,B2,,,2026-11-17,2026-11-17,https://jobs.lever.co/rws/3c982d89-255e-4495-b0d3-bd8c2dddd47f
 fc9ddbaadd85,RWS (TrainAI),AI Data Specialist - Marathi,1,IN,False,,B2,,,2026-02-20,2026-02-20,https://jobs.lever.co/rws/e8732819-c6b9-4ff1-8ac9-a31742df4c7a
@@ -467,7 +472,6 @@ eb68a06bf3c3,RWS (TrainAI),Search Engine Evaluator - Italian (Italy),1,IT,False,
 ed53bf2b38c3,RWS (TrainAI),Search Engine Evaluator - Italian (Switzerland),1,CH,False,,,,,2026-10-02,2026-10-02,https://jobs.lever.co/rws/2a357c30-1b52-42fa-a7a4-3791749b6226
 a1d097f1600d,RWS (TrainAI),Search Engine Evaluator - Japanese (Japan),1,JP,False,,B2,,,2024-10-14,2024-10-14,https://jobs.lever.co/rws/e960893d-081d-410e-9888-392e06924c26
 97ecab835134,RWS (TrainAI),Search Engine Evaluator - Kannada (India),1,IN,False,,,,,2026-10-02,2026-10-02,https://jobs.lever.co/rws/004da6b2-2601-4a8a-bb9d-6ed265d6f536
-438a03a2d074,RWS (TrainAI),Search Engine Evaluator - Korean (South Korea),1,KR,False,,,,,2024-10-14,2024-10-14,https://jobs.lever.co/rws/6f793f72-c1e5-4818-8603-49f7fd0297e3
 626cfa89bd03,RWS (TrainAI),Search Engine Evaluator - Marathi (India),1,IN,False,,,,,2026-10-02,2026-10-02,https://jobs.lever.co/rws/08656502-13c0-4cfa-826f-2a2b3976939d
 c8150613e87a,RWS (TrainAI),Search Engine Evaluator - Norwegian (Norway),1,NO,False,,,,,2026-10-02,2026-10-02,https://jobs.lever.co/rws/5f8c12c7-a72c-4c9c-bbb9-557ad98bacf1
 fed5af03c0ab,RWS (TrainAI),Search Engine Evaluator - Odia (India),1,IN,False,,,,,2026-10-02,2026-10-02,https://jobs.lever.co/rws/82064cf1-75a2-408d-a702-1cd2f4aecfd8
@@ -485,14 +489,15 @@ cf6f53f3b22e,Scale AI,AI Policy Lead,1,US,False,8,,,,2026-11-09,2026-11-09,https
 e6000169f625,Scale AI,AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP),1,CA|GB|US,False,,,100.0,,2026-10-16,2026-10-16,https://job-boards.greenhouse.io/scaleai/jobs/4744402005
 c2e5cf905a6b,Scale AI,Account Based Marketing Lead,1,US,False,5,,,,2026-10-01,2026-10-01,https://job-boards.greenhouse.io/scaleai/jobs/4739727005
 1a84574999ca,Scale AI,"Account Executive, Air Force",1,US,False,,,,,2026-11-13,2026-11-13,https://job-boards.greenhouse.io/scaleai/jobs/4753839005
-7ebcfa7c56d2,Scale AI,"Account Executive, Army",1,US,False,,,,,2026-11-13,2026-11-13,https://job-boards.greenhouse.io/scaleai/jobs/4753822005
+7ebcfa7c56d2,Scale AI,"Account Executive, Army",1,,,,,,,2026-11-13,2026-11-13,https://job-boards.greenhouse.io/scaleai/jobs/4753822005
+01c80bdf774d,Scale AI,"Account Executive, Defense Intelligence Agency (DIA)",1,US,False,,,,,2026-11-19,2026-11-19,https://job-boards.greenhouse.io/scaleai/jobs/4756303005
 dbe90613842b,Scale AI,"Account Executive, Navy",1,US,False,,,,,2026-11-12,2026-11-12,https://job-boards.greenhouse.io/scaleai/jobs/4753798005
+9709f0dbb739,Scale AI,"Account Executive, Space Force",1,US,False,,,,,2026-07-09,2026-07-09,https://job-boards.greenhouse.io/scaleai/jobs/4713532005
 3baaed7078fb,Scale AI,Applied AI Engineer,1,,,,,,,2026-11-06,2026-11-06,https://job-boards.greenhouse.io/scaleai/jobs/4751059005
 c04272a4d8d9,Scale AI,Contracts Manager,1,US,False,5,,,,2026-10-19,2026-10-19,https://job-boards.greenhouse.io/scaleai/jobs/4745295005
 d47b8a7ed7bc,Scale AI,"Contributor Experience Manager, Community",1,US,False,,,,,2026-09-09,2026-09-09,https://job-boards.greenhouse.io/scaleai/jobs/4731928005
 94394aaf1b5f,Scale AI,Creative Advisor - Human Frontier Collective,1,US,False,,,,,2026-10-23,2026-10-23,https://job-boards.greenhouse.io/scaleai/jobs/4747295005
 7a3dfc81dc79,Scale AI,"Data Acquisition Lead, Frontier Environments",1,US,False,,,,,2026-08-21,2026-08-21,https://job-boards.greenhouse.io/scaleai/jobs/4725509005
-dd2a324c3b1f,Scale AI,"Deployment Strategist, Space Systems Command",1,US,False,,,,,2026-07-09,2026-07-09,https://job-boards.greenhouse.io/scaleai/jobs/4713532005
 0429b7176318,Scale AI,"DevOps Engineer, Infrastructure & Security",1,US,False,2,,,,2026-03-18,2026-03-18,https://job-boards.greenhouse.io/scaleai/jobs/4674863005
 b2d8aabea18f,Scale AI,Director of Partner Marketing,1,US,False,,,,,2026-10-28,2026-10-28,https://job-boards.greenhouse.io/scaleai/jobs/4748330005
 841b510a02ea,Scale AI,Engagement Manager,1,,,5,,,,2026-11-06,2026-11-06,https://job-boards.greenhouse.io/scaleai/jobs/4751057005
@@ -519,7 +524,7 @@ eb98a02b81f3,Scale AI,Finance Systems Integration Lead,1,US,False,5,,,,2026-05-1
 bb124c68a31d,Scale AI,"Forward Deployed Product Manager, Enterprise",1,US,False,,,,,2026-03-13,2026-03-13,https://job-boards.greenhouse.io/scaleai/jobs/4673051005
 c7df39678e32,Scale AI,"Forward Deployed Product Manager, Public Sector",1,US,False,,,,,2026-07-14,2026-07-14,https://job-boards.greenhouse.io/scaleai/jobs/4713648005
 b6cbadee4cc7,Scale AI,"Forward Deployed Software Engineer, Public Sector",1,US,False,5,,,,2024-10-09,2024-10-09,https://job-boards.greenhouse.io/scaleai/jobs/4481921005
-262fca07ec23,Scale AI,"Frontier Agent Engineering Manager, Enterprise",3,GB|US,False,5,,,,2026-01-27,2026-10-27,https://job-boards.greenhouse.io/scaleai/jobs/4747506005
+262fca07ec23,Scale AI,"Frontier Agent Engineering Manager, Enterprise",3,GB|US,False,5,,,,2026-01-27,2026-10-27,https://job-boards.greenhouse.io/scaleai/jobs/4602177005
 b22e482139cc,Scale AI,Frontier Agents Engineer (Applied AI),1,US,False,4,,,,2026-07-31,2026-07-31,https://job-boards.greenhouse.io/scaleai/jobs/4720573005
 3e7e656a9ea5,Scale AI,Frontier Agents Engineer (Forward Deployed Engineering),1,US,False,4,,,,2026-05-15,2026-05-15,https://job-boards.greenhouse.io/scaleai/jobs/4694861005
 18ca6663ffb5,Scale AI,Frontier Data Strategist,1,US,False,,,,,2026-04-20,2026-04-20,https://job-boards.greenhouse.io/scaleai/jobs/4687052005
@@ -573,7 +578,7 @@ fb81782071db,Scale AI,Research Advisor - Human Frontier Collective (UK),1,GB,Fal
 ac703eee93d2,Scale AI,"Security Engineer, Product Security",1,US,False,,,,,2025-12-22,2025-12-22,https://job-boards.greenhouse.io/scaleai/jobs/4643029005
 51444477ebe5,Scale AI,"Senior / Staff Machine Learning Research Scientist, Agents",1,US,False,,,,,2024-10-25,2024-10-25,https://job-boards.greenhouse.io/scaleai/jobs/4488520005
 4ed28dcaf8f3,Scale AI,Senior AI Product Manager,1,US,False,5,,,,2026-08-04,2026-08-04,https://job-boards.greenhouse.io/scaleai/jobs/4720501005
-1e834e83225e,Scale AI,Senior Applied AI Engineer,2,GB,,,,,,2026-11-04,2026-11-10,https://job-boards.greenhouse.io/scaleai/jobs/4751081005
+1e834e83225e,Scale AI,Senior Applied AI Engineer,2,GB,,,,,,2026-11-04,2026-11-10,https://job-boards.greenhouse.io/scaleai/jobs/4751149005
 e709390fbcce,Scale AI,"Senior Data Analyst, Public Sector",1,US,False,6,,,,2026-09-02,2026-09-02,https://job-boards.greenhouse.io/scaleai/jobs/4729899005
 7b40dc45a256,Scale AI,"Senior Data Engineer, Public Sector",1,US,False,5,,,,2026-07-10,2026-07-10,https://job-boards.greenhouse.io/scaleai/jobs/4713597005
 8a9ff1de3934,Scale AI,"Senior Engineering Manager, Kuwait",1,,,6,,,,2026-11-12,2026-11-12,https://job-boards.greenhouse.io/scaleai/jobs/4753437005
@@ -592,7 +597,7 @@ c9ae07886919,Scale AI,"Senior Software Engineer, Orchestration Platform",1,US,Fa
 9a5f5534d1d8,Scale AI,"Senior Software Engineer, Platform",1,US,False,5,,,,2026-09-03,2026-09-03,https://job-boards.greenhouse.io/scaleai/jobs/4730512005
 a35f5fff67e9,Scale AI,Senior Staff Frontier Agents Engineer,1,US,False,12,,,,2026-05-15,2026-05-15,https://job-boards.greenhouse.io/scaleai/jobs/4694869005
 ded3eb1e4555,Scale AI,"Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI",1,US,False,5,,,,2026-02-10,2026-02-10,https://job-boards.greenhouse.io/scaleai/jobs/4658162005
-7619d51d4ad0,Scale AI,Software Engineer - New Grad,3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730862005
+7619d51d4ad0,Scale AI,Software Engineer - New Grad,3,GB|QA|US,False,,,,,2026-09-04,2026-09-14,https://job-boards.greenhouse.io/scaleai/jobs/4730851005
 2e88fa2c14a1,Scale AI,"Software Engineer, ARC Team",1,US,False,,,,,2026-03-16,2026-03-16,https://job-boards.greenhouse.io/scaleai/jobs/4673771005
 b550c122efdb,Scale AI,"Software Engineer, Enterprise AI",1,US,False,4,,,,2025-01-07,2025-01-07,https://job-boards.greenhouse.io/scaleai/jobs/4513943005
 39428452d57d,Scale AI,"Software Engineer, Frontier AI Infrastructure",1,US,False,,,,,2024-02-15,2024-02-15,https://job-boards.greenhouse.io/scaleai/jobs/4363623005
@@ -640,16 +645,14 @@ cd395eec4cb7,Turing,"Account Director, Enterprise AI - Consumer Packaged Goods",
 6a488a8313a3,Turing,"Client Director, Financial Services (BFSI)",1,US,False,,,,350000.0,2026-10-22,2026-10-22,https://job-boards.greenhouse.io/turing/jobs/6233037004
 600b6f9e0c50,Turing,Client Engagement Lead - Pharma & Life Sciences,1,US,False,,,,,2026-10-29,2026-10-29,https://job-boards.greenhouse.io/turing/jobs/6237369004
 790af78ade28,Turing,Engagement Manager,1,US,False,,,,300000.0,2026-09-15,2026-09-15,https://job-boards.greenhouse.io/turing/jobs/6186761004
-fe9784c90f3f,Turing,Engineering Manager,2,BR|CO|US,True,5,,,,2026-09-29,2026-11-10,https://job-boards.greenhouse.io/turing/jobs/6209679004
+fe9784c90f3f,Turing,Engineering Manager,1,BR|CO,True,5,,,,2026-09-29,2026-09-29,https://job-boards.greenhouse.io/turing/jobs/6209679004
 1beac1ef1de1,Turing,"Field Engineer, AI Labs",1,US,False,1,,,232000.0,2026-04-30,2026-04-30,https://job-boards.greenhouse.io/turing/jobs/5985543004
 ce4569cc8dc6,Turing,Forward Deployed AI Engineer,2,US,False,,,,250000.0,2026-09-17,2026-11-11,https://job-boards.greenhouse.io/turing/jobs/6192730004
 3608d6dd4038,Turing,Forward-Deployed AI Engineer,2,IN,False,,,,,2026-09-24,2026-09-24,https://job-boards.greenhouse.io/turing/jobs/6192725004
-9749bbf21fbe,Turing,Growth Strategy and Operations,1,IN,False,2,,,,2026-11-07,2026-11-07,https://job-boards.greenhouse.io/turing/jobs/6252155004
 c019f47a02ad,Turing,"Head of Platform Engineering, Enterprise AI",1,US,False,,,,320000.0,2026-10-19,2026-10-19,https://job-boards.greenhouse.io/turing/jobs/6227623004
 99d500986dbb,Turing,Machine Learning / Data Engineer,1,BR|CO,True,4,,,,2026-10-06,2026-10-06,https://job-boards.greenhouse.io/turing/jobs/6216854004
 9a2ad4daa29d,Turing,Marketplace Operations Lead,1,US,False,,,,230000.0,2026-10-29,2026-10-29,https://job-boards.greenhouse.io/turing/jobs/6235204004
 4fe02e0e4ab4,Turing,"Partnerships Lead, Frontier AI",1,US,False,7,,,,2026-10-30,2026-10-30,https://job-boards.greenhouse.io/turing/jobs/6236593004
-486e7fc4df07,Turing,"Performance Marketing Analyst, Paid Acquisition",1,IN,False,2,,,,2026-11-07,2026-11-07,https://job-boards.greenhouse.io/turing/jobs/6252156004
 5c744e0ab54d,Turing,Platform Engineer - Enterprise AI,1,US,False,,,,,2026-10-26,2026-10-26,https://job-boards.greenhouse.io/turing/jobs/6234874004
 bdec69285cdd,Turing,"Research Engineer, Frontier Data",1,BR,False,4,,,,2026-03-23,2026-03-23,https://job-boards.greenhouse.io/turing/jobs/5819904004
 53ee7e16db22,Turing,"Research Engineering Manager, STEM",2,BR|CO|US,True,,,,350000.0,2026-11-10,2026-11-17,https://job-boards.greenhouse.io/turing/jobs/6255566004
@@ -660,9 +663,8 @@ a76da8082cdb,Turing,"Research Scientist, STEM",1,US,False,,,,300000.0,2026-09-24
 cc8f0b720624,Turing,"Senior Research Engineer, Frontier Data",1,US,False,,,,350000.0,2026-09-24,2026-09-24,https://job-boards.greenhouse.io/turing/jobs/6198595004
 a5761ea7a280,Turing,"Senior Research Engineer, SWE",1,US,False,,,,350000.0,2025-11-10,2025-11-10,https://job-boards.greenhouse.io/turing/jobs/5703798004
 bec69d617efc,Turing,"Senior Research Scientist, STEM",1,US,False,,,,350000.0,2026-09-24,2026-09-24,https://job-boards.greenhouse.io/turing/jobs/6187281004
-0be61535d8a6,Turing,Senior Software Engineer,1,BR,False,,,,,2026-09-28,2026-09-28,https://job-boards.greenhouse.io/turing/jobs/6209780004
 b5197a9030c7,Turing,"Senior Software Engineer, AI Evaluation Infrastructure",1,US,False,,,,200000.0,2026-10-19,2026-10-19,https://job-boards.greenhouse.io/turing/jobs/6225409004
-e9f7d86a1a39,Turing,Software Engineer,2,IN|US,True,8,,,,2026-07-15,2026-11-06,https://job-boards.greenhouse.io/turing/jobs/6241649004
+e9f7d86a1a39,Turing,Software Engineer,1,IN,False,8,,,,2026-07-15,2026-07-15,https://job-boards.greenhouse.io/turing/jobs/6115695004
 bb2789ca4e27,Turing,"Sr. Director, AI Ecosystem Partnerships",1,US,False,,,,260000.0,2026-09-30,2026-09-30,https://job-boards.greenhouse.io/turing/jobs/6208738004
 5bbf229bae7a,Turing,Staff Research Engineer,1,US,False,,,,400000.0,2026-03-09,2026-03-09,https://job-boards.greenhouse.io/turing/jobs/5822280004
 0f01c5422a34,Turing,"Staff Research Engineer, Enterprise Knowledge",1,US,False,,,,400000.0,2025-11-11,2025-11-11,https://job-boards.greenhouse.io/turing/jobs/5703799004

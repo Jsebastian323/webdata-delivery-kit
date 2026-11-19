@@ -2,6 +2,58 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-19 · 968 postings · +284 new · -284 closed · ~9 changed
+
+**New**
+
+- Mindrift (Toloka) · 90 Minutes of Conversation: Paid Research Study · 4 (US)
+- Mindrift (Toloka) · Take Part in a Paid In-Person Research Study: One Session · 3 (US)
+- Mindrift (Toloka) · Side Income: $110 for One In-Person Study Session (South Bay) · 3 (US)
+- Mindrift (Toloka) · Take Part in a Paid 90-Minute In-Person Study · 3 (US)
+- Mindrift (Toloka) · One Session, $110: Join Our In-Person Research Study · 3 (US)
+- Mindrift (Toloka) · Paid Research Study in South Bay: $110 for 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Small-Group Conversation Study: $110 for One Visit · 3 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: $110 for 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Quick and Simple: Paid 90-Minute Conversation Study · 3 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: In-Person Research Study, South Bay · 3 (US)
+- Mindrift (Toloka) · One-Time Paid Research Session in Santa Clara Valley · 3 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: Paid Research Study · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Get Paid to Share Your Opinion: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Paid Group Discussion Study: $110 for 90 Minutes · 3 (US)
+- ... and 190 more families
+
+**Closed**
+
+- Mindrift (Toloka) · Take Part in a Paid 90-Minute In-Person Study · 3 (US)
+- Mindrift (Toloka) · One Session, $110: Join Our In-Person Research Study · 3 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Talk About Everyday Topics, Earn $110 in 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: One Visit, No Preparation Needed · 3 (US)
+- Mindrift (Toloka) · $110 for 90 Minutes of Conversation: Paid Research Study · 3 (US)
+- Mindrift (Toloka) · Spend 90 Minutes With Us, Get Paid for Your Time · 3 (US)
+- Mindrift (Toloka) · Side Income: $110 for One In-Person Study Session (South Bay) · 3 (US)
+- Mindrift (Toloka) · Get Paid $110 to Share Your Opinion: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · $110 One-Time Paid Study - No Experience Needed (Santa Clara) · 3 (US)
+- Mindrift (Toloka) · Quick and Simple: Paid 90-Minute Conversation Study · 3 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: In-Person Research Study, South Bay · 3 (US)
+- Mindrift (Toloka) · One-Time Paid Research Session in Santa Clara Valley · 3 (US)
+- Mindrift (Toloka) · Paid In-Person Group Conversation Study: $110 · 3 (US)
+- Mindrift (Toloka) · Paid Conversation Study: Single 90-Minute Session · 3 (US)
+- ... and 190 more families
+
+**Changed**
+
+- Scale AI · Staff Software Engineer, Enterprise GenAI · 1 (US)
+- Scale AI · IT Systems Engineer · 1 (US)
+- Scale AI · Account Executive, Space Force · 1 (US)
+- Scale AI · Account Executive, Army · 1
+- Scale AI · Account Executive, Air Force · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - French (Switzerland) · 1 (CH)
+- RWS (TrainAI) · AI Data Specialist - Spanish (MX) · 1 (MX)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Assamese · 1 (IN)
+- RWS (TrainAI) · Search Engine Evaluator - Spanish (United States) · 1 (MX, US)
+
 ## 2026-11-18 · 968 postings · +137 new · -122 closed · ~58 changed
 
 **New**
