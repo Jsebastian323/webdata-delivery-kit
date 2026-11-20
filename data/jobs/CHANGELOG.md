@@ -2,6 +2,46 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-20 · 930 postings · +99 new · -137 closed · ~5 changed
+
+**New**
+
+- Mindrift (Toloka) · iPhone Video Data Collection - Paid Task ($70) · 47 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Mindrift (Toloka) · Record Videos at Home for AI - $70 One-Time Task · 37 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- RWS (TrainAI) · AI Data Specialist - Swedish · 3 (SE)
+- RWS (TrainAI) · AI Data Specialist - Bulgarian · 1 (BG)
+- RWS (TrainAI) · AI Data Specialist - Dutch · 1 (NL)
+- RWS (TrainAI) · AI Data Specialist - Finnish · 1 (FI)
+- RWS (TrainAI) · AI Data Specialist - Hebrew · 1 (IL)
+- RWS (TrainAI) · AI Data Specialist - Norwegian · 1 (NO)
+- RWS (TrainAI) · AI Data Specialist - Turkish · 1 (BG)
+- RWS (TrainAI) · AI Data Specialist - Danish · 1 (DK)
+- RWS (TrainAI) · AI Data Specialist - Croatian · 1 (HR)
+- Hugging Face · Senior Software/Data Engineer, Bot Detection - EMEA Remote · 1 (FR)
+- Hugging Face · Senior Software Engineer, Bot Detection (Client-Side & Signals) - US Remote · 1 (US)
+- Hugging Face · Senior Software Engineer, Bot Detection (Client-Side & Signals) - EMEA Remote · 1 (FR)
+- Hugging Face · Senior Software/Data Engineer, Bot Detection - US Remote · 1 (US)
+
+**Closed**
+
+- Mindrift (Toloka) · Earn $70 Recording Videos at Home for AI · 47 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Mindrift (Toloka) · iPhone Video Data Collection - Paid Task ($70) · 47 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Mindrift (Toloka) · Record Videos at Home for AI - $70 One-Time Task · 37 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Scale AI · Expansion Specialist, Bids & Business Development · 1 (GB)
+- Turing · Senior Software Engineer, AI Evaluation Infrastructure · 1 (US)
+- Turing · Account Director, Enterprise AI - Consumer Packaged Goods · 1 (US)
+- Turing · Platform Engineer - Enterprise AI · 1 (US)
+- Turing · Research Engineering Manager, STEM · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Japanese Speaker Research Participant, NYC · 1 (US)
+
+**Changed**
+
+- Scale AI · Growth Strategy & Operations Lead · 1 (US)
+- Scale AI · US Payroll Manager · 1 (MX)
+- Scale AI · Human Frontier Collective - Creative Advisor · 1 (US)
+- Scale AI · Growth Program Manager · 1 (US)
+- RWS (TrainAI) · Search Engine Evaluator - Thai (Thailand) · 1 (PH, TH)
+
 ## 2026-11-19 · 968 postings · +284 new · -284 closed · ~9 changed
 
 **New**
