@@ -2,6 +2,41 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-21 · 978 postings · +99 new · -51 closed · ~14 changed
+
+**New**
+
+- Mindrift (Toloka) · Earn $70 Recording Videos at Home for AI · 49 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Mindrift (Toloka) · Record Videos at Home with Your iPhone - Get $70 · 47 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Scale AI · Director & AGC, U.S. Public Sector · 1 (US)
+- Scale AI · Director, Business Finance · 1 (US)
+- Turing · Research Engineer · 1 (IN)
+
+**Closed**
+
+- Mindrift (Toloka) · Record Videos at Home with Your iPhone - Get $70 · 47 (AT, BE, BG, CA, CZ, DE, DK, EE, ...)
+- Turing · Staff Research Scientist · 1 (US)
+- Turing · Senior Research Scientist, STEM · 1 (US)
+- Turing · Research Scientist, STEM · 1 (US)
+- Turing · Research Engineering Manager, STEM · 1 (BR, CO)
+
+**Changed**
+
+- RWS (TrainAI) · Brazilian Portuguese - Games & Puzzles Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Fashion & Style Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - History Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Arts Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Food, Drink & Culinary Culture Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Internet Culture Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Sports Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Fandoms Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Literature & Linguistics Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - TV, Film, Animation & Cartoons Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Animals & Pets Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Religion & Philosophy Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Law & Ethics Subject Matter Expert (SME) · 1 (BR)
+- RWS (TrainAI) · Brazilian Portuguese - Home & Garden Subject Matter Expert (SME) · 1 (BR)
+
 ## 2026-11-20 · 930 postings · +99 new · -137 closed · ~5 changed
 
 **New**
