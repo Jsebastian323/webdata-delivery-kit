@@ -2,6 +2,24 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-22 · 976 postings · +1 new · -3 closed · ~3 changed
+
+**New**
+
+- Labelbox · Senior Technical Recruiter · 1 (US)
+
+**Closed**
+
+- Scale AI · STEM Fellow - Human Frontier Collective (UK) · 1 (GB)
+- Scale AI · SWE Fellow - Human Frontier Collective (UK) · 1 (GB)
+- Scale AI · SWE Fellow - Human Frontier Collective (Canada) · 1 (CA)
+
+**Changed**
+
+- Scale AI · STEM Fellow - Human Frontier Collective (US, UK, & Canada) · 1 (US)
+- Scale AI · SWE Fellow - Human Frontier Collective (US, UK, & Canada) · 1 (US)
+- Scale AI · Creative Advisor - Human Frontier Collective · 1 (US)
+
 ## 2026-11-21 · 978 postings · +99 new · -51 closed · ~14 changed
 
 **New**
