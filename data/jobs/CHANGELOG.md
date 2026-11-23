@@ -2,6 +2,38 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-23 · 971 postings · +3 new · -8 closed · ~10 changed
+
+**New**
+
+- Scale AI · Finance Fellow - Human Frontier Collective (US, UK, & Canada) · 1 (US)
+- Scale AI · Strategic Projects Lead, Cyber · 1 (US)
+- Turing · Platform Engineer - Enterprise AI · 1 (US)
+
+**Closed**
+
+- Scale AI · Medical Fellow - Human Frontier Collective (UK) · 1 (GB)
+- Scale AI · Finance Fellow - Human Frontier Collective (UK) · 1 (GB)
+- Scale AI · Legal Fellow - Human Frontier Collective (UK) · 1 (GB)
+- Scale AI · Machine Learning Fellow - Human Frontier Collective (UK) · 1 (GB)
+- Scale AI · Machine Learning Fellow - Human Frontier Collective (Canada) · 1 (CA)
+- Scale AI · Software Engineering Intern (Summer 2027) · 1 (GB)
+- Scale AI · Contributor Experience Manager, Community · 1 (US)
+- Turing · Strategic Project Lead - Code · 1 (IN)
+
+**Changed**
+
+- Invisible Technologies · Enterprise Solutions Manager - Data Labs · 1 (GB, US)
+- Scale AI · Legal Fellow - Human Frontier Collective (US, UK, & Canada) · 1 (US)
+- Scale AI · Medical Fellow - Human Frontier Collective (US, UK, & Canada) · 1 (US)
+- Scale AI · Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada) · 1 (US)
+- Scale AI · US Payroll Senior Specialist · 1 (US)
+- Scale AI · AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP) · 1 (GB, US)
+- Scale AI · Contracts Lead · 1 (US)
+- Scale AI · Data Quality & Operations Lead, Gen AI · 1 (US)
+- Scale AI · US Policy and International Engagement Lead · 1 (US)
+- RWS (TrainAI) · AI Conversation Recording Contributor - Eastern Punjabi/Punjabi (India) · 1 (IN)
+
 ## 2026-11-22 · 976 postings · +1 new · -3 closed · ~3 changed
 
 **New**
