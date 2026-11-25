@@ -2,6 +2,52 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-25 · 965 postings · +76 new · -78 closed · ~3 changed
+
+**New**
+
+- Mindrift (Toloka) · Betaald onderzoek in New York - Nederlandse moedertaalsprekers (USD 1.200-1.600) · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Finnish Speakers from Finland, NY · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native German Speakers from Austria, Manhattan · 1 (US)
+- Mindrift (Toloka) · Flexible Gig for Finnish Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Student Gig - Native German Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Finnish Speakers from Finland - Paid Study Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Bilingual German-English Participant - Paid UX Study, New York · 1 (US)
+- Mindrift (Toloka) · Student Gig - Emirati Arabic Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Austrian German Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Arabic Speakers from the UAE, Manhattan · 1 (US)
+- Mindrift (Toloka) · Side Income for Arabic Speakers from the UAE - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Emirati Arabic Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Finnish Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Danish Speakers - Midtown Manhattan · 1 (US)
+- Mindrift (Toloka) · Earn up to $1,600 - 3-Day Danish Language Study in NYC · 1 (US)
+- ... and 61 more families
+
+**Closed**
+
+- Invisible Technologies · Data Scientist (Forward Deployed) · 1 (US)
+- Scale AI · Subject Matter Expert · 1 (CA, US)
+- Mindrift (Toloka) · Native Austrian German Speakers - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Side Income for Arabic Speakers from the UAE - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Austrian German Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Bilingual Arabic-English Participant from Saudi Arabia - Paid UX Study · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Dutch Speakers, Manhattan · 1 (US)
+- Mindrift (Toloka) · Flexible Gig for Finnish Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Native Danish Speakers from Denmark - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Student Gig - Native Dutch Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Bilingual German-English Participant - Paid UX Study, New York · 1 (US)
+- Mindrift (Toloka) · Side Income for German Speakers - 3-Day Paid Study, NYC · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Finnish Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Earn up to $1,600 - 3-Day Danish Language Study in NYC · 1 (US)
+- Mindrift (Toloka) · Finnish Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- ... and 63 more families
+
+**Changed**
+
+- Scale AI · Staff Product Designer, Global Public Sector · 1 (AE, GB, QA)
+- Scale AI · Support Systems Specialist (Zendesk, Routing & Analytics) · 1 (IN)
+- Scale AI · Research Advisor - Human Frontier Collective · 1 (US)
+
 ## 2026-11-24 · 967 postings · +1 new · -5 closed · ~159 changed
 
 **New**
