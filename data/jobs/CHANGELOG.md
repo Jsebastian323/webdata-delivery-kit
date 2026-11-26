@@ -2,6 +2,50 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-26 · 962 postings · +104 new · -107 closed · ~1 changed
+
+**New**
+
+- Mindrift (Toloka) · Paid Study for International Students - Native German Speakers from Swit · 2 (US)
+- Scale AI · Senior Director, Solutions Architecture & Advisory, Enterprise GTM · 1 (US)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Swedish Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · 日本語ネイティブの方へ - ニューヨークで3日間の謝礼付き調査 ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Student Gig - Japanese Speakers, Paid Study in NYC · 1 (US)
+- Mindrift (Toloka) · Native Swiss German Speakers - Paid 3-Day Study in NYC ($1,200-1,600) · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native Swedish Speakers from Sweden, NYC · 1 (US)
+- Mindrift (Toloka) · 한국어 원어민 대상 - 뉴욕 3일 연구 참여, 사례비 $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Polish Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Korean Speakers, Manhattan · 1 (US)
+- Mindrift (Toloka) · Estudo remunerado em Nova Iorque - Falantes nativos de português europeu · 1 (US)
+- Mindrift (Toloka) · Portuguese Speakers from Portugal - Paid Study Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Short-Term Paid Study - Native Hebrew Speakers from Israel, Manhattan · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Portuguese Speakers from Portugal - Midtown Manhattan · 1 (US)
+- Mindrift (Toloka) · Italian Translators and Native Speakers - Paid Study in NYC · 1 (US)
+- ... and 88 more families
+
+**Closed**
+
+- RWS (TrainAI) · AI Voice Recording Contributor - Simplified Chinese · 2 (GB, US)
+- RWS (TrainAI) · AI Voice Recording Contributor - Mandarin Chinese (Taiwan) · 2 (TW, US)
+- Invisible Technologies · Head of Frontier AI · 1 (US)
+- RWS (TrainAI) · AI Voice Recording Contributor - Arabic (Jordan) · 1 (JO)
+- Hugging Face · Senior Machine Learning Engineer, Voice Agents - EMEA Remote · 1 (FR)
+- Mindrift (Toloka) · Paid Study for Retirees and Native Swiss German Speakers - NYC · 1 (US)
+- Mindrift (Toloka) · Swedish Speakers from Sweden - Paid Study Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Israeli Hebrew Speaker Study Participant - NYC, $1,200-1,600 · 1 (US)
+- Mindrift (Toloka) · Hebrew Speakers from Israel - Paid Study Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Bilingual Japanese-English Participant - Paid UX Study, New York · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native German Speakers from Switzerland · 1 (US)
+- Mindrift (Toloka) · Bilingual Portuguese-English Participant - Paid UX Study, New York · 1 (US)
+- Mindrift (Toloka) · Paid Research Study for Japanese Speakers - Midtown Manhattan · 1 (US)
+- Mindrift (Toloka) · Temporary Gig - Swiss German Research Participant, NYC · 1 (US)
+- Mindrift (Toloka) · Korean Speakers Wanted - Paid Smartphone Study, NYC · 1 (US)
+- ... and 90 more families
+
+**Changed**
+
+- Scale AI · Support Systems Specialist (Zendesk, Routing & Analytics) · 1 (IN)
+
 ## 2026-11-25 · 965 postings · +76 new · -78 closed · ~3 changed
 
 **New**
