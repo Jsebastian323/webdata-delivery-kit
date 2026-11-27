@@ -2,6 +2,54 @@
 
 One entry per scheduled run: postings that appeared, closed or changed.
 
+## 2026-11-27 · 976 postings · +206 new · -192 closed · ~5 changed
+
+**New**
+
+- Mindrift (Toloka) · Medical Lab Report Holder - Freelance AI Data Contributor · 6 (CA, GB, IE)
+- Mindrift (Toloka) · 90 Minutes of Conversation: Paid Research Study · 4 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Paid In-Person Group Conversation Study: $110 · 3 (US)
+- Mindrift (Toloka) · Take Part in a Paid 90-Minute In-Person Study · 3 (US)
+- Mindrift (Toloka) · One-Time Paid Research Session in Santa Clara Valley · 3 (US)
+- Mindrift (Toloka) · Get Paid to Share Your Opinion: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Paid Group Discussion Study: $110 for 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: $110 for a 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · $110 One-Time Paid Study - No Experience Needed (Santa Clara) · 3 (US)
+- Mindrift (Toloka) · Your Voice Matters: $110 for a 90-Minute Research Session · 3 (US)
+- Mindrift (Toloka) · $110 for One Visit: Paid Research Study, No Preparation Needed · 3 (US)
+- Mindrift (Toloka) · Paid Research Study in South Bay: $110 for 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Small-Group Conversation Study: $110 for One Visit · 3 (US)
+- Mindrift (Toloka) · Take Part in a Paid In-Person Research Study: One Session · 3 (US)
+- ... and 107 more families
+
+**Closed**
+
+- Mindrift (Toloka) · 90 Minutes of Conversation: Paid Research Study · 4 (US)
+- Mindrift (Toloka) · Take Part in a Paid In-Person Research Study: One Session · 3 (US)
+- Mindrift (Toloka) · Side Income: $110 for One In-Person Study Session (South Bay) · 3 (US)
+- Mindrift (Toloka) · Take Part in a Paid 90-Minute In-Person Study · 3 (US)
+- Mindrift (Toloka) · One Session, $110: Join Our In-Person Research Study · 3 (US)
+- Mindrift (Toloka) · Paid Research Study in South Bay: $110 for 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Small-Group Conversation Study: $110 for One Visit · 3 (US)
+- Mindrift (Toloka) · Paid Study, Real Conversations: $110 for 90 Minutes · 3 (US)
+- Mindrift (Toloka) · Quick and Simple: Paid 90-Minute Conversation Study · 3 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: In-Person Research Study, South Bay · 3 (US)
+- Mindrift (Toloka) · One-Time Paid Research Session in Santa Clara Valley · 3 (US)
+- Mindrift (Toloka) · Earn $110 in 90 Minutes: Paid Research Study · 3 (US)
+- Mindrift (Toloka) · Paid Research Study: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Get Paid to Share Your Opinion: One 90-Minute In-Person Session · 3 (US)
+- Mindrift (Toloka) · Paid Group Discussion Study: $110 for 90 Minutes · 3 (US)
+- ... and 97 more families
+
+**Changed**
+
+- Mindrift (Toloka) · Paid Study for International Students - Native Finnish Speakers, NYC · 1 (US)
+- Mindrift (Toloka) · Paid Study for International Students - Native German Speakers from Austria · 1 (US)
+- Mindrift (Toloka) · Native Arabic Speakers from Saudi Arabia in NYC: Paid Research Study · 1 (US)
+- Mindrift (Toloka) · Bezahlte Studie in New York - Deutsch-Muttersprachler:innen aus Österreich · 1 (US)
+- Mindrift (Toloka) · Side Income for Arabic Speakers from Saudi Arabia - 3-Day Paid Study, NYC · 1 (US)
+
 ## 2026-11-26 · 962 postings · +104 new · -107 closed · ~1 changed
 
 **New**
